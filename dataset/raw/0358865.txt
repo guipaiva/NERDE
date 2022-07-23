@@ -1,0 +1,107 @@
+:: SEI / CADE - 0358865 - Nota Técnica ::
+NOTA TÉCNICA Nº 5/2017/SG-TRIAGEM AC/SG/CADE
+PROCESSO Nº 08012.006037/2008-80
+NATUREZA:
+Procedimento Administrativo de Apuração de Ato de Concentração (APAC)
+REPRESENTANTE:
+Sodexho Pass do Brasil Serviços e Comércios Ltda. ("Sodexho")
+REPRESENTADAS:
+Companhia Brasileira de Soluções e Serviços (“CBSS/Visa Vale”) e Banco Nossa Caixa S.A. (“Nossa Caixa”).
+EMENTA: APAC.
+Operação não apresentada aos órgãos do SBDC.
+Pareceres da ProCADE sobre prescrição e perda da pretensão de punibilidade versus imprescritibilidade da análise de impactos anticoncorrenciais decorrentes da operação.
+Ocorrência de prescrição da multa por intempestividade.
+Acordos celebrados não constituem atos de concentração econômica de notificação obrigatória.
+VERSÃO PÚBLICA
+I. RELATÓRIO
+Trata-se se procedimento administrativo de Apuração de Ato de Concentração (APAC), que visa analisar a ocorrência de operações que não foram apresentadas ao CADE nos termos estabelecidos pela Lei de Concorrência.
+O procedimento foi instaurado a partir de denúncia feita pela Sodexho, contra a CBSS e a Nossa Caixa.
+A denúncia aponta a realização de uma parceria entre a CBSS e a Nossa Caixa, onde haveria previsão de opção de compra de participação societária da CBSS pela Nossa Caixa.
+Além disso, haveria a previsão de venda exclusiva pelo banco de vales-benefícios da marca Visa Vale.
+Os esclarecimentos prestados pelas representadas foram apresentados às fls. 92-104; 158-167; 205-206 e 212.
+A CBSS informou que no dia 10/12/2008 foi apresentado à autoridade da concorrência ato de concentração envolvendo a aquisição de controle da Nossa Caixa S/A, pelo Banco do Brasil S/A (BB), de forma a incorporar a Nossa Caixa ao BB.
+Segundo alegado pela parte, a Nossa Caixa deixou de existir juridicamente.
+Como o BB já era acionista da CBSS, o contrato firmado por ele passou a ser aplicável também aos ativos adquiridos da Nossa Caixa.
+Desta forma, o presente procedimento teria perdido o seu objeto, uma vez que os efeitos da concentração entre BB e Nossa caixa já foram apreciadas pelo Conselho no AC nº 08012.011736/2008-41.
+Para a CBSS, a sua relação contratual com a Nossa Caixa não se configurou como um ato de concentração, à luz do disposto no art. 54 da Lei nº 8.884/94, haja vista que se tratou de relação sem regime de exclusividade, entre agentes que não têm posição dominante.
+Ainda de acordo com a CBSS, a Nossa Caixa não tem mais existência jurídica, o contrato não perdura e não haveria razão para se exigir notificação de ato de parte inexistente.
+Também seria incabível a aplicação de multa por intempestividade, uma vez observada a ocorrência de prescrição intercorrente (fls. 322-330).
+Em 04/09/2012, por meio do Parecer nº 322/2012/AGU/PGF/PFECADE, a Procuradoria Federal Especializada do CADE (ProCADE), após consulta realizada por esta Superintendência, recomendou, inicialmente, a continuidade da análise do ato de concentração e a não aplicação de penalidade por intempestividade, caso conhecida a operação (fls. 300-309).
+Instada a se manifestar sobre o conhecimento da operação em apuração, a Procuradoria exarou o Parecer nº 412/2012/AGU/PGF/PFECADE, em 08/11/2012, no qual concluiu pelo conhecimento da operação, segundo o “Acordo Operacional” de fls. 53-63 dos autos (fls. 314-320).
+Após pedido de reconsideração, formulado pela CBSS, a ProCADE recomendou a intimação da CBSS para esclarecer sua composição acionária, considerando a incorporação da Nossa Caixa pelo BB.
+Além disso, se restasse caracterizado o controle desta pelo BB, a Procuradoria recomendaria nesse caso o arquivamento da presente APAC por perda de objeto (fls. 332-337).
+Em resposta, a CBSS informou que: a) sua composição acionária antes da operação era de: Grupo Banco do Brasil (35%); Grupo Bradesco (35,2%), Grupo Visa (9,8%) e Grupo Santander (20%)[3].
+A CBSS informou também que é controlada conjuntamente pelo Grupo Banco do Brasil e pelo Grupo Bradesco ao menos desde 2010, sendo que o Banco do Brasil detém participação significativa na CBSS desde a sua criação.
+Em manifestação final, a CBSS ratificou seus posicionamentos anteriores, aduzindo que: (i) a investigação perdeu seu objeto, considerando que a operação deixou de viger, e em virtude da ocorrência de prescrição intercorrente; e (ii) a operação nunca se configurou em um ato de concentração, sobretudo pelo reconhecimento de ausência de relação de exclusividade entre as representadas, como constatado na decisão deste Conselho a respeito do Processo Administrativo nº 08012.002096/2007-06.
+É o relatório.
+II. ANÁLISE
+II.1.
+Preliminar suscitada: prescrição da multa e prescrição da análise antitruste
+As representadas aduziram que o processo ficou paralisado por mais de três anos, sem qualquer ato tendente a apuração, o que implicaria a ocorrência da prescrição da pretensão punitiva deste Conselho, por força do § 1º, do art. 1º da Lei nº 9.873/1999[1], segundo o qual incide prescrição no processo administrativo paralisado por mais de três anos, pendente de julgamento ou despacho.
+De acordo com o art. 2º da aludida lei, a interrupção da prescrição ocorre por qualquer ato inequívoco que importe apuração do fato, entre outras circunstâncias.
+[2] O quadro abaixo consolida o período em que o processo ficou pendente de despacho ou de ato destinado à apuração do fato:
+Ato instrutório
+Data
+Nota técnica do DPDE sobre confidencialidade
+02/12/2008
+Ofício/CGCM/DPDE/nº 7911 e 7912
+02/12/2008
+Despacho nº 56/2012
+13/08/2012
+Percebe-se que, de fato, o processo ficou paralisado no período compreendido entre 02/12/2008 e 13/08/2012, não havendo, nesse período, qualquer ato que possa se configurar como destinado à apuração do fato, conforme julgados do CADE a respeito desse tema, motivo pelo qual a multa de intempestividade resta prejudicada, em face da prescrição intercorrente ocorrida neste processo.
+É importante ressaltar que a prescrição da punibilidade não importa na prescrição da análise concorrencial cabível à operação, que deve ser feita pela autoridade antitruste, sendo esta última imprescritível, conforme entendimento já manifestado pela ProCADE e acolhido pela Superintendência em recentes decisões.
+[3]
+Pelo exposto, considera-se que a eventual multa de intempestividade restaria prejudicada, em face da incidência da prescrição no presente feito.
+Por outro lado, não há que se falar em prescrição da atividade de análise de atos de concentração.
+II.2.
+Operação em apuração
+Conforme visto acima, a operação em apuração versa sobre os contratos Acordo Operacional e Parceria Negocial, firmados entre a CBSS e a Nossa Caixa, que tiveram como escopo reger a oferta pela CBSS de serviços de vale-alimentação para os funcionários da Nossa Caixa, além estabelecer a oferta de cartões da CBSS (Visa Vale) aos clientes corporativos da Nossa Caixa.
+A empresa representante alegou que os mencionados contratos impuseram relação de exclusividade entre a CBSS e a Nossa Caixa.
+Por outro lado, a CBSS afirmou que não foi estipulado qualquer obrigação de exclusividade decorrente de ambos os contratos firmados.
+Cabe esclarecer, desde logo, que os contratos objeto da presente apuração compreendem atos jurídicos qualificados juridicamente como contratos associativos, sendo o cerne da presente análise a constatação se os mesmos correspondem a um ato de concentração de notificação obrigatória à autoridade antitruste brasileira, em observância ao disposto no art. 54 da Lei nº 8.884/94, lei vigente à época dos contratos em questão.
+O referido diploma legal é taxativo ao apontar as transações sujeitas a autorização por parte do CADE, conforme enunciado a seguir destacado.
+Art. 54.
+Os atos, sob qualquer forma manifestados, que possam limitar ou de qualquer forma prejudicar a livre concorrência, ou resultar na dominação de mercados relevantes de bens ou serviços, deverão ser submetidos à apreciação do CADE.
+§ 3o  Incluem-se nos atos de que trata o caput aqueles que visem a qualquer forma de concentração econômica, seja através de fusão ou incorporação de empresas, constituição de sociedade para exercer o controle de empresas ou qualquer forma de agrupamento societário, que implique participação de empresa ou grupo de empresas resultante em vinte por cento de um mercado relevante, ou em que qualquer dos participantes tenha registrado faturamento bruto anual no último balanço equivalente a R$ 400.000.000,00 (quatrocentos milhões de reais).
+A notificação de contratos associativos na vigência da referida lei foi matéria controversa nos posicionamentos dos membros do órgão colegiado do CADE, que ora sinalizaram pela obrigatoriedade de notificação de contratos associativos, ora entenderam que os contratos associativos não deveriam ser conhecidos, em referência ao art. 54 citado acima.
+O ponto mais sensível que direcionou a mudança de posicionamento do Conselho, e que deixa evidente a divergência de opiniões, diz respeito a imposição de cláusula de exclusividade nos contratos associativos.
+Até o julgamento da Consulta nº 08700.003674/2007-65 (Consulente: Fujifilm da Amazônia Ltda.; Relator: Conselheiro Luiz Carlos Delorme Prado; Relator para o Acórdão: Conselheiro Ricardo Villas Bôas Cueva; julgada em 13/03/2008), o Conselho tinha o entendimento de que mesmo os contratos associativos sem cláusula de exclusividade deveriam ser submetidos ao crivo da agência antitruste.
+Contudo, a partir da decisão no Ato de Concentração nº 08012.010018/2008-58 (Requerentes: Monsanto do Brasil Ltda. e Nufarm Indústria Química e Farmacêutica S/A; Relator: Conselheiro Olavo Chinaglia, julgado em 17/12/2008), este E.
+Conselho reviu os fundamentos que levaram a considerar os contratos associativos (em específico, o contrato de fornecimento) que não possuem relação de exclusividade e considerou que haveria incompatibilidade entre o contrato de fornecimento e o conceito de concentração econômica, decidindo pelo não conhecimento de contratos que não estabeleceram obrigação de exclusividade.
+Portanto, a obrigatoriedade de submissão de contratos associativos, com fundamento no entendimento mais recente do Conselho a respeito dos contratos passíveis de notificação à luz da Lei nº 8.884/94, exige a estipulação de exclusividade entre as partes do contrato, o que não ocorreu no presente caso, segundo a CBSS.
+De acordo com a Nossa Caixa, ao contrário do alegado pela representante, o contrato de Parceria Negocial estabelecia que não havia exclusividade na prestação de serviços da CBSS, como consignado na disposição contratual abaixo.
+VII.5 - O BANCO reconhece que não lhe é ou será concedida em hipótese alguma exclusividade para que o BANCO preste serviços de agenciamento e intermediação do fornecimento de CARTÕES VISA VALE.
+De igual forma, a CBSS registrou que o "acordo não estabelece qualquer exclusividade, seja para CBSS ou para a Nossa Caixa", segundo disposto nas cláusulas IV.5 e IV.7 do Acordo Operacional.
+[4]
+Com base nos documentos acostados aos autos, conclui-se que os contratos em análise não geraram qualquer obrigação de exclusividade ou relação similar, afastando, assim, o dever das representadas de notificarem a operação, nos termos da Lei nº 8.884/94, conforme arrazoado acima.
+Vale salientar que a ausência de exclusividade na relação entre o Banco Nossa Caixa e a CBSS/Visa Vale, na época dos fatos, foi constatada no voto da Conselheira Relatora Ana Frazão no Processo Administrativo nº 08012.002096/2007-06[5].
+No entendimento da i. Conselheira, a relação entre as representadas não suscitou qualquer obrigação de exclusividade decorrente dos contratos celebrados, como se extrai do trecho a seguir destacado.
+No que se refere à parceria com o Banco Nossa Caixa, nota-se que não há a exigência de exclusividade.
+Na verdade, o acordo previa que, caso o banco decidisse exercer a opção de compra, tornando-se acionista da Visa Vale, 90% das vendas totais de vales-benefício deveriam estar associadas à marca Visa Vale e todos os seus funcionários deveriam ser usuários desse serviço.
+Assim, o fato de no período situado entre 2006 e 2008, o Banco Nossa Caixa ter comercializado apenas vales-benefício da marca Visa Vale configurou, na verdade, uma escolha comercial do representado, que não se reveste de qualquer ilicitude.
+De toda sorte, a exigência de exclusividade, como reconhece a jurisprudência do CADE, não constitui um ilícito por objeto, de forma, ainda que ela estivesse expressamente prevista no contrato, seria necessário avaliar os efeitos líquidos da conduta, para verificar se, de fato, se trata de uma restrição injustificada à concorrência.
+Pelo exposto, a despeito de os faturamentos das partes terem ultrapassado o patamar definido na Lei nº 8.884/94 (uma das condição necessária para submissão obrigatória de operações), os negócios jurídicos firmados pelas partes não se enquadram no conceito de ato de concentração constante no art. 54 da Lei nº 8.884/94, em consonância com os julgados deste Conselho.
+III. CONCLUSÃO
+Nestes termos, recomenda-se o arquivamento da presente APAC.
+Estas as conclusões.
+Encaminhe-se ao Sr. Superintendente-Geral.
+[1] A Lei nº 9.873/99 (que estabelece prazo de prescrição para o exercício de ação punitiva pela Administração Pública Federal, direta e indireta) assim dispõe:
+Art. 1º  Prescreve em cinco anos a ação punitiva da Administração Pública Federal, direta e indireta, no exercício do poder de polícia, objetivando apurar infração à legislação em vigor, contados da data da prática do ato ou, no caso de infração permanente ou continuada, do dia em que tiver cessado.
+§ 1º  Incide a prescrição no procedimento administrativo paralisado por mais de três anos, pendente de julgamento ou despacho, cujos autos serão arquivados de ofício ou mediante requerimento da parte interessada, sem prejuízo da apuração da responsabilidade funcional decorrente da paralisação, se for o caso.
+[...]
+Art. 2o  Interrompe-se a prescrição da ação punitiva:
+I – pela notificação ou citação do indiciado ou acusado, inclusive por meio de edital;
+II - por qualquer ato inequívoco, que importe apuração do fato;
+III - pela decisão condenatória recorrível.
+[2] O ponto fulcral diz respeito a quais atos têm por objeto a apuração da infração contra a ordem econômica.
+De acordo com a ProCADE (cf. parecer proferido no Processo Administrativo nº 08700.000783/2001-35), as seguintes situações, por exemplo, têm o condão de interromper a prescrição: (i) atos que demandem providências: normalmente ofícios com pedido de informações, documentos, ofícios para instrução conjunta, etc.
+; (ii) atos que regularizam o devido andamento do processo: notas de confidencialidade, saneamento, (in)deferimento de provas requeridas, nota de encerramento da instrução, juntada de notas técnicas de outros órgãos da administração sobre o mesmo fato; (iii) reuniões para instrução do processo (comprovada por, ao menos, ata de registro de presença e realização da reunião); (iv) juntada de documentos que a própria autoridade tomou a iniciativa de levantar no seu papel instrutório (matérias de jornal, decisões estrangeiras encontradas pela própria autoridade, etc.
+); (v) reiteração de ofícios não respondidos; (vi) reiteração de notificação para apresentação de defesa quando a notificação foi recebida e não há defesa, mas essa interessa à investigação; (vii) requisição de informação recusada, omitida ou não prestada; e (viii) diligências realizadas por outros órgãos da Administração Pública (inclusive pela Seae/MF, ANP, etc.
+), ou por autoridades criminais e policiais.
+[3] Confira-se as APACs nº 08012.010184/2008-54, 08012.005675/2008-83 e 08700.007809/2012-29.
+[4] Cita-se o disposto nessas cláusulas:
+V.5 O BANCO reconhece que não é ou será concedida em hipótese alguma exclusividade para que o BANCO preste serviços de agenciamento e intermediação do fornecimento de CARTÕES VISA VALE.
+IV.7 - O BANCO declara e reconhece que na hipótese de exercer opção ou direito de compra para se tornar acionista da CBSS, o BANCO deverá (i) fazer com que 90% do volume de venda total de vales benefícios refeição e alimentação gerado por aí, possua a marca de aceitação Visa Vale e (ii) já ter migrado para a marca de aceitação Visa Vale todos os programas de vales benefícios refeição e alimentação que possuírem para os seus funcionários
+[5] Representante: Ministério Público Federal – Procuradoria da República de São Paulo e Sodexo Pass do Brasil Serviços e Comércio Ltda. Representados: Companhia Brasileira de Soluções e Serviços (CBSS), Banco do Brasil S.A., Banco Bradesco S/A, Banco ABN Amro Real S.A. e Banco Nossa Caixa S.A.
+O referido processo investigou a suposta ocorrência de infração à ordem econômica no mercado de fornecimento de vales-benefício, alimentação e refeição, no âmbito do Programa de Alimentação do Trabalhador, além de avaliar eventuais efeitos anticompetitivos decorrentes dos contratos ora em análise.
+O Tribunal do CADE decidiu pelo arquivamento do processo, nos termos do voto da Conselheira Relatora, em 06/05/2015

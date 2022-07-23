@@ -1,0 +1,292 @@
+:: SEI / CADE - 0138365 - Parecer ::
+PARECER Nº 15/2015/CGAA4/SGA1/SG
+ATO DE CONCENTRAÇÃO Nº 08700.010947/2015-38
+requerentes:
+Mitsui Gás e Energia do Brasil Ltda., Mitsui & Co., Ltd, Petróleo Brasileiro S.A. - Petrobras ("PETROBRAS")
+ADVOGADOS:
+José Alexandre Buaiz Neto, Marco Aurélio Martins Barbosa e outros.
+EMENTA: Ato de Concentração.
+Requerentes: Mitsui & Co., Ltd, Mitsui Gás e Energia do Brasil Ltda. e Petróleo Brasileiro S.A.
+Aquisição, por parte da Mitsui Gás e Energia do Brasil Ltda., de participação minoritária no capital social da Petrobras Gás S.A. - Gaspetro.
+Mercado de distribuição de gás natural canalizado.
+Sobreposição horizontal.
+Ausência de controle.
+Ausência de condições e incentivos que demonstrem aumento da possibilidade de exercício de poder de mercado.
+Procedimento ordinário.
+Aprovação sem restrições.
+VERSÃO PÚBLICA
+O ATO DE CONCENTRAÇÃO
+Ato de Concentração nº 08700.010947/2015-38.
+Requerentes:
+Mitsui & Co., Ltd;
+Mitsui Gás e Energia do Brasil Ltda.;
+Petróleo Brasileiro S.A.
+2. REQUERENTES
+Segundo as Requerentes, a Mitsui Gás e Energia do Brasil Ltda. (“MGEB”) pertence ao Grupo Mitsui, cuja empresa-mãe é a Mitsui & Co., Ltd (“Mitsui”).
+O Grupo atua em diversos setores no mundo inteiro, com foco em metais, máquinas, equipamentos, produtos químicos e indústrias de alimentos, sendo que no Brasil também possui participações nos setores de: cultivo de cana de açúcar, produção e venda de etanol; distribuição de componentes automotivos; locação de equipamentos de transporte; exportação, torrefação e venda nacional de grão de café verde; produção e venda de produtos agrícolas; operação de terminal portuário; serviços de armazenamento; recolhimento e distribuição de soja, milho, trigo e outros; serviços de transporte; locação de vagões; locação de equipamentos de terminal; distribuição de gás; produção e venda de químicos agrícolas; serviços comerciais; serviço de transporte multimodal internacional e logística de processamento de informações relacionadas; e vendas de aditivos alimentares.
+Já a Petróleo Brasileiro S.A. (“Petrobras”), segundo as Requerentes, é empresa estatal de capital aberto pertencente ao Sistema Petrobras, que atua em todo o território nacional nos setores de exploração e produção, refino, transporte, petroquímica, distribuição de derivados, gás natural, energia, gás químico e biocombustíveis.
+3. DESCRIÇÃO DA OPERAÇÃO
+Atualmente, a Petrobras é proprietária de todo o capital social da empresa Petrobras Gás S.A. – Gaspetro (“Gaspetro”), que possui ativos em atividades variadas relacionadas a gás natural,[1] incluindo a participação em 19 companhias distribuidoras locais de gás natural canalizado (“CDLs”).
+A participação da Gaspetro no capital social dessas CDLs varia entre 19,5% a 100%.
+Antes da operação, segundo as Requerentes, a Gaspetro será reorganizada, de modo que todos os seus ativos passarão a ser de propriedade de outra empresa do Sistema Petrobras exceto as 19 CDLs.
+Ou seja, a Gaspetro deterá apenas os seus ativos em distribuição de gás natural canalizado (19 CDLs).
+Depois dessa etapa, a MGEB realizará então a aquisição de participação minoritária de 49% da Gaspetro.
+Antes da operação, a MGEB já possui participação independente em 8 das 19 CDLs, em percentual entre 23 e 24,5%.
+A seguir é possível visualizar o cenário pré-operação:
+Figura 1: Cenário pré-operação
+Elaboração própria a partir de informações das Requerentes.
+E o cenário pós-operação:
+Figura 2: Cenário pós-operação
+Elaboração própria a partir de informações das Requerentes.
+As participações prévias do Grupo Mitsui e da Gaspetro em cada CDL se encontram na tabela abaixo:
+Tabela 1: Participações prévias da Gaspetro e da Mitsui nas CDLs
+​
+UF
+Distribuidora
+Participação Mitsui
+Participação Gaspetro
+AL
+Algás
+24,5%
+24,5%
+BA
+Bahiagás
+24,5%
+24,5%
+CE
+Cegás
+24,5%
+24,5%
+PE
+Copergás
+24,5%
+24,5%
+PB
+PBGás
+24,5%
+24,5%
+SE
+Sergás
+24,5%
+24,5%
+PR
+Compagas
+24,5%
+24,5%
+SC
+SCGás
+23%
+23%
+SP
+Gás Brasiliano
+-
+100%
+RS
+Sulgás
+-
+49%
+MS
+Msgás
+-
+49%
+RN
+Potigás
+-
+49%
+RJ
+Ceg-Rio
+-
+26,2%
+AP
+Gasap
+-
+24,5%
+PI
+Gaspisa
+-
+24,5%
+RO
+Rongás
+-
+24,5%
+DF
+Cebgás
+-
+21%
+MA
+Gasmar
+-
+21%
+GO
+Goiásgás
+-
+19,5%
+Elaboração própria a partir de informações das Requerentes.
+A seguir é possível visualizar os mapas com as distribuidoras de participação (i) da Gaspetro (19); (ii) da Gaspetro sem participação da Mitsui (11); e (iii) da Mitsui (8).
+Figura 3: CDLs com participação da Gaspetro
+Fonte: Requerentes.
+Figura 4: CDLs com participação da Mitsui (pré-operação)
+Fonte: Requerentes.
+Figura 5: CDLs com participação da Gaspetro sem participação da Mitsui (pré-operação)
+Fonte: Requerentes.
+4. ASPECTOS FORMAIS DA OPERAÇÃO
+Operação foi conhecida?
+Sim – Faturamento de uma das partes superior a R$ 750 milhões e da outra parte superior a R$ 75 milhões
+Taxas processuais foram recolhidas?
+Sim
+Data de notificação ou emenda
+4.11.2015 Data de publicação do edital
+Edital nº 378/2015, publicado no dia 11.11.2015, com retificação publicada no dia 13.11.2015
+5. MÉRITO
+5.1. Mercado relevante
+Trata-se de aquisição de participação minoritária sem aquisição de controle no mercado de distribuição de gás natural canalizado.
+É certo que o gás natural, como energético, pode competir com combustíveis relativamente substitutos a depender da aplicação e do setor industrial consumidor.
+Entretanto, de forma conservadora, esta SG optou por considerar a dimensão produto somente como o gás natural.
+Conforme colocado acima, a MGEB já possui participação em 8 empresas desse setor (CDLs) e ampliará sua presença por meio da presente operação ao adquirir participação indireta em mais 11 CDLs.
+As Requerentes defendem que isso não acarretaria sobreposição horizontal, visto que a distribuição de gás natural canalizado seria uma atividade de monopólio natural, cuja exclusividade de operação em dado território é prevista por lei.
+Nesse sentido, apenas uma CDL atua em cada território e cada uma delas não pode atuar além de sua respectiva área, o que, no entender das Requerentes, inviabilizaria a competição entre CDLs, ensejando uma definição de mercado relevante geográfico exclusivamente local (isto é, dentro dos limites do território de monopólio legal).
+Além disso, as Requerentes argumentam que os julgados do Cade que reconhecem a existência de competição entre as CDLs[2] estariam se referindo a uma mera possibilidade, sendo que não haveria indícios de substitutibilidade ou significativo deslocamento da demanda.
+Apesar das afirmações das Requerentes, esta SG vem investigando a fundo o mercado em análise e já coletou indícios robustos da existência de dimensões competitivas relevantes entre CDLs.
+Tais dimensões podem ser resumidas em (i) competição pelo mercado, (ii) atração de consumidores industriais e (iii) seleção de melhores práticas por meio da regulação.
+[3] Somadas a elas, esta SG investiga atualmente práticas anticompetitivas que só fazem sentido na presença de competição entre as CDLs, para as quais também já se encontraram indícios preliminares relevantes.
+[4] As Requerentes não enfrentaram as interfaces competitivas descritas nem os indícios colhidos em instruções passadas.
+Ainda, quanto ao argumento de que não há indícios de substitutibilidade entre CDLs – o que, no entender das Requerentes, seria necessário segundo o Guia de Análise de Condutas Anticompetitivas (Resolução nº 20/1999/CADE) –, é preciso ter em mente que os mercados regulados operam de maneira muito específica e muitas vezes fogem significativamente da dinâmica de mercados não regulados.
+Com isso, as principais dimensões de competição nesse mercado podem não ser captadas pela análise tradicional de equilíbrio parcial baseada em preços e elasticidade.
+É o que acontece no presente caso, em que se tem um serviço público altamente regulado, inclusive no preço (tarifa), e dimensões competitivas diferenciadas tais como a competição pelo mercado e a competição pela atração de grandes clientes industriais.
+Portanto, ao contrário do que colocam as Requerentes, esta SG entende que a definição mais conservadora de análise não é a dimensão geográfica local (isto é, sem competição entre CDLs), uma vez que essa dimensão rejeita a já conhecida possibilidade de competição relevante entre tais empresas.
+No entender da SG, a definição mais conservadora é manter os cenários geográficos definidos na jurisprudência mais recente, quais sejam: (i) local; (ii) estadual (SP e RJ); (iii) regional; e (iv) nacional.
+Sob esse prisma, a operação acarreta sobreposição horizontal.
+Ainda, poderia haver alguma integração vertical em energia elétrica, tendo em vista que a Mitsui possui participação em projetos de geração de energia elétrica a gás.
+Entretanto, as Requerentes informaram que esses projetos não se localizam nas áreas das CDLs com participação da Gaspetro, de modo que a operação não altera a capacidade de influência da Mitsui no sentido de favorecer suas integradas a jusante.
+5.2. Considerações sobre a operação
+As 8 CDLs atualmente com participação da Mitsui se localizam nas regiões Nordeste e Sul.
+Desse modo, a teórica sobreposição horizontal decorrente da operação se limitaria aos seguintes cenários de mercado geográfico: (i) nacional; (ii) região Nordeste; e (iii) região Sul.
+A estrutura de oferta desses mercados, com os respectivos market shares dos agentes, pode ser vista abaixo:
+Tabela 2: Estrutura de oferta de distribuição de gás natural canalizado antes da operação - 2014
+Agente
+Nacional
+Nordeste
+Sul
+Gaspetro
+45%
+100%
+100%
+Mitsui***
+18,8%
+62%
+76%
+Gás Natural Fenosa (exceto Ceg-Rio)*
+20,1%
+-
+-
+Comgás
+18,9%
+-
+-
+Gasmig
+5,6%
+-
+-
+BR Distribuidora**
+4,4%
+-
+-
+Cigás
+4,3%
+-
+-
+MTGás
+1,6%
+-
+-
+Fonte: Requerentes, a partir de dados da Abegás
+*Exclui-se a Ceg-Rio porque ela já está contabilizada na participação da Gaspetro.
+** A BR Distribuidora é parte do Sistema Petrobras, mas não é alvo da presente operação, pois não é detida pela Gaspetro.
+*** Participações minoritárias sem controle.
+A Gaspetro já detém participação nas 8 CDLs que a Mitsui tem participação.
+Foi colocada a participação da Mitsui apenas a título de melhor visualização da operação.
+Tabela 2: Estrutura de oferta de distribuição de gás natural canalizado pós operação - 2014
+Agente
+Nacional
+Nordeste
+Sul
+Gaspetro
+45%
+100%
+100%
+Mitsui***
+45%
+100%
+100%
+Gás Natural Fenosa (exceto Ceg-Rio)*
+20,1%
+-
+-
+Comgás
+18,9%
+-
+-
+Gasmig
+5,6%
+-
+-
+BR Distribuidora**
+4,4%
+-
+-
+Cigás
+4,3%
+-
+-
+MTGás
+1,6%
+-
+-
+Fonte: Requerentes, a partir de dados da Abegás.
+*Exclui-se a Ceg-Rio porque ela já está contabilizada na participação da Gaspetro.
+** A BR Distribuidora é parte do Sistema Petrobras, mas não é alvo da presente operação, pois não é detida pela Gaspetro.
+*** Com a Mitsui deterá 49% da Gaspetro, foi colocada a participação da Mitsui apenas a título de melhor visualização, pois os ativos com participação da Mitsui são os mesmos ativos detidos pela Gaspetro.
+A estrutura de oferta acima revela que não haverá mudanças significativas após a operação.
+Antes, a Mitsui possuía participações reduzidas, e sem controle, em 8 CDLs, que representavam 18,8% da distribuição de gás nacional, 62% do Nordeste e 76% da região Sul.
+A Gaspetro já detinha participação em todas as CDLs com participação da Mitsui.
+Após a operação haverá um aumento no número de CDLs no qual a Mitsui deterá participação.
+Esse número é igual ao número de CDLs com participação da Mitsui, pois, como já destacado: (i) a Mitsui irá adquirir 49% de participação na Gaspetro; (ii) a Mitsui não possui outras CDLs no qual a Gaspetro não detinha participação.
+Assim, as CDLs com participação da Mitsui são as mesmas com participação da Gaspetro.
+A diferença antes e depois da operação é o seguinte: (i) a Mitsui passará a deter participação em 11 CDLs nas quais não tinha participação antes da operação e (ii) haverá um aumento de participação nas 8 CDLs que a Mitsui já detinha participação.
+Contudo, esses aumentos não permitem à Mitsui deter mais de 50% em nenhuma das CDLs.
+Ou seja, a operação não cria uma agente detentora de novo market share, mas apenas potencialmente modifica as estruturas de controle, influência, incentivos e acesso a informação relacionadas a esse share.
+Assim, são essas as modificações que devem figurar como objeto da presente análise.
+Quanto ao controle e influência, conforme informado, a operação não acarreta mudança relevante na estrutura de controle, seja da Gaspetro, seja de qualquer das CDLs em que ela detém participação.
+Segundo as Requerentes, [5] [ACESSO RESTRITO AO CADE E ÀS REQUERENTES].
+Ou seja, em grande parte, o controle permanece inalterado, sem nexo causal significativo entre a operação e eventual nova capacidade da Mitsui de exercício de poder de mercado.
+Uma novidade diz respeito à aquisição de alguma potencial influência, por parte da Mitsui, e ainda assim minoritária, nas 11 CDLs nas quais ainda não tinha participação alguma.
+Não obstante, mesmo para a parte desse controle e influência que de fato serão alteradas com a presente operação, esta SG entende que isso na verdade tem, sob determinada ótica, um potencial pró-competitivo, na medida em que se ameniza, ainda que apenas parcialmente, a elevada participação da Petrobras nas CDLs brasileiras.
+Como se sabe, o Sistema Petrobras é monopolista no fornecimento de gás natural e possui domínio fortemente verticalizado da cadeia dessa indústria no Brasil.
+Ainda, o grupo tem o domínio de combustíveis relativamente substitutos no mercado nacional.
+Essa posição dominante da empresa pode, em tese, incentivá-la a empreender condutas potencialmente anticompetitivas para garantir sua posição ou maximizar lucros, tais como fechamento de mercado e discriminação de agentes não-integrados.
+A Mitsui, pelo contrário, não possui participação em outras etapas da cadeia ou substitutos, não tendo incentivos para promover tais ações.
+Um menor controle da Petrobras sobre alguma etapa da cadeia poderia amenizar, ainda que de maneira reduzida, sua capacidade de exercer seu poder de mercado nesse sentido.
+Ou seja, a presente operação pode ser vista como uma desverticalização parcial de um mercado já bastante verticalizado.
+Quanto à estrutura de incentivos, a SG não vislumbra nenhum potencial anticompetitivo decorrente da operação.
+A Mitsui já possuía participação conjunta com a Petrobras em outros negócios, tanto em outros setores da economia,[6] quanto no setor de distribuição canalizada de gás natural, em 8 CDLs.
+Ou seja, a operação não modifica nem cria novos incentivos.
+Na verdade, a SG vislumbra um efeito pró-competitivo, em linha com as considerações do parágrafo anterior.
+Isso porque a operação diminui o ganho financeiro (incentivo) que a Petrobras poderia auferir a partir de eventual prática anticompetitiva que beneficia sua estrutura integrada na cadeia do gás natural ou combustíveis substitutos, potencialmente reduzindo a probabilidade de exercício de poder de mercado.
+De outro lado, não se vislumbra uma piora da estrutura de incentivos, uma vez que: (i) a operação não acarreta integração vertical relevante e (ii) o mercado de distribuição de gás natural é intensamente regulado, com contratos de concessão, regimes de qualidade e tarifa determinada pela regulação, o que diminui substancialmente a possibilidade de – e os incentivos para – que a Mitsui, não-integrada com o restante da cadeia e sem presença em combustíveis substitutos, use seus poderes políticos societários e informações estratégicas para praticar conduta anticompetitiva, seja unilateralmente ou em conluio com sua sócia.
+Por fim, foram oficiadas CDLs que não possuem participação das requerentes para que se manifestassem sobre a operação.
+A Gás Natural Fenosa, em resposta ao Ofício n° 6328/2015 (SEI 0134880), e a Comgás, em resposta ao Ofício n° 6329/2015 (SEI 0136900), não apresentaram objeções em relação à operação[7]-[8].
+Do exposto, conclui-se que da operação não decorre aumento da possibilidade de exercício de poder de mercado.
+6. RECOMENDAÇÃO
+Aprovação sem restrições.
+Esta a conclusão.
+Encaminhe-se ao Superintendente-Geral.
+[1] Atualmente, as empresas detidas pela Gaspetro se concentram sobretudo em geração de energia elétrica, transporte e distribuição de gás natural.
+[2] Os precedentes mencionados pelas Requerentes são: Ato de Concentração nº 08012.006171/2001-03 (Requerentes: Gaspetro e Gás Brasiliano Distribuidora) e Ato de Concentração nº 08700.006668/2014-99 (Requerentes: Companhia Energética de Minas Gerais e Gás Natural Internacional, SDG, S.A.).
+[3] Ver Ato de Concentração nº 08700.006668/2014-99 para os indícios que fundamentam cada uma dessas dimensões.
+[4] Ver Processo Administrativo nº 08700.002600/2014-30 (Representante: Companhia de Gás de São Paulo, Representada: Petrobras).
+[5] [ACESSO RESTRITO AO CADE E ÀS REQUERENTES]
+[6] V. resposta ao item II.8 do formulário de notificação.
+Segundo as Requerentes, no entanto, os negócios em conjunto Petrobras e Mitsui não se localizam em mercados relacionados ao gás natural, seja na cadeia dessa indústria, seja na de combustíveis substitutos.
+[7] A Gas Natural Fenosa apenas ponderou que a oferta de participação minoritária, sem controle, não gerou incentivos suficientes para que outros agentes econômicos se interessassem pelo ativo vendido.
+Esta SG entende, porém, que tal consideração não possui relação com os efeitos competitivos da operação específica em análise, e que as ponderações da empresa oficiada fogem à competência de definição do Cade.
+[8] A Comgás

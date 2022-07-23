@@ -1,0 +1,85 @@
+SEI/CADE - 0452318 - Voto
+Ato de concentração nº 08700.008483/2016-81
+Requerentes: Weg Equipamentos Elétricos S.A. e TGM Indústria e Comércio de Turbinas e Transmissões Ltda
+Advogados:  Barbara Rosenberg, Marcos Exposto, Isadora Telli, Carolina Ricciardi, João Claudio De Luca Junior, Guilherme B. Monteiro Filardi, Vicente Bagnoli
+Terceiro Interessado: Zanini Renk Equipamentos Industriais Ltda
+Advogados: Leonardo Maniglia Duarte e outros
+Relatora: Conselheira Polyanna Ferreira Silva Vilanova
+VOTO VOGAL
+Temos aqui um AC em que as sobreposições horizontais são relativamente baixas e não representam o cerne das preocupações concorrenciais.
+Apenas nos mercados de redutores industriais e motorredutores, equipamentos de menor peso no custo total de um turbogerador ou de um sistema de acionamento elétrico, existem sobreposições e essas sobreposições são muito baixas.
+Portanto, assim como no caso Bayer Monsanto, julgado na sessão passada, o problema concorrencial identificado neste caso é a integração vertical e o poder de portfólio que surgirão pela combinação de praticamente todas as etapas da cadeia de produção de equipamentos de cogeração de energia em uma única empresa.
+A WEG, com a aquisição da TGM, passará a deter participações superiores a 60% (se considerados os números de 2016) nos mercados de motores elétricos, turbinas a vapor, redutores e geradores.
+As empresas já possuem essas participações separadamente em seus respectivos mercados, mas, com a fusão, a WEG atuará sozinha no mercado de soluções integradas, de modo que haveria incentivos para a discriminação de preços de partes do sistema, cobrando mais caro de concorrentes que produzam uma das partes e que também queiram disputar esse mercado de soluções integradas.
+Admitindo-se o problema concorrencial identificado pela SG, entendo, em consonância com a avaliação da C. Relatora, que não existiriam soluções estruturais.
+Ainda que a planta da TGM possa ser dividida em duas (uma de turbinas e outras de redutores), conforme defendem os terceiros interessados, não teríamos uma solução satisfatória.
+A venda da planta de redutores não enfrenta o problema concorrencial como um todo, beneficiando apenas concorrentes específicos no mercado de redutores (como é o caso da terceira interessada Zanini Renke), enquanto a venda da planta de turbinas na prática anularia a operação, sendo equivalente a uma reprovação.
+Contudo, ainda que eu reconheça a impossibilidade de um remédio estrutural para o presente caso, em discordância com o voto relator e com o posicionamento da Superintendência Geral (que foi quem originalmente aventou a possibilidade dessa solução e iniciou o processo de negociação do ACC), acredito que o remédio comportamental encontrado tampouco enfrentaria o problema identificado.
+A solução apresentada consiste essencialmente em um compromisso de não discriminar preços, compromisso que será monitorado por auditor independente a partir das propostas de orçamento apresentadas pela WEG a seus clientes e concorrentes.
+Baseada nessa documentação, pretende-se que a auditoria saiba dizer se há discriminação nos preços praticados pela WEG entre clientes e concorrentes que adquirem partes e clientes que adquirem a solução integrada.
+Esse compromisso não funcionará por duas razões.
+Em primeiro lugar, porque não há garantia de que a documentação a ser disponibilizada ao auditor independente será, de fato, a proposta final fechada com o cliente ou concorrente, pois embora exija-se também o envio da fatura, o ACC permite, alegadamente por razões tributárias, que ela contenha apenas o valor total das vendas.
+Ainda que tal razão possa realmente ser procedente, fato é que este modelo impede a verificação dos valores cobrados individualmente por cada equipamento, pois como a proposta de orçamento não é documento contábil ou fiscal, é praticamente impossível auditá-la.
+Além disso, várias propostas podem ser submetidas a um mesmo cliente durante o processo de negociação, até que se chegue a um valor final, e não há como saber se a proposta final aceita pelo cliente, no que se refere aos valores individualmente cobrados por cada equipamento, será aquela entregue ao auditor.
+Ainda em relação a esse ponto, destaco que houve um aprimoramento do ACC nas negociações com o gabinete da C. Relatora, no sentido de exigir, ao menos, que sejam apresentadas propostas comprovadamente enviadas aos clientes/concorrentes.
+Mas, ainda assim, entendo ser insuficiente.
+A segunda e mais importante razão, no entanto, é que mesmo que acreditemos que as propostas de orçamento enviadas serão efetivamente aquelas apresentadas e fechadas com os clientes/concorrentes, o ACC prevê que os preços poderão ser diferentes em função de uma série de fatores subjetivos, não elencados em rol taxativo e sem valores previamente definidos para quanto seria razoável uma determinada diferença de preço em função daquele fator.
+Assim, conforme cláusula 2.1.1.2, uma diferenciação de preços poderá ser justificada a partir de, por exemplo, mas não necessariamente: 1) risco de crédito, 2) maior volume de compras, 3) relacionamento histórico com o cliente, 4) localidade de entrega, 5) acesso a financiamento especial (por exemplo, FINAME), 6) prazo de entrega, 7) custo dos insumos, 8) vantagens tributárias, 9) outras questões comerciais e 10) cenário macroeconômico.
+Notem que só aqui consegui elencar pelo menos dez justificativas possíveis, sendo que podem advir diversas outras não previstas, inclusive como reconheceram as Requerentes na discussão sobre a redação do ACC, pleiteando que se mantivesse uma cláusula a mais genérica possível.Ou seja, se detectada uma discriminação de preços de, por exemplo, 10%, a Requerente poderá justificar tal diferença com base em um ou mais de um desses elementos, como, por exemplo, que a empresa aceitou prazo de entrega mais longo, que no momento o custo de importação de partes dos equipamentos está baixo por causa do dólar, ou por causa de uma estratégia de hedge que a empresa fez, e que ela conseguiu contratos mais baratos de energia no mercado livre por causa de chuvas acima da média[1].
+Em outras palavras, sem conhecer toda a estrutura de custos da empresa, para avaliar a veracidade e plausibilidade das justificativas apresentadas em cada caso no qual for identificada a discriminação de preços, tal como um regulador de tarifas públicas o faz, será praticamente impossível aferir a existência de discriminação, seja pela auditoria seja, principalmente, pela ProCade.
+Relembro que essa não é a primeira vez em que o Tribunal se apoia neste tipo de solução, acreditando haver ter encontrado uma saída para problemas concorrenciais detectados por meio de remédios comportamentais de não discriminação.
+Em formatos levemente distintos, também se exigiu um compromisso de oferecer condições comerciais equivalentes em ACCs firmados e restrições unilaterais impostas em outros casos recentes nos quais foi detectado risco decorrente de forte integração vertical, como nos casos Bayer Monsanto, AT&T e TimeWarner (AC nº 08700.001390/2017-14), Cetip e BM&FBovespa (AC nº 08700.004860/2016-11), Itaú Unibanco e Mastercard (AC nº 08700.009363/2015-10) e ALL e Rumo (AC nº 08700.005719/2014-65).
+Essa é uma questão não exclusiva a atos de concentração.
+Em sede de controle de condutas, temos reconhecida dificuldade em aceitar denúncias de preços predatórios justamente porque não conseguimos ter uma visão completa de todos os fatores necessários para se definir se a diferença de preços constitui uma tentativa de prejudicar o concorrente.
+No Anexo II da Portaria do Ministério da Fazenda de nº 70 de 2002, em que a antiga SEAE publica seu GUIA PARA ANÁLISE ECONÔMICA DA PRÁTICA DE PREÇOS PREDATÓRIOS, fica clara a necessidade de se conhecer custos médios totais e custos marginais para se formar uma opinião de se o preço está fora de parâmetros aceitáveis.
+O mesmo é válido para analisar compromissos de não discriminação em sede de controle de estruturas.
+Mas optamos por fechar os olhos para isso.
+Na minha avaliação, esse tipo de solução é um autoengano, e melhor seria se tivéssemos clareza disso para que, com transparência, formemos convicção ou para aprovar uma operação a despeito de seus riscos concorrenciais, ou, se for o caso, para reprová-la.
+Voltando ao presente caso, adianto que, aqui, votarei pela aprovação da operação, mesmo considerando o ACC inócuo.
+Explico meu posicionamento.
+Entendo que, no caso em tela, a probabilidade de exercício de poder de mercado no médio e longo prazo são baixas, e que no curto prazo haverá eficiências para os consumidores, que passarão a poder contar com a solução integrada.
+Nesse sentido, divirjo do diagnóstico concorrencial elaborado pela SG, em especial daquele contido entre os itens 480 e 488 do parecer.
+No curto prazo, o mais provável é que a WEG venha a ganhar mercado a partir da oferta de sua solução integrada.
+Quase todos os grandes compradores de soluções para turbogeração consultados durante a instrução confirmam esse entendimento, demonstrando interesse na operação, pois lhes permitiria a oferta de um produto integrado a menor preço ou com maiores facilidades logísticas e de manutenção, reduzindo custos de transação.
+Isso indica que, ainda que não quantificadas nos autos, o mercado reconhece o benefício do negócio.
+A própria terceira interessada, Zanini Renk, também reconhece, em petição, que, no curto prazo, essa solução será vantajosa para os compradores.
+Entendo que tais eficiências deveriam ter sido quantificadas pelas Requerentes, indicando quanto a empresa poderia oferecer de desconto em função de vender a solução integrada, inclusive para poder facilitar o monitoramento do ACC, mas isso não foi apresentado pelas partes.
+Mas mesmo não havendo quantificação, são eficiências confirmadas por outros agentes, críveis, e específicas da operação.
+Curioso notar, também, que as manifestações dos demais concorrentes nos autos vão no sentido de que a empresa terá uma maior vantagem competitiva por poder oferecer soluções integradas, reduzindo custos de transação para os clientes e forçando os atuais concorrentes para fora do mercado.
+Ora, se os demais concorrentes terão dificuldades de permanecer no mercado porque a solução da empresa integrada será superior, não temos um problema concorrencial, mas uma eficiência!
+Assim, pelo menos no curto prazo, entendo não haver risco de aumento de preços ou piora de qualidade.
+A Zanini Renk alerta, no entanto, para o fato de que esse benefício ocorrerá apenas no curto prazo.
+Nas suas próprias palavras, “A médio-longo prazo, a empresa resultante muito provavelmente excluirá seus concorrentes do mercado por meio de práticas abusivas e predatórias”.
+Concordo com a avaliação da Zanini Renk de que haverá a tentativa de excluir concorrentes por meio de práticas abusivas e predatórias.
+Certamente a WEG terá poder de mercado para isso.
+Mas relembro que esse é um mercado em que existem gigantes multinacionais que já operam (ou que já operaram) no Brasil, produzindo algum equipamento de grande relevância na cadeia de turbogeradores ou de acionamento elétrico.
+Segundo a SG, “os dois concorrentes do mercado de geradores para turbinas a vapor apontados pelas Requerentes são ABB e GE.
+A GE só produz no Brasil geradores de 0 – 50 MW de potência, importando os geradores de maior potência.
+A ABB apenas comercializa no Brasil geradores importados, ofertando produtos de 0-70 MW de potência.” Também segundo a SG, “os principais concorrentes da TGM no mercado de turbinas a vapor (Texas, Turbimaq, NG Metalúrgica, Engecrol e Siemens) informaram que, usualmente, fabricantes de turbinas a vapor para geração de energia também fabricam turbinas a vapor para acionamento de máquinas”.
+Essas empresas podem, com facilidade muito maior que um entrante qualquer, expandir suas atividades para outros elos da cadeia ou reinstalar suas plantas no Brasil.
+Note-se, a propósito, que os market shares nos mercados de turbinas (em que atua a Siemens) e de geradores (em que atuam a ABB e, principalmente, a GE) variam fortemente ano a ano, indicando que o elevado market share de WEG e TGM nesses mercados está constantemente sob forte ameaça das concorrentes.
+[ACESSO RESTRITO]
+Além disso, concorrentes da TGM no mercado de turbinas indicaram serem capazes de atender descolamentos de demanda em função de elevada capacidade ociosa, conforme tabela abaixo do parecer da SG:
+[ACESSO RESTRITO]
+Essas empresas produtoras de geradores e de turbinas podem, ainda, combinar entre si uma solução análoga a que será oferecida pela WEG após a conclusão do AC, inclusive por meio de contratos associativos.
+Uma associação, por exemplo, entre turbinas da Siemens e geradores da ABB, com redutores da Zanini Renk, poderia configurar uma solução alternativa para o mercado consumidor de turbogeradores e conter eventuais exercícios de poder de mercado pelas Requerentes.
+A própria nota da SG dá conta de que a Texas, pequena produtora de turbinas, vem se associando à Gevisa, fabricante de geradores, para fazer cotações integradas no mercado, já considerando o atual AC em andamento.
+A Siemens também afirmou, em reunião no Gabinete 01, que anualmente analisa a reinstalação de plantas produtivas no Brasil, mercado que também pode atender a América Latina.
+Assim, a própria Siemens teria agora mais incentivos para voltar ao Brasil e oferecer a solução integrada que passará a ser o diferencial competitivo da WEG.
+Por fim, mesmo na hipótese de não haver entrada, grande parte das barreiras à importação são de natureza legal, decorrente de políticas industriais que poderiam ser revisitadas pelo Governo Federal na hipótese de detecção de exercício de poder de mercado, como o imposto de importação, o FINAME (que exige percentual mínimo de conteúdo local) e outras linhas de crédito do BNDES.
+Ainda que essa normalmente não seja uma justificativa suficiente para a afastar preocupações de probabilidade de exercício, em conjunto com os fatores elencados acima, entendo que é possível aprovar a presente operação.
+Nesse sentido, aproveito o voto para solicitar ao Ministério da Fazenda, na figura do Secretário de Promoção da Produtividade e Advocacia da Concorrência (antiga SEAE), que reconsidere sua política industrial para o setor, reduzindo o grau de proteção, tendo em vista que a partir de agora ela terá um poder ainda maior no mercado.
+Em resumo, entendo que haverá eficiências no curto prazo e que a probabilidade de exercício de poder de mercado no médio-longo prazo é baixa devido: 1) à possibilidade de que outras empresas atuantes em elos do mercado possam se unir para oferecer uma alternativa integrada, 2) à possibilidade de que multinacionais do setor já presentes em algum elo da cadeia possam voltar a produzir seus produtos no Brasil em outros elos, ou 3) que as importações possam vir a ser viáveis a partir de mudanças de políticas públicas que atualmente protegem o mercado nacional.
+Assim, acompanho o voto relator no dispositivo, aprovando a operação, ainda que eu entenda que o ACC negociado em nada eliminaria eventuais preocupações concorrenciais.
+Aproveito para sugerir que se incorpore ao dispositivo a determinação de envio de cópia dos autos à antiga SEAE para que tome conhecimento da nova realidade que se avizinha neste mercado.
+É o voto.
+Brasília, 28 de fevereiro de 2018.
+ANEXO 1
+____________________________________________________________________________________
+[1] Ainda que a SG não tenha encontrado indícios de que haveria probabilidade de exercício de poder de mercado na oferta de sistema integrado para acionamento elétrico, o raciocínio aqui exposto é análogo para esse mercado, com GE e ABB podendo entrar facilmente no mercado de motores elétricos e se associar a vários outros produtores de redutores industriais.
+[2] Item 413 do parecer da SG: “No caso de vendas integradas de geradores, por se tratar de um item de valor expressivo, normalmente a Texas envia ao cliente uma proposta da empresa parceira — atualmente apenas a Gevisa, pois, desde de que houve a publicidade da Operação em apreço, a empresa considera que a WEG já se tornou sua concorrente no mercado de turbinas, motivo pelo qual prefere não cotar mais com ela — juntamente com a proposta da empresa do turbo redutor.
+Dessa forma, a empresa informou que a venda do gerador é realizada diretamente pelo fabricante ao cliente final, evitando, assim, uma majoração da carga tributária incidente sobre a Operação e o aumento dos custos operacionais, que inviabilizariam a venda.”
+[3] O problema é ainda agravado porque, segundo terceiros interessados, o número de mercados relevantes que o ACC deveria abarcar é maior, devendo incluir os sistemas de acionamento, em uma ponta, e transformadores de energia, em outra.
+Entendo que, independentemente do número de mercados, o ACC não dá conta de resolver o problema concorrencial.
+Portanto, esse ponto não afeta o resultado final da análise.
+[4] A exceção foi a Adeco Agro, SEI nº 0301462

@@ -1,0 +1,82 @@
+SEI/CADE - 0508312 - Parecer
+PARECER Nº 211/2018/CGAA5/SGA1/SG
+PROCESSO Nº 08700.004555/2018-82
+REQUERENTES:
+Magna Closures S.p.A e Olsa S.p.A.
+Ementa: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento Sumário.
+Requerentes: Magna Closures S.p.A e Olsa S.p.A..
+Mercados afetados: autopeças.
+Natureza da operação: aquisição de controle unitário.
+Art. 8º, inciso IV, Resolução CADE nº 02/12.
+Aprovação sem restrições.
+VERSÃO DE ACESSO PÚBLICO
+I.                   REQUERENTES
+I.1.
+Magna Closures S.p.A ("Magna S.p.A.")
+A Magna S.p.A., subsidiária indireta da Magna International Inc. (“Magna”), é uma fornecedora automotiva mundial que projeta, desenvolve, produz e fornece sistemas, conjuntos, módulos e componentes automotivos, principalmente para fabricantes de equipamento original (“OEMs”) de carros de passageiros e veículos comerciais leves (“veículos leves”) na América do Norte, América do Sul, Europa, Ásia e África.
+A Magna opera 340 fábricas e 93 instalações de desenvolvimento de produtos, engenharia e vendas em 28 países.
+I.2.
+Olsa S.p.A.
+("Olsa")
+A Olsa é uma fornecedora automotiva que projeta, desenha, testa, fabrica, comercializa e vende produtos de iluminação automotiva, principalmente para OEMs de veículos leves na Europa, América do Norte, América do Sul e Ásia.
+A Olsa e suas subsidiárias operam fábricas no Brasil, China, Itália, México e Polônia, além de escritórios de vendas na Alemanha e Turquia.
+II. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, conforme Despacho Ordinatório SECONT (0505072)
+Data da notificação
+25/07/2018
+Data da publicação do edital
+O Edital nº 266, que deu publicidade à operação em análise, foi publicado no dia 31/07/2018 (0506083)
+III. DESCRIÇÃO DA OPERAÇÃO
+A operação se refere à aquisição de todo o capital social da Olsa, incluindo suas subsidiárias no Brasil e em outros países, pela Magna S.p.A.
+(a “Operação”).
+Concluída a aquisição da totalidade das quotas do capital social da Olsa pela Magna S.p.A., e após as Partes obterem todas as aprovações regulatórias, a Magna, como empresa controladora final, deterá indiretamente todas as ações e, portanto, exercerá controle exclusivo sobre a Olsa e suas subsidiárias.
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012)
+IV – Baixa participação de mercado com integração vertical.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Não[1]
+Integração vertical
+Sim
+Setores em que há integração vertical
+Integração vertical: mercado de espelhos retrovisores (downstream ) e mercado de iluminação para visibilidade externa (upstream)
+Participações de mercado
+Reduzidas
+VI. Considerações sobre a Operação
+As partes informam que a Magna S.p.A não fornece serviços ou comercializa produtos diretamente no Brasil, entretanto, outras entidades do Grupo Magna são ativas no mercado brasileiro fornecendo produtos e componentes automotivos variados, como por exemplo: "closures", espelhos, trens de força, carrocerias e chassis, assim como sistemas frontais e de suspensão, e braços de controle, todos por meio da Cosma do Brasil.
+Apesar disso, as partes asseveram que os únicos produtos relacionados à Operação fabricados ou vendidos pelo Grupo Magna no Brasil são espelhos retrovisores externos, que são formados por alguns componentes básicos/padrão, não fabricados ou vendidos pela Olsa, e alguns poucos componentes opcionais (componentes de iluminação integrados aos espelhos retrovisores, como luzes de iluminação do chão e indicadores de mudança de direção - as chamadas “setas”), estes sim fabricados pela Olsa.
+No Brasil, a Olsa fornece vários tipos de produtos de sistema de iluminação, consistindo seu portfólio de produtos em (i) iluminação para visibilidade externa (lâmpadas e refletores que tornam um veículo visível em relação à sua presença, posição, sentido da direção, mudança na direção ou desaceleração)[2], (ii) iluminação dianteira (fixados na frente de um veículo para iluminar a rota à sua frente)[3] e (iii) iluminação interna da Olsa (cuja função é proporcionar conveniência aos passageiros)[4].
+Segundo as requerentes, essas segmentações de mercado, tanto com relação à Magna quanto à Olsa, baseiam-se - diante de uma ausência de jurisprudência do CADE específica relativa aos mercados de sistemas de iluminação externa e espelhos retrovisores automotivos (muito embora haja precedentes em segmentos de autopeças em geral ou considerando-se outras especificidades relativas à substituibilidade dessas autopeças tanto sob a ótica da demanda como da oferta) - em alguns precedentes da Comissão Europeia e nas características dos mercados, tais como padrão de aquisição dos produtos pelos clientes, substituibilidade da demanda e tecnologia, know-how, maquinário e outros elementos da fabricação/fornecimento dos produtos.
+Diante do amplo rol de informações apresentadas, contudo, as quais levam à conclusão de que a Operação não possui o condão de acarretar prejuízos concorrenciais nos mercados afetados no Brasil, como será demonstrado a seguir, esta SG entende desnecessário um maior aprofundamento de esforços em direção a uma definição precisa dos mercados relevantes.
+No Brasil, ambas as partes vendem apenas para OEMs (fabricantes de equipamentos originais), não possuindo qualquer atividade no mercado de reposição (aftermarket – IAM).
+Como a Magna praticamente não atua com produtos de iluminação automotiva, tampouco a Olsa com espelhos retrovisores externos, constata-se que da Operação não resulta nenhuma relação de sobreposição horizontal.
+Todavia, na medida em que, como visto acima, a Olsa fornece produtos de iluminação para o mercado de visibilidade externa, e que a Magna pode utilizar estes produtos em seus conjuntos de espelhos retrovisores externos, constata-se a incidência de uma potencial relação de integração vertical entre os segmentos de espelhos retrovisores da Magna (downstream) e o segmento de iluminação para visibilidade externa da Olsa (upstream).
+As requerentes argumentam, no entanto, que esta relação é apenas parcial, uma vez que os mercados afetados - visibilidade externa e espelhos retrovisores externos - não são completamente ou necessariamente integrados verticalmente, pois nem todos os produtos das partes em cada um destes mercados específicos envolvidos são afetados pela integração vertical, mas sim, do lado da Olsa, apenas um componente específico do mercado de iluminação externa para visibilidade, os indicadores de direção (que podem ser integrados aos espelhos externos que possuam essa funcionalidade), e, pelo lado da Magna, apenas estes espelhos retrovisores externos equipados com esses indicadores de direção.
+As partes trazem informações indicativas de que a integração vertical verificada nesta operação não possui o condão de afetar negativamente o ambiente concorrencial, expondo, deste modo, que: (i) apenas os indicadores de direção, dentre todos os itens que compõem o mercado de iluminação externa para visibilidade, podem ser utilizados na fabricação de espelhos retrovisores externos (não havendo o que se falar em integração vertical entre a Olsa e a Magna em relação a todos os demais componentes, tais como lâmpadas da placa de identificação do veículo, lâmpadas externas de cortesia/puddle lights, retro-refletores, lâmpadas de neblina traseiras, etc); (ii) os indicadores de direção também podem ser fornecidos para outros propósitos que não o uso em espelhos retrovisores externos, como por exemplo, também podem ser encaixados na lataria do veículo (montados na lateral dos veículos para tornar a indicação de mudança de direção visível lateralmente), de tal forma que a integração vertical não seria absoluta em relação ao componente de iluminação utilizados nos espelhos retrovisores externos – os fornecedores dos produtos de iluminação externa para visibilidade teriam outros mercados para oferecer seus produtos; (iii) há outros players relevantes no mercado de espelhos retrovisores automotivos no Brasil, como Metagal, SMR, Ficosa, Honda Lock (cujas estimativas de participações de mercado seguem adiante), dentre outros, ; (iv) nem todos os espelhos retrovisores são equipados com componentes de iluminação, estimando as Partes que a maioria da demanda por espelhos retrovisores no Brasil é de produtos sem componentes de iluminação, fato este considerado como procedente por esta SG e de fácil verificação, inclusive, não sendo, portanto, a integração vertical absoluta também em relação aos espelhos retrovisores; e, por fim, (v) a Magna [ACESSO RESTRITO].
+Além dos fatores apresentados acima, que de fato já amenizam possíveis preocupações concorrenciais advindas da Operação, as requerentes trouxeram estimativas de participações de mercado referentes ao mercado de iluminação para visibilidade externa sob uma perspectiva mais ampla, considerando o segmento como um todo, e sob uma perspectiva mais restrita, considerando apenas dispositivos de iluminação externa pequenos, dentre os quais se incluem os indicadores de direção; assim como, quanto à dimensão geográfica, uma ótica mais ampla, o Mercosul (que consideram ser a mais provável, dado o fato de que o Brasil possui diversos acordos comerciais com países do Mercosul, o que intensificaria o fluxo comercial), e uma mais conservadora, considerando apenas o Brasil:
+Tabela 1 - Estimativa de market share das partes e principais concorrentes nos mercados verticalmente integrados afetados pela Operação - 2017
+Fonte: elaboração própria com base em informações constantes dos autos[5].
+Da leitura da tabela, é possível concluir que a participação de mercado da Magna para retrovisores externos está abaixo de 30% em todos os cenários, enquanto que a da Olsa é menor do que 30% em todos os cenários relativos ao mercado de iluminação externa para visibilidade como um todo.
+No cenário que subsegmenta o mercado de iluminação externa para visibilidade como um todo em "dispositivos pequenos", único caso onde a participação da Olsa fica ligeiramente acima de 30%, sua participação efetiva pode ser tida como superestimada, pois se refere a uma abordagem conservadora em relação à definição de mercado relevante tanto na dimensão do produto quanto na dimensão geográfica.
+Além disso, as partes reputam que importações respondem por quantidade considerável do mercado de dispositivos para iluminação externa pequenos (neste cenário mais conservador), estimado em [ACESSO RESTRITO], sendo possível inferir, deste modo, que é muito provável que o mercado relevante deste cenário que considera dispositivos para iluminação externa pequenos como um mercado específico seja mais amplo do que o nacional.
+A racionalidade da Operação é justificada pelas partes pelas seguintes razões: (i) a Magna ter por objetivo melhorar seu atual núcleo de competências como fornecedora de sistemas de iluminação automotiva ao se valer das capacidades comprovadas da Olsa em engenharia e montagem; (ii) a Operação aumentar ou introduzir a presença da Magna na fabricação de sistema de iluminação automotiva na Europa, Brasil e China, bem como a sua participação em clientes e produtos a partir de clientes OEMs estratégicos; e, na visão da Magna, (iii) a Olsa possuir não apenas amplo conhecimento em fabricação, mas também uma excelente reputação na indústria automotiva, com um grupo diversificado de clientes que compreende OEMs ativos nos segmentos premium e de subcompactos de alto volume.
+Por todo o exposto, conclui-se que a presente operação não acarreta prejuízos ao ambiente concorrencial, uma vez que, notadamente: (i) no segmento de espelhos retrovisores, o market share da Magna situa-se consideravelmente abaixo de 30% nos quatro cenários elaborados; (ii) o market share da Olsa no segmento de iluminação externa para visibilidade também se encontra abaixo de 30% nos cenários mais prováveis, não sendo plausível, desta maneira, cogitar-se possibilidade de fechamento de mercados, numa perspectiva concorrencial mais realista e menos conservadora; (iii) o fato de a Magna [ACESSO RESTRITO]; e, por fim, (iii) o caráter apenas parcial da integração vertical, conforme explicado acima.
+VII. Cláusula de Não-Concorrência
+Sim, conforme cláusula presente no contrato de compra e venda de ações:
+[ACESSO RESTRITO]
+De acordo com a jurisprudência do CADE.
+VIIi. Recomendação
+Aprovação sem restrições.
+Encaminhe-se ao Sr. Superintendente-Geral.
+____________________________________
+[1] - A afirmação de não incidência de sobreposição horizontal entre as partes [ACESSO RESTRITO].
+[2] - (i) Farol traseiro de múltiplas funções (”Rear Combination Lamps”), i.e., dispositivo que reúne múltiplas funções de iluminação traseira, tais como luz traseira, luz de freio, indicador de direção traseiro, luzes de ré e luzes de neblina traseiras em um mesmo corpo (caixa) de farol/lâmpada; (ii) Luz de Freio Central Elevada (Centre High Molded Stop Lamps – “CHMSL”), i.e., as lâmpadas que consistem em luzes de freio integradas a uma posição alta e central na traseira do veículo para aumentar o sinal de aviso de freio dado aos veículos que o seguem; (iii) Lâmpadas da placa de identificação de veículo, i.e., as lâmpadas utilizadas para iluminar o espaço reservado para as placas do carro; (iv) Indicadores de mudança de direção, i.e., lâmpadas montadas lateralmente na lataria dos veículos ou em seus retrovisores externos para tornar a indicação de mudança de direção visível lateralmente; (v) Retro-refletores, i.e., dispositivos utilizados para indicar a presença de um veículo pelo reflexo da luz emanada de uma fonte de luz não ligada ao veículo; (vi) Lâmpadas traseiras de neblina, i.e. dispositivos que indicam a presença de um veículo pela reflexão de luz que emana de outra fonte [de luz] não conectada ao veículo, mas que também tenha a capacidade de emitir luz para melhor visibilidade do veículo; (vii) Farol de rodagem diurna (Daytime running lamps – “DRL”); uma lâmpada virada para a frente usada para tornar o veículo mais facilmente visível quando conduzido durante o dia; (viii) Luzes externas de cortesia (“Puddle Lights”), i.e., lâmpadas que fornecem iluminação suplementar para auxiliar o motorista e passageiros na entrada e saída do veículo, ou em operação de carga e descarga; e (ix) Marcadores de luz (“Clearance lamps”); i.e., lâmpadas frontais brancas e traseiras vermelhas, na esquerda e direita do contorno do veículo, indicando a largura e altura totais de caminhões leves (e pesados).
+[3] - (i) Faróis principais, dispositivos que reúnem uma combinação de funções de luz dianteira, como farol alto (que lança a maior parte da luz para frente, maximizando a distância de visão), farol baixo (que direciona a maior parte de sua luz para baixo e para a direita ou para a esquerda, possibilitando visibilidade dianteira segura e sem brilho excessivo), indicadores de direção dianteiros e DRL num corpo de lâmpada comum; e (ii) Faróis de neblina dianteiros, i.e., lâmpadas fixadas à frente do veículo que se destinam a serem montadas de forma baixa para aumentar a iluminação dirigida para a superfície da estrada em más condições de visibilidade devido a chuva, nevoeiro, poeira ou neve.
+[4] - (i) Lâmpadas de cortesia ou domo, i.e., lâmpadas localizadas no ou perto do teto do compartimento de passageiros providenciando iluminação para que possam afivelar cintos e entrar ou sair do veículo; (ii) Luzes de leitura/luzes para mapas; i.e., lâmpadas que são destinadas a posições específicas de passageiros e permitem a leitura sem distração de brilho para o motorista; (iii) Lâmpadas da porta; i.e., lâmpadas integradas às portas; (iv) Lâmpadas do porta-luvas; i.e., lâmpadas que iluminam quando o porta-luvas é aberto; (v) Lâmpadas da pala solar; i.e., lâmpadas que iluminam o rosto quando há um espelho; (vi) Lâmpadas do porta-malas; i.e., lâmpadas que iluminam quando o porta-malas está aberta; e (vii) Luzes ambiente (iluminação ambiente); i.e., sistemas de iluminação que são usados para criar atmosferas e efeitos coloridos.
+[5] - Metodologia de cálculo empregada: (i) número estimado de veículos produzidos no Brasil em 2017; (ii) número médio de peças de cada produto por veículo; (ii) média de preços de peças no/para o Brasil – considerando estudos disponíveis, como a média IHS para os 5 Principais Fornecedores para produtos de iluminação dianteira, e estimativas internas da Olsa e/ou da Magna

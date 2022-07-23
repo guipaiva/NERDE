@@ -1,0 +1,67 @@
+SEI/CADE - 0790897 - Voto Processo Administrativo
+Processo Administrativo nº 08012.009581/2010-06
+Representante: Cade ex officio
+Representados(as): Nippon Soda Company Ltd., Degussa AG., Aventis Animal Nutrition e Aventis SA.
+Advogados(as): Tito Amaral de Andrade, Maria Eugênia Novis, Carolina Maria Matos Vieira, Paulo de Tarso Ramos Ribeiro, Carolina de Freitas Cadavid, José Alexandre Buaiz Neto, Vicente Coelho Araújo, Marcos Aurélio M. Barbosa e outros.
+Relatora: Conselheira Paula Farani de Azevedo Silveira
+VOTO VISTA - CONSELHEIRO sérgio costa ravagnani
+VERSÃO PÚBLICA única
+voto
+Pedi vista dos autos para analisar a possível caracterização da prescrição intercorrente pelo decurso do prazo de três anos entre (i) a expedição do Ofício nº 4779/2015/CADE, de 03/09/2015 (SEI 0103544), por meio do qual o Sr. Superintende Geral do CADE à época requisitou informações ao então Sr.
+Secretário da Receita Federal do Brasil do Ministério da Fazenda (SRFB/MF) para a apuração da existência de possíveis efeitos no Brasil da prática em investigação nestes autos, e (ii) o Despacho SG nº 1635/2018, de 12/12/2018 (SEI 0558930), de encerramento da fase instrutória e abertura de prazo para alegações finais.
+O ponto sob análise recai sobre a qualificação jurídica como marco interruptivo da prescrição da juntada do Ofício nº 926/2015-RFB/Gabinete, de 23/12/2015, aos autos de acesso restrito ao CADE em 24/02/2016 (SEI 0169101), posteriormente juntado aos autos de acesso restrito ao CADE e às representadas em 30/11/2018 (SEI 0554237).
+Para fins de completude da análise, também explorarei neste voto se a produção de informações requisitadas pelo CADE por terceiros, públicos ou particulares, na apuração de infração contra a ordem econômica, é evento capaz de interromper a prescrição intercorrente.
+Nos termos do disposto no § 3º e no § 1º do art. 46 da Lei nº 12.529, de 2011, os marcos interruptivos da prescrição intercorrente são somente julgamento, despacho (§ 3º), qualquer ato administrativo ou judicial que tenha por objeto a apuração da infração contra a ordem econômica (primeira parte do § 1º), intimação ou notificação da investigada (segunda parte do § 2º).
+Contendas entre a Administração Pública e os administrados quanto à definição de marcos interruptivos da prescrição intercorrente são comuns na aplicação dos variados diplomas legais que contemplam a previsão desta forma de extinção do processo administrativo ou judicial.
+Conquanto cada lei conferir contornos próprios ao fenômeno jurídico da prescrição intercorrente, como o tempo de paralisação do processo e as causas interruptivas, a sua finalidade é sempre a estabilização das relações jurídicas diante da demora da Administração Pública na apuração de ato ou fato que, juridicamente qualificado, será apto a produzir efeitos negativos na esfera jurídica do administrado.
+Para este julgamento, importa definir o alcance da expressão “qualquer ato administrativo (...) que tenha por objeto a apuração da infração” para qualificar a juntada do Ofício nº 926/2015-RFB/Gabinete (SEI 0169101) aos autos ou a produção das informações nele contidas por parte da SRFB/MF como ato de subsunção à norma do § 1º do art. 46 da Lei nº 12.529, de 2011, ou, em não o sendo, declarar a extinção do processo pela prescrição intercorrente.
+Em um olhar sobre a jurisprudência deste Tribunal do CADE, verifica-se prevalecer o entendimento que rejeita a juntada de documentos aos autos em respostas a ofícios expedidos a bem da instrução processual como marco interruptivo da prescrição.
+A título de exemplo, cito o julgamento do recurso de ofício no Processo Administrativo nº 08000.002541/1995-18, em 26/08/2009, ao qual foi negado provimento para declarar a prescrição intercorrente, em votação unânime.
+Por oportuno, transcrevo o trecho a seguir, do voto- vista do Conselheiro Arthur Badin (0366548, página 95):
+“Para a interrupção da prescrição intercorrente não basta um despacho de mero expediente, de encaminhamento dos autos para análise de órgão competente ou um despacho que determina a juntada de um documento aos autos ou uma petição, deve ser um despacho que de fato demonstre a ação da Administração Pública, buscando apurar a verdade material, e nesse sentido o Conselho vem aderindo à interpretação que faz a leitura conjugada dos dispositivos da Lei nº 9.873.” (negritei)
+Comungo deste entendimento em razão de dois fundamentos, quais sejam, a interpretação da norma do § 1º do art. 46 da Lei nº 12.529, de 2011, e a tese firmada pela 1ª Seção do Superior Tribunal de Justiça no julgamento do Recurso Especial nº 1.340.553/RS.
+A propósito do primeiro fundamento, extrai-se da norma do § 1º do art. 46 da Lei nº 12.529, de 2011, que o ato administrativo apto à interrupção da prescrição deverá ter por objeto a apuração da infração contra a ordem econômica.
+Por consequência, somente atos administrativos praticados por órgão ou entidade integrante do Sistema Brasileiro de Defesa da Concorrência – SBDC têm aptidão para interromper a prescrição, posto serem as únicas autoridades com competência para esta espécie de apuração.
+“§ 1º Interrompe a prescrição qualquer ato administrativo ou judicial que tenha por objeto a apuração da infração contra a ordem econômica mencionada no caput deste artigo (...).” (negritei)
+Dito isto, a informação produzida pela SRFB/MF por meio da compilação dos dados requisitados pelo Sr.
+Superintendente Geral do CADE à época, ainda que útil e necessária à tomada de decisão por parte da autoridade responsável por este processo, não tem o condão de interromper a prescrição, posto não se tratar de ato administrativo praticado por esta última.
+De outro giro, a juntada do Ofício nº 926/2015-RFB/Gabinete (SEI 0169101) aos autos não se qualifica como ato administrativo, por faltar-lhe objeto capaz de produzir efeitos jurídicos.
+Sobre este elemento dos atos administrativos, espécie que de ato jurídico que são, colaciono o comentário de CELSO ANTÔNIO BANDEIRA DE MELLO:
+“27.
+Conteúdo – normalmente designado objeto, por muitos doutrinadores – é aquilo que o ato dispõe, isto é, o que o ato decide, enuncia, certifica, opina ou modifica na ordem jurídica.
+É, em suma, a própria medida que produz a alteração na ordem jurídica.
+Em última instância, é o próprio ato, em sua essência.” (Curso de Direito Administrativo, 25ª edição, 2008, p. 386.)
+(negritei)
+Insta esclarecer não se afirmar que nenhum documento juntado aos autos terá aptidão para interromper a prescrição.
+Caso o elemento juntado aos autos seja um ato administrativo do órgão responsável pela apuração e tenha por objeto a apuração da infração contra a ordem econômica, a data da sua juntada aos autos poderá coincidir com o marco interruptivo da prescrição.
+Na jurisprudência deste Tribunal do CADE, encontra-se precedente no qual a juntada de documento de jornal aos autos pela autoridade instrutória foi qualificado como evento hábil à interrupção da prescrição (Processo Administrativo para Imposição de Sanções Administrativas por Infrações à Ordem Econômica nº 08012.006312/2004-31).
+Com minha ressalva particular ao entendimento firmado naquele precedente, elenco os pareceres técnicos de órgãos do CADE (Superintendência-Geral, Departamento de Estudos Econômicos e Procuradoria Federal Especializada junto ao CADE) como hipóteses da interrupção da prescrição prevista na primeira parte do § 1º do art. 46 da Lei nº 12.529, de 2011.
+O mesmo se pode dizer quanto à hipótese de interrupção da prescrição consubstanciada em “qualquer ato judicial que tenha por objeto a apuração da infração contra a ordem econômica”.
+Não será a juntada de peças extraídas de autos judiciais aos autos de processo administrativo em tramitação perante órgãos do SBDC o marco interruptivo da prescrição, mas a provocação do Poder Judiciário por entidade ou órgão legitimado para apuração de infração da ordem econômica, a exemplo de requerimentos de provas emprestas em ações penais e o ajuizamento de ação civil pública com fundamento no inc. V do art. 1º da Lei nº 7.347, de 1985, que configura a quebra da inércia necessária para interromper o lapso prescricional.
+Tal conclusão deriva da conformação da prescrição intercorrente com o princípio constitucional da eficiência (art. 37, caput, CF), sendo exigido da Administração uma atuação ativa para que esta seja interrompida.
+Atos de mero expediente como a juntada de qualquer elemento aos autos não interrompe a prescrição.
+Apenas o ato administrativo ou judicial, com elemento decisório e motivação de apuração de infração à ordem econômica satisfaz o comando do § 1º do art. 46 da Lei nº 12.529, de 2011.
+O segundo fundamento deste voto recai sobre o entendimento firmado pela 1ª Seção do Superior Tribunal de Justiça no julgamento do Recurso Especial nº 1.340.553/RS, Relator Ministro Mauro Campbell Marques, em 12/09/2018, cujo acórdão restou submetido ao regime dos recursos repetitivos previsto no art. 1.036 e seguintes do Código de Processo Civil, e tratou da sistemática para a contagem da prescrição intercorrente prevista no art. 40 da Lei nº 6.830, de 1980, encerrando décadas de discussões judiciais sobre as espécies de petições da Fazenda Nacional aptas a interromper a prescrição intercorrente.
+Naquela assentada, o colegiado firmou a tese de que somente o requerimento resultante em “providência frutífera”, isto é, na localização do devedor ou de seus bens, é capaz de interromper a prescrição, retroagindo à data do peticionamento, sendo esta última parte relevante a este julgamento.
+Por certo que o conceito de providência frutífera não se aplica aos processos administrativos para imposição de sanções administrativas pela prática de ilícito contra a ordem econômica, em face das diferentes causas de interrupção da prescrição previstas no caput do art. 40 da Lei nº 6.830, de 1980, e no § 1º do art. 46 da Lei nº 12.529, de 2011.
+Enquanto naquele dispositivo a prescrição é interrompida pela obtenção do resultado localização do devedor ou de seus bens, neste último dispositivo a previsão recai sobre a motivação do ato administrativo ou judicial, exigindo somente que tenha por objeto a apuração da infração contra a ordem econômica.
+Assim, como registrado no voto do Conselheiro João Paulo de Resende nos autos do Processo Administrativo nº 08012.012081/2007-48:
+“(...) para a aferição da ocorrência ou não da prescrição intercorrente não cabe a análise se o ato de apuração da infração praticado pela administração era pertinente ou restou produtivo ou infrutífero.
+Basta que seja um ato com a motivação de apurar a infração, sendo irrelevante o resultado dele decorrente.” (SEI 0131043, negritei)
+No mesmo sentido, registre-se o voto do Conselheiro Gilvandro Vasconcelos Coelho de Araujo no julgamento do Processo Administrativo para Imposição de Sanções Administrativas por Infrações à Ordem Econômica nº 08012.006685/2004-11 (SEI 0102224).
+Feita a devida ressalva, transcrevo a seguir a tese 4.3. firmada no Recurso Especial nº 1.340.553/RS, que determina a retroação da data da interrupção da prescrição intercorrente à data do protocolo da petição que requereu a providência frutífera:
+“(...)
+4. Teses julgadas para efeito dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973):
+(...)
+4.3.)
+A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens.
+Os requerimentos feitos pelo exequente, dentro da soma do prazo máximo de 1 (um) ano de suspensão mais o prazo de prescrição aplicável (de acordo com a natureza do crédito exequendo) deverão ser processados, ainda que para além da soma desses dois prazos, pois, citados (ainda que por edital) os devedores e penhorados os bens, a qualquer tempo - mesmo depois de escoados os referidos prazos -, considera-se interrompida a prescrição intercorrente, retroativamente, na data do protocolo da petição que requereu a providência frutífera.” (negritei)
+Este entendimento se aplica ao caso sob julgamento sem necessidade de qualquer adaptação, e está em linha com a interpretação da norma do § 1º do art. 46 da Lei nº 12.529, de 2011, já desenvolvida.
+Assim, a juntada do Ofício nº 926/2015-RFB/Gabinete (SEI 0169101) aos autos ou a produção das informações nele contidas por parte da SRFB/MF não são marcos interruptivos da prescrição, mas somente o ato administrativo anterior exarado pela autoridade responsável pela apuração, com a motivação de apurar infração contra a ordem econômica - no caso, o Ofício nº 4779/2015/CADE (SEI 0103544), do Sr. Superintende Geral do CADE à época.
+Transcorridos mais de três anos entre aquele despacho e o próximo marco interruptivo da prescrição, o Despacho SG nº 1635/2018, de 12/12/2018 (SEI 0558930), de encerramento da fase instrutória e abertura de prazo para alegações finais, operou-se a prescrição intercorrente.
+Dispositivo
+Diante do exposto, acompanho a Relatora e voto pelo arquivamento dos autos, pela ocorrência da prescrição intercorrente.
+É o voto.
+Brasília, 14 de agosto de 2020.
+[assinatura eletrônica]
+Sérgio Costa Ravagnani

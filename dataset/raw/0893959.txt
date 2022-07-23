@@ -1,0 +1,110 @@
+SEI/CADE - 0893959 - Voto Embargos de Declaração
+Embargos de Declaração no Finalístico: Recurso Voluntário nº 08700.004943/2020-88
+Embargante: Localfrio S.A. Armazéns Gerais Frigoríficos
+Advogados(as): Ticiano Figueiredo, Pedro Ivo Velloso, Diego Campos, Luciano Barros, Polyanna Vilanova, Célio Rabelo, Juliano Aveiro, Julia Werberich, Clarissa Ribeiro, Francisco Agosti e Marcelo Neves
+Interessados(as): Portonave S/A Terminais Portuários de Navegantes, Associação Brasileira dos Terminais de Contêineres de Uso Público (ABRATEC), Associação Brasileira dos Terminais Privados (ATP) e Associação Brasileira de Terminais Portuários (ABTP)
+Advogados(as): Guilherme Moreira Rodrigues, Flávio Ribeiro Bettega, Fernando Henrique Correia Curi, Márcia Fernades Bezerra, Cássio Lourenço Ribeiro, Gustavo Lima Braga e outros
+Conselheiro-Relator: Luis Henrique Bertolino Braido
+VOTO-RELATOR – CONSELHEIRO LUIS HENRIQUE BERTOLINO BRAIDO
+VERSÃO PÚBLICA ÚNICA
+Ementa:
+EMBARGOS DE DECLARAÇÃO.
+RECURSO VOLUNTÁRIO.
+ALEGAÇÕES DE OMISSÃO E CONTRADIÇÃO.
+TEMPESTIVO.
+CONHECIMENTO.
+AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU ERRO.
+EMBARGOS PROVIDOS APENAS PARA ESCLARECER EVENTUAIS OBSCURIDADES.
+Embargos de declaração destinam-se à integração da decisão a fim de sanar vício interno consistente em omissão, contradição, erro ou obscuridade, não se prestando a rediscutir o mérito da decisão.
+Embargantes alegam vícios de omissão e contradição.
+Ausência de omissão, contradição ou erro na decisão proferida.
+Esclarecimento de eventuais obscuridades, com base no art. 218 do Regimento Interno do CADE, de modo a afastar quaisquer dúvidas acerca da amplitude da decisão proferida.
+voto
+Tratam-se de embargos de declaração (SEI 0867757) opostos com base no art. 218 do Regimento Interno do CADE, em face da decisão do plenário do Tribunal (SEI 0865762) que, nos termos do voto-relator (SEI 0838644), deu provimento ao recurso voluntário interposto pelo ora Embargante, por maioria de votos.
+O processo foi incluído na pauta da 173ª Sessão Ordinária de Julgamento (SEI 0873842).
+Entretanto, conforme registrado na ata da 173ª Sessão (SEI 0879647), o processo foi retirado de pauta a pedido, "tendo em vista decisão judicial proferida pelo Tribunal Regional Federal da 1ª Região", a qual foi acostada aos autos (SEI 0876588)
+Dessa forma, foi solicitado à PFE-CADE, com base no art. 8º, IV, do Regimento Interno do CADE, parecer de força executória do julgado.
+A PFE-CADE apresentou informação (SEI 0888009) com o seguinte teor: "Em atenção ao Despacho Ordinatório GAB2 0878759, informo que não mais se encontram judicialmente suspensos o prosseguimento do Processo Administrativo nº 08700.007049/2018-45, bem como o prosseguimento do julgamento do Recurso Voluntário nº 08700.004943/2020-88, razão pela qual não há impedimento judicial para a inclusão em pauta para julgamento dos embargos de declaração (SEI 0867757).
+A suspensão judicial do andamento do processo administrativo e do recurso voluntário, informada pelo E-mail Portonave (SEI 0876588), teve seus efeitos suspensos por decisão liminar do Presidente do E. STJ, no bojo da SLS nº 2900/DF, cujo teor se encontra no Apartado de Acesso Restrito nº  08700.001773/2021-61, em função da decretação de segredo de justiça.
+Informo também, por oportuno, que todos os efeitos do julgamento do Recurso Voluntário nº 08700.004943/2020-88 continuam suspensos por decisão do Juízo da 20ª Vara Federal de Brasília, nos termos do que já foi informado no documento SEI 0870546".
+Tendo em vista a Informação prestada pela PFE-CADE, os embargos de declaração foram novamente incluídos em pauta para julgamento (SEI 0888907).
+I. EXAME DE ADMISSIBILIDADE DOS EMBARGOS
+A Ata da Sessão Ordinária de Julgamento referente à decisão embargada foi publicada no Diário Oficial da União em 10 de fevereiro de 2021 (SEI 0865762).
+Considerando que os embargos de declaração foram opostos em 15 de fevereiro de 2021 (SEI 0867757), foi atendido o prazo recursal de cinco dias contados da publicação da decisão, conforme previsto no art. 218 do Regimento Interno do CADE.
+O recurso é, portanto, tempestivo.
+A legitimidade da Embargante para opor os presentes embargos decorre do fato de haver interposto o recurso voluntário, que foi objeto de apreciação pelo plenário do Tribunal.
+Igualmente, as questões suscitadas pela Embargante dizem respeito à existência de suposta omissão e contradição no julgado, conforme dispõe o art. 218 do Regimento Interno do CADE e o art. 1.022 do Código de Processo Civil, aplicado subsidiariamente por força do art. 115 da Lei 12.529/2011.
+Assim, entendo presentes os requisitos de admissibilidade recursal, razão pela qual conheço dos embargos opostos e passo a analisá-los quanto ao mérito.
+II. BREVE RESUMO DOS EMBARGOS DE DECLARAÇÃO
+A Embargante alega que o recurso voluntário teve como objeto “fazer cessar, imediatamente, a cobrança pela Portonave S.A - Terminais Portuários de Navegantes (‘Portonave’) da taxa THC2 e outras três taxas adicionais a título de pesagem, levante e armazenagem de contêineres no Porto de Itajaí”.
+Argumenta, também, que o plenário do CADE “deu integral provimento ao recurso voluntário, nos termos do voto do Conselheiro Relator”.
+Todavia, alega haver dois vícios no voto-condutor, um de omissão e outro de contradição.
+No que diz respeito à omissão, a Embargante alega que “diz respeito justamente à ausência de determinação específica de suspensão de cobrança das taxas de pesagem, levante e armazenagem no dispositivo, considerando que só se fez menção à ‘cessação da cobrança do SSE ou outros valores a título de segregação e entrega de contêineres’”.
+Acerca da contradição, a Embargante alega que: “No tópico III.4.
+‘Da duplicidade da SSE’, a decisão levanta dúvidas quanto à efetiva cobrança das taxas de pesagem, levante e armazenagem pela Portonave, bem como sua cobertura ou não pela box rate”, e também que: “Se há o acolhimento da pretensão recursal em sua integralidade e o pleito da Embargante explicitamente faz referência à cessação da cobrança das três taxas referidas, não há como se pretender a confirmação sobre a ‘efetiva cobrança de tais taxas’ como o fez a decisão embargada”.
+III. MÉRITO DO RECURSO
+Faz-se necessário, primeiramente, transcrever o pedido apresentado no recurso voluntário (SEI 0818237):
+213.
+Ante o exposto, não havendo dúvidas quanto ao preenchimento dos requisitos autorizadores do pleito de urgência, requer-se que o presente recurso seja conhecido e, no mérito, integralmente provido, para revogar o Despacho SG n° 1133/2020 e conceder a medida preventiva pleiteada na forma do art. 84 da Lei n° 12.529/2011, determinando à Representada - Portonave - a cessação de quaisquer atos voltados à cobrança do SSE e/ou à cobrança de outros valores a título de supostas despesas adicionais a título de segregação e entrega de contêineres a recintos alfandegados independentes na zona de influência do Porto de Itajaí/SC até o julgamento de mérito do processo administrativo, sob pena de pagamento de multa diária.
+(Grifos não constantes do original)
+Válido, agora, comparar o pedido transcrito acima com o dispositivo do voto-condutor da decisão do plenário do CADE (SEI 0838644):
+57.
+Com base em todo o exposto, conheço do recurso interposto pela Localfrio S.A. Armazéns Gerais Frigoríficos para, no mérito, dar-lhe integral provimento, determinando: A cessação imediata, por parte da Portonave, da cobrança do SSE ou outros valores a título de segregação e entrega de contêineres a quaisquer recintos alfandegados, independentemente do regime de trânsito aduaneiro adotado, até o julgamento do mérito do Processo Administrativo.
+(Grifos não constantes do original)
+Como se vê, o pedido no recurso voluntário coincide com o dispositivo do voto-condutor, e por essa razão a decisão do plenário do CADE foi pelo integral provimento do recurso voluntário.
+Entretanto, a Embargante alega que teria havido omissão no dispositivo do voto-condutor, porque não houve a determinação específica de suspensão de cobrança das taxas de pesagem, levante e armazenagem.
+Com o devido respeito, houvesse omissão no dispositivo do voto-condutor, esta derivaria do próprio do próprio pedido no recurso voluntário.
+Caso isso fosse verdade, o ordenamento pátrio impediria este Tribunal de adotar decisão ultra petita.
+Não existe omissão, seja no dispositivo do voto-condutor, seja no pedido do recurso voluntário.
+Nos dois casos, a expressão “outros valores a título de segregação e entrega de contêineres” inclui todas as cobranças referentes à segregação e entrega de contêineres, tais como as taxas de pesagem, levante e armazenagem, além de outras que venham a ser criadas com denominações distintas.
+Decorre do art. 322, §2º, do Código de Processo Civil – aplicado subsidiariamente ao caso por força do art. 115 da Lei 12.529/2011 – que o pedido no recurso voluntário deva ser interpretado em conjunto com os demais argumentos e postulações existentes, tanto no recurso voluntário quanto nas demais manifestações do Requerente.
+Ao assim proceder, conclui-se que o pedido no recurso voluntário inclui a cessação da cobrança de taxas de pesagem, levante e armazenagem.
+A embargante também alega a existência de contradição na seção III.4 do voto-condutor.
+Convém transcrever partes daquele texto:
+III.4 DA DUPLICIDADE DA SSE
+31.
+Todavia, a permissão contida na Resolução 34/2019 pode sim ser contraposta aos argumentos de ilegalidade da SSE, apresentados pela Requerente, seja por não haver prestação de serviço efetivo ou pela cobrança em duplicidade, posto que o serviço de segregação e entrega da mercadoria já seria remunerado pela box rate
+32.
+Na verdade, uma vez definido que os serviços abrangidos pela SSE ou pela box rate são contratados livremente pelos particulares, uma eventual cobrança, correspondente a serviço não prestado, poderia sim representar um descumprimento contratual, a ser resolvido no âmbito de perdas e danos, e não uma conduta anticompetitiva sujeita às sanções da Lei 12.529/2011.
+33.
+Veja-se que a Lei 12.815/2013, em seu art. 40, estabelece o seguinte conceito de capatazia:
+(...)
+34.
+Como se vê, a capatazia abrange uma série de atividades, as quais podem perfeitamente ser remuneradas por diferentes tarifas, cobradas de diferentes pessoas físicas ou jurídicas.
+Não há, na Lei 12.815/2013, determinação de se remunerar toda a capatazia por apenas uma tarifa.
+Ademais, a Resolução34/2019 da ANTAQ confirma que a atividade de movimentação de contêineres e carga geral pode ser dividida em diversos serviços.
+Assim, não é possível afirmar a existência de duplicidade na contratação da SSE de forma separada da box rate.
+35.
+Não se descarta, entretanto, a possibilidade de taxas de pesagem, levante e armazenagem no pátio já estarem cobertas pela box rate.
+O recurso voluntário interposto pela Localfrio (SEI 0818237) argumenta que tais taxas são cobradas sem previsão no art. 40, §1º, I, da Lei 12.815/2013 ou em regulamento da ANTAQ.
+Sugiro aprofundamento da instrução sobre este tema, buscando-se confirmar junto à Portonave e aos recintos alfandegados a efetiva cobrança de tais taxas, bem como consultar a ANTAQ sobre a alegação de que tais taxas já estariam cobertas pela box rate.
+Não há contradição no voto-condutor.
+Ele, claramente, não acolheu a alegação do Recorrente, ora Embargante, de que a SSE, assim como as taxas de pesagem, levante e armazenagem, não poderiam ser exigidas do importador ou terminal alfandegado por este contratado, porque estariam em conflito com a Lei 12.815/2013, ou porque haveria cobrança em duplicidade.
+Entretanto, afirmou que: “A cobrança da SSE, tendo em vista a existência evidente de poder de mercado do operador portuário perante ao armazém alfandegado, é uma conduta que possui potencial para produzir efeitos anticompetitivos.
+Note-se, portanto, que não se trata de proibir a cobrança da SSE, mas de impedir que ela seja recolhida do importador ou recinto alfandegado, em virtude da possibilidade e probabilidade de abuso de posição dominante”.
+O mesmo argumento se aplica a outras taxas eventualmente cobradas do importador (ou terminal alfandegado que o represente) a título de retirada e entrega de contêineres ou mercadorias importadas, dentre elas, as taxas de levante, pesagem ou armazenagem.
+Enfatize-se que tais cobranças caracterizam abuso de posição dominante, com efeito, mesmo que potencial, de dificultar a atuação de concorrentes na atividade de armazenagem, bem como constituem discriminação de concorrentes nessa mesma atividade.
+Tais infrações estão previstas na Lei 12.529/2011, sem que haja qualquer conflito com a Lei 12.815/2013.
+Cabe aqui reiterar o voto por mim proferido no PA 08700.001984/2020-12 (SEI 0770131):
+19.
+Esta diferenciação de taxas entre cargas armazenadas e despachadas no próprio terminal e aquelas destinadas a outros terminais ou recintos alfandegados (dentro e fora da área legal do porto) constitui potencial problema concorrencial.
+De modo geral, uma firma integrada – como é o caso dos terminais portuários e seus armazéns – não pode discriminar seus concorrentes no mercado à jusante (downstream) de armazenagem, vez que tal prática possui efeitos distorcionários e exclusionários, ferindo os princípios da livre concorrência e livre iniciativa.
+Exceções são admitidas caso tal discriminação tenha justificativa econômica baseada na existência de custos diferenciados.
+(...)
+22.
+Não se fala aqui de impedir a cobrança da taxa SSE ou de taxas similares, mas de permitir que elas ocorram sem desrespeitar a Lei 12.529/2011.
+Os Serviços de Segregação e Entrega, conforme estabelece a Resolução Normativa 34/2019 da ANTAQ, não estariam embutidos na taxa denominada box rate e, portanto, deveriam ser incluídos a ela ou cobrados separadamente do transportador marítimo, com quem o terminal portuário já estabelece relação comercial livre e regulada pela competição existente com outros terminais portuários.
+(Grifos não constantes do original)
+Dessa forma, nos termos do art. 218 do Regimento Interno do CADE, convém esclarecer essas eventuais obscuridades, de modo a afastar quaisquer dúvidas acerca da amplitude da decisão proferida pelo CADE.
+Dispositivo
+Pelos motivos expostos, voto pelo conhecimento dos embargos de declaração e, no mérito, pelo seu provimento parcial, apenas para que seja esclarecido o dispositivo do voto-condutor, sem alteração do seu conteúdo, conforme abaixo transcrito:
+Com base em todo o exposto, conheço do recurso interposto pela Localfrio S.A. Armazéns Gerais Frigoríficos para, no mérito, dar-lhe integral provimento, determinando:
+a.
+A cessação imediata, por parte da Portonave, da cobrança do SSE ou outros valores a título de condição para segregação e entrega de contêineres (a exemplo das taxas de levante, pesagem e armazenagem) a quaisquer recintos alfandegados, independentemente do regime de trânsito aduaneiro adotado, até o julgamento do mérito do Processo Administrativo.
+b.
+A aplicação, em caso de continuidade da cobrança, de multa diária no valor de R$ 20.000,00 (vinte mil reais).
+O valor da multa diária acimado valor mínimo legal decorre da situação econômica da Representada e da gravidade da infração, podendo implicar em prejuízos de natureza difusa, não restritos à Representante, conforme o disposto no art. 39 da Lei 12.529/2011.
+c.
+O encaminhamento de cópia desta decisão à Agência Nacional dos Transportes Aquaviários – ANTAQ, para ciência; e à Superintendência-Geral do CADE, para as providências que considerar cabíveis à luz das sugestões contidas nos parágrafos 35 e 48.
+É o voto.
+LUIS HENRIQUE BERTOLINO BRAIDO

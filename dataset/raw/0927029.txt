@@ -1,0 +1,106 @@
+SEI/CADE - 0927029 - Voto Embargos de Declaração
+Embargos de Declaração no Finalístico: Ato de Concentração Ordinário nº 08700.005598/2020-08
+Requerentes: White Martins Gases Industriais Ltda. e Petróleo Brasileiro S.A. – Petrobrás
+Advogados(as): André de Almeida Barreto Tostes, Tales David Macedo, Eduardo Caminati Anders, Márcio de Carvalho Silveira Bueno e outros
+Terceiro Interessado: Companhia de Gás de São Paulo – Comgás
+Advogados(as): Bruno de Luca Drago, Marco Antonio Fonseca Júnior e outros
+Relator: Conselheiro Luis Henrique Bertolino Braido
+VOTO-RELATOR
+VERSÃO PÚBLICA única
+Ementa:
+EMBARGOS DE DECLARAÇÃO.
+PROCESSO ADMINISTRATIVO.
+ATO DE CONCENTRAÇÃO.
+AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO.
+EMBARGOS DESPROVIDOS.
+Embargos de Declaração destinam-se à integração da decisão a fim de sanar-lhe vício interno consistente em omissão, obscuridade, contradição ou erro, não se prestando a rediscutir o mérito da decisão.
+Ausente omissão, contradição, obscuridade ou erro, o recurso não merece provimento.
+voto
+Trata-se de Embargos de Declaração opostos pela Companhia de Gás de São Paulo – Comgás (SEI 0924647) com base no art. 219 do Regimento Interno do CADE, em face da decisão do Tribunal do CADE que concluiu pela aprovação do Ato de Concentração, condicionada à assinatura do Acordo em Controle de Concentrações, e remeteu o Processo à Superintendência-Geral do CADE (“SG”), para que se verifique a adequação do novo Acordo Operativo do Consórcio Gemini às decisões do CADE nos PAs 08012.001015/2004-08 e 08012.011881/2007-41, nos termos do art. 52 do Lei 12.529/2011, nos termos do voto do Conselheiro-Relator (SEI 0921055).
+I. EXAME DE ADMISSIBILIDADE DOS EMBARGOS
+A Ata da Sessão Ordinária de Julgamento referente à decisão embargada foi publicada no Diário Oficial da União em 22/06/2021 (SEI 0924775).
+Considerando que os Embargos de Declaração foram opostos em 28/06/2021 (SEI 0924647), foi atendido o prazo recursal de cinco dias contados da publicação da decisão, conforme previsto no art. 219 do Regimento Interno do CADE.
+O recurso é tempestivo.
+A legitimidade da Embargante para opor os presentes Embargos decorre de sua admissão no Processo como Terceiro Interessado (SEI 0841679, art. 50 da Lei 12.529/2011).
+Tendo em vista o art. 115 da Lei 12.529/2011, aplica-se ao caso o disposto no art. 58, II da Lei 9.784/99 e o art. 996 da Lei 13.105/2015.
+As questões suscitadas pela Embargante dizem respeito à existência de supostas contradições, omissões e erros materiais a serem suprimidos do julgado, conforme dispõe o art. 218 do Regimento Interno do CADE e o art. 1.022 do Código de Processo Civil, aplicado subsidiariamente por força do art. 115 da Lei 12.529/2011.
+Assim, entendo presentes os requisitos de admissibilidade recursal, razão pela qual conheço dos Embargos opostos e passo a analisá-los quanto ao mérito.
+II. MÉRITO
+A Embargante alega que o voto-condutor da decisão do Tribunal possui contradições e omissões relevantes para aprovação do Ato de Concentração em epígrafe.
+Argumenta que a decisão do CADE “parece aprovar e ratificar uma prática discriminatória que, s.m.j., deve ser tratada no âmbito desta decisão, em razão da impossibilidade de se cindir os aspectos da operação e, principalmente, a incoerência e impossibilidade de se delegar à outra investigação, que em sede de conduta visa analisar fatos pretéritos e presentes, a avaliação de condição futura intrinsicamente relacionada à presente operação.
+Em outras palavras, a solução proposta não encontra respaldo jurídico na Lei nº 12.529/11 e melhores práticas do Cade”.
+Explica que a “operação em análise realiza-se por meio de três ações: (i) a venda da participação detida pela Petrobras na Gáslocal; (ii) a aquisição, pela White Martins, de ativos da planta de liquefação operada pelo Consórcio Gemini; e (iii) o aditamento do Acordo Operativo do Consórcio Gemini.
+(...) Ocorre que, no mérito, a operação não foi analisada de maneira una e indivisível, ou seja, abrangendo-se as três ações supramencionadas.
+Pelo contrário, houve a cisão dos elementos da operação, sendo que o teor do aditamento do Acordo Operativo não foi objeto de análise da decisão.
+Conveniente para se deixar de lado a principal questão a ser enfrentada, mas que recai no mesmo erro incorrido pelo SBDC quando da aprovação da formação deste Consórcio há mais de 15 (quinze) anos atrás.
+(...) A verdade é que a decisão é contraditória.
+Por um lado, afirma envolver a operação três elementos, mas, por outro, enfrenta apenas dois deles.
+Ocorre que não possui qualquer amparo legal a forma de análise adotada no voto.
+Não se pode analisar operações em tiras”.
+Também atesta não haver “permissão legal para que a autoridade divida a análise de operações.
+Pelo contrário, estas devem ser analisadas de maneira ampla, de modo que se apure com confiabilidade seus reais impactos nos mercados.
+No caso em tela, ficou de fora da análise de mérito justamente a parte mais sensível da operação do ponto de vista concorrencial, aquela que, de fato, pode lesar a concorrência”.
+Alegam ainda que: “A forma de fornecimento de gás natural pela Petrobras ao Consórcio Gemini é o que verdadeiramente importa nesta análise.
+Esse fornecimento, comprovadamente discriminatório, tanto que condenado pelo Cade no Processo Administrativo nº. 08012.011881/2007-41 (...) é que está sendo alterado pelas Requerentes.
+Não pode, portanto, passar à margem da análise deste E. Tribunal”.
+Ainda de acordo com a Embargante, “o mesmo voto já antecipa que as cláusulas estabelecidas no Acordo Operativo têm potencial discriminatório, ou seja, não cumprem a determinação contida no Processo Administrativo” e que “se o Acordo Operativo não está conforme a decisão do Processo Administrativo, porque discriminatório, e se não há explicações econômicas que o justifiquem, tudo isso registrado nos autos, com base em que se aprovar a operação?”.
+Aduz também que: “Ao contrário do que determina a decisão, não se pode atribuir à SG uma competência do Tribunal do Cade.
+Cabe a este E.
+Tribunal, na análise do Ato de Concentração a ele submetido, avaliar todos os seus termos e dar a palavra final sobre a operação.
+Não pode este E.
+Conselho aprovar uma operação e, ao mesmo tempo, porque identificados efeitos anticompetitivos dela decorrentes, determinar que a SG diga se tais efeitos realmente existem.
+Não deve este E.
+Tribunal se furtar ao dever de examinar o conteúdo do Acordo Operativo.
+Os termos do Acordo Operativo são do conhecimento do Cade e constam dos autos.
+A decisão do Processo Administrativo igualmente.
+É necessário, portanto, que este E.
+Tribunal analise-os e avalie a sua conformidade.
+Simples.
+Tendo o Ato de Concentração sido submetido ao crivo do Tribunal do Cade, não pode este devolver tal responsabilidade à SG, como faz a decisão ora recorrida.
+Não é competente quem quer, mas quem pode, segundo a norma de Direito.
+À SG não cabe dar a palavra final sobre o Acordo Operativo, mas sim ao Tribunal do Cade”.
+Ademais, “no caso em tela se faz justamente o contrário.
+Aprova-se uma operação para que, após, a SG verifique se seus efeitos seriam discriminatórios ou não.
+Efeitos esses, frise-se, já sabidamente deletérios à concorrência, como consignado no voto.
+Data venia, a decisão tende a retroceder à época de vigência da Lei nº. 8.884/1994”.
+Ainda segundo a Embargante, “a delegação à SG não guarde qualquer respaldo legal, fato subsistente é que a decisão peca por não fixar um prazo para que a SG apure a conformidade do Acordo Operativo com o Processo Administrativo.
+Peca ainda ao se omitir quanto a possibilidade de fechamento da operação antes de tal análise pela SG.
+(...) Aos olhos desta terceira interessada, a decisão ora recorrida nada mais é do que combustível para a já inflamada sanha infrativa das Requerentes de, a qualquer custo e a qualquer preço, operarem à margem da legislação concorrencial brasileira.
+(...) São por essas razões que deve ser sanada a omissão supracitada para que a decisão consigne: (i) o prazo em que a SG deve concluir a análise sobre a conformidade do Acordo Operativo à decisão do Processo Administrativo e, principalmente, (ii) para que registre que a operação não poderá ser consumada antes de tal exame pela SG”.
+Assim, a “decisão recorrida atribui à SG a responsabilidade pela análise se o novo Acordo Operativo do Consórcio Gemini cumpre decisões anteriores do CADE.
+E a determinação é tão simples quanto descrita.
+O voto não faz qualquer menção aos resultados da análise da SG.
+É omisso nesse sentido.
+A decisão parece partir da premissa de que o Acordo Operativo está em conformidade com a determinação do Processo Administrativo, o que, como demonstrado neste recurso, nem de perto reflete a realidade dos fatos.
+(...) Assim sendo, considerando-se todo o contexto da operação e o histórico das Requerentes, é que deve ser a omissão aqui apontada sanada para que conste da decisão as medidas a serem tomadas no caso de verificação de condições discriminatórias no Acordo Operativo que se pretende implementar”.
+A Embargante conclui requerendo o seguinte:
+Seja sanada a contradição apontada no item II.1 para que a operação seja considerada em sua integralidade na presente análise, devendo este E. Cade proceder a análise do mérito não só das alienações de ativos e participação societária, mas também do Acordo Operativo;
+Seja sanada a contradição apontada no item II.2 para que, verificado o caráter discriminatório do Acordo Operativo e inexistindo nos autos justificativas econômicas para o fornecimento diferenciado de gás natural pela Petrobras ao Consórcio Gemini, ser reprovada a operação nos termos em que foi proposta;
+Seja sanada a omissão apontada no item III.1 acima para que a decisão consigne o prazo em que a SG deve concluir a análise sobre a conformidade do Acordo Operativo à decisão do Processo Administrativo;
+Em caráter de urgência, de forma monocrática, seja sanada a omissão apontada no item III.1 acima para que, desde já, ad referendum do Plenário do Tribunal, determine-se que a operação não poderá ser consumada antes do exame da SG sobre a conformidade do Acordo Operativo à decisão do Processo Administrativo, bem como que apenas poderá ser implementada após a confirmação da SG de que o Acordo Operativo não viola a decisão do Processo Administrativo, por ser a medida cautelar necessária e cabível, nos termos do art. 23, X e XI do Regimento Interno do Cade; e
+Por fim, seja sanada a omissão apontada no item III.2 para que conste da decisão as medidas a serem tomadas no caso de verificação de condições discriminatórias no Acordo Operativo que se pretende implementar.
+Não há omissão ou obscuridade a ser sanada.
+Como se sabe, o Ato de Concentração autorizado pelo CADE corresponde, basicamente, à venda, pela Petróleo Brasileiro S.A. (“Petrobrás”), da totalidade da participação que detém na sociedade GNL Gemini Comercialização e Logística Ltda. (“GásLocal”) para a White Martins Gases Industriais Ltda. (“White Martins”), condicionado à dissolução do “Consórcio Gemini”, o que foi definido em Acordo em Controle de Concentrações.
+A Embargante argumenta que o Acordo Operativo – o qual estabelece termos e condições do fornecimento de gás natural pela Petrobrás ao Consórcio Gemini, considerando a sua saída do capital social da GásLocal – teria cláusulas ilícitas, pois implicaria em discriminação a concorrentes não autorizada pela Lei 12.529/2011.
+Assim, o Ato de Concentração deveria ser reprovado, ou aprovado desde que fosse confirmado que o Acordo Operativo não contraria a Lei 12.529/2011.
+Contudo, inexiste dúvida de que a alienação da participação da Petrobrás na GásLocal à White Martins e a dissolução do Consórcio Gemini sejam providências que estimulam a concorrência e, portanto, em consonância com a Lei 12.529/2011.
+Ao defender a reprovação da operação, a Embargante visa, na verdade, fazer perdurar um estado de coisas (a manutenção do Consórcio Gemini) que não gera bons efeitos para a concorrência e, com isso, indiretamente, tentar solucionar um problema que estaria lhe afetando, qual seja, a suposta discriminação ilegal decorrente do Acordo Operativo.
+O atendimento a esse pleito, ou mesmo o adiamento da decisão, implicaria em sobrepor o interesse privado da Embargante ao bem-estar dos consumidores.
+Isto sim seria contrário à Defesa da Concorrência.
+Como dito no voto, as decisões do CADE de (i) revisão do Ato de Concentração 08012.001015/2004-08 (SEI 0277518) e (ii) condenação por prática de infração à ordem econômica, em violação ao art. 36, incisos I, II e IV e §3º incisos III, IV, V, VII, X, XI e XV daLei 12.529/2011, no Processo 08012.011881/2007-41 (SEI 0277837) não impediram a constituição do Consórcio Gemini nem a participação da Petrobrás no capital social da GásLocal.
+Entretanto, impôs-se à Petrobras, em linha com o princípio de não discriminação, a prática de condições comerciais análogas às do Consórcio Gemini a outros adquirentes de gás natural.
+Ora, fica claro que o CADE, nas decisões acima, estabeleceu parâmetros que deveriam ser observados, pelos participantes do Consórcio Gemini, não só nas condutas mencionadas naqueles Processos, mas também nas condutas futuras.
+É evidente, portanto, que o novo Acordo Operativo do Consórcio Gemini deverá observar os preceitos estabelecidos nas decisões supra mencionadas.
+Porém, a fiscalização do cumprimento das decisões do Tribunal é competência delegada à SG, conforme autoriza o art. 52 da Lei 12.529/2011, in verbis:
+Art. 52.
+O cumprimento das decisões do Tribunal e de compromissos e acordos firmados nos termos desta Lei poderá, a critério do Tribunal, ser fiscalizado pela Superintendência-Geral, com o respectivo encaminhamento dos autos, após a decisão final do Tribunal.
+§ 1º Na fase de fiscalização da execução das decisões do Tribunal, bem como do cumprimento de compromissos e acordos firmados nos termos desta Lei, poderá a Superintendência-Geral valer-se de todos os poderes instrutórios que lhe são assegurados nesta Lei.
+§ 2º Cumprida integralmente a decisão do Tribunal ou os acordos em controle de concentrações e compromissos de cessação, a Superintendência-Geral, de ofício ou por provocação do interessado, manifestar-se-á sobre seu cumprimento.
+Por essa razão, e considerando a necessidade de dilação probatória para uma avaliação mais aprofundada de eventuais práticas discriminatórias do novo Acordo Operativo, algo incompatível com o prazo estabelecido para aprovação de Ato de Concentração (art. 88, § 2º da Lei 12.529/2011), a questão foi remetida à SG.
+A Embargante poderá, no foro adequado, apresentar suas alegações de que o Acordo Operativo fere as decisões do CADE nos Processos 08012.001015/2004-08 08012.011881/2007-41.
+Dessa forma, não havendo omissão ou obscuridade na decisão, os Embargos devem ser indeferidos.
+Dispositivo
+Pelos motivos expostos, voto pelo conhecimento dos Embargos de Declaração e, no mérito, pelo seu desprovimento.
+Por fim, fica a Embargante advertido acerca da possibilidade de aplicação do disposto no art. 80, inciso VII e arts. 81 e 1.026, § 2º, do Código de Processo Civil, em caso de oposição de novos Embargos com intuito manifestamente protelatórios.
+É o voto.
+LUIS HENRIQUE BERTOLINO BRAIDO

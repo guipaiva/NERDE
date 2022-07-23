@@ -1,0 +1,167 @@
+SEI/CADE - 0820681 - Voto Apuração de Ato de Concentração
+Procedimento Administrativo para Apuração de Ato de Concentração nº 08700.005455/2019-54
+Representante: Conselho Administrativo de Defesa Econômica - Ex officio.
+Representadas: Light Energia S.A. e CG I Fundo de Investimento em Participações Multiestratégia
+Advogados/as: Lauro Celidonio Gomes do Reis Neto, Renata Fonseca Zuccolo Giannella e Maria Luiza Miranda Geraldi
+Relatoria: Conselheira Paula Farani de Azevedo Silveira
+VOTO DA RELATORA
+VERSÃO PÚBLICA
+Ementa: PROCEDIMENTO ADMINISTRATIVO DE APURAÇÃO DE ATO DE CONCENTRAÇÃO.
+ANÁLISE DE OPERAÇÃO CONSUMADA ANTES DA APRECIAÇÃO PELO CADE.
+ATO DE CONCENTRAÇÃO DE NOTIFICAÇÃO OBRIGATÓRIA.
+OCORRÊNCIA DE INFRAÇÃO PREVISTA NO ARTIGO 88, § 3º DA LEI N. º 12.529/2011.
+PROPOSTA DE ACORDO EM APAC.
+Em observância à disposição do art. 21, §3º, da Resolução CADE 24/2019, cabe à autoridade elencar parâmetros alternativos que sejam razoáveis e objetivos para a estimação do valor da operação.
+O critério de intencionalidade, disposto no art. 21, II, c, da Resolução CADE 24/2019, presta-se a refletir o grau de intenção, deliberação e ciência das partes na consumação prévia de determinada operação.
+Sua mensuração deve perpassar pela análise do nível de ciência das partes quanto à obrigatoriedade da notificação do ato de concentração e pelo exame do nível de escolha, ciência e ingerência sobre a decisão de realização e consumação da operação.
+voto
+I. RELATÓRIO
+Em atenção ao Anexo I da Resolução CADE 25/2019, o relatório deste voto foi disponibilizado no dia 15 de outubro de 2020 (SEI 0817924 e 0817915).
+Após sua disponibilização, no dia 20 de outubro de 2020, a Light Energia S.A (“Light Energia”, “Vendedora” ou “Representada”) juntou aos autos [ACESSO RESTRITO À LIGHT ENERGIA].
+II. OPERAÇÃO
+A operação sob análise consistiu na aquisição, pelo CG I Fundo de Investimento em Participações Multiestratégia (“CG I FIP”, “Comprador” ou “Representado”) da totalidade das ações detidas pela Light Energia na Renova Energia S.A. (“Renova” ou “Empresa-Alvo”).
+A Light Energia é uma subsidiária integral da Light S.A., que atua nos setores de geração, transmissão e comercialização de energia elétrica.
+O CG I FIP é um fundo de investimentos em participações constituído em 2015 e que adquiriu, em 2018, ações da companhia Renova Energia S.A., detidas até então pela RR Comercializadora de Energia e Participações S.A.
+A Renova é uma companhia brasileira de geração de energia elétrica renovável, com atuação e projetos em matrizes eólicas, pequenas centrais hidrelétricas (PCHs) e solar.
+Desde 2009, sua atuação está fortemente concentrada em projetos de fonte eólica, principalmente na região Nordeste do Brasil.
+Além disso, o Grupo Renova, por meio da Renova Comercializadora de Energia S.A., também atua no mercado nacional de comercialização de energia elétrica.
+As ações adquiridas pelo CG I FIP corresponderam a 17,17% do capital social da empresa-alvo e a 21,72% das ações ordinárias.
+Antes desta operação, o CG I FIP já detinha 14,08% do capital total e 17,82% das ações ordinárias da Renova, além de já participar do bloco de controle, juntamente com a Light Energia e a Companhia Energética de Minas Gerais (“CEMIG”).
+A operação foi notificada ao CADE no dia 29 de outubro de 2019 e analisada no âmbito do Ato de Concentração nº 08700.005267/2019-26 ("AC 5267/2019"), tendo sido aprovada sem restrições no dia 14 de novembro de 2019.
+Segundo explica a Light Energia, na Petição de Notificação do AC 5267/2019, a presente operação teria resultado [ACESSO RESTRITO À LIGHT ENERGIA].
+[ACESSO RESTRITO À LIGHT ENERGIA][1].
+A Light Energia argumenta que [ACESSO RESTRITO À LIGHT ENERGIA].
+III.INSTRUÇÃO ADICIONAL DO FEITO
+Após distribuição do processo à minha relatoria (SEI 0765848), em 9 de junho de 2020, alguns documentos adicionais foram requisitados e juntados aos autos, no objetivo de obter e consolidar dados e informações que haviam sido trazidos ou mencionados nos autos.
+Assim, após reunião realizada com a Representada no dia 19 de junho de 2020 (SEI 0768654), juntou-se aos autos petição (SEI 0770940) que trazia [ACESSO RESTRITO À LIGHT ENERGIA].
+Na sequência, em 27 de julho de 2020, a fim de obter o detalhamento de algumas informações sobre os faturamentos dos grupos envolvidos, meu Gabinete expediu o Ofício nº 5569/2020/GAB4/CADE (SEI 0783412), no qual solicitou-se o envio das seguintes informações:
+a)      Demonstração financeira consolidada e o valor do faturamento bruto da Renova Energia S.A. para o ano de 2018;
+b)     Demonstração financeira consolidada e auditada da Light Energia S.A. e do Grupo Light para o ano de 2018, considerando todas as empresas que o integram;
+c)      Indicação do valor do faturamento bruto do CG I Fundo de Investimento em Participações Multiestratégia nas Demonstrações Financeiras anexadas ao Formulário de Notificação do Ato de Concentração nº 08700.005267/2019-26 (SEI 0678257);
+d)     Demonstração financeira consolidada e auditada do Grupo CG I FIP para o ano de 2018, considerando todas empresas que o integram;
+e)     O mais recente Acordo de Acionistas da Renova Energia S.A. enquanto a Light Energia S.A. compunha seu quadro de acionistas.
+A Light apresentou a documentação requerida em 13 de agosto de 2020 (SEI 0792304 e 0792310).
+De posse da documentação referida, [ACESSO RESTRITO À LIGHT ENERGIA].
+Além disso, também se constatou uma modificação no valor do faturamento bruto do Grupo CG I FIP para o ano de 2018, que foi ajustado para o montante de [ACESSO RESTRITO À LIGHT ENERGIA], uma vez que, segundo a Representada, [ACESSO RESTRITO À LIGHT ENERGIA].
+Ainda, no intuito de melhor averiguar a intencionalidade (Resolução CADE 24/2019, art. 21, II, ‘c’) da Light em consumar a operação, o Gabinete, em reunião realizada em 27 de agosto de 2020 com a Representada (SEI 0810507), solicitou o envio de documentos que demonstrassem como se desenrolou a negociação para a venda das ações, no objetivo de denotar qual seria o nível de previsão e ingerência sobre as decisões relacionadas à operação.
+Em atendimento a essa solicitação, a Light apresentou petição (SEI 0804973) na qual explicou como a decisão de alienar a sua participação na [ACESSO RESTRITO À LIGHT ENERGIA].
+Os documentos apresentados conseguiram demonstrar que, em verdade, [ACESSO RESTRITO À LIGHT ENERGIA].
+Nesse sentido, Light, CEMIG e CG I FIP notificaram o Ato de Concentração 08700.001803/2019-14, aprovado pelo CADE em 21 de março de 2019, que teve como objeto a operação de aquisição, pela Light e pela CEMIG, das ações do CG I FIP na empresa-alvo.
+A operação foi, inclusive, noticiada como Fato Relevante pela Light S.A. em seu site oficial:
+Imagem - Fato Relevante Light S.A.
+[ACESSO RESTRITO À LIGHT ENERGIA].
+As atas das reuniões do Conselho de Administração da Light demonstraram [ACESSO RESTRITO À LIGHT ENERGIA]:
+Imagem - Trechos de Ata de Reunião do Conselho de Administração da Light S.A.
+[ACESSO RESTRITO À LIGHT ENERGIA]
+Essa situação gerou a necessidade da Light alterar o curso de sua estratégia de maneira abrupta [ACESSO RESTRITO À LIGHT ENERGIA].
+IV. CONSUMAÇÃO PRÉVIA DO ATO DE CONCENTRAÇÃO
+A consumação prévia do AC 5267/2019 não é contestada pelas Representadas.
+Conforme admitido pela própria Light Energia e notado pela Superintendência-Geral do CADE (“SG/CADE”), a operação se enquadrava nos critérios dispostos pela Lei 12.529/2011[1] e pela Resolução CADE 2/2012[2], de modo que sua notificação ao CADE e a apreciação prévia pela autoridade eram obrigatórias.
+Por ser um fato incontroverso, abstenho-me de tecer maiores considerações sobre esse ponto.
+Segundo a SG/CADE, a consumação da operação teria ocorrido no dia 13 de outubro de 2019, que é a mesma data da celebração do Contrato de Compra e Venda e Outras Avenças (“Contrato”) entre Light Energia e CG I FIP.
+No entanto, segundo indica a Light Energia, a consumação foi concluída no dia 15 de outubro de 2019, conforme noticiado ao mercado por meio do Fato Relevante publicado no site oficial do Grupo Light[3]:
+Imagem – Fato Relevante Light S.A.
+Na sequência, no dia 21 de outubro de 2019, [ACESSO RESTRITO À LIGHT ENERGIA].
+Assim, a notificação do AC 5267/2019 ocorreu no dia 29 de outubro de 2019.
+A Light Energia argumenta que a consumação prévia da operação ocorreu em circunstâncias excepcionais e justificáveis.
+Em linha com a exposição feita no tópico anterior, [ACESSO RESTRITO À LIGHT ENERGIA].
+[ACESSO RESTRITO À LIGHT ENERGIA][1].
+A Light Energia argumenta que, [ACESSO RESTRITO À LIGHT ENERGIA].
+De acordo com a Light Energia [ACESSO RESTRITO À LIGHT ENERGIA].
+A Light Energia esclarece que [ACESSO RESTRITO À LIGHT ENERGIA].
+A Light Energia juntou aos autos [ACESSO RESTRITO À LIGHT ENERGIA].
+É importante notar que, conforme comprovado pela Light Energia, [ACESSO RESTRITO À LIGHT ENERGIA].
+Dessa forma, argumenta a Light Energia que [ACESSO RESTRITO À LIGHT ENERGIA].
+Ademais, em linha com a exposição tecida na seção anterior, a instrução adicional do feito logrou juntar documentos comprobatórios de que [ACESSO RESTRITO À LIGHT ENERGIA].
+V. DOSIMETRIA
+Nesse contexto, a Light Energia argumenta que [ACESSO RESTRITO À LIGHT ENERGIA].
+Dessa forma, a Representada pugna [ACESSO RESTRITO À LIGHT ENERGIA].
+Em atenção à disposição do art. 21, §3º da Resolução CADE 24/2019, compreendo que uma estimativa mais objetiva e fidedigna do valor da operação consiste no valor das ações adquiridas no dia da consumação da operação.
+Embora se possa argumentar que, em razão da recuperação judicial da Renova, o valor das ações listadas em bolsa não reflete a verdadeira situação financeira desses ativos, compreendo que, no caso concreto, essa medida é a que se mostra mais objetiva, precisa e razoável para fins de aproximação ao critério de valor da operação.
+Assim, ao verificar o valor das ações da Renova listadas na Bovespa no dia 15 de outubro de 2019 (data da consumação), verifica-se o valor de R$ 4,61 da ação preferencial (RNEW4)[3] e o valor de R$ 5,61 da ação ordinária (RNEW3)[4].
+Considerando as ações que foram alienadas por meio do Contrato, alcançam-se os valores de R$ 40.184.845,14 (ações ON) e de R$ 451,78 (ações PN), somando o montante de R$ 40.185.296,93 (quarenta milhões, cento e oitenta e cinco mil duzentos e noventa e seis reais e noventa e três centavos) no valor global do Contrato.
+Esse valor será usado como base de cálculo para a majorante de decurso do prazo.
+O decurso do prazo entre a consumação e a notificação do ato de concentração somou 14 dias, tendo em vista que a consumação ocorreu no 15 de outubro de 2019 e a notificação do AC 5267/2019 aconteceu no dia 29 de outubro de 2019.
+A respeito da gravidade, notando que a operação foi analisada em rito sumário e aprovada sem restrições, consistindo tão somente em transferência acionária interna ao bloco de controle, entendo que sua gravidade é baixa, de modo que determino a alíquota em 0%.
+No que tange ao critério de intencionalidade, compreendo que esse quesito se presta a refletir o grau de intenção, vontade e ciência das partes na consumação prévia de determinada operação.
+A fim de mensurar a alíquota desse critério, compreendo que a autoridade deve averiguar e analisar o nível de ciência das partes envolvidas no gun jumping quanto à necessidade de notificação obrigatória do ato de concentração e, em adição, examinar qual seria o nível de escolha, ciência e ingerência sobre a decisão de realizar a operação e a consumação.
+Isto é, cabe avaliar se as partes tiveram, com efeito, a vontade de consumar uma operação e se estavam cientes de que, ao fazê-lo, incorreriam em violação à Lei 12.529/2011.
+Isso não significa que as partes não serão penalizadas pela infração à ordem econômica no caso de desconhecerem as disposições das Lei 12.529/2011, mas, apenas, que esse critério de dosimetria poderá ser mitigado em face dos elementos do caso concreto e da boa-fé dos representados.
+No caso concreto, a instrução adicional do feito angariou documentos que demonstraram de forma inequívoca que, embora ciente da necessidade de notificação ao CADE, a intenção da Light em consumar a operação não foi deliberada, tendo sido fruto de contingências alheias à sua vontade, que se revelaram de maneira abrupta e incontornável.
+A petição apresentada (SEI 0804973 e 0804974) pela Light Energia esclareceu a sucessão temporal dos fatos que culminaram na consumação prévia e juntou documentos que comprovaram a situação alegada.
+Em razão disso, compreendo que uma alíquota de 0,02% é capaz de refletir o nível de intencionalidade da Light Energia na consumação da operação, uma vez que, apesar de ciente da necessidade de notificação obrigatória da operação, esteve submetida a circunstâncias comprovadas que demonstram que sua decisão não foi deliberada, mas contingencial.
+Ademais, conforme prescreve o art. 21, III, ‘a’, da Resolução CADE 24/2019, aplica-se uma redução de 50% da multa em razão do momento da notificação do AC 5267/2019, que ocorreu de maneira espontânea e prévia ao recebimento de denúncia e à abertura de procedimento instrutório.
+Por fim, em observância à disposição do art. 21, §2º da referida Resolução, os valores das bases de cálculo indicadas foram devidamente atualizados pela SELIC simples.
+O cálculo de dosimetria da multa esperada foi devidamente registrado no Anexo ao voto.
+VI.ACORDO EM APAC
+Após reuniões com o Gabinete, a Light Energia manifestou interesse em compor um Acordo junto ao CADE para encerramento do caso.
+O andamento das tratativas entre a Representada e o Conselho sucedeu de maneira expedita e sem embaraços, de modo que foi possível alcançar um entendimento consensual e satisfatório para ambas partes, ao mesmo tempo em se preservaram os padrões firmados pela jurisprudência do CADE no julgamento de APACs e na assinatura de acordos.
+A minuta preliminar foi encaminhada ao Gabinete no dia 16 de outubro de 2020 e, após comentários e revisão, foi submetida a proposta final nos autos, em 21 de outubro de 2020.
+A proposta final do Acordo contemplou as considerações tecidas na dosimetria da multa esperada e dispôs cláusulas sobre o reconhecimento da consumação prematura, a contribuição pecuniária, as penalidades em caso de atraso no pagamento da contribuição pecuniária e hipóteses de decretação de descumprimento ao Acordo.
+Em atenção à boa-fé da Representada e às especificidades do caso concreto, aplicou-se um desconto de [ACESSO RESTRITO À LIGHT ENERGIA] sobre o valor da multa esperada, de modo que a contribuição pecuniária do Acordo consistiu no valor de R$ 1.222.080,62 (um milhão, duzentos e vinte e dois mil e oitenta reais e sessenta e dois centavos)
+Por compreender que o presente Acordo em APAC está em consonância com os parâmetros jurisprudenciais do CADE e se mostra suficiente e eficaz para fins de repressão e dissuasão da infração à ordem econômica, voto por sua homologação.
+DISPOSITIVO
+Por tudo quanto exposto, voto pela homologação do Acordo em APAC proposto (SEI 0819888 e 0820340) nos termos do art. 23, da Resolução CADE 24/2019, em vista do juízo de conveniência e oportunidade da autoridade e do atendimento aos critérios fixados na jurisprudência deste Conselho para acordos.
+É o voto.
+Brasília, 21 de outubro de 2020
+PAULA FARANI DE AZEVEDO SILVEIRA
+Conselheira-Relatora
+(assinado eletronicamente)
+ANEXO AO VOTO
+Tabela de Cálculo de Dosimetria da Multa Esperada
+Metodologia de cálculo
+Previsão em Abstrato
+Valor no caso concreto
+Aplicação
+Pena Base
+R$ 60.000,00
+R$ 60.000,00
+R$ 60.000,00
+Reincidência
+Duplicação da pena base
+n/a
+n/a
+Majorantes
+Decurso do Prazo
++0,01% do valor da operação por dia de atraso
+14
+R$                                56.473,20
+Gravidade da Conduta
++(até 4% do valor da operação)
+0,00%
+n/a
+Intencionalidade
+até 0,4% do faturamento médio no ano anterior à conduta
+0,02%
+[ACESSO RESTRITO]
+Redução
+Momento da Notificação (art.21, III, alíneas a, b e c)
+-50%, -30% ou -20%
+50%
+Multa Esperada
+[ACESSO RESTRITO]
+Desconto por Acordo e  Contribuição Pecuniária
+[ACESSO RESTRITO]
+R$ 1.222.080,62
+Valor da Operação atualizado pela SELIC (mês da consumação até mês da instauração)
+R$ 40.338.001,06
+Faturamento médio (atualizado jan/2019 até nov/2019)
+[ACESSO RESTRITO]
+Faturamento do Grupo Light Energia no Brasil em 2018
+R$ 21.014.492.008,80
+Faturamento do Grupo CG I FIP no Brasil em 2018
+[ACESSO RESTRITO]
+[1] Notificação do AC 5267/2019: [ACESSO RESTRITO À LIGHT ENERGIA].
+[2] Lei 12.529/11.
+"Art. 90.
+Para os efeitos do art. 88 desta Lei, realiza-se um ato de concentração quando:(...) II - 1 (uma) ou mais empresas adquirem, direta ou indiretamente, por compra ou permuta de ações, quotas, títulos ou valores mobiliários conversíveis em ações, ou ativos, tangíveis ou intangíveis, por via contratual ou por qualquer outro meio ou forma, o controle ou partes de uma ou outras empresas (...)”.
+[3] Resolução CADE 2/2012: "Art. 10.
+Nos termos do artigo 9°, II, são de notificação obrigatória ao Cade as aquisições de parte de empresa ou empresas que se enquadrem em uma das seguintes hipóteses: (...) II – Nos casos em que a empresa investida seja concorrente ou atue em mercado verticalmente relacionado: a) Aquisição que conferir participação direta ou indireta de 5% (cinco por cento) ou mais do capital votante ou social; b) Última aquisição que, individualmente ou somada com outras, resulte em um aumento de participação maior ou igual a 5%, nos casos em que a investidora já detenha 5% ou mais do capital votante ou social da adquirida (...)".
+[4] Disponível em: https://mz-filemanager.s3.amazonaws.com/50b51302-4c48-4351-b296-bfcbe65fd70a/fato-relevante/c66165d687e9d70c951ae3dd55244b0ef9c81460c8751da8c3a9cc4c00a9384a/fato_relevante_conclusao_da_venda_de_acoes_da_light_na_renova.pdf.
+Acesso em 17 ago. 2020.
+[5] Notificação do AC 5267/2019:[ACESSO RESTRITO À LIGHT ENERGIA].
+[6] [ACESSO RESTRITO À LIGHT ENERGIA].
+[7] Vide: http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/?symbol=RNEW4.
+Acesso em 17 out. 2020.
+[8] Vide http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/cotacoes/?symbol=RNEW3.
+Acesso em 17 out. 2020.

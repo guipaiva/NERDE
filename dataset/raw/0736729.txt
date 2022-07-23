@@ -1,0 +1,144 @@
+SEI/CADE - 0736729 - Parecer
+PARECER Nº 108/2020/CGAA5/SGA1/SG
+PROCESSO Nº 08700.000235/2020-78
+REQUERENTES:
+PGS Suporte Logístico e Serviços Ltda. e Westerngeco Serviços de Sísmica Ltda.
+Ementa: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento Sumário.
+Requerentes: PGS Suporte Logístico e Serviços Ltda. e Westerngeco Serviços de Sísmica Ltda. Natureza da Operação: Contrato Associativo.
+Setores econômicos envolvidos: Aquisição, processamento, comercialização e licenciamento de pesquisa de dados sísmicos tridimensionais.
+Art. 8º, inciso III e IV, Resolução CADE nº 02/12.
+Aprovação sem restrições.
+VERSÃO pública
+I.                     REQUERENTES
+I.1.
+PGS SUPORTE LOGÍSTICO E SERVIÇOS LTDA.​​ ​​(“PGS") ​​
+A PGS, através de suas afiliadas, presta serviços de aquisição, processamento e licenciamento de dados sísmicos aos seus clientes globalmente.
+As empresas de petróleo e gás utilizam os dados adquiridos e processados pela PGS para exploração e produção.
+O Grupo PGS opera no Brasil através das seguintes subsidiárias e/ou afiliadas: (i) PGS INVESTIGAÇÃO PETROLÍFERA LTDA. e (ii) PGS SUPORTE LOGÍSTICO E SERVIÇOS LTDA. Por meio delas, a PGS adquire, processa e/ou licencia, no país, as seguintes pesquisas: (i) pesquisas bidimensionais (“2D”); (ii) pesquisas 3D com azimute estrito (“NAZ”); e (iii) pesquisas 4D e (iv) Mega Pesquisas (Mega Survey).
+O faturamento bruto registrado pelo Grupo PGS, em 2018, no Brasil, foi superior a R$ 75.000.000,00 (limite legalmente estabelecido e alterado pela Portaria Interministerial nº 994, de 30 de maio de 2012).
+I.2.
+WESTERNGECO SERVIÇOS DE SÍSMICA LTDA. (“WG”)​
+A WG e suas subsidiárias fornecem serviços de processamento de dados sísmicos e de licenciamento para seus clientes e, no Brasil, especificamente, processa e licencia pesquisas 2D, 3D-NAZ e 4D.
+A WG é uma subsidiária integral do Grupo Schlumberger, cuja controladora é a empresa SCHLUMBERGER LIMITED, uma holding de capital aberto.
+O Grupo Schlumberger possui dezenove linhas de produtos/serviços que desenvolvem e/ou fornecem ferramentas, equipamentos, tecnologias, serviços e outras ofertas para clientes do mundo todo.
+Dentre seus clientes estão as empresas envolvidas na exploração, desenvolvimento e produção de reservas de petróleo e gás.
+As subsidiárias do Grupo Schlumberger que operam no Brasil são as seguintes empresas (todas diretamente ou indiretamente controladas pela Schlumberger Limited): (i) CAMERON TECNOLOGIA DE CONTROLE DE FLUXO LTDA; (ii) DRESCON MINERAÇÃO LTDA; (iii) OMNES DO BRASIL LTDA; (iv) ONESUBSEA PROCESSAMENTO DO BRASIL LTDA; (v) ONESUBSEA DO BRASIL SERVIÇOS SUBMARINOS LTDA; (vi) SCHLUMBERGER SERVIÇOS DE PETRÓLEO LTDA; (vii) VESCON EQUIPAMENTOS INDUSTRIAIS LTDA; (viii) WESTERNGECO SERVIÇOS DE SÍSMICA LTDA; (ix) GEOQUEST BV; (x) SOUTHERN SCHLUMBERGER SA; e (xi) SOUTHERN WESTERNGECO S.R.L.
+O faturamento bruto registrado pelo Grupo Schlumberger, em 2018, no Brasil, foi superior a R$ 750.000.000,00 (limite legalmente estabelecido e alterado pela Portaria Interministerial nº 994, de 30 de maio de 2012).
+II. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, conforme Despacho Ordinatório SECONT (0709237)
+Data da notificação
+18/01/2020
+Data da resposta à emenda
+06/03/2020
+Data da publicação do edital
+O Edital nº 96/2020, que deu publicidade à operação em análise, foi publicado no dia  12/03/2020 (0730218)
+III. DESCRIÇÃO DA OPERAÇÃO
+Trata-se de um contrato associativo visando a cooperação entre a PGS e suas afiliadas, de um lado, e a WG, de outro lado, para aquisição, processamento, comercialização e licenciamento multiclientes de uma pesquisa de dados sísmicos tridimensionais Wide Azimuth (“3D-WAZ”) em uma área permitida da Bacia de Santos, no Brasil (“Projeto”).
+Por meio da Operação Proposta: (i) a PGS realizará a aquisição de dados sísmicos; (ii) a WG realizará o processamento dos dados sísmicos adquiridos; (iii) a PGS e a WG irão comercializar os dados processados para os clientes interessados e (iv) a WG licenciará as entregas processadas para os clientes que os adquirem.
+A aquisição deverá durar doze (12) meses, enquanto que se espera que o processamento dure quinze (15) meses.
+Os custos e as receitas do licenciamento serão divididos igualmente entre as Partes.
+Conforme informado pelas Requentes, a Operação Proposta se refere apenas a um projeto específico na área permitida da Bacia de Santos (a área do Projeto é definida especialmente na licença ambiental concedida à WG pelo “IBAMA”, anexada ao contrato da Operação (“Área do Projeto”).
+Portanto, não envolveria cooperação entre as Partes para outros projetos e não envolveria cooperação para áreas fora da Área do Projeto.
+A Área do Projeto é demonstrada na figura abaixo:
+Figura 1 - Área do Projeto
+Fonte: Requerentes
+Como justificativa para a realização da Operação, as Requerentes afirmaram que, por meio dela, criarão uma oferta de alta tecnologia e serviços mais intensivos (3D-WAZ) para competir com as ofertas de baixa tecnologia e menos intensivas em serviços (2D e 3D-NAZ) na Área do Projeto.
+Além disso, devido ao substancial custo e risco de trazer o 3D-WAZ para o mercado, o contrato associativo entre as Partes permitirá financiar conjuntamente a realização do Projeto e compartilhar as receitas de licenciamento enquanto comprovam a viabilidade do 3D-WAZ no mercado brasileiro.
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012)
+III - Baixa participação de mercado com sobreposição horizontal; e
+IV - Baixa participação de mercado com integração vertical.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Sim
+Integração vertical
+Sim
+Setor em que há sobreposição horizontal ou integração vertical
+Sobreposição horizontal no mercado de aquisição de dados sísmicos 3D; e
+Integração vertical entre os mercados de (i) aquisição de dados sísmicos 3D; e de (ii)  processamento de dados sísmicos 3D.
+Participações de mercado
+Reduzidas
+VI. CONSIDERAÇÕES SOBRE a Operação
+A presente Operação afeta o mercado de pesquisa sísmica.
+Segundo as Requerentes, a pesquisa sísmica é uma ferramenta fundamental que uma empresa petrolífera pode usar ao explorar reservas de hidrocarbonetos.
+O princípio básico da pesquisa sísmica é a reflexão sísmica (uma onda sísmica percorre o solo, sendo refletida pelas camadas de materiais - terra, rochas, sal, etc.
+- e retorna à superfície onde é medida e registrada pelos receptores).
+Ao analisar o tempo que uma onda sísmica leva para viajar entre formações rochosas e a superfície, softwares sofisticados são capazes de criar mapas de subsuperfície que fornecem detalhes da estrutura geológica.
+Considerando a explicação acima, as Requerentes indicaram que os serviços de aquisição de dados sísmicos marítimos podem ser segmentados em três mercados relevantes diferentes: (i) 2D; (ii) 3D e (iii) 4D.
+Sinteticamente, as pesquisas 3D seriam mais complexas do que as pesquisas 2D e desempenham diferentes funções no mercado, assim como as pesquisas 4D, que envolvem a comparação de duas ou mais pesquisas 3D (adquiridas em diferentes períodos) para monitorar a produção e/ou movimento de óleo em um reservatório ou poço ao longo do tempo.
+Por conseguinte, as Requerentes defendem que estas tecnologias não poderiam ser consideradas parte do mesmo mercado relevante, pois uma empresa que opera no mercado de aquisição de dados 2D necessita fazer investimentos para adaptar os seus equipamentos e metodologias para prestar serviços de aquisição 3D.
+Conforme esclarecimentos prestados pelas Requerentes, os dados adquiridos durante o processo de aquisição não transmitem informação útil se não forem devidamente processados, transformando os dados sísmicos obtidos durante a aquisição em imagens processadas do subsolo da terra.
+Essa análise é feita por engenheiros, físicos e geofísicos em computadores equipados com software para serviços sísmicos.
+A fase do processamento de dados visa produzir imagens do interior da superfície alvo com a maior fidelidade possível.
+Este processo procura atenuar as distorções geradas no processo de aquisição.
+Diante das características explicadas acima, as Requerentes consideraram o mercado de processamento de dados sísmicos como totalmente separado do mercado de aquisição.
+Nesse sentido, ressaltaram que os dados processados num determinado momento podem ser reprocessados usando software diferente para obter resultados diferentes.
+Portanto, segundo as Requerentes, o mercado de pesquisa sísmica, na dimensão produto, deve ser segmentado em (i) mercado de aquisição de dados sísmicos e (ii) mercado de processamento de dados sísmicos.
+Além disso, o mercado de aquisição de dados deve também ser analisado de forma segmentada para cada tipo de pesquisa (2D , 3D e 4D), tendo em vista os diferentes custos e aplicações envolvidos.
+As pesquisas 3D, por sua vez, deve ser consideradas como um mercado único, uma vez que todos os tipos de técnicas (WAZ, NAZ, FAZ e SLO) utilizam o mesmo equipamento ou equipamentos semelhantes em configurações variadas e produzem tipos similares de imagens com visibilidade, qualidade e utilidade variadas.
+Essas ponderações das Requerentes estão alinhadas com precedente do Cade, que, ao analisar a Operação envolvendo a aquisição da Veritas DGC INC pela Compagnie Generale de Geophysique, considerou o mercado de pesquisa 3D segmentado em: (i) serviços de aquisição de dados sísmicos e (ii) serviços de processamento de dados sísmicos[1].
+No tocante à dimensão geográfica, ao analisar a mesma Operação citada acima, o Cade considerou ambos mercados como globais, na medida em que o mercado de aquisição de dados sísmicos depende apenas que as embarcações utilizadas se desloquem para o Brasil, enquanto a atividade de processamento dos dados pode ser conduzida por profissionais especializados, a partir de qualquer lugar, independentemente da localização do cliente.
+Nesse contexto, as Requerentes apontaram os mercados afetados pela presente Operação, conforme o quadro abaixo:
+Quadro 3 - Relações Horizontais e Verticais
+Fonte: Requerentes
+Como se observa no quadro acima, a WG não fornece serviços de aquisição de dados, mas apenas processamento de dados sísmicos e  seu respectivo licenciamento.
+Segundo as Requerentes, isso decorre do fato de que a WG (e seu Grupo) não mais opera no mercado de embarcações para aquisição de dados sísmicos.
+Dessa forma, a Operação Proposta enseja uma sobreposição horizontal no mercado global de processamento de dados sísmicos 3D e uma integração vertical entre este e o mercado global de aquisição de dados sísmicos 3D.
+Em relação ao mercado global de aquisição de dados sísmicos 3D, onde apenas a PGS possui atuação, as Requerentes consideraram que, na ausência de uma definição de como deve ser calculada a participação de mercado das empresas que nele atuam, o referido mercado deve ser avaliado com base no número de embarcações de propriedade de cada empresa em atividade nesse mercado.
+Isto porque a capacidade de cada empresa que opera no mercado de aquisição de dados depende diretamente do número de embarcações que possui.
+Nesse sentido, foram apresentadas as participações de mercado global das empresas no mercado de aquisição de dados 3D, utilizando-se como proxy (i) o número total de embarcações de propriedade de cada empresa e (ii) o número de embarcações ativas de propriedade de cada empresa:
+Tabela 1 - Participações das empresas no mercado global de aquisição de dados sísmicos 3D - 2018
+(Total de embarcações de propriedade de cada empresa)
+Fonte: Requerentes, com base em dados da Seisintel
+Tabela 2 - Participações das empresas no mercado global de aquisição de dados sísmicos 3D - 2018
+(Apenas embarcações ativas de propriedade de cada empresa)
+Fonte: Requerentes, com base em dados da Seisintel
+As Requerentes ressaltaram ainda que a PGS utilizará, em princípio, duas embarcações para a Operação Proposta.
+Assim, as outras embarcações da PGS poderão ser utilizadas para desenvolver outros projetos e pesquisas no Brasil ou em outros países, durante ou após o Projeto.
+Neste sentido, seria possível concluir que as duas embarcações que a PGS utilizará no Projeto corresponderiam a apenas 3,3% da aquisição de dados 3D no mercado, considerando-se o número total embarcações, e 5,5%, considerando-se o número embarcações ativas.
+De toda forma, em qualquer cenário apresentado, as participações da PGS encontram-se abaixo do patamar de 30%.
+Além disso, as Requerentes enfatizaram a necessidade de levar em conta que a Operação Proposta trata da realização de um projeto greenfield, no qual as Partes cooperarão por pouco tempo (doze (12) meses no tocante à aquisição de dados 3D-WAZ) para permitir o desenvolvimento de um Projeto de alto risco visando a promoção de uma tecnologia mais avançadas para o mercado brasileiro.
+No tocante ao mercado de global de processamento de dados, as Requerentes estimaram dados que retratam os mercados globais de 2016, 2017 e 2018 para processamento de dados sísmicos (2D, 3D, 4D) e licenciamento de dados com base em [Acesso restrito às Requerentes].
+A partir daí, considerando que o mercado global de processamento e respectivo licenciamento de dados sísmicos pode ser segmentado em mercados 2D, 3D e 4D, as Partes utilizaram estimativas sobre cada um desses segmentos para projetar as participações de mercado referentes, especificamente, ao mercado de global de processamento de dados sismícos 3D.
+As tabelas abaixo mostram (i) dados sobre faturamento do mercado de processamento e licenciamento segmentado conforme o tipo de pesquisa e (ii) as participações de mercado das Requerentes no mercado de global de processamento de dados sismícos 3D (dimensão mais conservadora):
+Tabela 3 - Estimativas do Mercado global de processamento e licenciamento
+de dados sísmicos por tipo de pesquisa - 2016, 2017 e 2018
+[Acesso restrito às Requerentes]
+Fonte: Pareto Securities e IHS Markit
+Tabela 4 - Estimativa de Market Share das Partes para o Mercado Global de
+Processamento e Licenciamento de Dados Sísmicos 3D, por grupo econômico
+[Acesso restrito às Requerentes]
+Fonte: Pareto Securities e IHS Markit e dados internos das Requerentes
+Tomando-se as proporções de faturamento do mercado total de processamento, correspondentes a cada um dos tipos de pesquisa, as Requerentes alcançaram, portanto, suas respectivas participações no mercado global de processamento e licenciamento de dados sísmicos 3D.
+A partir dessas estimativas, podemos concluir que, se as Requerentes combinassem seus ativos e passassem a operar conjuntamente no processamento e subsequente licenciamento de dados sísmicos, verificar-se-ia uma expressiva participação de mercado combinada de aproximadamente [30-40]% [Acesso restrito às Requerentes], nos últimos três anos.
+Entretanto, as Requerentes argumentaram que, devido à natureza da Operação Proposta, a análise concorrencial não deve ser conduzida sob uma ótica tradicional de combinação de ativos e participações de mercado resultantes entre as Partes, uma vez que a Operação Proposta trata de um projeto greenfield e cooperativo para uma região específica e com um cronograma temporário, com o fim de criar um novo mercado (3D-WAZ) que não existe no Brasil.
+De fato, esta Superintendência entende que a operação não gera efeitos de uma fusão ou de uma concentração clássica, não sendo adequada uma soma das participações de mercado das Requerentes, mas sim a análise específica dos efeitos concorrenciais sobre a demanda real ou potencialmente afetada pela Operação (área do projeto definida contratualmente).
+Neste sentido, as Partes propuseram que sejam consideradas as participações de mercado baseadas nas receitas esperadas do Projeto e apresentaram a seguinte tabela:
+Tabela 5 - Participação esperada do Projeto no faturamento do mercado
+[Acesso restrito às Requerentes]
+Fonte: Pareto Securities, IHS Markit e dados internos das Requerentes
+A comparação do faturamento esperado do Projeto com o mercado total (desconsiderando qualquer crescimento que eventualmente ocorra nos próximos anos), possibilitaria que a participação de mercado das Partes no contexto da Operação Proposta fosse estimada em [0-10]% [Acesso restrito às Requerentes] para a PGS e [0-10]% [Acesso restrito às Requerentes] para a WG, tendo em vista que o faturamento resultante do licenciamento dos dados sísmicos em razão do Projeto será compartilhado igualmente pelas Partes.
+As Requerentes destacaram ainda que essa abordagem sugeriria uma visão bastante conservadora, pois consolida todas as receitas esperadas de 5 (cinco) anos em um único ano.
+Além disso, convém pontuar que, atualmente, a PGS não adquire, processa ou licencia 3D-WAZ no curso normal de seus negócios, segundo as Requerentes.
+A PGS adquire, processa e/ou licencia as seguintes pesquisas: (i) pesquisas 2D; (ii) pesquisas 3D-NAZ; e (iii) pesquisas 4D e (iv) Mega Pesquisas (Mega Survey).
+Portanto, vista de forma mais restrita, a Operação tende a representar a oferta efetiva de processamento de pesquisas 3D-WAZ pela PGS, não representando uma cooperação entre concorrentes próximos.
+Considerando as informações fornecidas pelas Requerentes, é possível verificar que a Operação Proposta não envolve a instituição propriamente de uma joint venture, circunscrevendo a parceria a uma área permitida da Bacia de Santos, definida especialmente na licença ambiental concedida à WG pelo IBAMA.
+Assim, a cooperação entre as Partes não se aplicaria a outros projetos e não envolveria cooperação em áreas fora da área definida para o Projeto em tela.
+Trata-se ainda de um  projeto greenfield, com o propósito específico de realizar uma pesquisa 3D-WAZ, financiada conjuntamente pelas Requerentes, na Área Autorizada na Bacia de Santos.
+As Requerentes justificaram ainda que Operação Proposta trará uma nova/alta resolução para os clientes que exploram petróleo e gás na Área do Projeto e, consequentemente, aumentará as opções de potenciais clientes e, consequentemente, a concorrência no mercado.
+"A possibilidade de concorrentes investirem em equipamentos e adquirirem dados concorrentes, sejam 2D, 3D-NAZ ou 3D-WAZ, significa não somente que haveria oportunidades para concorrência com relação à Área do Projeto, mas ainda que não existem barreiras à entrada relevantes para o exercício desta concorrência", afirmaram elas.
+Dessa forma, tanto o financiamento conjunto do custo da aquisição e do processamento de dados sísmicos quanto o compartilhamento das receitas do licenciamento dos dados, não teriam a capacidade de afetar negativamente o cenário competitivo dos mercados globais de aquisição de dados sísmicos 3D e de processamento de dados sísmicos 3D, fora da área do Projeto.
+Nesse sentido, diante dos dados de participação de mercado estritamente relacionados ao Projeto, apresentados pelas Requerentes, não se verificaram sobreposição horizontal ou integração vertical prejudiciais à concorrência.
+Por todo o exposto, esta SG entende que a presente Operação não enseja preocupações concorrenciais e pode ser aprovada sob o rito sumário.
+Ressalte-se que qualquer nova atuação conjunta ou esforço cooperativo entre as Partes, com duração prevista superior a 2 (dois) anos, em consonância com a Resolução CADE nº 17/2016, em área ou escopo distintos do Projeto ora analisado deverá ser notificada ao Cade.
+VII. Cláusula de Não-Concorrência
+Não há cláusula restritiva à concorrência.
+VIIi. CONCLUSão
+Aprovação sem restrições.
+[1]  Ato de Concentração nº 08012.009116/2006-81 (Compagnie Generale de Geophysique e Veritas DGC INC

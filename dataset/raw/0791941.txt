@@ -1,0 +1,125 @@
+SEI/CADE - 0791941 - Nota Técnica
+Nota Técnica nº 26/2020/CGAA4/SGA1/SG/CADE
+Ato de Concentração nº 08700.002280/2020-67
+Requerentes: WEG Equipamentos Elétricos S.A. e Transformadores e Serviços de Energia das Américas S.A.
+Advogados: Barbara Rosenberg, Marcos Exposto, Alexandre Ditzel Faraco e Daniel Cosac Oliveira Paranhos.
+EMENTA: Ato de Concentração.
+Lei nº 12.529/2011.
+Abertura de informações classificadas como sigilosas pelas Requerentes.
+Artigos 51 e 52 do Regimento Interno do CADE.
+APENAS VERSÃO DE ACESSO PÚBLICO
+I. DADOS DA OPERAÇÃO
+I.1.
+REQUERENTES
+I.1.1.
+WEG Equipamentos Elétricos S.A. (“WEG”)
+O Grupo WEG atua principalmente no setor de bens de capital em diferentes segmentos da indústria, tais como petróleo e gás, mineração, infraestrutura, siderurgia, papel e celulose, energia renovável, entre outros.
+De modo geral, a atuação do Grupo WEG pode ser dividida em cinco linhas de negócio: (i) motores elétricos; (ii) automação; (iii) energia; (iv) transmissão e distribuição; e (v) tintas e vernizes.
+O grupo WEG está presente em mais de 100 países e possui operações fabris no Brasil, Argentina, Colômbia, EUA, Espanha, México, Alemanha, Áustria, Portugal, África do Sul, Índia e China.
+I.1.2.
+Transformadores e Serviços de Energia das Américas S.A. (“TSEA”)
+A TSEA, por sua vez, atua principalmente no desenvolvimento, na fabricação e na comercialização de transformadores, reatores, reguladores e serviços associados a esses produtos, além de oferecer soluções turn key para subestações, linhas de transmissão, eletrificação de transportes urbanos e sistemas de proteção e controle.
+A TSEA possui duas unidades fabris em operação: uma Contagem e outra em Betim, ambas em Minas Gerais.
+I.2.
+DESCRIÇÃO DA OPERAÇÃO
+Conforme descrito pelas Partes, a operação trata da aquisição do controle, pela WEG Equipamentos Elétricos S.A. (“WEG” ou “Compradora”), da fábrica detida pela Transformadores e Serviços de Energia das Américas S.A. (“TSEA”) no município de Betim, Minas Gerais, especializada na fabricação de transformadores, autotransformadores e reatores de tensão superior a 345kV (“Fábrica de Betim”) (“Operação”).
+Construída em 2013, a fábrica de Betim dispõe de 32.500 m² de área construída e conta com equipamentos e instalações de última geração.
+Com uma equipe de 250 colaboradores, a unidade é especializada na fabricação de transformadores de força, reatores shunt e autotransformadores de força com classe de tensão até 800kV e potência até 500MVA.
+I.3.
+CURSO PROCESSUAL DA OPERAÇÃO
+A instrução processual iniciou-se com o protocolo de Waiver (SEI 0749055) pelas Requerentes em 30/04/2020.
+A operação foi notificada em 12/05/2020, tendo sido emendada em 22/05/2020 (SEI 0757323).
+Após resposta à emenda pelas Requerentes em 22/07/2020 (SEI 0782519), o Edital foi publicado em 24/07/2020 (SEI 0782778).
+Após o protocolo do Waiver, Superintendência-Geral (“SG”) emitiu vários ofícios a clientes e a concorrentes das Partes a fim de obter informações do mercado para subsidiar a análise do presente ato de concentração.
+A partir das respostas de algumas empresas oficiadas e de informações protocoladas pelas Requerentes durante a instrução processual, constatou-se a existência de assimetria de informação para as empresas oficiadas, em função da existência de informações classificadas como restritas pelas Partes no processo que impossibilitavam o conhecimento de detalhes concorrencialmente relevantes da Operação por clientes e concorrentes consultados, resultando em possível comprometimento das resposta aos Ofícios.
+Desta forma, mostra-se necessário a abertura de informação de cláusula de não-concorrência, de forma a tornar claro o escopo efetivo da Operação, permitindo que tanto concorrentes quanto clientes das Requerentes possam avaliar de maneira integral aspectos concorrenciais da operação.
+II. ANÁLISE
+Conforme descrito no formulário de notificação, as Requerentes afirmaram que a Operação gera sobreposição horizontal, para a WEG, em relação a transformadores/autotransformadores e reatores primordialmente acima de 345kV e que o mercado em análise deveria ser limitado aos transformadores/autotransformadores e reatores acima de 345kV.
+Ressaltaram que todos os transformadores / autotransformadores e reatores menores e iguais a 345kV seguirão sendo fabricados e comercializados pela TSEA na sua fábrica em Contagem/MG e não serão afetados pela Operação.
+A seguinte justificativa foi apresentada para esta segmentação:
+As Requerentes esclarecem que a limitação do mercado a transformadores / autotransformadores de potência e reatores de classe de tensão superior a 345kV se justifica em razão do próprio escopo da Operação.
+Como descrito na Etapa III, a Cláusula 9.1 do Contrato dispõe que a TSEA e seus acionistas não poderão atuar [ACESSO RESTRITO].
+Na prática, isso significa que nada se altera em relação aos transformadores / autotransformadores de potência e reatores de classe de tensão igual ou inferior a 345kV, pois WEG e TSEA seguem concorrendo normalmente."
+Entretanto, no decorrer da análise constatou-se que a operação não teria impacto apenas na fábrica de Betim, mas também na fábrica remanescente da TSEA em Contagem, que teria o seu mix de produção reduzido, em função da cláusula de não-concorrência, pois não poderia mais produzir equipamentos com tensão superior a 345 kV.
+A classificação pelas Requerentes como de "ACESSO RESTRITO" da cláusula de não-concorrência que restringe a atuação da TSEA no mercado, gerou assimetria de informação entre o escopo efetivo da operação e as informações que as empresas oficiadas tiveram acesso para se manifestarem ao Cade a respeito da presente Operação.
+O acesso a informações, por concorrentes e clientes, referentes à estrutura futura e dinâmica concorrencial do mercado em consequência da Operação é de vital importância no teste de mercado e caso não sejam devidamente interpretadas e contextualizadas, podem gerar interpretações equivocadas.
+No presente caso é de vital importância que informações sobre os tipos de equipamento produzidos pela TSEA após a operação sejam disponibilizados para os clientes, já que a operação resultará em aumento da concentração de mercado em um player, no caso a WEG, e é importante que determinados detalhes seja de conhecimento público, para que os demais players possam se manifestar sobre os aspectos concorrenciais da operação.
+Sendo assim, respeitando-se o caráter sensível de parte das informações classificadas como de "ACESSO RESTRITO" pelas Requerentes e com base no Regimento Interno do Cade, faz-se necessário a revisão da classificação de "ACESSO RESTRITO" da Cláusula 9.1 do Contrato, no que diz respeito a detalhes concorrencialmente relevantes da não-concorrência entre as partes.
+A não revisão poderia induzir a conclusões equivocadas por parte das empresas que se manifestarem no teste de mercado da presente análise, ao não terem total conhecimento do escopo efetivo da operação.
+Em regra, aplica-se aos processos conduzidos pelo Cade o princípio da publicidade, segundo o qual as informações contidas nos autos podem ser acessadas por qualquer interessado.
+No entanto, certas informações fornecidas por agentes econômicos tem o potencial de, em determinadas circunstâncias, prejudicar as empresas ao divulgar para clientes e concorrentes informações estratégicas.
+Sendo assim, está prevista no Regimento Interno do Cade (RICADE)[1] a prerrogativa de requisição de acesso restrito a determinadas informações fornecidas ao Cade, com o objetivo de assegurar a proteção do interesse legítimo das empresas em preservar determinadas informações estratégicas sobre os seu negócio, bem como o andamento ou o desenvolvimento do mesmo.
+Na Seção II do RICADE estão dispostas as normas processuais referentes aos procedimentos administrativos da Autarquia e as possibilidades de sigilo e de acesso restrito a determinadas informações, nos termos do artigo 48:
+Art. 48.
+Aos autos, informações, dados, correspondências, objetos e documentos de interesse de qualquer das diversas espécies de procedimento administrativo, serão conferidos, no Cade, os seguintes tratamentos:
+I - público, quando puderem ser acessados por qualquer pessoa;
+II - acesso restrito, quando seu acesso for exclusivo à parte que os apresentou, aos Representados, conforme o caso, e às pessoas autorizadas pelo Cade;
+III - sigiloso, quando seu acesso for exclusivo às pessoas autorizadas pelo Cade e às autoridades públicas responsáveis por proferir parecer ou decisão; ou
+IV - segredo de justiça, com acesso limitado nos termos de decisão judicial.
+Vale destacar que a confidencialidade deve ser a exceção, e não a regra, e deve estar sempre baseada nas situações previstas nos incisos do art. 51 do RICADE, que assim dispõe:
+Art. 51.
+Conforme o caso e no interesse da instrução processual, de ofício ou mediante requerimento do interessado, poderá ser deferido, em virtude de sigilo decorrente de lei ou por constituir informação relativa à atividade empresarial de pessoas físicas ou jurídicas de direito privado cuja divulgação possa representar vantagem competitiva a outros agentes econômicos (arts. 22 da Lei 12.527/2011 e 6º, inciso I e 5º, § 2º do Decreto nº 7.724/12), o acesso restrito de autos, documentos, objetos, dados e informações, que forem relacionados a:
+I - escrituração mercantil;
+II - situação econômico-financeira de empresa;
+III - sigilo fiscal ou bancário;
+IV - segredos de empresa;
+V - processo produtivo e segredos de indústria, notadamente processos industriais e fórmulas relativas à fabricação de produtos;
+VI - faturamento do interessado;
+VII - data, valor da operação e forma de pagamento;
+VIII - documentos que formalizam o ato de concentração notificado;
+IX - último relatório anual elaborado para os acionistas ou quotistas, exceto quando o documento tiver caráter público;
+X - valor e quantidade das vendas e demonstrações financeiras;
+XI - clientes e fornecedores;
+XII - capacidade instalada;
+XIII - custos de produção e despesas com pesquisa e desenvolvimento de novos produtos ou serviços; ou
+XIV - outras hipóteses, a critério da autoridade concedente, respeitados os arts. 22 da Lei 12.527/2011 e 6º, inciso I e 5º, § 2º do Decreto nº 7.724/12.
+O artigo 52, limitando a incidência do artigo 51, restringe o deferimento de acesso restrito de informações nos seguintes termos:
+Art. 52.
+Não será deferido o acesso restrito de informações e documentos por parte do Cade quando:
+I - notadamente tenham natureza pública em virtude de lei, inclusive em outras jurisdições, ou que forem de domínio público, no País ou no exterior, ou que tiverem sido previamente divulgados pelo interessado;
+II - em processo administrativo para imposição de sanções administrativas por infrações à ordem econômica, o tratamento de acesso restrito das informações puder implicar cerceamento de defesa; ou
+III - forem relacionados, dentre outras, às seguintes categorias de informações:
+a) composição acionária e identificação do respectivo controlador
+b) organização societária do grupo econômico de que façam parte;
+c) estudos, pesquisas ou dados compilados por instituto, associação, sindicato ou qualquer outra entidade que congregue concorrentes, ressalvados aqueles encomendados individualmente ou com cláusula de sigilo;
+d) linhas de produtos ou serviços ofertados;
+e) dados de mercado relativos a terceiros;
+f) quaisquer contratos celebrados por escritura pública ou arquivados perante notário público ou em junta comercial, no País ou no exterior; e
+g) informações que a empresa deva publicar ou divulgar em virtude da norma legal ou regulamentar a que esteja sujeita no Brasil ou em outra jurisdição.
+Parágrafo único.
+O pedido de acesso restrito de informação de caráter manifestamente público poderá sujeitar o requerente às penalidades previstas no art. 40 ou no art. 43 da Lei n° 12.529,de 2011, conforme o caso.
+O artigo 53 do RICADE, por sua vez, estabelece que a decisão do requerimento de acesso restrito pode ser revista a qualquer tempo, inclusive de ofício.
+Art. 53.
+É ônus do interessado formular, destacadamente na primeira página do requerimento ou petição, de modo a facilitar sua visualização pela autoridade, solicitação de acesso restrito de informações, objetos ou documentos, indicando o dispositivo regimental autorizador do pedido.
+§ 1º O requerente será notificado da decisão de denegação do requerimento de acesso restrito.
+§ 2º Deferido o acesso restrito total de documentos, objetos e informações, estes serão juntados em autos apartados, anotados com a expressão “ACESSO RESTRITO”, devendo nos autos principais ser certificado o ocorrido, registrando-se o número de protocolo do pedido, a data e a hipótese regimental que se enquadra.
+§ 3º No caso de informações de acesso restrito que constem do corpo de petição, manifestação, requerimento ou parecer, o interessado deverá apresentar:
+I - uma versão integral, identificada na primeira página com o termo “VERSÃO DE ACESSO RESTRITO”, que será autuada em apartado dos autos principais, após deferimento pela autoridade competente, e mantida como de acesso restrito até ulterior decisão; e
+II - uma versão identificada na primeira página com o termo “VERSÃO PÚBLICA”, que será, desde logo, juntada aos autos principais, devendo conter elementos suficientes para o exercício do contraditório e da ampla defesa, incluindo, no caso de informações relativas a participação de mercado, faixas com intervalos de 10 pontos percentuais, podendo-se utilizar de marcas, rasuras ou supressões, de modo a omitirem- se estritamente os números, as palavras, ou quaisquer outros elementos reputados de acesso restrito.
+§ 4º O interessado deverá fornecer, juntamente com o requerimento de tratamento de acesso restrito, descrição pública do material objeto do pedido, ou justificativa da impossibilidade de fazê-lo.
+§ 5º Quando apresentar informações e documentos no curso de depoimento, o interessado poderá formular verbalmente o requerimento de acesso restrito de informações, que será reduzido imediatamente a termo pela autoridade, e assinado pelo requerente ou seu procurador.
+§ 6º Na hipótese do § 5º, devem ser apresentados os documentos e a descrição pública referidos neste artigo, em até 5 (cinco) dias após o requerimento verbal, sob pena de indeferimento, assegurada a manutenção do acesso restrito até decisão final da autoridade competente.
+Com base nos critérios estabelecidos no RICADE, será analisado a abertura de informações da clausula de não-concorrência classificada como confidencial pelas Requerentes nos autos do processo.
+A Operação não se resume apenas a uma aquisição de ativos, já que a cláusula de não-concorrência tem impacto direto no mix de produtos a ser ofertado pela outra fábrica que permanecerá com a TSEA e tem possíveis efeitos concorrenciais futuros.
+A partir de informações que constam nos autos e protocoladas pelas partes na resposta à emenda, constatou-se que:
+A fábrica de Betim, que está sendo vendida pela TSEA, produz tanto equipamentos com tensão superior, quanto inferior a 345kV.
+A fábrica da TSEA de Contagem produz equipamentos com tensão superior e inferior a 345kV.
+Concorrentes podem acreditar que a TSEA continuará sendo um competidor efetivo em todas as classes de tensão.
+Dessa forma, em um primeiro momento poder-se-ia supor que a TSEA continuaria concorrendo com a WEG por meio de sua fábrica em Contagem.
+Entretanto não é isso que ocorre, pois devido à cláusula de não-concorrência, a TSEA, por três anos a partir da data da aprovação da Transação pelo CADE, não poderá concorrer em quaisquer atividades relacionadas aos negócios de desenvolvimento, fabricação, importação e/ou comercialização de transformadores, reatores e autotransformadores em classe de tensão superior a 345kV.
+As Requerentes foram consultadas a respeito desses fatos e do potencial prejuízo à instrução processual junto a terceiros, devido ao caráter confidencial da informação de não-concorrência, tendo se manifestado (SEI 0789641) da seguinte maneira:
+(i) as Requerentes não entendem que há benefícios claros à instrução do caso decorrente da publicidade de detalhes da cláusula de não-concorrência; e
+(ii) há potenciais efeitos concorrenciais negativos decorrentes da sua divulgação, pois divulgação dos termos da não concorrência poderia prejudicar o retorno das atividades da TSEA após a vigência das obrigações de não competir.
+No que se refere ao afirmado item (i), trata-se apenas de um entendimento subjetivo das Partes, sem embasamento em fatos concretos e objetivos.
+Ressalte-se que a presente análise ainda se encontra em fase de instrução e não seria prudente, a priori, fazer qualquer juízo de valor a respeito do teor de manifestação futura de outros agentes do mercado.
+É importante ressaltar que numa análise antitruste é de vital importância que as empresas consultadas pelo Cade tenham acesso a todas as informações concorrencialmente relevantes da Operação, de forma que possam se manifestar da melhor maneira possível.
+Dessa forma, conclui-se que esse argumento não é motivo para justificar a não abertura da confidencialidade.
+Quanto ao argumento (ii), as Partes afirmam que existiriam supostos efeitos concorrenciais negativos da sua divulgação.
+Conforme já exposto na presente Nota Técnica, o que se observa é exatamente o oposto, já que a não divulgação da obrigação de não competir poderia ter efeitos concorrenciais negativos.
+Esse fato é facilmente constatado, pois é de conhecimento do mercado que a planta de Contagem produz equipamentos com tensão superior a 345 kV, após o fechamento da Operação e durante a vigência da cláusula de não-concorrência a própria TSEA informará a clientes que não fornecerá equipamentos com essa classe de tensão.
+A divulgação dessa cláusula não trará prejuízos para a TSEA e poderá até ser benéfica para a empresa, já que os clientes terão conhecimento de que após a sua vigência de 3 anos a empresa voltará a fornecer equipamentos com tensão superior a 345kV.
+III. CONCLUSÃO
+Diante de todo o exposto, dás-se publicidade à existência de cláusula de restrição à competição da TSEA, por 3 anos, no segmento de transformadores, reatores e autotransformadores em classe de tensão superior a 345kV, de forma a diminuir qualquer assimetria de informação na instrução do presente ato de concentração e dessa forma possibilitar que a análise seja efetuada da maneira mais abrangente possível.
+Estas as conclusões.
+[1] Novo RICADE, aprovado pela Resolução nº 22, de 19 de junho de 2019.
+Disponível em http://www.cade.gov.br/assuntos/normas-e-legislacao/REGIMENTOINTERNODOCONSELHOADMINISTRATIVODEDEFESAECONOMICAINDICESISTEMATICOAtualizado.pdf

@@ -1,0 +1,136 @@
+:: SEI / CADE - 0123610 - Parecer ::
+PARECER Nº 356/2015/CGAA5/SGA1/SG
+PROCESSO Nº 08700.009898/2015-91
+REQUERENTES:
+Evonik Industries AG e Orion Engineered Carbons International GmbH.
+EMENTA: Ato de Concentração.
+Lei nº 12.529/2011.
+Requerentes: Evonik Industries AG e Orion Engineered Carbons International GmbH.
+Procedimento Sumário.
+Mercado afetado: Negro de fumo.
+Natureza da Operação: Aquisição de participação societária.
+Art. 8º, inciso VI, Resolução CADE nº 2, de 29 de maio de 2012.
+Parecer pelo conhecimento da operação e aprovação sem restrições.
+VERSÃO PÚBLICA
+1. AS REQUERENTES (INFORMAÇÕES SEGUNDO AS PARTES)
+1.1. Evonik Industries AG ("Evonik")
+Empresa atuante no setor de especialidades químicas.
+Pertence ao Grupo Evonik, que é sediado na Alemanha e possui atividades em todo o mundo.
+A Evonik Industries não tem atividades diretas no Brasil, atua no mercado brasileiro por meio de suas subsidiárias[1].
+Detém 52% de ações da QECC, empresa-alvo.
+As principais áreas de negócio do Grupo Evonik são subdivididas nos seguimentos de: (i) nutrição e cuidados (aplicações em produtos de consumo corrente, nutrição animal e de saúde); (ii) eficiência de recursos (especialidades químicas para aplicações industriais); e (iii) materiais de alta performance (produção de materiais poliméricos e intermediários, principalmente para as indústrias da borracha e de plásticos).
+1.2. Qingdao Evonik Chemical Company ("QECC")
+Empresa-alvo da operação, pertence ao Grupo Evonik e que está sediada na China, atuando com: manufatura, marketing e comercialização de negro de fumo[2].
+A empresa não desenvolve atividades no Brasil.
+1.3. DEG - Deutsche Investitions und Entwicklungsgesellschaft mbH ("DEG")
+Empresa de investimento financeiro alemã, subsidiária do Grupo KfW, pertencente ao Governo Alemão.
+Detém 15% de ações da QECC, empresa-alvo.
+1.4. Orion Engineered Carbons International GmbH.
+("Orion")
+Empresa atuante na produção de negro de fumo.
+Pertence ao Grupo controlado pela Orion Engineered Carbons S/A, sediado em Luxemburgo e com atuação mundial.
+A única empresa pertencente ao Grupo Orion que está sediado no Brasil é a Orion Engineered Carbons Ltda.
+A Orion fornece produtos padrão e de alto desempenho para revestimentos, tintas de impressão, polímeros, borrachas e outras aplicações.
+Os gases de carbono da Orion, as fornalhas negras e tintas de negros de fumo especiais cobrem e melhoram o desempenho de plásticos, pinturas e revestimentos, tintas e toners, adesivos e selantes, pneus e produtos de borracha fabricados tais como cintos e mangueiras automotivas.
+O portfólio de produtos do Grupo Orion é dividido nos seguintes segmentos: (i) especialidades de negro de fumo; e (ii) negro de fumo de borracha.
+2. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim.
+Taxa processual foi recolhida?
+Sim, GRU (0115885) e Certidão DCONT (0117600).
+Data da notificação ou emenda?
+01/10/2015
+Data da publicação do edital?
+O Edital nº 343, que deu publicidade à operação em análise, foi publicado no dia 20/10/2015
+3. DESCRIÇÃO DA OPERAÇÃO
+Trata-se da aquisição de 67% das ações da Qingdao Evonik Chemical Company ("QECC"), pela Orion.
+Dessas, 52% são detidas pelo Grupo Evonik, por meio da Evonik, e 15% pela DEG - Deutsche Investitions und Entwicklungsgesellschaft mbH ("DEG").
+4. ENQUADRAMENTO LEGAL (ART. 8.º, RESOLUÇÃO CADE Nº 2, DE 29 DE MAIO DE 2012)
+VI – Outros casos.
+5. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Não
+Integração Vertical
+Não
+Setor em que há sobreposição horizontal ou integração vertical
+---
+Participação de mercado
+---
+6. CONSIDERAÇÕES SOBRE A OPERAÇÃO
+6.1 Do conhecimento
+O faturamento  do Grupo Evonik no país em 2014 foi de [ACESSO RESTRITO] e do Grupo Orion foi de [ACESSO RESTRITO][3], segundo informado nos autos.
+Sob este aspecto, as partes preenchem os critérios do artigo 88, da Lei nº 12.529/11[4] para notificação da operação.
+Contudo, as partes informaram que a operação foi notificada de forma cautelar (pelo critério de faturamento) e solicitaram o não conhecimento, entendendo pela ausência dos requisitos de notificação obrigatória uma vez que a QECC, empresa-alvo - pertencente ao Grupo Evonik, não desenvolve atividades no Brasil.
+De fato, o artigo 2º da Lei nº 12.529/11 refere-se às práticas cometidas no território nacional que produzam ou possam produzir efeitos no país.
+Em casos precedentes o CADE analisou a territorialidade da operação, prevista no artigo 2º, da Lei nº 12.529/11, para fins de notificação (confira-se os ACs nº 08700.001204/2013-13 e 08700.008819/2014-43)[7].
+Entretanto, cabe salientar que há diferenças importantes em casos anteriores que o CADE não conheceu tendo como argumento a produção de efeitos no Brasil em comparação a presente operação.
+No AC nº 08700.001204/2013-13, a operação entre Bosch, ZF e Knorr, tratava da criação de uma joint venture (JV) entre as requerentes para serviços de manutenção e reparo de veículos comerciais, como uma rede de oficinas na Europa.
+Todos os grupos envolvidos tinham faturamento e atuavam no setor automotivo, à época.
+Entretanto, as requerentes informaram que: a­) a JV não atuaria no país num futuro próximo; b) não era sequer esperado que a JV oferecesse seus serviços ou tivesse faturamento no país; c) elas não possuíam oficinas próprias, apenas cooperavam com oficinas independentes autorizadas a utilizar seus logotipos; e d) não havia sobreposição/integração entre as atividades da JV e das requerentes.
+O CADE entendeu que a operação não abrangia a atividade das requerentes no Brasil, mas se destinava a atender demanda específica do mercado europeu.
+Quanto à definição de mercado de serviços de manutenção e reparação mecânica, a abrangência geográfica apontava características de que o segmento fosse limitado no máximo ao âmbito nacional, sendo improvável uma abrangência mundial, ou que o mercado nacional fosse atendido por fornecedores estrangeiros.
+Neste caso, não havendo prestação de serviços da JV no Brasil, um eventual aumento de preços de serviços derivados de uma concentração no exterior não seria repassado aos consumidores brasileiros, uma vez que estes não iriam adquirir das unidades envolvidas.
+Por isso entendeu-se que a operação não afetaria o mercado brasileiro e que não se enquadrava nos critérios do artigo 2º da Lei nº 12.529/11.
+Já no AC nº 08700.008819/2014-43, uma operação entre a Bosch e a Siemens envolvia a aquisição pela Bosch de 50% da BSH, joint venture controlada pelas requerentes, com 50% de participação cada, resultando em 100% para a Bosch e saída da Siemens.
+As partes informaram que a BSH não possuía atividades ou faturamento no Brasil, não havendo efeitos decorrentes da operação.
+O CADE considerou que a abrangência geográfica do mercado de produção/comercialização de eletrodomésticos de pequeno e grande porte seria de provável abrangência nacional, no máximo.
+Neste caso também era improvável uma abrangência mundial, ou que o mercado nacional fosse atendido por fornecedores estrangeiros.
+Por isso entendeu-se igualmente que a operação não afetaria o mercado brasileiro e que não se enquadrava nos critérios do artigo 2º da Lei nº 12.529/11.
+Em comparação aos precedentes acima citados, cabe destacar pelo menos duas diferenças relevantes que dizem respeito ao efeito, ou potencial efeito, das operações no país.
+Primeiro, embora a aquisição de ações pela Orion seja em empresa localizada na China que não possui atividades no Brasil, é necessário observar que no caso em tela o Grupo Orion já atua no país por meio da Orion Engineered Carbons Ltda., no mercado de negro de fumo, mercado este sobreposto com o mercado de atuação da empresa objeto.
+Nos casos citados as joint ventures não operavam no Brasil, tampouco os grupos envolvidos na operação atuavam previamente no Brasil em mercado sobreposto ou integrado à JV.
+Segundo, nos casos precedentes não restaram dúvidas de que a abrangência geográfica do mercado fosse no máximo nacional e, também, da impossibilidade de atendimento ao mercado brasileiro por fornecedores estrangeiros de forma significativa.
+No presente caso, embora não haja maiores dúvidas na jurisprudência quanto à definição do mercado produto como negro de fumo, o mesmo não pode ser dito quanto ao aspecto geográfico.
+Nessa ótica o CADE entendeu em alguns casos pela abrangência nacional [8].
+Nos casos mais recentes, entretanto, foi feita análise de impactos tanto no cenário nacional como no mundial [9].
+Diferentemente dos casos acima citados (ACs nº 08700.001204/2013-13 e 08700.008819/2014-43), não está explícita a limitação do mercado de negro de fumo ao território  nacional ou a impossibilidade do mercado brasileiro ser atendido por fornecedores estrangeiros, tais como a empresa adquirida na China.
+Assim, havendo uma definição do mercado como mundial, um aumento de preço fora do país poderia impactar os preços internos.
+Em tese, em um mercado com abrangência mundial, uma concentração de uma empresa com atuação no país com uma potencial fornecedora em outro país pode afetar a oferta de produtos no mercado brasileiro, a depender das concentrações e outras variáveis relevantes do ponto de vista concorrencial.
+A própria Superintendência-Geral observou em seu parecer no AC nº 08700.001204/2013-13 que o entendimento de não geração de efeitos no país nos termos do artigo 2º supra e a consequente desnecessidade de notificação da operação não seria aplicável às hipóteses em que as empresas envolvidas ofertassem produtos ou serviços no Brasil:
+Ressalva-se que tal entendimento, por óbvio, não se estenderia a eventuais operações que envolvessem empresa que, pré-operação, já ofertasse produtos ou serviços no Brasil, Nesse caso, ainda que seu faturamento no território nacional fosse pequeno, apenas uma análise concorrencial mais cuidadosa poderia concluir por uma ausência de sobreposições, baixo market share ou outro fator competitivo relevante.
+Operação semelhante a em análise foi conhecida pela Superintendência-Geral no AC nº 08700.006511/2015-44 (Requerentes: Thyssenkrupp Steel Europe AG, Pangang Grouo Xichang Steel & Vanadium Co., Ltda. e TKAS Auto Steel Company Limited), que tratava de aquisição acionária em empresa não operacional.
+A operação também ocorreu na China e igualmente envolvia ativos de propriedade da empresa-objeto, sendo que seus acionistas atuavam no Brasil, todavia, por meio de importação no mercado de aço galvanizado.
+No presente caso, tendo em vista que não há uma definição clara do mercado geográfico pela jurisprudência, não é possível excluir a possibilidade de importação de negro de fumo da China pela requerente e a possibilidade do mercado ser mundial, como ocorria no caso de conhecimento acima citado.
+Ademais, o grupo adquirente atua, no Brasil, em mercado rerlacionado à empresa objeto.
+Com base em todas essas informações, esta Superintendência-Geral conclui que não é possível se afastar, no presente caso, o conhecimento com base na ausência de efeitos no país.
+Como as empresas atendem aos critérios de notificação com base no faturamento, a presente operação deverá ser conhecida, nos termos dos artigos 2º, 88 e 90, II, da Lei nº 12.529/11 e 10, II, "a", e jurisprudência do Conselho nos casos acima citados.
+6.2 Do mérito
+Conforme já destacado, não há maiores questionamentos na jurisprudência quanto à definição do mercado produto de negro de fumo.
+Contudo, a mesma jurisprudência recentemente tem adotado dois cenários de mercado relevante, um nacional e um mundial.
+Como não há grande mudanças na análise independentemente do cenário avaliado, optou-se, também na presente caso, analisar a operação com base nos dois cenários.
+Considerando um cenário global, a participação da Orion seria de [ACESSO RESTRITO] pelo critério de faturamento e de [ACESSO RESTRITO] pelo critério de volume produzido (em toneladas).
+Da mesma maneira, da QECC seria de [ACESSO RESTRITO] em faturamento e de [ACESSO RESTRITO] em volume.
+Conjuntamente a participação das empresas envolvidas somam [ACESSO RESTRITO] e  [ACESSO RESTRITO].
+Uma possível sobreposição horizontal neste cenário seria pequena, não sendo capaz de gerar efeitos negativos no mercado, se considerada a participação de mercado das requerentes frente à seus concorrentes no setor [ACESSO RESTRITO].
+Caso fosse considerado como nacional, a participação da Orion seria de [ACESSO RESTRITO], por faturamento, e de [ACESSO RESTRITO], por volume.
+A QECC não atua no Brasil e não efetuou vendas ao país nos últimos cinco anos, não possuindo faturamento no país, segundo apresentado nos autos.
+Neste sentido, não haveria a ocorrência de sobreposição horizontal ou integração vertical neste mercado.
+Sendo assim, em ambos os cenários considerados não haveria impactos significativos ao ambiente concorrencial.
+7. CLÁUSULA DE NÃO CONCORRÊNCIA
+Não há.
+8. RECOMENDAÇÃO
+Ante o exposto, recomenda-se quanto à preliminar o conhecimento da operação e, no mérito, a aprovação sem restrições.
+Estas as conclusões.
+Encaminhe-se ao Sr. Superintendente-Geral.
+[1] Evonik Degussa Brasil Ltda. (com sede no Brasil); Evonik Degussa GmbH; Evonik Corporation; Evonik Cyro LLC; Evonik Röhm GmbH; Evonik Stockhausen LLC; Evonik Oil Additives USA, Inc, Evonik Hong Kong Ltd, Evonik Rexim S.A.S., CyPlus GmbH, PT.
+Evonik Sumi Asih e Silbond Corporation.
+[2] A Orion está avaliando a aquisição dos 33% restantes das ações da QECC, detidas pela Jiaozhou Financial Investment Center, empresa chinesa de investimentos, em operção separada e sucessiva, segundo informado pelas requerentes.
+[3] Taxa de câmbio média entre 10 de janeiro de 2014 e 31 de dezembro de 2014: EUR 1,00 = R$ 3,120552569 (valor relacionado à venda do Euro).
+Fonte: Banco Central ("BACEN").
+[4] Art. 88.
+Serão submetidos ao Cade pelas partes envolvidas na operação os atos de concentração econômica em que, cumulativamente:
+I - pelo menos um dos grupos envolvidos na operação tenha registrado, no último balanço, faturamento bruto anual ou volume de negócios total no País, no ano anterior à operação, equivalente ou superior a R$ 400.000.000,00 (quatrocentos milhões de reais); e
+II - pelo menos um outro grupo envolvido na operação tenha registrado, no último balanço, faturamento bruto anual ou volume de negócios total no País, no ano anterior à operação, equivalente ou superior a R$ 30.000.000,00 (trinta milhões de reais).
+Valores atualizados para: I - R$ 750.000.000,00 (setecentos e cinquenta milhões de reais); e II - 75.000.000,00 (setenta e cinco milhões de reais), pela Portaria Interministerial MJ/MF nº 994/2012.
+[5] Art. 90.
+Para os efeitos do art. 88 desta Lei, realiza-se um ato de concentração quando:
+II - 1 (uma) ou mais empresas adquirem, direta ou indiretamente, por compra ou permuta de ações, quotas, títulos ou valores mobiliários conversíveis em ações, ou ativos, tangíveis ou intangíveis, por via contratual ou por qualquer outro meio ou forma, o controle ou partes de uma ou outras empresas;
+[6] Art. 10 Nos termos do artigo 9°, II, são de notificação obrigatória ao Cade as aquisições de parte de empresa ou empresas que se enquadrem em uma das seguintes hipóteses:
+II – Nos casos em que a empresa investida seja concorrente ou atue em mercado verticalmente relacionado:
+a) Aquisição que conferir participação direta ou indireta de 5% (cinco por cento) ou mais do capital votante ou social;
+[7] Atos de concentração n° 08700.004891/2015-82  - Bosch (China) Investment Ltd./HeFei Midea Heating & Ventilation Equipment Co., Ltd.
+; não conhecimento declarado em 19.6.2015; e 08700.001204/2013-13  - Robert Bosch GmbH/ZF Friedrichshafen AG/Knorr-Bremse Systeme für Commercial Vehicle GmbH; não conhecimento declarado em 5.3.2013).
+[8] Atos de concentração n° 08012.003867/2002-60 (Degussa/RAG); 08012.010755/2005-16 (One Equity (JPMorgan)/Phelps Dodge); e 08012.006910/2008-34 (Evonik/Gabriel Acquisition);
+[9] Atos de concentração n° 08012.000167/2009-90 (Columbian/ One Equity); e 08012.002330/2011-73 (Indigold Carbon/Columbian Chemicals

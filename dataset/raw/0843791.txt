@@ -1,0 +1,122 @@
+SEI/CADE - 0843791 - Parecer
+PARECER Nº 398/2020/CGAA5/SGA1/SG
+PROCESSO Nº 08700.006051/2020-11
+Requerentes:
+Diagnósticos da América S.A. e Gesto Saúde Sistemas Informatizados, Consultoria Médica e Corretora de Seguros Ltda.
+EMENTA: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento sumário.
+Requerentes: Diagnósticos da América S.A. e Gesto Saúde Sistemas Informatizados, Consultoria Médica e Corretora de Seguros Ltda. Natureza da Operação: aquisição de controle unitário.
+Mercados Afetados: mercado de corretagem de seguro e mercado de gestão à saúde.
+Art. 8º, inciso III, Resolução CADE nº 02/12.
+Aprovação sem restrições.
+VERSÃO PÚBLICA
+I. AS REQUERENTES
+I.1.
+Diagnósticos da América S.A. (“Dasa”)
+A Dasa é uma empresa brasileira que atua na prestação de serviços de apoio diagnóstico (SAD) por meio da realização de diversos exames, tais como exames de análises clínicas, anatomia patológica, citopatologia, diagnósticos por imagem, diagnósticos por métodos gráficos, bem como oferta serviços de pesquisas clínicas, entre outros.
+Segundo as Requerentes, a empresa é controlada, em última instância, por Dra. Dulce Pugliese de Godoy Bueno, Pedro de Godoy Bueno e Camilla de Godoy Bueno Grossi (em conjunto, “Acionistas Controladores de Dasa” ou “Grupo ACD”).
+Essas três pessoas físicas possuem tanto participações minoritárias diretas em Dasa quanto participação indireta por meio da Cromossomo Participações III S.A. (“Cromossomo III”) e do Fundo de Investimento em Participações Genoma III – Multiestratégia (“FIP Genoma III”)[1].
+Cabe esclarecer que o acionista Pedro de Godoy Bueno detém, individualmente, controle ou participação igual ou superior a 20% do capital social ou votante em outras empresas fora do Grupo ACD que também atuam no mercado de saúde (“Grupo PB”).
+O Grupo ACD atua, principalmente, na prestação de SAD a pacientes internos e externos por intermédio dos laboratórios Dasa em diversos estados brasileiros e na prestação de serviços médico-hospitalares por intermédio da Ímpar Serviços Hospitalares S.A. (“Rede Ímpar”) nas cidades de São Paulo, Brasília, Rio de Janeiro e Niterói.
+O faturamento bruto registrado pelo Grupo ACD, em 2019, no Brasil, foi superior a R$ 750.000.000,00 (limite legalmente estabelecido e alterado pela Portaria Interministerial nº 994, de 30 de maio de 2012).
+I.2.
+Gesto Saúde Sistemas Informatizados, Consultoria Médica e Corretora de Seguros Ltda. (“Gesto”)
+A Gesto presta serviços de consultoria em gestão de saúde, principalmente, ações preventivas, escolha do seguro ou plano de saúde mais adequado ao perfil de risco do cliente.
+Além disso, a Gesto também presta serviços de corretagem de seguros a seus clientes, que incluem seguros de saúde, odontologia e vida em grupo.
+A Gesto é controlada indiretamente pela [ACESSO RESTRITO À GESTO E AO CADE] e pertence ao Grupo Gesto.
+O Grupo Gesto faturou montante superior a R$ 75.000.000,00 no Brasil, em 2019 (limite legalmente estabelecido e alterado pela Portaria Interministerial nº 994, de 30 de maio de 2012).
+II. OS ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, GRU juntado aos autos, conforme Despacho Ordinatório SECONT (0836023)
+Data da notificação
+26/11/2020
+Data da publicação do edital
+O Edital nº 482, que deu publicidade à operação em análise, foi publicado no dia 4/12/2020 (0839549)
+III. DESCRIÇÃO DA OPERAÇÃO
+A operação proposta (“Operação Proposta”) consiste na aquisição, pela Diagnósticos da América S.A., de 100% do capital social da Gesto Saúde Sistemas Informatizados, Consultoria Médica e Corretora de Seguros Ltda. Após a Operação Proposta, Gesto será uma subsidiária integral da Dasa.
+Nos termos do contrato, o valor da Operação Proposta será de [Acesso Restrito].
+De acordo com as Partes, por meio da presente Operação Proposta, o Grupo ACD pretende expandir seu investimento no mercado de saúde e, com isso, maximizar sinergias e promover o crescimento e a melhoria da qualidade dos serviços prestados aos consumidores.
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012)
+III – Baixa participação de mercado com sobreposição horizontal.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Sim
+Integração Vertical
+Não
+Setor em que há sobreposição horizontal
+Corretagem de seguro
+Participações de mercado
+Reduzidas
+VI. CONSIDERAÇÕES SOBRE A OPERAÇÃO
+Conforme já mencionado, a Operação Proposta abrange a totalidade das ações da Gesto.
+Após a operação, a empresa objeto se tornará uma subsidiária integral da Dasa.
+Atualmente, a Gesto presta serviços de consultoria em gestão de saúde, principalmente, ações preventivas, escolha do seguro ou plano de saúde mais adequado ao perfil de risco do cliente.
+Além disso, a Gesto também oferece serviços de corretagem de seguros a seus clientes que incluem seguros de saúde, odontologia e vida em grupo.
+Os serviços da Gesto são prestados via plataforma digital que, por meio de uma série de algoritmos, classificam o perfil de risco de saúde das pessoas que compõem as bases de dados do seu sistema.
+No entanto, as Partes esclarecem que a Gesto não vende serviços de Tecnologia da Informação (“TI”) e nem presta serviços de TI, suas atividades são limitadas à gestão de saúde.
+A Dasa, de forma geral, atua na prestação de serviços de apoio diagnóstico (“SAD”) por meio da realização de diversos exames, tais como exames de análises clínicas, anatomia patológica, citopatologia, diagnósticos por imagem e por métodos gráficos.
+As Partes informaram que as empresas do Grupo PB têm atuação essencialmente no mercado de TI com foco na área de saúde.
+Especificamente em relação à atividade da Eterna Investimentos e Participações S.A.[2] (“Grupo Allcare”), recentemente adquirida pelo Grupo PB, esclareceu-se que este grupo de empresas oferta soluções em seguros e planos de saúde e odontológicos, além de gestão médica e corretagem de seguros de saúde.
+O Grupo ACD, por meio da Allbrokers Brasil Corretora de Seguros Ltda.[3] (“Allbrokers”), também atua no mercado de corretagem de seguros no Brasil.
+A Allbrokers é uma corretora de seguros especializada, principalmente, na gestão de benefícios de saúde, de vida, de previdência, odontológico e saúde ocupacional, atuando na intermediação junto às principais operadoras e seguradoras para contratação de benefícios, além de prestar assessoria técnica para planejamento e gestão de riscos de carteira para micro, média e grandes empresas.
+Neste ano de 2020, o Grupo ACD, por meio da Santa Celina Participações S.A.[4] (“GSC”), também iniciou suas atividades no mercado de gestão de saúde.
+A GSC é uma empresa especializada em gestão de saúde e atenção domiciliar.
+A empresa possui uma rede de atenção primária multiprofissional composta por médicos, nutricionistas, psicólogos, fisioterapeutas, fonoaudiólogos e terapeutas ocupacionais que trabalham integrados na coordenação do cuidado com o paciente.
+Por meio da plataforma de gestão do GSC, há unificação de dados e informações para auxiliar as decisões de médicos e da equipe, além de acesso e controle contínuo de indicadores assistenciais, operacionais e financeiros.
+Com base na descrição apresentada sobre as áreas de atuação da Gesto e das empresas pertencentes aos Grupos ACD e PB, as Requerentes entenderam que a Operação Proposta poderia ensejar sobreposições horizontais nos mercados de corretagem de seguros e de gestão de saúde.
+Tabela 1: Possíveis sobreposições horizontais entre as atividades dos Grupo ACD/PB e da Gesto
+Fonte: Requerentes.
+Em relação ao mercado de corretagem de seguros, nos precedentes do Cade[5], o mercado relevante engloba todos os ramos de seguros, sem segmentação por tipo de seguro.
+Na dimensão do produto, entende-se que as carteiras de produtos ofertados pelas corretoras de seguros aos seus clientes são compostas das diversas modalidades de seguros, portanto, a segmentação do mercado em grupos de seguros distribuídos não faria sentido sob a perspectiva concorrencial.
+Do ponto de vista geográfico, é adotada a abrangência nacional.
+Conforme informado acima, os Grupos ACD e PB atuam, respectivamente, no mercado de corretagem de seguros por meio da Allbrokers e do Grupo Allcare, ambas as empresas adquiridas no ano de 2020.
+De acordo com as Requerentes, tais atividades são ainda incipientes e acessórias às atividades principais do grupo na área de saúde (a saber, serviços médico-hospitalares e SAD).
+Quanto às atividade de corretagem do Grupo PB, as Partes esclarecem que os serviços do Grupo Allcare são ofertados quase exclusivamente para os planos coletivos por adesão administrados pelo próprio grupo, enquanto a Gesto oferta seus serviços para empresas no plano coletivo empresarial, de forma que as condições de concorrência do setor de corretagem de seguros não seriam sequer modificadas como resultado da Operação Proposta.
+Os principais clientes do Grupo Allcare são entidades de classes, sindicatos e associações e os principais clientes da Gesto no mercado de corretagem de seguros são: [ACESSO RESTRITO À GESTO E AO CADE].
+De qualquer maneira, mesmo diante do cenário mais conservador, a eventual sobreposição horizontal entre as atividades do Grupo ACD e PB com as atividades da Gesto ensejaria concentração conjunta mínima das Partes de aproximadamente [ACESSO RESTRITO ÀS REQUERENTES E AO CADE] do mercado de corretagem no Brasil com base no valor auferido com a arrecadação de seguros e prêmios emitidos no país em 2019, como se pode observar na tabela a seguir.
+Tabela 2: Prêmios emitidos no Brasil - 2019 [6]
+Fonte: Requerentes, com base em dados internos e estatísticas da ANS e Susep.
+[ACESSO RESTRITO ÀS REQUERENTES E AO CADE]
+[ACESSO RESTRITO ÀS REQUERENTES E AO CADE].
+Adicionalmente, o mercado de corretagem de seguros é considerado altamente pulverizado.
+De acordo com a Superintendência de Seguros Privados (SUSEP), em 2018, havia aproximadamente 53 mil corretores de seguro pessoa física e mais de 46 mil corretoras de seguro pessoa jurídica [7].
+Quanto à atividade de apoio à gestão de saúde, o Cade analisou este mercado em dois atos de concentração, porém, ambos os casos consistiam em operação de substituição de agente econômico, não sendo necessária a definição do mercado relevante[8].
+De forma análoga, para a presente análise, a definição do mercado relevante também será deixada em aberto dado que esta SG entendeu que não há sobreposição neste mercado, conforme será elucidado abaixo.
+De acordo com as Requerentes, eventual sobreposição horizontal entre o Grupo ACD e a Gesto no mercado de gestão à saúde deveria ser considerada apenas em cenário conservador, uma vez que as atividades do Grupo ACD, por meio da GSC, são distintas das atividades da Gesto e não poderiam ser vistas como substitutas:
+conforme já mencionado, a GSC atua na gestão de saúde para atenção primária domiciliar com assistência multiprofissional (unificam dados e geram informações que apoiam as decisões de médicos e da equipe multidisciplinar), enquanto a Gesto atua por meio de uma plataforma digital que utiliza algoritmos para ações preventivas na área da saúde e auxílio na escolha de seguro ou plano de saúde;
+outro aspecto importante nesta análise é que os principais clientes da Gesto nesse mercado sequer atuam na área de saúde, como por exemplo  [ACESSO RESTRITO À GESTO E AO CADE]; já os clientes da GSC, ao contrário, são essencialmente operadoras de planos de saúde (“OPS”) ([ACESSO RESTRITO À DASA E AO CADE]) que contratam serviços de gestão e assistência domiciliar a seus segurados que recebem alta de hospitais e fazem acompanhamento em casa ou precisam de serviços de domiciliar como fisioterapia, nutricionista, fonoaudiólogo, dentre outros.
+Tendo em vista que as atividades desempenhadas pela Gesto e pela CSG no mercado de atividade de apoio à gestão da saúde não são similares e que os perfis dos seus clientes são diferentes, infere-se que a Operação Proposta não gera sobreposição horizontal no mercado em questão, pois não se caracterizam como fornecedoras ou concorrentes substitutas próximas, podendo ser classificada a atuação de ambas como de natureza mais complementar.
+De toda forma, mesmo que a definição de mercado fosse extremamente abrangente e englobasse a atuação das duas empresas, o risco ao ambiente concorrencial seria pequeno, uma vez que há vários players expressivos atuando no mercado de gestão de saúde no Brasil, tais como Aon, Marsh, It’s Seg, Qualicorp e D’Or Consultoria.
+Frente a tais concorrentes, destaca-se que, no ano de 2019, o faturamento bruto da Gesto neste mercado foi de apenas [ACESSO RESTRITO À GESTO E AO CADE] e o do GSC foi de [ACESSO RESTRITO À DASA E AO CADE].
+[ACESSO RESTRITO ÀS REQUERENTES E AO CADE].
+Por fim, cabe ressaltar que não há indícios de qualquer relação de integração vertical entre as atividades das empresas do Grupo ACD e PB com as atividades da Gesto.
+Isso porque os serviços prestados pela Gesto em gestão de saúde e corretagem de seguros não constituem insumo relevante para prestação das atividades médico-hospitalares e/ou de SAD do Grupo ACD e PB (nem de qualquer outra atividade de empresas do grupo).
+Em consonância com o Caderno do Cade “Atos de concentração nos mercados de planos de saúde, hospitais e medicina diagnóstica”[9], o mercado de corretagem de seguros e de gestão de saúde não integram a lista de mercados da cadeia de saúde considerados verticalmente integrados.
+Considerando todo o exposto, esta SG conclui que a presente operação não tem o condão de causar prejuízos à concorrência nos mercados de atuação das partes no Brasil.
+Assim, o ato de concentração pode ser aprovado sob o rito sumário, enquadrando-se no art. 8º, inciso III, da Resolução 2/2012 do CADE.
+VII. CLÁUSULA DE NÃO-CONCORRÊNCIA
+As Partes informam que nos termos da cláusula 13.1 do Contrato de Compra e Venda, a Operação Proposta prevê a seguinte cláusula de não-concorrência (“CNC”), conforme transcrição abaixo:
+[ACESSO RESTRITO ÀS REQUERENTES]
+A cláusula de não-concorrência está em conformidade com os precedentes do Cade, dentro do limite temporal e restrita ao objeto da operação.
+VIII. CONCLUSÃO
+Aprovação sem restrições.
+[1] Como se pode verificar no site da Comissão de Valores Mobiliários (“CVM”), o administrador do FIP Genoma III é o Oliveira Trust Servicer S.A. [ACESSO RESTRITO À DASA E AO CADE]
+[2] Vide Ato de Concentração nº 08700.003168/2020-43, operação consistia na conversão das debêntures subscritas pelo FIP Algol em ações da Eterna.
+Aprovado sem restrições em 20 de julho de 2020.
+[3] Vide Ato de Concentração nº 08700.000825/2020-09, tratava-se da aquisição, pela Dasa, de 100% do capital social da Allbrokers.
+Aprovado sem restrições em 13 de março de 2020.
+[4] Vide Ato de Concentração nº 08700.001839/2020-31, operação consistia na aquisição, pela Dasa, de 60% do capital social da Santa Celina, holding do GSC, que é indiretamente controlado por Pedro de Godoy Bueno.
+Aprovado sem restrições em 23 de abril de 2020.
+[5] Vide os seguintes Atos de Concentração: AC nº 08700.004415/2018-12 (Requerentes: BB Seguros S.A. e Mapfre Brasil Participações S.A.); AC nº 08700.002688/2019-03 (Requerentes: Wiz Soluções e Corretagem de Seguros S.A. e Banco Inter S.A.) e AC nº 08700.000825/2020-09 (Requerentes: Diagnósticos da América S.A. e Allbrokers Brasil Corretora de Seguros Ltda.).
+[6] * [ACESSO RESTRITO À DASA E AO CADE]
+**Considerando dados para 2019 da arrecadação de seguros de saúde complementar da base de dados da Agência Nacional de Saúde Suplementar – ANS (até 4º trimestre de 2019) no montante de R$ 216,2 bilhões, e dos demais seguros da base de dados da SUSEP (até novembro de 2019) no montante de R$ 245,4 bilhões.
+A arrecadação do mercado de seguros considerada contempla o prêmio direto de seguros, prêmio emitido em regime de capitalização, contribuição em previdência, faturamento de capitalização e contraprestação de saúde suplementar.
+Tais dados foram obtidos a partir do Caderno de Estatísticas do Mercado Segurador disponibilizado pela Confederação Nacional de Empresas de Seguros Gerais, Previdência Privada e Vida, Saúde Complementar e Capitalização (“CNseg”) disponível em http://www.cnseg.org.br/estatisticas/mercado.html.
+[7] Disponível em http://www.susep.gov.br/menuestatistica/SES/Relat_Acomp_Mercado_2019.pdf, acessado em 07/12/2020.
+[8] Vide Ato de Concentração nº 08700.006020/2018-46 (Requerentes: Sodexo do Brasil Comercial S.A., Pronep Lar Internação Domiciliar, Pronep São Paulo – Serviços Especializados Domiciliares e Hospitalares Ltda. e Vitória Medicina Domiciliar Ltda.) e Ato de Concentração nº 08700.001839/2020-31 (Requerentes: Diagnósticos da América S.A. e Santa Celina Participações S.A.).
+[9] Disponível em http://www.cade.gov.br/acesso-a-informacao/publicacoes-institucionais/publicacoes-dee/cadernos-do-cade-atos-de-concentracao-nos-mercados-de-planos-de-saude-hospitais-e-medicina-diagnostica.pdf, acesso em 04/12/2020

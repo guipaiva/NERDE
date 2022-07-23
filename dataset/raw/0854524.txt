@@ -1,0 +1,106 @@
+SEI/CADE - 0854524 - Parecer
+PARECER Nº 9/2021/CGAA5/SGA1/SG
+PROCESSO Nº 08700.006629/2020-30
+Requerentes:
+Bahia Geração de Energia S.A. e CEB Distribuição S.A.
+EMENTA: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento sumário.
+Requerentes: Bahia Geração de Energia S.A. e CEB Distribuição S.A. Natureza da Operação: aquisição de controle unitário.
+Mercado Afetado: distribuição de energia elétrica.
+Art. 8º, incisos III e IV, Resolução CADE nº 02/12.
+Aprovação sem restrições.
+VERSÃO PÚBLICA
+I. AS REQUERENTES
+I.1.
+Bahia Geração de Energia S.A. (“Bahia PCH III” ou “Compradora”)​
+A Bahia PCH III é uma sociedade de propósito específico não operacional integralmente detida pela Neoenergia S.A. (“Neoenergia”), empresa controlada pelo Grupo Iberdrola (“Grupo Iberdrola”), que desenvolve atividades de geração, transmissão, comercialização, distribuição de energia elétrica e prestação de serviços de engenharia para o setor de energia em todo território brasileiro.
+As controladas da Neoenergia desenvolvem atividades de geração, transmissão, comercialização e distribuição de energia elétrica no Brasil.
+A Neoenergia também integra o portfólio de investimentos da Caixa de Previdência dos Funcionários do Banco do Brasil (“PREVI”)[1], que detém uma participação de 30,29% no capital social na Neoenergia.
+É importante destacar que algumas empresas do Grupo Iberdrola registraram faturamento no Brasil, em 2019, com serviços de engenharia especializados para o mercado de energia elétrica, que consistiram basicamente em serviços de operação e manutenção ("O&M"), supervisão e gestão de obras civis.
+O Grupo Iberdrola auferiu, no ano anterior à operação, faturamento acima de R$ 750 milhões (superior ao patamar fixado no art. 88 da Lei 12.529/11, posteriormente alterado pela Portaria Interministerial MF/MJ nº 994/12), no Brasil.
+I.2.
+CEB Distribuição S.A. (“CEB-D” ou “Sociedade Alvo”)
+A CEB-D é uma concessionária de prestação de serviço público de distribuição de energia elétrica no Distrito Federal.
+A CEB-D é atualmente detida pela Companhia Energética de Brasília (“CEB Holding”), empresa que tem por objeto social a participação em outras sociedades e a exploração direta ou indireta de serviços de energia elétrica, compreendendo os sistemas de geração, transmissão, comercialização e distribuição de energia elétrica, bem como serviços correlatos.
+A CEB Holding auferiu, no ano anterior à operação, faturamento acima de R$ 75 milhões (superior ao patamar fixado no art. 88 da Lei 12.529/11, posteriormente alterado pela Portaria Interministerial MF/MJ nº 994/12), no Brasil.
+II. OS ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, GRU juntado aos autos, conforme Despacho Ordinatório SECONT (0849676)
+Data da notificação
+24/12/2020
+Data da publicação do edital
+O Edital nº 534, que deu publicidade à operação em análise, foi publicado no dia 31/12/2020 (0849501)
+III. DESCRIÇÃO DA OPERAÇÃO
+A operação notificada consiste na aquisição, pela Bahia PCH III, de ações representativas de 100% do capital social da CEB-D.
+A Operação Proposta se insere no processo de desestatização da CEB-D, seguindo determinação do Governo do Distrito Federal, mediante leilão sequencial realizado em sessão pública na B3 S.A. – Brasil, Bolsa, Balcão (“B3”), do qual a Bahia PCH III sagrou-se vencedora.
+O valor da proposta vencedora da Bahia PCH III para adquirir 100% das ações representativas do capital social da CEB-D foi de R$ 2,515 bilhões.
+Como justificativa para o negócio, a Operação Proposta representa para a Neoenergia, a contribuição para o plano de crescimento da empresa no segmento de distribuição de energia no Brasil.
+A Operação também permitirá que a Neoenergia amplie sua área de atuação, diversificando sua presença geográfica.
+Por sua vez, para a CEB-D, a desestatização justifica-se diante da necessidade de reversão da situação operacional, econômica e financeira da empresa, para que, de um lado, a CEB-D cumpra plenamente as exigências estabelecidas no Contrato de Concessão e, de outro, retome sua capacidade de investimento - fundamental para o pleno atendimento de seus consumidores e atendimento de todas as metas estabelecidas pela ANEEL.
+A Operação Proposta está sujeita à aprovação da ANEEL.
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012)
+III – Baixa participação de mercado com sobreposição horizontal.
+IV – Baixa participação de mercado com integração vertical.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Sim
+Integração Vertical
+Sim
+Setor em que há sobreposição horizontal ou integração vertical
+Sobreposição horizontal:
+distribuição de energia (no cenário de concorrência nacional "pelo mercado")
+Integração vertical:
+i) entre as atividades de geração, transmissão e comercialização de energia elétrica do Grupo Iberdrola e as atividades de distribuição de energia da CEB-D;
+ii) entre as atividades de distribuição de energia elétrica, por parte da CEB-D e os serviços de engenharia voltados para a manutenção do setor de distribuição de energia.
+Participações de mercado
+Reduzidas
+VI. CONSIDERAÇÕES SOBRE A OPERAÇÃO
+A Bahia PCH III é uma sociedade não operacional detida pela Neoenergia, que desenvolve atividades de geração, transmissão, comercialização e distribuição de energia elétrica no Brasil.
+Por sua vez, a CEB-D atua no Distrito Federal como concessionária de prestação de serviço público de distribuição de energia elétrica detida pela CEB Holding.
+A CEB Holding detém participação em sociedades que exploram serviços de energia elétrica, compreendendo os sistemas de geração, transmissão, comercialização, distribuição de energia elétrica e prestação de serviços de engenharia para o setor de energia.
+Como já visto anteriormente, a Operação consiste na aquisição, pela Bahia PCH III, de ações representativas de 100% do capital social da CEB-D.
+Passando à análise da Operação proposta, considera-se a possibilidade de geração de efeitos sobre os mercados de geração, distribuição, transmissão e comercialização de energia elétrica.
+A ênfase da análise recairá sobre o segmento de distribuição, visto ser este o segmento principal de atuação da empresa-alvo, a CEB-D.
+Considerando manifestações anteriores deste Conselho[2], o mercado de energia elétrica pode ser segmentado, na dimensão produto, da seguinte forma: (i) geração de energia elétrica; (ii) distribuição de energia elétrica; (iii) transmissão de energia elétrica; e (iv) comercialização de energia elétrica.
+Na jurisprudência do CADE[3], o mercado de distribuição de energia elétrica é caracterizado, usualmente, como monopólio natural, no qual as empresas prestadoras atuam em regime de concessão e sob regulação estatal expressa.
+Quanto ao aspecto geográfico, indicam esses mesmos precedentes, ser o mercado de prestação de serviços de distribuição de energia elétrica definido pela área de atendimento estabelecida pelo contrato de concessão.
+Em alguns desses precedentes, o CADE considerou, também, o cenário de "concorrência pelo mercado", alusivo às disputas estabelecidas por diferentes empresas e/ou grupos econômicos nos assim chamados "leilões de concessão" para prestação de serviços de distribuição de energia elétrica.
+No que se refere ao aspecto geográfico, considera-se o mercado de concessões para prestação de serviços de distribuição de energia elétrica como dotado de dimensão nacional.
+Pelo cenário de regime de monopólio natural, considera-se que cada concessionária atua na prestação de serviços de distribuição de energia elétrica em área delimitada e exclusiva regulada pelo seu respectivo contrato de concessão.
+Neste cenário, não haveria que se falar, portanto, em sobreposição horizontal, uma vez que Neoenergia e CEB-D atuam áreas distintas (como já mencionado na Seção I deste parecer): (i) a Neonergia atua nos quatro diversos segmentos do setor de energia elétrica (geração, transmissão, distribuição e comercialização, além de serviços de engenharia especializados), e no mercado de distribuição de energia, especificamente, por meio da Coelba (BA), da Celpe (PE), da Cosern (RN) e da Elektro Redes (SP/MS); já (ii) a CEB-D atua em distribuição no Distrito Federal.
+Já no cenário de concorrência pelo mercado, o CADE admite a possibilidade de a concorrência se dar nacionalmente, na disputa entre as empresas de energia pelos contratos de concessão, por meio de licitações.
+Neste caso, é certo afirmar que há potencial sobreposição horizontal entre as atividades de distribuição de energia elétrica desenvolvidas pelas partes, uma vez que o leilão de concessão relacionado à operação em tela foi promovido pelo governo do Distrito Federal, sendo a concorrência aberta a qualquer empresa do país, independentemente de sua localização, ou até mesmo para empresas internacionais.
+A partir de dados da Agência Nacional de Energia Elétrica – ANEEL[4], as Requerentes apresentam suas estimativas de participação no mercado de distribuição de energia elétrica no Brasil em 2019, em termos de (i) receita, (ii) consumo de energia e (iii) unidades consumidoras, conforme Tabela abaixo:
+Fonte: Requerentes e dados da Aneel.
+Diante dos três parâmetros analisados para o mercado de distribuição de energia considerados acima, tem-se que as participações de mercado das Requerentes são estimadas abaixo de 20% em todos eles, conforme aqui resumidas: (i) receita – [Acesso Restrito] (10% - 20%); (ii) consumo de energia – [Acesso Restrito] (10% - 20%); e (iii) unidades consumidoras – [Acesso Restrito] (10% - 20%).
+Além disso, a variação do HHI[5] é inferior a 50 pontos nos três parâmetros analisados, sendo, portanto, incapaz de ensejar qualquer preocupação concorrencial.
+Em relação a possíveis integrações verticais entre as atividades de geração, transmissão e comercialização de energia elétrica do Grupo Iberdrola e as atividades de distribuição de energia da CEB-D, verifica-se que as participações de mercado do Grupo Iberdrola se situam abaixo de 30% em qualquer dos mercados analisados, como apresentado a seguir: (i) geração de energia[6] - [Acesso Restrito] (0% - 10%); (ii) transmissão de energia[7] – [Acesso Restrito] (0% - 10%) e (iii) comercialização de energia – [Acesso Restrito] (0% - 10%).
+Por outro lado, a participação do Grupo Iberdrola somada à da CEB-D não alcançaria 30% no mercado de distribuição de energia, após a Operação.
+Ademais, os mercados de distribuição e transmissão são monopólios naturais, com serviços limitados às áreas geográficas cobertas pelos contratos de concessão.
+Já os mercados de geração e comercialização de energia elétrica são extremamente pulverizado, não havendo potencial de fechamento de mercado.
+Em relação à potencial integração vertical entre o mercado de distribuição de energia e o mercado de serviços de engenharia voltados para a manutenção do setor de distribuição, as Requerentes informam que as empresas Elektro Operação e Manutenção Ltda. e Neoenergia Operação e Manutenção Ltda. prestaram serviços de forma cativa apenas a empresas pertencentes ao próprio Grupo Iberdrola.
+Somente a empresa Elektro Comercializadora de Energia registrou faturamento decorrente da prestação de serviços a terceiros independentes em 2019.
+Tais serviços foram prestados com foco no atendimento a clientes quando do pedido de nova ligação de energia, retrofit ou aumento de demanda, e geraram faturamento de [Acesso Restrito].
+Com base na proxy que o CADE vem utilizando para analisar o mercado de serviços de O&M, supervisão e gestão de obra civil, de acordo com ranking elaborado pela revista "O Empreiteiro em 2020"[8], com dados de faturamento de 2019, o faturamento da Elektro Comercializadora corresponde a [Acesso Restrito] (0% - 10%) do faturamento setor de serviços de engenharia como um todo no Brasil em 2019.
+Diante da natureza eminentemente cativa dos serviços de engenharia prestados pelas empresas do Grupo Iberdrola neste mercado, e da reduzida representatividade na venda de tais serviços a terceiros independentes, conclui-se que esta integração vertical também não desperta preocupação concorrencial.
+Considerando todo o exposto, esta SG conclui que a presente operação pode ser aprovada por rito sumário e enquadrada nas hipóteses dos incisos III e IV do art. 8º da Resolução CADE nº 2/2012, não levantando maiores preocupações em termos concorrenciais.
+VII. CLÁUSULA DE NÃO-CONCORRÊNCIA
+A Operação Proposta não contempla cláusulas restritivas à concorrência.
+VIII. CONCLUSÃO
+Aprovação sem restrições.
+[1] As Requerentes declaram que embora a Previ seja detentora de 30,29% de participação no capital social na Neoenergia, a Previ é mero investidor institucional sem controle ou influência sobre a Neoenergia.
+Ademais, as Partes declaram que a Previ não possui participação igual ou superior a 20% do capital social de nenhuma outra companhia que atue no setor de energia elétrica, exceto a própria Neoenergia.
+[2] Atos de Concentração: AC nº 08700.001803/2019-14; AC nº 08700.000283/2019-22; AC nº 08700.000142/2018-29 ; AC nº 08700.006175/2017-00 e AC nº 08700.007960/2017-71.
+[3] Atos de Concentração nº 08700.000142/2018-29, 08700.006319/2016-39.
+[4]  Relatório Aneel.
+Acesso em 06/01/21.
+[5] O Índice HERFINDAHL-HIRSHMAN (HHI) é um índice de concentração de mercado que leva em consideração todos os seus participantes e concede maior peso para as empresas que detém maior participação de mercado.
+O HHI é calculado segundo a fórmula a seguir: HHI = ∑ni=1 si2 , em que si é a participação de mercado da empresa i. [6] A estimativa de participação de geração de energia elétrica da Iberdrola leva em consideração a usina de Belo Monte.
+[Acesso Restrito]
+[7] Em linha com precedentes anteriores deste Conselho, não há a possibilidade de integração vertical no mercado de transmissão de energia visto que existe intensa regulação estatal das empresas transmissoras, logo, estas não possuem autonomia suficiente para discriminar as condições para prestação de seus serviços, além do que não seria possível controlar o fluxo e tampouco a origem da energia transportada pela rede de transmissão do Sistema Interligado Nacional.
+[8] Revista "O Empreiteiro" Acesso em 08/01/21

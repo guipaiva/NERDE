@@ -1,0 +1,128 @@
+SEI/CADE - 0626739 - Parecer
+PARECER Nº 180/2019/CGAA5/SGA1/SG
+PROCESSO Nº 08700.002737/2019-08
+REQUERENTES:
+Companhia Brasileira de Tecnologia para E-Commerce e TOTVS S.A.
+Ementa: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento Sumário.
+Requerentes: Companhia Brasileira de Tecnologia para E-Commerce e TOTVS S.A. Natureza da operação: Aquisição de controle.
+Setor econômico envolvido: Desenvolvimento de plataformas para comércio eletrônico (e-commerce).
+Art. 8º, inciso III, Resolução Cade nº 2, de 29 de maio de 2012.
+Aprovação sem restrições.
+VERSÃO PÚBLICA
+I.                     REQUERENTES
+I.1                   COMPANHIA BRASILEIRA DE TECNOLOGIA PARA E-COMMERCE (“VTEX”)
+A VTEX é uma multinacional brasileira de tecnologia com foco em cloud commerce, desenvolvedora da plataforma VTEX Cloud Commerce, disponibilizada no mercado como SaaS, com atuação global.
+Ou seja, é uma empresa de tecnologia especializada no desenvolvimento de plataformas para comércio eletrônico (e-commerce).
+A VTEX é controlada por pessoas físicas (seus fundadores) e pelo RW II Brasil FIP (25%), dos EUA.
+Sendo assim, a VTEX pode ser considerada como parte de seu próprio grupo econômico (“Grupo VTEX”) e como parte do Grupo Riverwood (ou “RW II Brasil FIP”).
+O faturamento bruto registrado pelo Grupo VTEX, em 2018, no Brasil, foi superior a R$ 75.000.000,00 (limite legal alterado pela Portaria Interministerial nº 994, de 30 de maio de 2012).
+I.2                   TOTVS S.A. (“TOTVS”)
+A TOTVS tem por objetivo prover soluções de negócio através do desenvolvimento e comercialização de softwares de gestão, plataforma de produtividade e colaboração, bem como a prestação de serviços de implementação, consultoria, assessoria e manutenção.
+Por meio de suas controladas, também possui as atividades de industrialização e comercialização de hardware, combinando soluções especializadas de sistemas de gestão, ponto de venda (POS), automação comercial, soluções fiscais, e-commerce e mobilidade.
+As soluções desenvolvidas pela TOTVS e suas controladas são segmentadas conforme setor da economia, produzindo uma maior relevância das soluções dentro do contexto de negócio de seus clientes.
+A TOTVS é uma companhia aberta e nenhum de seus acionistas detém individualmente mais de 20% de seu capital social.
+Assim, a empresa pode ser considerada como parte de seu próprio grupo econômico (“Grupo TOTVS”).
+A Ciashop Soluções para Comércio Eletrônico S.A. (“Ciashop”) é uma empresa que atua no desenvolvimento de plataformas para comércio eletrônico (e-commerce) – solução de loja virtual que permite aos varejistas realizarem vendas de produtos e serviços pela internet.
+Além disso, também comercializa licença de software, que realiza a integração do site da loja virtual com sistemas de meios de pagamento de cartão de crédito e débito e emissão de boletos bancários.
+O controle da Ciashop foi adquirido em 2013 pela Totvs Brasil Sales Ltda. (AC 08700.011046/2013-00), uma empresa do Grupo TOTVS que oferece softwares de gestão empresarial.
+A TOTVS faturou montante superior a R$ 750.000.000,00 no Brasil em 2018 (limite legal alterado pela Portaria Interministerial nº 994, de 30 de maio de 2012).
+II. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos Formais da Operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, conforme Despacho Ordinatório SECONT (0619746)
+Data da notificação ou emenda
+27/05/2019
+Data da publicação do edital
+O Edital nº 185/2019, que deu publicidade à operação em análise, foi publicado em 10/06/2019.
+III. DESCRIÇÃO DA OPERAÇÃO
+A presente operação consiste em três transações, nos termos da minuta do Contrato de Compra e Venda de Ações e Outras Avenças e da minuta do Acordo de Joint Venture e Outras Avenças, a saber:
+(a) aquisição, pela VTEX, da integralidade da participação detida pela TOTVS no capital social da Ciashop;
+(b) aquisição, pela VTEX, de 15,28% do capital social da Ciashop detido por pessoas físicas[1];
+(c) incorporação, pela VTEX, das ações remanescentes da Ciashop detidas por pessoas físicas[2]; e posterior
+(d) formação de joint venture (JV) entre a TOTVS e a VTEX para atuação no mercado de soluções de e-commerce.
+Assim, a Operação consiste em aquisição de controle, incorporação e formação de joint venture, abrangendo a totalidade das atividades exercidas pela Ciashop.
+Como consequência da Operação Proposta, a Ciashop tornar-se-á subsidiária integral da VTEX e seus acionistas tornar-se-ão acionistas da VTEX.
+A figura abaixo, de elaboração das Requerentes, demonstram a estrutura societária da Ciashop antes e depois da Operação.
+Figura 1 - Estrutura Societária da Ciashop
+Como justificativa econômica e/ou estratégica do negócio, as Requerentes argumentam que a Operação, para a VTEX, permitirá combinar o seu know-how no setor com a robustez e capilaridade do Grupo TOTVS.
+Para o Grupo TOTVS, se trata de uma oportunidade de investimento em um mercado em que atua marginalmente em parceria com um player mais experiente.
+Segundo informado pelas Requerentes, a Operação será notificada apenas no Brasil e não está sujeita à aprovação de quaisquer outros órgãos reguladores no Brasil ou no exterior.
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012)
+III - Baixa participação de mercado com sobreposição horizontal.
+​
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da Operação
+Sobreposição horizontal
+Sim.
+Integração vertical
+Não.
+Setores em que há sobreposição horizontal
+Mercado de desenvolvimento de plataformas
+para comércio eletrônico (e-commerce).
+Participações de mercado
+Reduzidas.
+VI. Considerações sobre a Operação
+A presente Operação está relacionada ao mercado de desenvolvimento de plataformas para comércio eletrônico (e-commerce).
+As Requerentes esclarecem que a Operação abrange somente as atividades desempenhadas pela Ciashop, empresa pertencente ao Grupo TOTVS, referente às plataformas de comércio eletrônico (e-commerce).
+As demais atividades desempenhas pela TOTVS e pela VTEX, assim como pelas demais empresas de seus grupos econômicos, continuarão a ser exercidas de maneira independente, de forma que não são objeto da presente Operação.
+O comércio eletrônico ou e-commerce pode ser realizado através de um marketplace ou de uma loja online própria, exclusiva da sua marca, onde o lojista contrata uma plataforma de e-commerce para vender seus próprios produtos.
+Já um marketplace funciona como um shopping virtual, onde várias lojas vendem produtos no mesmo lugar.
+Cada modelo guarda suas próprias características, por exemplo: nas lojas próprias, os lojistas são responsáveis por contratar uma plataforma de e-commerce e realizar o desenvolvimento da loja online; já para vender através de um marketplace o lojista usa a plataforma, sendo que a loja online já está desenvolvida e o lojista inclui seus produtos.
+São soluções alternativas e complementares para realização das vendas pelo comércio eletrônico.
+As Requerentes defendem que o mercado de softwares de e-commerce deve ser considerado como um mercado relevante em si mesmo sob a dimensão produto, uma vez que tais serviços possuem um propósito muito específico, que impede sua substitutibilidade por outros tipos de software.
+Entretanto, há precedentes do CADE que consideram que "plataformas de comércio digital" são produtos compreendidos no segmento de classificação de softwares denominado CRM (Customers Relationship Management), conforme segue:
+"os sistemas de CRM compreendem os seguintes produtos/serviços: serviço de suporte ao cliente, plataformas de comércio digital, marketing e vendas, e são mais usados em departamentos de vendas para servir como central de monitoramento e gestão de todas as interações de vendas de um determinado negócio em um único sistema de registro.
+Eles registram interações entre uma organização e seus clientes em potencial ou existentes para gerenciar melhor as contas e facilitar os esforços de vendas.
+( ...) Clientes de CRM de todos os tipos geralmente veem diferentes soluções de CRM como substitutos válidos entre si.
+Enquanto o Gartner Market Statistics 2015 relate que funcionalidades de CRM podem ser subdivididas em quatro categorias diferentes – serviços de apoio ao cliente, plataformas de comércio digital, marketing e vendas – a maior parte das soluções de CRM possui capacidades em diversas categorias, se não for em todas as quatro" (Ato de Concentração nº 08700.000509/2017-23 Parecer nº 63/2017/CGAA5/SGA1/SG, grifos acrescidos).
+Os precedentes do Conselho analisam, de forma geral, a indústria de softwares de gestão empresarial sob a dimensão geográfica nacional (AC 08700.008234/2015-12 - TOTVS e Bematech; AC 08700.011046/2013-00 - TOTVS e Ciashop; e AC 08012.012191/2010-13 - ATG e Oracle).
+As Requerentes entendem que, do ponto de vista da demanda, ou seja, do varejista interessado em criar ou manter uma loja virtual, a utilização de uma plataforma de e-commerce ou o cadastro em marketplace de terceiros são alternativas substituíveis.
+De fato, ambas cumprem o mesmo propósito de que o lojista/varejista possa ofertar seus produtos e/ou serviços a clientes em ambiente virtual.
+Contudo, ainda que esses dois tipos de plataforma possam ser considerados substitutos pelo lado da demanda, as Requerentes reconhecem que as duas alternativas apresentam funcionalidades distintas, o que poderia ensejar uma definição da dimensão produto do mercado relevante um pouco mais restrita, ao tratá-las como pertencentes a mercados distintos.
+Com relação às atividades desempenhadas pelas Requerentes, tem-se que a VTEX é uma empresa de tecnologia especializada no desenvolvimento de plataformas para comércio eletrônico (e-commerce), que atende os seguintes negócios: (i) B2C, (ii) B2B, (iii) omnichannel e (iv) marketplace.
+As soluções ofertadas pela VTEX são as seguintes:
+A VTEX atua em todo o território nacional e tem clientes localizados em diversos países.
+As empresas com atividades no Brasil, nas quais o Grupo VTEX tem participação direta e indireta, são as seguintes: Companhia Brasileira de Tecnologia para E-Commerce; Indeva Tecnologia Ltda.; VTEX Intermediação e Cobrança Ltda.; e VTEX Publicidade e Eventos Ltda. Adicionalmente, as empresas com atividades no Brasil nas quais o Grupo Riverwood tem participação direta e indireta, para além da própria VTEX, são as seguintes: [ACESSO RESTRITO]
+Por sua vez, a TOTVS tem por objetivo prover soluções de negócio para empresas através do desenvolvimento e comercialização de softwares de gestão, plataforma de produtividade e colaboração, bem como a prestação de serviços de implementação, consultoria, assessoria e manutenção.
+Por meio de suas controladas, também possui as atividades de industrialização e comercialização de hardware, combinando soluções especializadas de sistemas de gestão, ponto de venda (POS), automação comercial, soluções fiscais, e-commerce e mobilidade.
+A Ciashop – empresa do Grupo TOTVS que desenvolve atividades no mercado de soluções de comércio eletrônico (e-commerce) – atua apenas no território nacional.
+O Grupo TOTVS, entretanto, tem atuação internacional.
+As atividades do Grupo TOTVS relacionadas aos mercados da presente Operação são exatamente aquelas exercidas pela Ciashop, conforme segue.
+Para maior clareza, a Requerente TOTVS apresentou breve descrição dos softwares ofertados pelo Grupo TOTVS em geral, conforme segue.
+As Requerentes ressaltam que as soluções da Ciashop e da VTEX têm basicamente o mesmo propósito: permitir que os clientes criem lojas online.
+Assim, em certa medida, as soluções são substituíveis.
+No entanto, a solução da VTEX é mais completa, possuindo módulos que a Ciashop não oferece, quais sejam: (i) Módulo de Recorrência, para atender clubes de assinaturas (a plataforma VTEX permite que seus clientes criem em suas lojas planos de assinaturas, através dos quais os consumidores realizam a compra de produtos com entregas recorrentes); (ii) Plataforma de Marketplace (a plataforma VTEX permite que as lojas online operem como Marketplace, vendendo produtos de diversas empresas); e (iii) Multi Moeda e Multi Lingua (a plataforma VTEX pode ser configurada para vendas em diversas moedas e em diferentes idiomas, permitindo assim sua utilização em diversos países).
+No caso específico da plataforma de Marketplace da VTEX, trata-se de uma solução diversa das plataformas de e-commerce tradicionais, pois permite que as lojas se tornem marketplaces (vendam produtos de outros lojistas) utilizando a mesma plataforma de sua loja própria.
+Entretanto, a solução não se configura como uma concorrente da atividade de marketplace (B2W, por exemplo), pois a VTEX não opera plataformas, apenas fornece o software para a atividade operacional.
+Nesse sentido, a tabela abaixo apresenta um panorama geral das atividades exercidas pela Ciashop e pela VTEX.
+Quadro 3 - Atividades Desempenhadas pelas Requerentes
+Elaboração: Requerentes
+Como dito, os produtos ofertados pelas Requerentes são soluções que permitem a criação de lojas online para que seus clientes ofertem seus produtos e/ou serviços via comércio eletrônico, englobando tanto soluções que criam lojas próprias online (plataforma de e-commerce propriamente dita), quanto soluções que permitam que haja a venda de produtos de outras empresas (plataforma de marketplace própria), ou ainda solução que permita a oferta pelo cliente de produtos em diversos marketplaces de terceiros, sem precisar gerenciar cada um deles individualmente (hub de marketplaces).
+Dessa forma, considerando as atividades econômicas exercidas pelas Requerentes à luz da jurisprudência do Conselho, verifica-se que a Operação enseja sobreposição horizontal no mercado de desenvolvimento de plataformas para comércio eletrônico (e-commerce), atividade compreendida no segmento de classificação de softwares denominado CRM (Customers Relationship Management).
+Não há integrações verticais decorrentes da Operação.
+Portanto, apresenta-se a seguir as participações de mercado das Requerentes no mercado nacional de CRM, em linha com a jurisprudência deste Conselho, com base nos dados oriundos do IDC.
+Tabela 1 - Mercado Nacional de CRM (2018)
+[ACESSO RESTRITO ÀS REQUERENTES]
+As Requerentes esclarecem que a estimativa do IDC não considera em seu total de mercado os dados da VTEX, na medida em que a empresa não é consultada para construção do mercado brasileiro de CRM.
+[ACESSO RESTRITO ÀS REQUERENTES]
+Alternativamente, as Requerentes também apresentaram informações restritas a softwares para e-commerce, tal como sugerido pelas próprias, considerando os seguintes cenários: (i) Cenário 1 - Mercado agregado de soluções de e-commerce, incluindo plataformas de e-commerce e marketplace; e (ii) Cenário 2 -  Mercado de plataformas de e-commerce, apenas.
+A metodologia de cálculo adotada considera o Valor GMV (Gross Merchandise Volume, ou valor total transacionado nas plataformas virtuais) baseado no Relatório Webshoppers 39ª Edição Ebit (2019).
+Considera-se, ainda, que a solução marketplace corresponde a 31,5% do GMV total, conforme Relatório Atlas 2017.
+O valor total do faturamento foi calculado a partir de inteligência interna das Requerentes, que estimam que o custo médio pago pelas lojas virtuais seja de [ACESSO RESTRITO ÀS REQUERENTES]).
+Tabela 2 - Mercado Nacional de Soluções de e-commerce (2018)
+[ACESSO RESTRITO À REQUERENTE VTEX]
+Tabela 3 - Mercado Nacional de Plataformas de e-commerce (2018)
+[ACESSO RESTRITO À REQUERENTE VTEX]
+Conforme se verifica, a participação de mercado conjunta das Requerentes, exceto para o mercado nacional de plataformas de e-commerce quando se considera Volume (GMV), está aquém do limite de 20%, parâmetro legalmente definido como percentual mínimo para que se possa presumir possibilidade de exercício de poder de mercado.
+Contudo, mesmo no cenário em que a participação conjunta supera 20% (mais restrito), a variação de HHI é significativamente inferior a 200 pontos.
+Dessa forma, mesmo que tal mercado constituísse o principal cenário da Operação, a mesma poderia ser classificada como "Ausência de nexo de causalidade: concentrações horizontais que resultem em variação de HHI inferior a 200 desde que a operação não gere o controle de parcela de mercado relevante superior a 50%", conforme Art. 8º, inciso V, Resolução Cade nº 2, de 29 de maio de 2012, que trata de procedimentos sumários na análise de atos de concentração.
+Portanto, considerando todas essas informações, esta SG entende que a presente operação pode ser aprovada sob o rito sumário.
+VII. Cláusula de Não-Concorrência
+As Requerentes informaram a existência de cláusula de não concorrência no Anexo Confidencial IV.2, nos itens 7 ao 11, conforme segue.
+[ACESSO RESTRITO ÀS REQUERENTES]
+[ACESSO RESTRITO ÀS REQUERENTES]
+A cláusula acima está de acordo com a jurisprudência do CADE

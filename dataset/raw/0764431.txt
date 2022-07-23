@@ -1,0 +1,103 @@
+SEI/CADE - 0764431 - Voto Processo Administrativo
+Processo Administrativo nº 08700.011474/2014-05
+Representante: CADE Ex Officio
+Representadas: Copabo Infraestrutura Marítima Ltda., Pagé Indústria de Artefatos de Borracha Ltda., Gustavo Loureiro Ferreira Leite, Juliana Botelho André, Fernando Borin Graziano, Maria Lucia Peixoto Ferreira Leite Ribeiro de Lima e Sílvio Jorge Rabello
+Advogados: Lauro Celidonio Neto, William Sung Jin Lee, Fernando de Oliveira Marques, Monica Yumi Shida Oizumi e outros
+Relatora: Conselheiro Luiz Hnerique Braido
+Voto-Vogal: Conselheira Lenisa Rodrigues Prado
+VOTO VOGAL - CONSELHEIRA LENISA RODRIGUES PRADO
+VERSÃO PÚBLICA
+voto
+Com todo o respeito ao posicionamento adotado pelo Conselheiro Luis Henrique Braido, ouso dele divergir.
+A questão que se submete a julgamento se iniciou com procedimento preparatório instaurado em 15/08/2016, que teve origem na determinação contida no voto do Conselheiro Márcio de Oliveira Júnior proferido nos autos do Processo Administrativo nº 08012.010932/2007-18.
+O Conselheiro identificou indícios de que existiria um cartel atuante me mercado diverso do objeto daquela investigação, o que motivou a remessa do seu voto para a Superintendência-Geral deste Conselho para abertura de investigações específicas a respeito de supostos ilícitos no mercado de defensas marítimas.
+A nova investigação teria por escopo identificar e punir os membros de suposto cartel que atuou na licitação Convite nº 3/2006, certame este em que a empresa Flexomarine S.A [1] (atual denominação da empresa Pagé) foi convidada a participar em 24/11/2016.
+A licitação tinha por objeto a aquisição de defensas marítimas para o Terminal de Granéis Líquidos (TGL) do Porto de Maceió.
+A Superintendência-Geral, munida das correspondências eletrônicas trocadas entre as Representadas e que integram o acervo probatório deste processo, opinou pela instauração de processo investigatório porque [2] :
+“Tal conduta dos Representados citados indica que a empresa Flexomarine S.A e a empresa Copabo Equipamentos de Infraestrutura Portuária Ltda, sendo concorrentes, trocavam informações comerciais sensíveis e faziam acordo para a divisão de licitação”.
+A SG sugere a condenação das Representadas porque, apesar de concorrentes no mercado de defensas marítimas, teriam agido coordenadamente no processo licitatório de forma a mitigar as chances de concorrentes de ganharem a disputa pública.
+A atuação das Representadas que confirmaria a prática ilícita foi assim delimitada pela SG em sua Nota Técnica nº 104 (SEI 0676347):
+“58.
+Os Representados utilizaram diversas estratégias para implementar o acordo colusivo, dentre as quais se destacam (i) troca de informações comerciais sensíveis e (ii) abstenção de apreensão de proposta com fins de fraudar o caráter competitivo do certame”.
+Sobre o suposto modus operandi, teço as seguintes considerações.
+I. Sobre a Troca de Informações Sensíveis.
+A Superintendência-Geral considera que o teor das correspondências eletrônicas trocadas entre as Representadas configura a troca de informações comercialmente sensíveis e comprovariam o ajuste ilícito investigado.
+Porém, ao meu ver, o conteúdo das referidas mensagens corrobora a alegação das Representadas que à época dos fatos as empresas não eram concorrentes no mercado sob investigação e que a Pagé era a fornecedora habitual de insumos de borracha para a Copabo.
+Nos e-mails que compõem o acervo probatório desses autos, a Pagé informa quais os preços cobrados por peças de borracha e esclarece que não iria participar da competição porque não atenderia o escopo integral do edital, uma vez que somente vende o elemento de borracha, mas não instala e desinstala o mecanismo de defensa marítima.
+Seguem as transcrições das referidas mensagens:
+“No mesmo dia 27 de novembro de 2006 foi também enviado e-mail (SEI 0038537, pag.
+11) pelo Sr. Sílvio Jorge Rabello (gerente de vendas da empresa Flexomarine S.A) para o Sr. Fernando Borin Graziano (representante da Copabo Equipamentos de Infraestrutura Portuária Ltda), informando que o último preço apresentado pela Pagé em licitação semelhante – para o elemento de borracha modelo CA-1250-A Grau D2, em 28.07.2006 – havia sido de R$ 41.800,00 (quarenta e um mil e oitocentos reais), a indicar que as referidas empresas trocavam informações comerciais sensíveis e propunham proposta de cobertura das licitações”.
+“No dia 07 de dezembro de 2006, foi enviado e-mail (SEI 0038537, pag.
+61) pelo Sr. Sílvio Jorge Rabello (gerente de vendas da empresa Flexomarine S.A) para a Sra. Maria Lúcia Peixoto Ferreira Leite Ribeiro de Lima (representante da empresa 1001 Indústria e Artefatos de Borracha Ltda), dizendo que estava declinando e que iria apresentar preços para a COPABO.
+Isso indica que as referidas empresas, enquanto concorrentes, trocavam informações comerciais sensíveis e realizavam acordo para direcionamento privado de licitação”.
+“No dia 20 de dezembro de 2006, foi enviado e-mail (SEI 0038537, pag.
+23) pelo Sr. Sílvio Jorge Rabello (gerente de vendas da empresa Flexomarine S.A) para a Sra. Juliana Botelho (representante da Copabo Equipamentos de Infraestrutura Portuária Ltda), também informando que o último preço apresentado para o elemento de borracha modelo CA-1250-A Grau D2, em 28.07.2006, fora de R$ 41.800,00 (quarenta e um mil e oitocentos reais).
+Também informava que na consulta do dia 11/12/2006 estariam declinando da proposta pelo motivo de ‘impossibilidade de atendimento aos requisitos de montagem e desmontagem, pois somos fabricantes somente da Defensa CA-1250-H’.
+Tal evidência indica que as empresas Flexomarine S.A. e a empresa Copabo Equipamentos de Infraestrutura Portuária Ltda também trocavam informações comerciais sensíveis, bem como, realizavam acordo para destinação privada da referida licitação”.
+A alegação de defesa de que as informações trocadas eram lícitas, próprias da negociação de aquisição de insumos também é válida no e-mail abaixo, no qual a representante da Copabo requer o orçamento da Pagé para um projeto equivalente a R$ 140.000,00 (cento e quarenta mil reais):
+“Em resposta (SEI 0038537, pag.
+43), a Sra. Juliana Botelho (representante da Copabo Equipamentos de Infraestrutura Portuária Ltda), informa ao Sr. Sílvio Jorge Rabello (gerente de vendas da empresa Flexomarine S..A), que conforme orientação do Sr. Roberto, solicitava que fosse enviada por Sedex a proposta da empresa Pagé com valor total superior a R$ 140.000,00 (cento e quarenta mil reais), indicando, assim, que as empresas trocavam informações comerciais sensíveis e estariam implementando estratégia de apresentação de proposta de cobertura na referida licitação”.
+Considerando que as justificativas apresentadas pelas Representantes como argumento de defesa são válidas quando avaliadas sob a perspectiva das provas colhidas, entendo que caberia ao órgão acusador obter provas aptas a deslegitimar a tese das acusadas.
+A Superintendência-Geral deve avaliar as provas colhidas de forma a garantir a real prevalência do direito à ampla defesa, de modo que caso exista dúvidas a respeito da ilegalidade supostamente praticada, deve sugerir o arquivamento do processo e não a condenação das Investigadas.
+É oportuno conhecer as lições do Professor Geraldo Prado sobre o assunto:
+“A tarefa de acusar implica, primordialmente, definir o contexto da realização em tese da conduta de tal maneira que se exclua a hipótese em sentido oposto que decorra do mesmo conjunto probatório oriundo da investigação criminal.
+Em outras palavras: o fato definido como crime e imputado ao acusado com fundamento em elementos probatórios obtidos na investigação criminal não pode ser equívoco, ambíguo ou dúbio em seu sentido delituoso.
+Os elementos informativos não podem ensejar outra interpretação que não seja do caráter criminoso da conduta imputada ao acusado.
+As pessoas não podem ser acusadas da prática de comportamentos que podem não ser delituosos.
+Elas somente devem ser acusadas da prática de infrações penais” [3] (grifos adicionados ao texto original).
+Tendo em vista que não foram coligados outros elementos de convicção que justifique a pretensão punitiva, entendo que não há se considerar comprovada a suposta troca de informações comerciais sensíveis entre as Representadas.
+II. Abstenção de Apresentação de Proposta com Intuito de Fraudar o Certame Licitatório.
+A Superintendência-Geral entendeu não ser essencial a delimitação aprofundada do mercado relevante supostamente atingindo pelas condutas, eis que:
+“(...) o presente caso se caracteriza como cartel em licitação, verifica-se que a competição se dá pelo mercado, e, portanto, os fornecedores competem entre si por um contrato para fornecer um determinado produto ou serviço, e a partir disso, o adquirente – especialmente o Governo – escolhe a proposta mais vantajosa possível.
+Assim, quando tais fornecedores combinam previamente a sua participação em um certame ou um conjunto de licitações, o impacto para a concorrência é evidente”.
+A atuação dos partícipes nesse tipo de conluio ocorre, de acordo com a SG [4], através da fixação de preços ou quotas de produção, divisão de clientes e mercados de atuação, bem como através da combinação de preços e ajustes de vantagens nas concorrências públicas.
+O resultado dessa ação coordenada seria a restrição de oferta de bens e serviços disponíveis, aumentando os seus preços.
+No entanto, as provas carreadas aos autos sinalizam situação diferente daquela descrita pela Superintendência-Geral.
+Em primeiro lugar, o mercado de defensas marítimas é extremamente diminuto, o que justifica a adoção da modalidade carta-convite para a licitação do objeto a ser contrato.
+A Presidente da Comissão Especial de Licitação para o Porto de Maceió informou que à época em que aberta a concorrência, era difícil encontrar empresas que atuassem nesse ramo para convidá-las a participar do certame [5].
+Desta forma, há se reconhecer que a suposta atuação concertada não diminuiu a oferta dos bens/serviços existentes no mercado; a concorrência nesse setor já era extremamente limitada por inexistência de competidores.
+Também não houve provas que os Representados tenham ajustados os preços propostos na licitação.
+Consta na Ata de Recebimentos e Abertura das Propostas do Convite nº 4/2006 que a Copabo ofertou proposta vencedora de R$ 125.256,00 (cento e vinte e cinco mil, duzentos e cinquenta e seis reais).
+No entanto, não há informação nos autos de qual seria o valor da proposta supostamente oferecida pela Pagé.
+Sobre o suposto ajuste de preços, assim se manifestou a SG:
+“60.
+Assim, entre novembro e dezembro de 2006, as Representadas Pagé Indústria de Artefatos de Borracha Ltda e Copabo Infraestrutura Marítima Ltda, por meio de seus funcionários, trocaram e-mails compartilhando informações comerciais sensíveis e ajustaram o valor da proposta, de forma a resultar em uma abstenção de apresentação de proposta por uma das Representadas a fim de que sua concorrente fosse a vencedora do certame licitatório”.
+“64.
+A fim de tentar implementar o acordo oclusivo, conforme será visto detalhadamente no tópico abaixo, os Representados trocaram e-mails com o intuito de supostamente repassar o convite para a empresa concorrente participar do certame, informando que declinou do convite tendo em vista não produzir o bem solicitado em edital.
+No entanto, as provas demonstram que os contatos possuíam cunho ilícito, tratando explicitamente qual o valor deveria ser apresentado na proposta, bem como há documentos nos presentes autos, juntados pela Administração do Porto de Maceió, por meio de sua resposta ao Ofício 5439 (SEI n. 0398373), que evidencia a abstenção da Pagé Indústria de Artefatos de Borracha Ltda em apresentar sua proposta para o certame, afastando-se, assim, o argumento que não possuía capacidade para cumprir os requisitos do edital” (grifos adicionados a Nota Técnica nº 104 – SEI 0676347)
+Das transcrições acima, identificam-se algumas contradições no relato da Superintendência-Geral.
+Nas transcrições das correspondências intercambiadas entre as Representadas não há menção ao ajuste de proposta.
+O e-mail enviado pela Sra. Juliana André para o endereço page@pageind.com.br em 20/12/2006 solicita que uma proposta em valor superior a R$ 140.000,00 (cento e quarenta mil reais) seja encaminhada por sedex.
+No entanto, se essa solicitação realmente foi atendida e a proposta foi encaminhada ao pregoeiro da Licitação nº4/2006, há registro que essa proposta foi considerada nula e automaticamente desclassificada porque os documentos exigidos pelo edital do certame não foram apresentados.
+Ora, se realmente houve ajuste de preços, tal colusão só seria implementada se efetivamente a proposta fosse considerada pelo licitante, o que não foi.
+Ademais, não há provas que naquele envelope de sedex o preço era o que supostamente foi combinado entre as partes.
+As Representadas alegam reiteradamente que não eram competidoras, mas que existia uma relação de fornecedor/consumidor entre elas, o que justificaria o repasse do convite para concorrer na licitação recebido pela Pagé para a Copabo, porque seria mais uma oportunidade de vender o artefato de borracha que esta fabricava.
+III. Conclusões.
+De acordo com o Guia de Combate a Cartéis em Licitações do CADE (dezembro/2019), “a conduta de cada empresa deve ser avaliada tanto a partir do seu cotejamento com a conduta dos demais competidores quanto com a situação do mercado em questão”.
+Como já registrado, o mercado de defensas marítimas era muito pequeno, não existindo competição significativa.
+Tanto é que a licitação Convite nº 3/2006 foi considerada deserta, apesar das diligências promovidas pelo órgão contratante para garantir que o maior número de competidores participasse do certame.
+Sabe-se que “os cartéis em licitação (...) tem natureza de acordos entre concorrentes que têm por objetivo restringir ou neutralizar a competição entre eles no âmbito do procedimento licitatório” [6] .
+Porém, ao que tudo indica, a relação entre a Page e a Copabo, era comercial e legítima, sendo a Pagé fornecedora da peça de borracha utilizada pela Copabo nas defensas marítimas.
+Não há indicação que a suposta atuação colusiva tenha restringindo o mercado já diminuto.
+A instrução processual falhou em indicar se outras empresas concorreram nas licitações objeto de investigações e quais os valores apresentados nas propostas.
+Também não se esclareceu qual seria o valor proposto pela Pagé, o que impossibilita anuir com a alegação que sua proposta teria sido no valor de R$ 140.000,00 (cento e quarenta mil reais), como supostamente fora acordado nas mensagens eletrônicas que integram esse processo.
+Não há indícios nos autos que as Representadas tenham encaminhado propostas fictícias ou de cobertura (cover bidding) pois essa estratégia de conluio pressupõe que as propostas serão analisadas pelo licitante.
+As propostas da Pagé foram apresentadas intempestivamente e sem a documentação mínima, o que impossibilita o pregoeiro de considerar a proposta.
+Sendo tais propostas inexistentes para fins de competição, não se pode classifica-las como cover bidding.
+Não há provas que o suposto conluio tenha agido mediante supressão de propostas (bid supression) ou retirada de propostas (bid withdrawal), pois na licitação em que a Pagé não apresentou proposta, houve justificativa que ela não conseguiria atender ao requisito da montagem e desmontagem.
+Assim, diante da ausência de provas que corroborem a imputação de prática de cartel em licitações e considerando ser plausível as alegações de defesa apresentadas pelas Representadas, voto pelo arquivamento do processo sob julgamento.
+(assinado eletronicamente)
+lenisa rodrigues prado
+Conselheira do CADE
+Providência determinada na instrução da Averiguação Preliminar Sigilosa nº 08012.010932/2007-18
+Nota Técnica nº 39 – SEI 0276507.
+PRADO, Geraldo.
+O estatuto jurídico da acusação e o Projeto de Lei Anastasia-Streck – parte II, publicado no site Conjur em 04.04.2020, disponível em: https://www.conjur.com.br/2020-mar-04/geraldo-prado-estatuto-acusacao-pl-anastasia-streck-ii
+“76.
+Especificamente com relação aos cartéis, podemos dizer que consistem em um acordo entre concorrentes para, principalmente, fixar preços ou quotas de produção, dividir clientes e mercados de atuação, bem como combinar preços e ajustar vantagens em concorrências públicas e privadas – tal como observado no presente caso.
+Cartéis prejudicam seriamente os consumidores ao aumentar preços e restringir a oferta, tornando os bens e serviços mais caros ou indisponíveis, e comprometendo a inovação tecnológica.
+Da mesma forma, cartéis em concorrências públicas ou privadas geram prejuízos ao Erário ou aos consumidores, ao impedir que os produtos ou serviços sejam adquiridos ao menor preço e nas condições mais vantajosas possíveis”.
+(Nota Técnica nº 104 – SEI 0676347).
+É o que consta na Nota Técnica nº 104 – SEI 0676347: “No caso concreto, a Sra. Maria Celenita, Presidente da Comissão Especial de Licitação para o Porto de Maceió, redigiu, à época, documento manuscrito relatando a dificuldade de encontrar empresas desse ramo para convidar para o certame licitatório.
+Consta nos autos que o convite foi enviado para outras 2 (duas) empresas além das Representadas”.
+Guia de Combate à Cartel em Licitações já mencionado, disponível em <http://www.cade.gov.br/acesso-a-informacao/publicacoes-institucionais/guias_do_Cade/guia-de-combate-a-carteis-em-licitacao-versao-final-1.pdf

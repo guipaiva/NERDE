@@ -1,0 +1,92 @@
+:: SEI / CADE - 0168666 - Parecer Jurídico ::
+PARECER Nº 5/2016/CGEP/PFE-CADE-CADE/PGF/AGU
+PROCESSO Nº 08012.009606/2011-44
+INTERESSADO:
+Procuradoria da República em Campinas- MPF/SP, Clínica de Oncologia Diagnose e Terapia S/C LTDA. - ONCOCAMP, Instituto de Oncologia Clínica S/S Ltda. - IOC, Instituto do Radium de Campinas Ltda., Oncologia Clínica de Campinas S/C Ltda. - OCC, Ancologia e Hematologia de Campinas S/C Ltda.
+ASSUNTO:
+Conduta concertada
+EMENTA: Processo Administrativo.
+Mercado de prestação de serviços médicos na especialidade de oncologia.
+Descredenciamento conjunto por parte das clínicas Representadas.
+Conduta enquadrada no artigo 20, incisos I e IV c/c artigo 21, incisos I e II da Lei 8.884/94 (correspondentes ao artigo 36, I e IV c/c §3º, I e II da Lei nº 12.529/2011).
+Recomendação de condenação.
+Senhor Procurador-Chefe,
+I. RELATÓRIO
+Em vista o disposto no art. 75 da Lei nº 12.529/2011 e no artigo 157 do Regimento Interno do CADE, os autos do expediente acima epigrafado foram encaminhados a esta Procuradoria Federal para emissão de pronunciamento jurídico.
+O processo em tela originou-se do Ofício nº 2317/2011 remetido à Secretaria de Direito Econômico – SDE pelo Ministério Público Federal – Procuradoria da República em Campinas, que noticiava a abertura de Inquérito Civil Público naquela unidade (ICP nº 71/2010) para apurar supostos danos à concorrência na prestação do serviço de saúde em quimioterapia fornecido por algumas clínicas na região de Campinas/SP.
+A revisão, pela Unimed Campinas, do critério de ressarcimento dos medicamentos utilizados pelas clínicas para a realização deste tipo de tratamento teria sido o fator propulsor da rescisão unilateral do contrato[1]/descredenciamento[2] destas unidades de saúde em relação àquela operadora.
+As clínicas sustentam a inviabilidade financeira desta nova forma de ressarcimento, que seria embasada no preço de aquisição dos produtos pelo próprio centro de tratamento do câncer criado pela Unimed Campinas - CQA[3], e não mais pelo preço de fábrica da ABCFARMA[4], adicionado ao percentual de 5% de taxa de comercialização, como previsto anteriormente no contrato.
+A Secretaria de Direito Econômico – SDE sugeriu a instauração de processo administrativo em desfavor das clínicas Representadas[5] por haver indícios das seguintes práticas:
+descredenciamento conjunto;
+negociação em bloco, manifestada pela tentativa de manutenção da tabela de ressarcimento de medicamentos anteriormente utilizada e;
+propositura abusiva de diversas ações judiciais na tentativa de obter provimento jurisdicional que obrigasse a Unimed Campinas a recontratar as clínicas nos moldes anteriormente previstos (tabela ABCFARMA + adicional de 5%).
+II. FUNDAMENTAÇÃO
+Como informado, em setembro de 2011, o Ministério Público Federal/SP noticiou a SDE do Inquérito Civil Público nº 71/2010 que tramitava naquela unidade, destinado à apuração da regularidade, legalidade, economicidade e eventual lesão à concorrência na prestação de serviço de saúde em quimioterapia fornecido por clínicas de tratamento oncológico da região de Campinas.
+As condutas em investigação seriam atribuídas às clínicas de oncologia que, a despeito de serem concorrentes, teriam atuado em conjunto, assim como à Unimed Campinas, que poderia estar impondo, a seus pacientes, o tratamento oncológico, exclusivamente, via seu próprio centro de tratamento (CQA).
+Para as clínicas Representadas, os fatos assim se sucederam:
+a Unimed passou a impor, de forma arbitrária, de forma unilateral e intransigente, uma nova relação contratual, ensejada pela criação de um serviço próprio desta prestadora da saúde do seu Centro de Quimioterapia Ambulatorial – CQA, que se mostrou a “alternativa única para a realização de procedimentos quimioterápicos pela Unimed Campinas”;
+a Unimed Campinas impunha novo critério de pagamento pelos medicamentos utilizados pelas clínicas, passando a adotar a “Tabela de Retribuição de Medicamentos”, que seria produzida unilateralmente por ela própria; tal medida compeliu as clínicas a requererem a rescisão contratual, posto que este novo critério não refletia os valores reais de custo dos medicamentos;
+a imposição da nova forma de reembolso pelos medicamentos seria uma estratégia da Unimed para inviabilizar o oferecimento do tratamento quimioterápico pelas clínicas e, com isso, direcionar a demanda em caráter de exclusividade, para o seu serviço próprio (CQA); assim, o direito de escolha dos pacientes de seus próprios médicos e clínicas teria sido inteiramente suprimido;
+a nova tabela de retribuição não refletia os reais custos de aquisição dos medicamentos e os tributos incidentes sobre seu faturamento;
+diante desse cenário, os pacientes passaram a buscar a via judicial para garantirem o direito de livre escolha do médico e da clínica onde pretendessem se tratar.
+Para a Unimed Campinas, os fatos se apresentaram do seguinte modo:
+não houve descredenciamento das clínicas, mas rescisão unilateral do contrato, como “forma de forçar a Unimed Campinas a não realizar revisão contratual, com o intuito de adequar o valor pago a título de ressarcimento pelos medicamentos adquiridos” pelas clínicas;
+a revisão contratual se deu após a criação do CQA, quando a cooperativa passou a negociar diretamente com alguns fornecedores e tomou ciência do real valor dos medicamentos;
+instadas a apresentar as notas fiscais dos medicamentos adquiridos, muitas clínicas não possuíam a totalidade desses documentos, o que indicaria uma suposta fraude e enriquecimento ilícito por parte das mesmas;
+Deste modo, até o ano de 2009, as clínicas oncológicas adquiriam os medicamentos por contra própria, diretamente junto aos fornecedores, e obtinham o reembolso junto à Unimed Campinas, que tinha como referência de valores a tabela ABCFARMA, somado ao percentual de 5% correspondente à taxa de comercialização.
+Após a criação de seu próprio centro de serviços de quimioterapia (o CQA), a Unimed alega que passou a negociar diretamente com os fabricantes dos medicamentos e com isso, passou a ter maior discernimento dos preços efetivamente praticados no mercado, constatando que o valor que estava sendo pago como reembolso, até então, às clínicas de oncologia estavam acima do custo alegado pelas mesmas, gerando desequilíbrio contratual e seu enriquecimento sem causa.
+As clínicas estariam adquirindo medicamentos com valor inferior ao da tabela da ABCFARMA e ainda recebiam, adicionalmente, a título de reembolso, a taxa de comercialização correspondente a 5%, o que onerava indevidamente a Cooperativa e proporcionava lucro indevido às credenciadas.
+A partir de 01/01/2009, por meio da Circular DAHSC/204, a Unimed Campinas instituiu a nova forma de reembolso, não só em relação ao seu valor, como também à sua efetivação, que dependeria da apresentação de Notas Fiscais e boletos de pagamento que comprovassem seu efetivo uso pelas clínicas de oncologia.
+A não-apresentação de tais documentos implicariam na glosa, pela cooperativa, dos valores não comprovados[6].
+Deste modo, a Unimed Campinas esclarece que se apresentou necessária a implementação de uma nova metodologia de reembolso, que refletisse os custos reais dos medicamentos e se mostrasse, por isso, mais condizente com os valores de mercado.
+Por isso, a “Tabela de Retribuição de Medicamentos” teria como parâmetro o preço de aquisição dos produtos pelo CQA.
+De fato, as Notificações de Recisão de Contrato de Prestação de Serviços apresentadas pelas clínicas (IOC, OCC, ONCOMÉDICA – Oncologia Clínica SS Ltda, Oncologia e Hematologia de Campinas S/C Ltda, Clínica de Oncologia Diagnose e Terapia Ltda, Instituto do Radium de Campinas Ltda), comprovam não ter havido descredenciamento, mas rescisão unilateral do contrato junto à Unimed Campinas, em face do “desinteresse” em formalizar a nova relação contratual.
+Importa observar que todas as notificações possuem a mesma redação e datam de 30 de novembro de 2009.
+Constatou-se que foram impetradas múltiplas ações judiciais em face da Unimed Campinas, de autoria não só de pessoas físicas, como também jurídicas (como as Representadas), que pretendiam obter provimento judicial que impusesse à Unimed Campinas o pagamento dos medicamentos pelo maior preço (pela tabela anteriormente utilizada), a anulação da decisão que autorizou a constituição do CQA, ou mesmo o recredenciamento das clínicas.
+Em 04 de dezembro de 2009, a Unimed Campinas enviou para as Representadas contranotificação informando o seu compromisso em “manter a prática da atual tabela de retribuição, nas mesmas condições contratuais vigentes”, ou seja, manter a tabela de reembolso original.
+Em 10 de dezembro, as clínicas responderam (novamente, de modo uniforme, com documento de idêntico teor), apresentando a aceitação da proposta então ofertada e propondo a renovação contratual com a cooperativa a partir de 02/01/2010.
+REGULARIDADE FORMAL
+Uma vez instaurado o processo administrativo (como defendido pela SDE em sua Nota Técnica), as Representadas foram devidamente notificadas para acerca deste evento processual, sendo convocadas para apresentarem suas razões de defesa no prazo legal.
+A defesa foi apresentada em conjunto pelas cinco clínicas oncológicas.
+Após, as partes foram intimadas para especificarem as provas que pretendiam produzir no decênio legal e em seguida, para se manifestarem sobre as provas produzidas e apresentarem as razões finais.
+CONDUTA UNIFORME
+Não restam dúvidas de que as Representadas praticaram ilícito concorrencial pois, em vez de agirem autonomamente em relação aos termos do contrato celebrado junto à Unimed Campinas, uniram-se (mesmo que concorrentes diretos), na tentativa de impor a esta cooperativa determinada condição, no caso, a não-aceitação do novo critério de reembolso dos medicamentos utilizados pela Unimed para a prestação dos serviços de oncologia.
+Assim, por não acatarem esta nova forma de ressarcimento por parte da Unimed, restou claro nos autos que as Representadas agiram em conluio, utilizando os seus descredenciamentos como meio de compelir aquela operadora de saúde a eventualmente rever o critério até então adotado.
+A atuação concertada pode ser comprovada, exemplificativamente, pela identidade entre as notificações enviadas pelas clínicas à Unimed (mesmo teor, mesma data), pela contratação conjunta de escritório de advocacia para representação nas demandas judiciais ou até pela notícia publicada no blog E-cancer (em que o médico cooperado informa que, em setembro de 2009, começara a negociação das clínicas com a operadora de saúde); aliás, as próprias clínicas confirmaram, em sua defesa, tal circunstância, ao alegarem que:
+As representadas negociaram, sempre em conjunto e por vários meses, junto aos gestores da Unimed Campinas, a possibilidade de revisão dos contratos de descredenciamento.
+A negociação, em vez de se dar isoladamente, entre a Unimed Campinas e cada centro clínico, no âmbito das singularidades de cada relação contratual constituída, foi tomada de forma conjunta, como se as clínicas oncológicas representassem um player único frente à operadora de saúde.
+Nesse contexto, embora a Unimed Campinas detivesse cerca de 50% dos usuários de planos de saúde na região metropolitana de Campinas e o CQA respondesse por 87% dos tratamentos oncológicos em curso, ao negociarem coletivamente com esta operadora de saúde, foram as clínicas Representadas que passaram a deter poder de mercado em relação à assistência complementar, especialmente por não haver um grande número de fornecedores de serviços substitutos, como anotou a SG.
+O descredenciamento conjunto, além de ser um infeliz método de “barganha” utilizado pelos players como forma de exercer pressão em relação a um agente econômico, o que representa uma medida flagrantemente anticoncorrencial, traz consequências nefastas para os consumidores finais, que não conseguem mais obter tratamento médico em um momento de inquestionável vulnerabilidade física e emocional (como é o caso daqueles acometidos pelo câncer).
+Essa negociação coletiva compromete sobremaneira o ambiente concorrencial, por consistir em tentativa de, indevidamente, se homogeneizar as relações contratuais entre pessoas jurídicas concorrentes no mercado, cerceando a competição e parametrizando agentes econômicos essencialmente distintos.
+A conduta perpetrada coordenadamente pelas clínicas implicava na tentativa de pressionar a Unimed a manter os termos contratuais anteriormente vigentes, sendo que, por não lograrem êxito (diante da criação do CQA e consequente desinteresse da Unimed em recontratá-los), ajuizaram ou estimularam a propositura de várias demandas judiciais e veicularam notícias comprovadamente inverídicas nos meios de comunicação (como a de que a Unimed que as teria descredenciado) – condutas também praticadas em conjunto pelas clínicas.
+As clínicas alegam que a Unimed Campinas, ao adotar o novo critério de reembolso dos medicamentos, tinha por propósito inibir a atuação das mesmas, criando “uma situação insuportável”, a ponto que estas, por iniciativa própria, “se recusassem a firmar os novos contratos”.
+Na verdade, este argumento é frágil já que, do mesmo modo que as clínicas não poderiam ser forçadas a manterem-se no contrato diante da disposição contratual que previu a nova forma de reembolso, a Unimed Campinas também não estaria compelida a manter o ajuste num contexto que lhe fosse economicamente desfavorável (que estava lhe causando prejuízo financeiro) e muito menos readmitir as Representadas em seu corpo de credenciados – vale lembrar, nesse contexto, do princípio da autonomia da vontade.
+A suscitada má-fé da Unimed Campinas em agir estrategicamente de modo a forçar a rescisão unilateral também não encontra guarida, pelo que se extrai dos documentos probatórios.
+A cooperativa demonstrou que os medicamentos estariam sendo adquiridos pelas clínicas por um valor consideravelmente superior em comparação ao que ela mesma poderia adquirir diretamente dos fabricantes; também, não se pode olvidar que as Representadas não possuíam, em algumas circunstâncias, as notas fiscais dos medicamentos, o que robustece a suspeita de que estas poderiam não ter realizado o gasto alardeado.
+Não restou comprovado que a criação do CQA consistiu em estratégia da Unimed Campinas de eliminação da concorrência; na verdade, tal medida revelou-se geradora de considerável eficiência econômica, já que os custos de aquisição direta de medicamentos, pela cooperativa, seriam consideravelmente inferiores.
+As clínicas alegam que a Unimed Campinas adotara conduta exclusionária ao criar o CQA, mas na verdade, não se pode assegurar que a verticalização dos serviços oncológicos implicaria em tentativa de prejuízo às clínicas concorrentes, já que a iniciativa de se desvincular partiu destas últimas e a cooperativa optou por se recusar, em seguida, a contratar serviço considerado mais oneroso, o que não representa infração concorrencial.
+Com efeito, não guarda qualquer irregularidade a criação do CQA pois, como pontuou a SG, é
+perfeitamente aceitável e justificável que um prestador de serviços qualquer empreenda estratégias que visem a redução de seus custos, seja para aumentar sua margem de lucro ou para lhe conferir maior capacidade de competir no mercado de atuação, podendo ofertar serviços de qualidade a preços inferiores.
+III. CONCLUSÃO
+Pelas razões expostas, esta Procuradoria Federal, com base na documentação situada nos autos do Processo Administrativo em tela, aduz que:
+Configura-se infração à ordem econômica, capitulada nos artigos 20, I e IV e 21, I e II da Lei nº 8.884/94 (correspondentes ao artigo 36, I e IV c/c §3º, I e II da Lei nº 12.529/2011), as práticas enveredadas pelas pessoas jurídicas ONCOCAMP – Clínica de Oncologia Diagnose e Terapia S/C Ltda; IOC – Instituto de Oncologia Clínica S/S Ltda; Instituto do Radium de Campinas Ltda; OCC – Oncologia Clínica de Campinas S/C Ltda; Oncologia e Hematologia de Campinas S/C Ltda;
+As provas documentais carreadas aos autos são suficientes para certificar a conclusão acima registrada;
+O processo administrativo manifesta-se formalmente regular, tendo sido atendidos todos os procedimentos previstos em lei;
+À consideração superior (Coordenação-Geral de Estudos e Pareceres).
+FERNANDA CUNHA GOMES
+PROCURADORA FEDERAL
+Ciente e de acordo.
+Ao Sr. Procurador Chefe.
+RODRIGO ABREU BELON FERNANDES
+COORDENADOR DE ESTUDOS E PARECERES
+De acordo.
+Aprovo o Parecer e o adoto nos autos do presente processo.
+Ao Gabinete 06.
+VICTOR SANTOS RUFINO
+PROCURADOR-CHEFE DO CADE
+[1] Conforme sustentado pela Unimed.
+[2] Como alegado pelas clínicas representadas.
+[3] Centro de Quimioterapia Ambulatorial.
+[4] Associação Brasileira do Comércio Farmacêutico.
+[5] ONCOCAMP – Clínica de Oncologia Diagnose e Terapia S/C Ltda, IOC – Instituto de Oncologia Clínica S/S Ltda; Instituto do Radium de Campinas Ltda, OCC – Oncologia Clínica de Campinas S/C Ltda, e Oncologia e Hematologia de Campinas S/C Ltda.
+[6] Tal qual disposto na cláusula quinta e oitava do contrato firmado entre a Unimed Campinas

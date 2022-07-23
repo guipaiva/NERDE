@@ -1,0 +1,116 @@
+:: SEI / CADE - 0331963 - Parecer ::
+PARECER Nº 113/2017/CGAA5/SGA1/SG
+PROCESSO Nº 087000.002314/2017-18
+requerentes:
+DHL Logistics (Brasil) Ltda. e olimpo holding ltda.
+Ementa: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento Sumário.
+Requerentes: DHL Logistics (Brasil) Ltda. e Olimpo Holding Ltda.
+Aquisições de ações.
+Transporte de cargas - produtos regulados.
+Art. 8º, incisos III e IV, Resolução CADE nº 2, de 29 de maio de 2012.
+Aprovação sem restrições.
+versão PÚBLICA
+I.                    REQUERENTES
+I.1.
+DHL Logistics (Brasil) Ltda. ("DHL Logistics")
+A DHL Logistics atua como operador logístico, oferecendo uma solução logística completa, incluindo um conjunto de serviços relacionados a armazenamento, empacotamento, controle de estoque, recebimento de cargas, transporte rodoviário, marítimo e aéreo e logística reversa.
+Os acionistas da DHL Logistics são: Deutsche Post International B.V.
+(possui 53,74% das ações); Exel International Holdings (Netherlands 2) B.V.
+(detentor de 39,17% das ações); Deutsche Post Beteiligugen Holding GMBH (detém 7,07% das ações); e Exel Investments (Netherlands) B.V.
+(titular de 0,02% das ações).
+Em 2016, o Grupo DHL auferiu faturamento superior a R$ 750 milhões, no Brasil.
+I.2.
+Olimpo Holding Ltda. ("Olimpo")
+A Olimpo é uma holding não operacional que controla três empresas: (i) Polar Transportes Rodoviários Ltda. ("Polar"); (ii) Polar Truck Service Ltda. ("Polar Truck"); e (iii) Rio Lopes Transportes Ltda. ("Rio Lopes"), em conjunto com as duas outras empresas denominadas "Empresas da Olimpo".
+Essas três empresas fornecem serviços de transporte rodoviário principalmente focados no transporte de medicamentos, cosméticos e outros produtos médicos e farmacêuticos.
+Os serviços prestados pelas Empresas da Olimpo consistem em transferência entre portos e aeroportos para os estabelecimentos dos clientes, bem como a transferência ou distribuição posterior desses produtos, de acordo com as informações prestadas pelas requerentes.
+A Olimpo é controlada por Agnaldo José dos Santos e Joel Pereira Lopes, ora vendedores.
+A soma do faturamento das Empresas da Olimpo totalizou valor superior a R$ 75 milhões, no Brasil, em 2016.
+II. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, conforme Despacho Ordinatório DCONT (0325732)
+Data da notificação ou emenda
+13/04/2017
+Data da publicação do edital
+O Edital nº 120, que deu publicidade à operação em análise, foi publicado no dia 26/04/2017 (0328562)
+III. DESCRIÇÃO DA OPERAÇÃO
+Trata-se de operação de aquisição, pela DHL Logistics, de 100% das ações da Olimpo.
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012)
+Operação enquadrada nas seguintes hipóteses de sumário: III – Baixa participação de mercado com sobreposição horizontal e IV – Baixa participação de mercado com integração vertical.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Sim
+Integração vertical
+Sim
+Setor em que há sobreposição horizontal ou integração vertical
+Sobreposição horizontal: mercado de transporte rodoviário de cargas (Produtos Regulados)
+Integração vertical: mercados de transporte rodoviário de cargas e de armazenamento de cargas / operador logístico
+Participações de mercado
+Reduzidas
+VI. Considerações sobre a Operação
+A operação em tela compreende a aquisição, pelo Grupo DHL, da integralidade das três Empresas da Olimpo, quais sejam: Polar, Polar Truck e Rio Lopes, que são empresas prestadoras de serviços de transporte de cargas.
+De acordo com as partes, a Polar e a Rio Lopes possuem foco no transporte rodoviário de medicamentos, correlatos e outros produtos médicos e farmacêuticos ("Produtos Regulados").
+Por outro lado, a Polar Truck presta serviços de transporte rodoviário de bens de consumo (tais como bebidas, alimentos importados, perfumes e chocolates), assim como parte residual da atividades da Polar e Rio Lopes.
+De toda forma, as partes ressaltaram que o transporte de produtos não regulados representa cerca de 15% do faturamento conjunto das três empresas, além do que, as três empresas não ofertam serviço de armazenamento de cargas.
+O Grupo DHL, a seu turno, presta diversos serviços na cadeia de logística e transporte de cargas, atuando tanto com cargas gerais quanto com as cargas que requerem tratamento especializado, inclusive ofertando transporte rodoviário e armazenamento de Produtos Regulados.
+Sobre o transporte de Produtos Regulados, as requerentes esclareceram que para o transporte dessas mercadorias são requeridas licenças específicas emitidas pela Agência Nacional de Vigilância Sanitária - ANVISA e alguns produtos médicos e farmacêuticos requerem transporte em um ambiente refrigerado, em temperaturas que podem variar de acordo com o tipo de produto - há duas categorias principais de produtos sujeitos a controles especiais: a primeira requer o transporte em temperaturas elevadas (entre 15 ºC e 25 ºC), enquanto a segunda demanda o transporte em baixas temperaturas (entre 2 ºC e 8 ºC).
+Em virtude disso, o transporte de tais produtos pode ser feito tanto em caminhões refrigerados quanto em veículos normais, sendo que, no caso de caminhões sem refrigeração, os produtos são colocados em caixas térmicas, dentro das quais pode-se acondicionar gelo, a fim de se manter a temperatura adequada pelo tempo exigido pela legislação pertinente, segundo informações das requerentes.
+[1]
+Em linha com os precedentes deste Conselho[2], a operação suscita sobreposição horizontal no mercado de transporte rodoviário de cargas, que compreende o transporte de todos os tipos de cargas pelo modal rodoviário.
+Contudo, considerando a especialização dos serviços prestados pelas empresas objeto, e a possibilidade de segmentação em determinados ramos da cadeia logística por tipo de carga (conforme ponderado em julgados do CADE[3]), esta Superintendência entendeu pertinente avaliar um cenário mais restrito, na dimensão produto, envolvendo apenas o transporte rodoviário de Produtos Regulados (i.e., medicamentos, correlatos e outros produtos médicos e farmacêuticos).
+A jurisprudência deste Conselho considera a dimensão geográfica do transporte rodoviário de cargas como sendo de abrangência nacional, cuja delimitação pode ser replicada para o cenário mais restrito, para fins da presente análise.
+Ademais, a operação gera potencial integração vertical entre transporte rodoviário de cargas, ofertado pelas Empresas da Olimpo, e armazenamento de cargas, prestado pela DHL, especificamente concernente aos Produtos Regulados.
+[4]
+VI.1.
+Sobreposição Horizontal na Atividade de Transporte Rodoviário de Cargas: Produtos Regulados
+Inicialmente, as requerentes esclareceram que o Grupo DHL não realiza o transporte rodoviário diretamente, prestando essa atividade apenas por meio de empresas de transporte independentes.
+Porém, a presente análise considerará a atuação da DHL nesse mercado independentemente da utilização de estrutura de transporte própria ou de terceiros, sob uma ótica mais conservadora de análise.
+Considerando os impactos no mercado de transporte rodoviário de cargas (cenário abrangente), as requerentes estimaram que a concentração entre o Grupo DHL e as Empresas da Olimpo corresponderia a uma participação de cerca de 0-10% [Acesso Restrito às Partes] do faturamento total do mercado, que na estimativa das partes foi de R$ 137 bilhões, em 2015.
+[5]
+A partir de informações prestadas no Ato de Concentração nº 08700.011717/2015-96, tem-se que a receita operacional líquida das 87 maiores empresas do modal rodoviário do setor de transporte correspondeu a [Acesso Restrito ao CADE], em 2014.
+Com base nessa estimativa de faturamento do mercado (desconsiderando variações de volume entre os anos de 2014 e 2015), a participação do Grupo DHL seria 0-10% [Acesso Restrito ao CADE], levando em conta seu faturamento com as atividades de transporte rodoviário, transporte aéreo e armazenamento de cargas, uma vez que o grupo não dispõe de dados segmentados.
+Já as Empresas do Grupo Olimpo teriam 0-10% [Acesso Restrito ao CADE] de participação.
+Portanto, mesmo considerando uma estimativa de faturamento do mercado bem mais reduzida do que a utilizada pelas partes em suas estimativas, a participação conjunta das requerentes no mercado de transporte rodoviário de cargas é baixa (menor que 10%) e não levanta preocupações de cunho concorrencial.
+No tocante ao transporte rodoviário de Produtos Regulados (cenário restrito), reitera-se que o serviço limita-se ao transporte de produtos farmacêuticos, farmoquímicos, cosméticos e outros.
+As partes informaram que a atividade de transporte do Grupo DHL relacionada a tais produtos teria alcançado uma participação de 0-10% [Acesso Restrito às Partes], em 2015, conforme estimativa do faturamento do mercado (R$ 3,2 bilhões), calculada por elas próprias a partir de dados gerais disponíveis[6].
+Por sua vez, a participação conjunta das Empresas da Olimpo seria de 0-10% [Acesso Restrito às Partes], em 2015, segundo a estimativa apresentada.
+Portanto, as requerentes concluem que a concentração horizontal nesse segmento será inferior a 10%.
+A despeito do esforço e da boa-fé das partes em estimar o total do mercado de transporte rodoviário de Produtos Regulados, esta SG calculou as participação a partir de outras fontes, utilizando uma metodologia de cálculo diferente para estimar o faturamento total deste ramo.
+[7] Contudo, o resultado encontrado foi semelhante às participações estimadas pelas partes, motivo pelo qual considera-se que também na dimensão produto do mercado mais restrita a operação produz baixa concentração entre as partes.
+Sendo assim, em qualquer dos cenários acima descritos, a sobreposição horizontal resultante da operação não afetará significativamente o ambiente competitivo.
+VI.2.
+Integração Vertical entre Transporte Rodoviário de Cargas e Armazenamento de Cargas / Operador Logístico
+Além da atuação como transportador de cargas, o Grupo DHL atua como operador logístico, ofertando uma solução logística completa, que envolve um conjunto de serviços relacionados a armazenamento, empacotamento, controle de estoque, recebimento de cargas, transporte rodoviário, marítimo e aéreo, bem como logística reversa.
+De relevante para o caso, assim como o transporte, as requerentes informaram que o Grupo DHL oferta também serviços de armazenamento de Produtos Regulados, podendo prestá-los de maneira conjunta ou isolada, de acordo com o interesse de seus clientes.
+De acordo com as requerentes, as Empresas da Olimpo não ofertam serviços de armazenamento de Produtos Regulados e seus clientes que eventualmente estejam interessados na contratação de serviços de armazenagem contratam esses serviços diretamente com outras empresas, sendo as empresas alvo contratadas apenas para realizar o transporte dos produtos.
+Por isso, as partes consideraram que uma possível integração vertical entre transporte e armazenagem de Produtos Regulados seria meramente potencial.
+De todo modo, o volume transportado pelas Empresas da Olimpo representaria menos de [Acesso Restrito às Partes] do total de Produtos Regulados armazenados pelo Grupo DHL, tomando por referência os dados das partes mensal ou anual. Em resumo, a potencial integração vertical não se revela danosa à concorrência.
+As partes cogitaram ainda a possibilidade de integração vertical entre o transporte de Produtos Regulados (prestados pelas Empresas da Olimpo e DHL) e o serviço de operador logístico ofertado pelo Grupo DHL.
+Tal integração vertical também não produzirá relevantes alterações nos mercados relacionados, uma vez que a participação das partes é baixa no mercado de transporte rodoviário de Produtos Regulados, e considerando que a participação da DHL corresponderia a cerca de 0-10% [Acesso Restrito às Partes] do mercado de operadores logísticos de Produtos Regulados, segundo estimativas das partes (calculada a partir de dados publicados pela Associação Brasileira de Operadores Logísticos - ABOL).
+Portanto, refuta-se a possibilidade de fechamento de mercado nos segmentos de transporte rodoviário e armazenamento de Produtos Regulados, assim como seria improvável a hipótese de fechamento dos mercados de transporte rodoviário e de operador logístico de Produtos Regulados, como consequência desta operação.
+Por todo o exposto, conclui-se que a presente operação não acarreta prejuízos ao ambiente concorrencial, em face das baixas participações das partes nos mercados horizontal e verticalmente relacionados.
+VII. Cláusula de Não-Concorrência
+As requerentes firmaram obrigação de não concorrer na Cláusula 14 do Contrato de Compra e Venda de Ações, a seguir reproduzida.
+[Acesso Restrito às Partes]
+Seus termos estão em consonância com os parâmetros aceitos por este Conselho.
+VIIi. Recomendação
+Aprovação sem restrições.
+Encaminhe-se ao Sr. Superintendente-Geral.
+[1]  As partes salientaram também que a legislação aplicável permite o transporte de produtos médicos e farmacêuticos de forma conjunta com determinados produtos não regulados, tais como equipamentos eletrônicos.
+No entanto, como alguns produtos podem comprometer a segurança, qualidade e efetividade dos produtos médicos e farmacêuticos, há produtos (como comida ou carne) que não podem ser transportados conjuntamente com Produtos Regulados.
+[2]  Cf.
+Ato de Concentração nº 08700.011717/2015-96, AC nº 08700.009559/2015-12 e outros.
+[3] Dimensão considerada nos Atos de Concentração nº 08700.010597/2014-29 e 08700.008413/2013-80, dentre outros.
+[4] As partes explicaram que o Grupo DHL possui atividade de controle de estoques, que tem o objetivo de monitorar e controlar todos os processos críticos de armazenagem, bem como oferecer suporte para o transporte distribuição.
+Contudo, este é um serviço complementar ao serviço de armazenagem e que não há contratações isoladas desse serviço, razão pela qual não haveria integração vertical entre a atividade de controle de estoque ofertado pelo Grupo DHL e os serviços de transporte do Grupo Olimpo.
+[5] As partes estimaram que o faturamento desse mercado, no ano de 2015, foi de R$ 137 bilhões, com base em dados do IBGE, IMF, A.T. Kearney.
+[6] Em resumo, as partes utilizaram os seguintes dados: (i) receita total da indústria farmacêutica (informado no Relatório Anual de 2015 do Sindicado da Indústria de Produtos Farmacêuticos no Estado de São Paulo - Sindusfarma); (ii) receita total dos equipamentos médicos, estimado pela Associação Brasileira da Indústria de Artigos e Equipamentos Médicos e Odontológicos (ABIMO); e (iii) representatividade dos custos de transporte de Produtos Regulados, segundo dados publicados pelo Instituto de Logística e Supply Chain (ILOS).
+[7] Para esse exercício, esta Superintendência considerou os dados de: (i) gastos com transporte das fabricantes de medicamentos para uso humano (divulgado pela Fundação Getúlio Vargas, disponível em http://fgvprojetos.fgv.br/sites/fgvprojetos.fgv.br/files/port_transporte_de_medicamentos_no_brasil.pdf, acessado em 28/04/2017); (ii) faturamento da indústria de cosméticos, produtos de higiene e perfumaria, disponibilizado no Anuário da Associação Brasileira da Indústria de Higiene Pessoal, Perfumaria e Cosméticos - ABIHPEC, disponível em https://abihpec.org.br/ABIHPEC_2016/Anuario2016_DIG.html#p=66, acessado em 28/04/2017; e (iii) representatividade dos custos de transporte de Produtos Regulados, segundo dados publicados pelo Instituto de Logística e Supply Chain (ILOS).
+Para estimar o valor referente ao transporte de cosméticos, produtos de higiene e perfumaria, multiplicou-se o faturamento dessa indústria com a representatividade do transporte desses produtos (dado fornecido pelo ILOS).
+O produto dessa equação foi somado ao gasto com o transporte de medicamentos e totalizou R$ 3,3 bilhões

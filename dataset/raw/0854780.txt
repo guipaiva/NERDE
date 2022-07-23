@@ -1,0 +1,177 @@
+SEI/CADE - 0854780 - Nota Técnica
+Nota Técnica nº 6/2021/CGAA6/SGA2/SG/CADE
+Processo Administrativo nº 08700.000379/2020-24 (Apartado de Acesso Restrito 08700.005852/2018-45)
+Representante: Ministério Público do Estado do Mato Grosso do Sul (MPE/MS)
+Representados: Companhia Ultragaz S/A, Copagaz Distribuidora de Gás S/A, D.P.H. Vitol (MGás), Dourados Revendedora de Gás Ltda., Edgas Ltda – ME (Edgás), GNB Distribuidora de Gás – EPP (GNB Distribuidora de Gás Supergasbras), GR Gás Ltda. – ME (Graziele Gás), JE Machado Comércio de Gás (Big Gás), Kushida & Cia Ltda. – ME (Nippongaz), Kushida & Kushida Ltda. – EPP (Nippongaz), Mauro Victol ME (MGás), Megapreço Gás e Água Mineral, Paiva & Paiva Ltda – ME (Paivinha Comércio de Gás), Revendedora de Gás Bahia Ltda. (Gás Bahia) e Victol & Victol – ME; César Meirelles Paiva, Daiane Lazzaretti Souza, Diovana Rosseti Pereira, Edvaldo Romeira de Souza, Gregório Artidor Linne, Hamilton de Carvalho Rocha, Josemar Evangelista Machado, Márcio Sadão Kushida, Mauro Victol, Rogério dos Santos de Almeida e Rubens Pretti Filho.
+Advogados: Ahamed Arfux, Barbara Rosenberg, Fernanda Ferreira Freitas, Gabriela Matos Misquita Oliveira, Gustavo Henrique Gomes da Silva, Hassan Hajj, João Eduardo Negrão de Campos, José Inácio Ferraz de Almeida Prado Filho, Joyce Midori Honda, Luciano Inácio de Souza, Marcos Exposto, Munir Mohamad Hassan Hajj, Pedro Navarro Correia, Pietre Degasperi Cote Gil, Rayter Abib Salomão, Ricardo Lara Gaillard, Ronaldo Alves de Oliveira, Simone Angela Radai, Siuvana de Souza Salomão, Tania Mara Coutinho de França Hajj, Wanderson Souza Coelho Pereira e outros.
+EMENTA:
+Processo Administrativo.
+Suposto cartel nos mercados de distribuição e revenda de GLP na cidade de Dourados/MS e região.
+Pedidos de reconsideração.
+Indeferimento.
+Agendamento de oitiva de testemunhas arroladas por meio de videoconferência.
+VERSÃO PÚBLICA ÚNICA
+I. RELATÓRIO
+Trata-se de Processo Administrativo para apuração de suposto cartel no mercado de distribuição e revenda de GLP na cidade de Dourados/MS e região, iniciado a partir de investigação feita pelo Ministério Público do Estado do Mato Grosso do Sul (MPE/MS), no âmbito da Operação Laissez-Faire, deflagrada em 27/03/2018.
+O processo foi compartilhado com o Cade com cópias do Procedimento Investigatório Criminal n. 06.2017.00001663-6, bem como da Denúncia que deu ensejo a Ação Penal n. 0802738-82.2018.8.12.0002 (SEI n. 0533011 e 0533014), que tramita na 1ª Vara Criminal de Dourados/MS, no Tribunal de Justiça do Estado (TJ/MS).
+Em 29/01/2020, foi exarada a Nota Técnica n. 01/2020/CGAA6/SGA2/SG/CADE (SEI n. 0712666 e 0712672) da Superintendência-Geral do Cade (SG/Cade), aprovada pelo Despacho do Sr. Superintendente-Geral n. 01/2020 (SEI n. 0712485) que concluiu pela existência de indícios robustos de infração à ordem econômica consubstanciada em condutas passíveis de enquadramento no artigo 36, inciso I, § 3º, inciso I, alíneas "a" e “c” e incisos III e IV da Lei n. 12.529/2011, na forma do artigo 69 e seguintes da Lei n. 12.529/2011.
+As condutas investigadas consistiram em acordos entre concorrentes em relação a preços e condições comerciais, com o objetivo de dividir clientes e espaços territoriais, além de alinhar aumentos de preços.
+Todos os Representados foram devidamente notificados da instauração do processo, de modo que a contagem do prazo de defesa começou em 21/07/2020 e encerrou-se em 20/08/2020, tendo sido dilatado por mais dez dias, a pedido dos Representados (SEI n. 0789853), encerrando-se em 31/08/2020.
+A partir disso, os Representados abaixo indicados apresentaram suas defesas, conforme indicado na tabela a seguir:
+Representados
+Defesas (n. SEI)
+Companhia Ultragaz S/A e Hamilton de Carvalho Rocha
+0798543
+Copagaz Distribuidora de Gás S/A
+0799186
+D.P.H.
+Vitol (MGás)
+0732801
+Dourados Revendedora de Gás Ltda.
+—
+Edgas Ltda – ME (Edgás)
+—
+GNB Distribuidora de Gás – EPP (GNB Distribuidora de Gás Supergasbras)
+—
+GR Gás Ltda. – ME (Graziele Gás)
+—
+JE Machado Comércio de Gás (Big Gás)
+0757850
+Kushida & Cia Ltda. – ME (Nippongaz)
+—
+Kushida & Kushida Ltda. – EPP (Nippongaz)
+—
+Mauro Victol ME (MGás) e Mauro Victol
+0732277
+Megapreço Gás e Água Mineral
+—
+Paiva & Paiva Ltda – ME (Paivinha Comércio de Gás)
+0742255 / 0742256
+Revendedora de Gás Bahia Ltda. (Gás Bahia)
+—
+Victol & Victol – ME
+0732804
+César Meirelles Paiva
+0742259 / 0742262
+Daiane Lazzaretti Souza
+—
+Diovana Rosseti Pereira
+0799010
+Edvaldo Romeira de Souza
+—
+Gregório Artidor Linne
+—
+Josemar Evangelista Machado
+0755890
+Márcio Sadão Kushida
+—
+Rogério dos Santos de Almeida
+0783030
+Rubens Pretti Filho
+—
+Com vistas a sanear o feito, esta SG/Cade apresentou, em 13/10/2020, a NOTA TÉCNICA Nº 102/2020/CGAA6/SGA2/SG/CADE (n. SEI 0816025).
+Nela, foram determinadas as seguintes providências:
+(i) O indeferimento das preliminares por falta de amparo legal, nos termos acima referidos;
+(ii) O deferimento para solicitação ao MPE/MS e TJMS de juntada de cópia integral dos documentos da Ação Penal e dos áudios das interceptações telefônicas, o que deverá ser feito por meio de ofício àqueles órgãos;
+(iii) O indeferimento dos pedidos genéricos para produção de todos os meios de prova em direito admitidos, uma vez que as partes não cumpriram a determinação constante da notificação de especificação das provas a serem produzidas.
+Outrossim, caso os Representados desejem, podem apresentar estudos, pareceres, análises ou outras provas documentais, produzidos às suas expensas, até o fim do término da instrução processual;
+(iv) O deferimento de solicitação ao MPE/MS e ao TJMS de informações e documentos adicionais constantes das provas tjuntadas aos autos da Ação Penal n. 080273882.2018.8.12.0002, (e as apensas de n. 0005266-25.2018.8.12.0002 e 0005283-61.2018.8.12.0002), o que deverá ser feito por meio de ofício àqueles órgãos;
+(v) O deferimento das oitivas de testemunhas indicadas pelos Representados Paiva & Paiva Ltda. – ME (Paivinha Comércio de Gás) e César Meirelles Paiva, destacando que essas declarações podem ser apresentadas de forma escrita, como prova documental.
+Caso optem por essa alternativa, os Representados deverão juntar aos autos as declarações escritas das testemunhas em até 15 (quinze) dias contados da publicação do despacho do Sr. Superintendente-Geral;
+(vi) O indeferimento da produção de provas periciais solicitada por D.P.H. Vitol (MGás), Mauro Victol ME (MGás) e Victol & Victol – ME.
+Outrossim, caso os Representados desejem, podem apresentar estudos, pareceres, análises ou outras provas documentais, produzidos às suas expensas, até o fim do término da instrução processual;
+(vii) Nos termos do artigo 13, inciso VI, da Lei n. 12.529/2011, esta Superintendência-Geral, no interesse da instrução desse Processo Administrativo, poderá produzir provas documentais e/ou testemunhais que serão designadas oportunamente; e
+(viii) Notificação dos Representados Copagaz Distribuidora de Gás S/A e Diovana Rosseti Pereira para que informem, em 15 (quinze) dias, a contar da publicação do despacho do Sr. Superintendente-Geral, quais são os pedidos de esclarecimentos que deverão ser encaminhados ao MPE/MS e ao TJMS.
+Em resposta à Nota Técnica 102/2020, foram apresentadas duas petições com pedidos feitos por Representados.
+A primeira, de COPAGAZ DISTRIBUIDORA DE GÁS S.A e DIOVANA ROSSETI PEREIRA (n. SEI 0824093), solicita que sejam reconhecidas as preliminares alegadas.
+Além disso, solicita também que seja feito o compartilhamento integral das mídias de interceptação telefônica que lastrearam o processo penal, bem como que sejam feitos esclarecimentos sobre a legalidade e regularidade das provas produzidas através da interceptação.
+A segunda, de CÉSAR MEIRELLES e PAIVA&PAIVA LTDA (n. 0823507) solicita que seja agendada a oitiva das testemunhas, já indicadas anteriormente, por meio de videoconferência.
+Este é o relatório.
+II. ANÁLISE
+II.1.
+Do pedido de reconsideração do indeferimento das preliminares de mérito
+Os Representados COPAGAZ DISTRIBUIDORA DE GÁS S.A e DIOVANA ROSSETI PEREIRA (n. 0824093) apresentaram pedido de reconsideração quanto ao indeferimento de questões preliminares ao mérito suscitadas em sua defesa, argumentando, em síntese, que foi indevida a utilização de prova emprestada no caso, e que o compartilhamento desta não foi autorizado judicialmente pelo TJ/MS.
+Alegam também que não houve a devida individualização da conduta dos Representados.
+Em especial, alegam os Representados inexistirem provas suficientes para instauração de processo administrativo.
+Quanto ao pedido de reconhecimento da inexistência de provas ou indícios de cometimento de infração econômica para instauração do processo administrativo, não assiste razão aos Representados.
+Cabe ressaltar que o caso em análise traz não apenas indícios, mas também provas concretas de comunicações entre representantes de empresas concorrentes, a tratar de questões de mercado que levantam suspeitas graves da autoridade antitruste e que merecem melhor análise.
+Essas provas foram registradas por meio de interceptações telefônicas – a ultima ratio ou último recurso das provas processuais penais, autorizadas judicialmente apenas quando reunidas as condições excepcionais do artigo 2º, da Lei n. 9.296/96.
+Além disto, a análise final acerca dos indícios e provas é discussão de mérito, que será feita na fase final do trâmite nesta Superintendência-Geral, após a devida instrução probatória e análise dos argumentos de defesa trazidos pelos Representados, em respeito a seus direitos constitucionais do devido processo legal, da ampla defesa e do contraditório.
+Em relação à discussão quanto ao cabimento e legalidade da prova emprestada, consistente em interceptação telefônica, também não assiste razão aos Representados.
+É entendimento pacífico nos tribunais superiores a admissibilidade de prova emprestada proveniente de processo penal em processo administrativo, conforme se depreende dos julgados colacionados abaixo:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO.
+DIREITO ADMINISTRATIVO.
+TRIBUNAL DE CONTAS DA UNIÃO.
+COMPETÊNCIA.
+CONCURSO MATERIAL.
+FRAUDE.
+SISTEMA ÚNICO DE SAÚDE.
+ADMINISTRADOR DE HOSPITAL.
+SIGILOS BANCÁRIO E FISCAL.
+PROVA EMPRESTADA.
+APLICAÇÃO RETROATIVA DE LEI.
+CARÁTER SANCIONADOR.
+1. A competência da TCU é fixada a partir da origem dos recursos públicos, logo independe da natureza do ente envolvido na relação jurídica, inclusive na seara do Sistema Único de Saúde.
+2. É possível a utilização em processo administrativo de provas emprestadas de processo penal, quando haja conexão entre os feitos.
+3. A controvérsia relativa à retroatividade da aplicação da Lei 8.443/92 ao caso concreto cinge-se ao âmbito infraconstitucional.
+4. Agravo regimental a que se nega provimento.
+(STF, RE 934233 AgR, Relator(a): EDSON FACHIN, Primeira Turma, julgado em 14/10/2016, PROCESSO ELETRÔNICO DJe-234  DIVULG 03-11-2016  PUBLIC 04-11-2016)
+EMENTA: DIREITO PROCESSUAL PENAL.
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO.
+PROVA PRODUZIDA EM AÇÃO PENAL EMPRESTADA PARA UTILIZAÇÃO EM PROCESSO ADMINISTRATIVO.
+VALIDADE.
+INTERCEPTAÇÃO TELEFÔNICA.
+CRIMES PUNÍVEIS COM PENA DE DETENÇÃO.
+CRIMES CONEXOS.
+POSSIBILIDADE.
+CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.
+MANDADO DE SEGURANÇA.
+FASE PROBATÓRIA.
+IMPOSSIBILIDADE.
+1. O acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal no sentido de que é válida a utilização, em processo administrativo, de provas emprestadas no Processo Penal.
+Precedente.
+2. “Uma vez realizada a interceptação telefônica de forma fundamentada, legal e legítima, as informações e provas coletas dessa diligência podem subsidiar denúncia com base em crimes puníveis com pena de detenção, desde que conexos aos primeiros tipos penais que justificaram a interceptação” (HC 83.515, Rel. Min. Nelson Jobim).
+3. No caso, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário.
+4. A jurisprudência desta Corte é no sentido de que “o mandado de segurança não viabiliza a fase probatória, devendo vir com a inicial os elementos de convicção quanto à ofensa a direito líquido e certo” (MS 28.538, Min. Marco Aurélio).
+5. Agravo regimental a que se nega provimento.
+(STF, RE 810906 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 04/08/2015, PROCESSO ELETRÔNICO DJe-181  DIVULG 11-09-2015  PUBLIC 14-09-2015)
+Os Representados alegam, ainda, não ter sido comprovada a devida autorização judicial para o compartilhamento das provas.
+No entanto, tal autorização consta expressamente dos autos da ação penal originária, Processo n. 0802738-82.2018.8.12.0002, do TJMS.
+O trecho da decisão que expressamente autoriza o compartilhamento das provas foi copiado na Nota Técnica 102/2020, em seu parágrafo 46, razão pela qual não deve prevalecer a irresignação dos Representados quanto a esse ponto.
+II.2.
+Do pedido de compartilhamento da integralidade das mídias referentes à interceptação telefônica
+O compartilhamento integral das mídias referentes à interceptação telefônica ocorrida no bojo do processo penal já foi deferido por meio da Nota Técnica 102/2020, o que ocorrerá regularmente por meio de expedição de ofício ao MPE/MS e ao TJ/MS, solicitando o compartilhamento da integralidade das mídias referentes às interceptações feitas.
+No entanto, por meio do Despacho SG n. 1150/2020 (n. SEI 0816027), foi solicitado aos Representados que apresentassem esclarecimentos a ser encaminhados ao MPE/MS e ao TJ/MS, relacionados à disponibilização das mídias de interceptação telefônica.
+Os Representados apresentaram, por meio de petição (n. SEI 0824093), três tópicos:
+O compartilhamento da integralidade das mídias resultantes das diligências de interceptação telefônica e de sua eventual transcrição para que sejam juntadas aos autos.
+Tal pedido já foi regularmente deferido, e será realizado por meio de ofício a ser enviado aos órgãos competentes.
+Esclarecimentos sobre a motivação, as circunstâncias envolvidas e a licitude das diligências de interceptação telefônica.
+Tal pleito se demonstra exageradamente amplo e genérico, não sendo apto a deferimento, sendo inviável e desnecessário exigir tão ampla motivação dos órgãos oficiados.
+Afinal, o cabimento da medida já foi devidamente justificado no bojo do processo penal originário e acolhido por juiz competente em fundamentada decisão, sendo desnecessário o questionamento ulterior sobre sua legalidade e validade em processo administrativo.
+Esclarecimentos quanto às medidas tomadas para a observância integral às regras relacionadas à cadeia de custódia da prova.
+Assim como o questionamento anterior, este se mostra desarrazoado por sua amplitude e desnecessidade.
+O procedimento de interceptação telefônica foi integralmente justificado no bojo do processo penal, respeitando a todas as garantias constitucionais e legais exigidas, sob a supervisão de juiz de direito competente.
+Tal questionamento não se revela necessário em processo administrativo ulterior.
+Em resumo, quanto aos pedidos (b) e (c), verifica-se que o Representado não apresentou questionamento objetivo ou apontou de forma concreta e fundamentada qualquer suposta ilegalidade nos procedimentos de produção de prova na esfera penal que merecessem esclarecimentos, restando prejudicado, portanto, o encaminhamento dessas questões às autoridades de persecução criminal.
+II.3.
+Da oitiva de testemunhas por videoconferência
+No tocante à prova testemunhal, os Representados PAIVA & PAIVA LTDA – ME (PAIVINHA COMÉRCIO DE GÁS) E CÉSAR MEIRELLES PAIVA solicitaram a realização de oitiva das pessoas abaixo indicadas (n. SEI 0742255).
+Em análise a tal pedido, e diante das justificativas apresentadas, foi deferido pedido na Nota Técnica 102 (n. SEI 0816025), em seu parágrafo 93, com base no art. 72 da Lei nº 12.529/2011.
+REPRESENTADO
+TESTEMUNHA
+PAIVA & PAIVA LTDA – ME (PAIVINHA COMÉRCIO DE GÁS) E CÉSAR MEIRELLES PAIVA
+Sra. Ana Paula Badu Da Rocha
+Sr. Florisvaldo Pires Da Silva
+PAIVA & PAIVA LTDA – ME (PAIVINHA COMÉRCIO DE GÁS) E CÉSAR MEIRELLES PAIVA
+Sr. Fabio Lima De Oliveira
+Os Representados solicitaram, por meio de petição, que a oitiva seja realizada por meio de videoconferência.
+Levando-se em conta as limitações impostas pelo novo cenário de pandemia, e a autorização expressa no RI-Cade (art. 153, § 3º) para que ocorram oitivas por essa modalidade, é necessário ponderar sobre a necessidade e conveniência de novas formas de produção probatória.
+Com efeito, diversos órgãos já possuem regramentos autorizativos da audiência por videoconferência mesmo em situações adversas, como audiências de custódia no processo penal (Resolução CNJ Nº 357 de 26/11/2020), não se revela gravoso que a audiência ocorra por videoconferência no caso em comento.
+Diante disso, levando-se em consideração a legislação autorizativa e o contexto atual, defere-se o pleito, de acordo com o regramento colocado pelo art. 153, § 3º, do Regimento Interno do Cade.
+Sugere-se ainda que as oitivas das testemunhas relacionadas acima sejam realizadas no dia 24/03/2021, das 14h às 15:30h.
+Para a operacionalização das oitivas será enviado link, por meio de e-mail, aos Representados, em momento oportuno, ressaltando que é dever do Representado que arrolou as testemunhas informa-las sobre a data e horário da oitiva, bem como fornecer os meios eletrônicos necessários para a sua participação na videoconferência, caso as testemunhas não disponham desses meios.
+III. CONCLUSÃO
+Ante o exposto, determina-se:
+Indeferir o pedido de reconsideração apresentado pelos Representados Copagaz Distribuidora De Gás S.A e Diovana Rosseti Pereira;
+Deferir o pedido de compartilhamento integral de mídias e áudios referentes ao procedimento de interceptação telefônica, a ser solicitado mediante ofício enviado por esta Autarquia ao TJ/MS e ao MPE/MS e indeferir os demais esclarecimentos solicitados pelos Representados; e
+Deferir o pedido de realização de oitiva de testemunhas por meio de videoconferência, que ocorrerá no dia 24/03/2021, das 14h às 15:30h

@@ -1,0 +1,189 @@
+SEI/CADE - 1041262 - Parecer
+PARECER Nº 126/2022/CGAA5/SGA1/SG (EM SUBSTITUIÇÃO À VERSÃO PÚBLICA DO PARECER N° 118/2022/CGAA5/SGA1/SG)
+PROCESSO Nº 08700.001397/2022-95
+REQUERENTES:
+Instituto Hermes Pardini S.A. e Davita Health Care Brasil Serviços Médicos Ltda.
+Ementa: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento sumário.
+Requerentes: Instituto Hermes Pardini S.A. e Davita Health Care Brasil Serviços Médicos Ltda. Natureza da operação: aquisição de controle.
+Mercado afetado: serviços de medicina diagnóstica.
+Art. 8º, incisos III e IV, Resolução CADE nº 02/12.
+Aprovação sem restrições.
+VERSÃO DE ACESSO público
+I.                       REQUERENTES
+I.1.
+Instituto Hermes Pardini S.A. ("IHP" ou "Comprador​")
+O Grupo IHP atua no mercado de apoio laboratorial e na assessoria especializada a empresas de saúde como: laboratórios, clínicas e hospitais em todo o Brasil.
+O Grupo possui mais de 160 unidades próprias de atendimento, espalhadas nos estados de Minas Gerais, Goiás, São Paulo, Rio de Janeiro e Pará.
+Entre os serviços oferecidos por suas unidades próprias, além de apoio laboratorial, estão: análises clínicas, diagnóstico por imagem, genética molecular, check-ups, testes oncológicos de alta complexidade, medicina nuclear, prevenção e vacinação, e patologia cirúrgica.
+O Grupo IFP auferiu, no ano anterior à operação, faturamento acima de R$ 750 milhões (superior a um dos dois patamares de notificação obrigatória fixados no art. 88 da Lei 12.529/11, posteriormente alterado pela Portaria Interministerial MF/MJ nº 994/12), no Brasil.
+I.2.
+Davita Health Care Brasil Serviços Médicos Ltda. ("DaVita Serviços Médicos” ou "Empresa-Alvo")
+A Davita Health Care Brasil Serviços Médicos Ltda. (“DaVita Serviços Médicos”) é uma das subsidiárias brasileira da DaVita Inc. e tem por objeto a prestação de serviços de atendimento médico ambulatorial, incluindo a realização de consultas, procedimentos cirúrgicos ambulatoriais, exames diagnósticos complementares e outros serviços médicos relacionados.
+Além da DaVita Serviços Médicos, o Grupo DaVita no Brasil também está representado pela DaVita Brasil Participações e Serviços de Nefrologia Ltda. (“DaVita Tratamento Renal”) que tem por objeto a prestação de serviços de diálise para pacientes renais crônicos em clínicas de diálise ou para os pacientes hospitalizados.
+A DaVita Tratamento Renal conta atualmente com 93 clínicas e atendimento a cerca de 350 hospitais.
+O Grupo DaVita auferiu, no ano anterior à operação, faturamento acima de R$ 750 milhões (superior a um dos dois patamares de notificação obrigatória fixados art. 88 da Lei 12.529/11, posteriormente alterado pela Portaria Interministerial MF/MJ nº 994/12), no Brasil.
+II. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, conforme Despacho Ordinatório SECONT (SEI 1028759)
+Data da notificação
+22/02/2022
+Data da publicação do edital
+O Edital nº 125, que deu publicidade à operação em análise, foi publicado no dia 08/03/2022 (SEI 1031283)
+III. DESCRIÇÃO DA OPERAÇÃO
+A operação consiste na aquisição, pelo IHP, das quotas representativas de 100% do capital social da Empresa-Alvo, constituída unicamente para possibilitar a alienação de dez (10) unidades de prestação de serviços médicos e seus respectivos ativos, os únicos detidos pela Empresa-Alvo.
+De acordo com as Requerentes, o valor da Operação é de [Acesso Restrito]
+Como justificativa para a realização da Operação, as Requerentes explicam que, para o IHP, a Operação proporcionará ganhos de escala com o aumento da sua presença no município de São Paulo/SP, bem como com a entrada nos municípios de Taboão da Serra/SP e Guarulhos/SP, em linha com seu projeto de expansão no estado de São Paulo.
+Para o Grupo DaVita, a Operação se apresenta como uma boa oportunidade de monetização referente a investimentos realizados.
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012)
+III – Baixa participação de mercado com sobreposição horizontal.
+IV – Baixa participação de mercado com integração vertical.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Sim
+Integração vertical
+Sim
+Setor em que há sobreposição horizontal
+Serviços de apoio à medicina diagnóstica.
+Setores em que há integração vertical
+Serviços de apoio a laboratórios ou hospitais (a montante) e serviços de processamento de exames de medicina laboratorial (a jusante).
+Participações de mercado
+Reduzidas
+VI. Considerações sobre a Operação
+Conforme mencionado anteriormente, a Operação envolverá a aquisição, pelo IHP, de quotas representativas de 100% do capital social da Empresa-Alvo, a ser constituída por 10 Unidades de prestação de serviços de apoio à medicina diagnóstica, localizadas nos municípios de São Paulo, Guarulhos e Taboão da Serra.
+Nesse contexto, as Requerentes identificaram, dadas as suas áreas atuações, as seguintes relações de sobreposição horizontal e integrações verticais:
+Quadro 2 - Relações de sobreposição horizontal e integração vertical decorrentes da Operação.
+Fonte: Requerentes.
+De acordo com os precedentes do CADE[1], o mercado de serviços médico-hospitalares é segmentado conforme diferenças nas cestas de produtos oferecidos, grau de complexidade dos procedimentos e especialidade.
+Dessa forma, de maneira geral, o entendimento do Conselho é de que o setor de serviços de cuidado com a saúde pode ser dividido em dois grupos: (i) serviços médico-hospitalares e (ii) serviços de apoio à medicina diagnóstica.
+No que se refere aos serviços de apoio à medicina diagnóstica, a jurisprudência do CADE[2] considera que o mercado abrange um conjunto de exames destinados a auxiliar o serviço médico nas funções de prevenção, diagnóstico, prognóstico e acompanhamento terapêutico de doenças.
+Ademais, as análises do CADE costumam diferenciar esses serviços nas seguintes linhas de negócio: (i) medicina diagnóstica prestado à rede pública do SUS; (ii) serviços de apoio a outros laboratórios; (iii) atendimento hospitalar e (iv) exames prestados diretamente ao paciente[3].
+Quanto à dimensão geográfica, o CADE tem entendido que o mercado de serviços de apoio à medicina diagnóstica possui abrangência municipal[4].
+Segundo o "Cadernos do Cade: Atos de concentração nos mercados de planos de saúde, hospitais e medicina diagnóstica" (Cadernos do CADE/DEE)[5], ao longo dos anos, o CADE consolidou um entendimento sobre a definição de mercado relevante, no segmento de exames prestados diretamente ao paciente, considerando as especificidades de cada exame ao avaliar a possibilidade de agregar mais de um tipo de exame no mesmo mercado relevante ou tratá-lo como um mercado específico, sob a ótica do produto.
+Nesse sentido, os seguintes segmentos de mercado que já foram analisados e delimitados anteriormente por este Conselho: (i) exames de análises clínicas; (ii) exames de anatomia patológica e citologia; (iii) exames de diagnóstico por imagem (tais como: raio X, ressonância magnética, mamografia e ultrassonografia); e (iv) exames de diagnóstico por métodos gráficos (como audiometria, eletroencefalograma, eletrocardiograma, teste ergométrico e endoscopia).
+Sendo assim, no contexto da presente análise das sobreposições horizontais identificadas, serão analisados os seguintes segmentos de mercado, por tipo de exame, quando possível a segmentação: (i) exames de análises clínicas; (ii) exames de diagnóstico por imagem (ultrassonografia); e (iii) exames de diagnóstico por imagem (raio-X), todos no município de São Paulo/SP.
+As Partes estimaram as participações nos mercados em questão, conforme é possível observar nas tabelas abaixo:
+Tabela 1 – Estimativa de market share no mercado exames de análises clínicas – São Paulo/SP, 2020.
+[Acesso Restrito]
+Empresas
+Faturamento (R$)
+Faturamento (%)
+Exam.
+(nº)
+Exam.
+(%)
+IHP
+[Acesso Restrito]
+[Acesso Restrito]
+[Acesso Restrito]
+(0% - 10%)
+DaVita
+[Acesso Restrito]
+[Acesso Restrito]
+[Acesso Restrito]
+(0% - 10%)
+IHP + DaVita
+[Acesso Restrito]
+[Acesso Restrito]
+[Acesso Restrito]
+(0% - 10%)
+Total
+R$ 4.007.000.000 100%
+115.000.000
+100%
+Fonte: Elaboração SG, com base em dados das Requerentes e da ANS[6].
+Tabela 2 – Estimativa de market share no mercado exames de diagnóstico por imagem (ultrassonografia) – São Paulo/SP, 2020.
+[Acesso Restrito]
+Empresas
+Faturamento (R$)
+Faturamento (%)
+Exam.
+(nº)
+Exam.
+(%)
+IHP
+[Acesso Restrito]
+[Acesso Restrito]
+[Acesso Restrito]
+(10% - 20%)
+DaVita
+[Acesso Restrito]
+[Acesso Restrito]
+[Acesso Restrito]
+(0% - 10%)
+IHP + DaVita
+[Acesso Restrito]
+[Acesso Restrito]
+[Acesso Restrito]
+(10% - 20%)
+Total
+R$ 82.228.210
+100%
+1.016.405 100%
+Fonte: Elaboração SG, com base em dados das Requerentes e da ANS[7].
+Tabela 3 – Estimativa de market share no mercado exames de diagnóstico por imagem (raio-X) – São Paulo/SP, 2020.
+[Acesso Restrito]
+Empresas
+Faturamento (R$)
+Faturamento (%)
+Exam.
+(nº)
+Exam.
+(%)
+IHP
+[Acesso Restrito]
+[Acesso Restrito]
+[Acesso Restrito]
+(0% - 10%)
+DaVita
+[Acesso Restrito]
+[Acesso Restrito]
+[Acesso Restrito]
+(0% - 10%)
+IHP + DaVita
+[Acesso Restrito]
+[Acesso Restrito]
+[Acesso Restrito]
+(0% - 10%)
+Total
+R$ 34.487.343
+100%
+1.207.610 100%
+Fonte: Elaboração SG, com base em dados das Requerentes e da ANS[8].
+Com base nos dados de número de exames, nota-se, dos dados acima, que a participação conjunta das Requerentes no mercado de (i) exames de análises clínicas seria de [Acesso Restrito] (0% - 10%); no mercado de (ii) exames de diagnóstico por imagem (ultrassonografia) seria de [Acesso Restrito] (10% - 20%); e no mercado de (iii) exames de diagnóstico por imagem (raio-X) seria de [Acesso Restrito] (0% - 10%); todos valores abaixo de 20% (filtro a partir do qual se presume posição dominante e, assim, possibilidade de exercício de poder de mercado), indicando que a Operação não suscitaria riscos de natureza concorrencial.
+Quando se avalia as estimativas pelos dados de faturamento, a concentração nesses mercados seria ainda menor.
+Em relação à integração vertical envolvendo o mercado de serviços de apoio a laboratórios ou hospitais (a montante) e o de serviços de processamento de exames de medicina laboratorial (a jusante); entende-se, conforme os Cadernos do CADE/DEE, que os serviços de apoio a outros laboratórios referem-se à prestação de serviços a outros laboratórios, que, normalmente são clínicas de pequeno e médio porte e que, assim, não contam com escala e volume suficientes para viabilizar financeira e tecnicamente a realização destes exames na própria clínica.
+Neste tipo de arranjo operacional, laboratórios pequenos recolhem o material de seus pacientes e o enviam para unidades de processamento de outros laboratórios de maior porte que, por fim, realizam os exames e devolvem os resultados ao laboratório de origem, podendo essas empresas e unidades operacionais estarem localizadas em diferentes regiões do país.
+Esta característica leva a uma definição geográfica do mercado relevante como nacional, como delimitada em precedentes[9].
+Nesse contexto, as Requerentes apresentaram dados para estimativas de participação de mercado, conforme as tabelas a seguir.
+Tabela 4 – Estimativa de participação no mercado de serviços de apoio a outros laboratórios  – Brasil, 2021.
+[Acesso Restrito]
+Fonte: Requerentes e ANS.
+As Partes esclareceram que, em 2021, a DaVita apenas contratou serviços de apoio a outros laboratórios e hospitais  [Acesso Restrito] Além disso, os valores contratados pela DaVita (que corresponderam a [Acesso Restrito]) representariam apenas uma pequena parte  [Acesso Restrito] (0% - 10%) do total do faturamento da IHP nesse mercado.
+Nota-se, dos dados acima, que a participação do Grupo IHP no mercado de serviços de apoio a outros laboratórios seria de [Acesso Restrito] (20% - 30%); enquanto que a demanda da DaVita, em relação aos serviços de processamento de exames de medicina laboratorial seria de menos de 1%, valores abaixo de 30% (filtro a partir do qual se presume possibilidade de fechamento de mercado), indicando que a Operação não representaria risco de fechamento de mercado.
+Por todo o exposto, considerando que as estimativas de market share conjunto das Requerentes em todos os mercados horizontalmente sobrepostos e verticalmente integrados situam-se abaixo de 20% e 30%, respectivamente, conclui-se que a Operação não acarreta prejuízos ao ambiente concorrencial, enquadrando-se nas hipóteses de procedimento sumário do art. 8º, incisos III e IV, da Resolução nº 2/12.
+VII. Cláusula de Não-Concorrência
+Segundo as Requerentes, o contrato que formaliza a Operação possui o seguinte teor restritivo à concorrência:
+[Acesso Restrito]
+As cláusulas acima referenciadas estão de acordo com a jurisprudência do CADE.
+VIIi. CONCLUSÃO
+Aprovação sem restrições.
+____________________________
+[1] Vide Atos de Concentração nº 08700.006207/2019-21; nº 08700.004631/2019-31 e nº 08700.003255/2020-09.
+[2] Vide Atos de Concentração nº 08700.001846/2020-33 e nº 08700.001244/2021-67.
+[3] Voto do Conselheiro Ricardo Machado Ruiz referente ao Ato de Concentração nº 08012.010038/2010-43.
+[4] Vide Atos de Concentração nº 08700.004631/2019-31; nº 08700.002952/2018-10 e nº 08700.008061/2016-13.
+[5] Disponível em: <https://www.gov.br/cade/pt-br/centrais-de-conteudo/publicacoes-institucionais/estudos-economicos/cadernos-do-cade>.
+[6] As Partes informaram que para a elaboração da estrutura da oferta para o segmento de análises clínicas, utilizou-se como base as informações disponíveis no Mapa Assistencial da Saúde Suplementar, publicado periodicamente pela ANS.
+Ressalta-se que, embora esse material viabilize alguma estimativa sobre o tamanho total do segmento, não é possível segregar os exames de análises clínicas e anatomia patológica/citopatologia.
+Nesse sentido, algumas premissas precisaram ser adotadas para estimar o mercado total de análises clínicas no município de São Paulo/SP para o ano de 2020, conforme o documento de acesso restrito SEI 1030657.
+[7] As Requerentes informaram que para a elaboração da estrutura da oferta para o segmento de ultrassonografia, utilizou-se como base as informações disponíveis no Painel de Dados do TISS (D-TISS) disponibilizado pela ANS, que contém dados acerca do dispêndio total das OPS com esse tipo de exame (“Painel D-TISS”).
+Com base em tais considerações, e devido ao fato de as informações do Painel D-TISS se referirem ao total de cada estado, algumas premissas precisaram ser adotadas para estimar o mercado total de exames de ultrassonografia no município de São Paulo/SP, conforme o documento de acesso restrito SEI 1030657.
+[8] As Requerentes inforaram que para a elaboração da estrutura da oferta para o segmento de exames de raio-x, utilizou-se como base as informações disponíveis no Painel de Dados do TISS (D-TISS) disponibilizado pela ANS, que contém dados acerca do dispêndio total das OPS com esse tipo de exame (“Painel D-TISS”).
+Com base em tais considerações, e devido ao fato de as informações do Painel D-TISS se referirem ao total de cada estado, algumas premissas precisaram ser adotadas para estimar o mercado total de exames de raio-x no município de São Paulo/SP, conforme o documento de acesso restrito SEI 1030657.
+[9] Vide Atos de Concentração nº 08012.007540/2011-58; nº 08012.000185/2006-29; nº 08700.005609/2019-16; nº 08700.000649/2019-63 e nº 08700.003294/2020-06

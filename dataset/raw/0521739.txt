@@ -1,0 +1,116 @@
+SEI/CADE - 0521739 - Nota Técnica
+NOTA TÉCNICA Nº 28/2018/CGAA2/SGA1/SG/CADE
+Procedimento Preparatório nº 08700.004201/2018-38
+Representante: Secretaria de Promoção da Produtividade e Advocacia da Concorrência - SEPRAC
+Representada: Banco Bradesco S.A. (“Bradesco”)
+Advogado(s): Caio Mário da Silva Pereira Neto, Ricardo Ferreira Pastore, Fernando Stival e outros.
+EMENTA: Procedimento Preparatório.
+Abuso de posição dominante.
+Sham litigation.
+Instauração de Inquérito Administrativo para Apuração de Infrações à Ordem Econômica, nos termos dos artigos 13, III, e 66 da Lei 12.529/11 c/c artigo 181 do Regimento Interno do Cade.​
+I - RELATÓRIO
+I.1 Do objeto​
+Trata-se de Procedimento Preparatório instaurado em 9 de julho de 2018 por esta Superintendência-Geral (“SG”) do Conselho Administrativo de Defesa Econômica (“Cade”) com o objetivo de apurar supostas infrações à ordem econômica cometidas pelo Banco Bradesco S.A. (“Bradesco”) em desfavor do GuiaBolso Finanças e Correspondente Bancário e Serviços Ltda. (“GuiaBolso”), prejudicando o exercício de atividade econômica do último e, consequentemente, a livre concorrência no mercado de serviços financeiros.​
+Ao tomar conhecimento dos desdobramentos de uma ação, ajuizada pelo Bradesco em desfavor do GuiaBolso, a Secretaria de Promoção da Produtividade e Advocacia da Concorrência (Seprac), do Ministério da Fazenda, apresenta subsídios[1] em relação ao processo judicial e solicita seu ingresso na lide na condição de amicus curiae.
+Em seu parecer, a Seprac argumenta que algumas práticas do Bradesco, supostamente relacionadas a segurança e proteção de dados dos seus clientes, seriam, na verdade, barreiras impostas ao desenvolvimento de atividades econômicas do GuiaBolso.
+A Seprac também sustenta em parecer que a insurgência judicial do Bradesco quanto a fatos para os quais há expressa autorização legal pode se configurar como sham litigation, com finalidade tácita de restringir a concorrência.
+Considerando que o GuiaBolso, para seu pleno funcionamento, depende de informações que, mesmo que sejam de propriedade de seus clientes, são controladas pelo Bradesco e, ao mesmo tempo, oferece serviços complementares que concorrem com parte dos serviços oferecidos pelo Bradesco, haveria incentivos econômicos por parte do Bradesco para conter a inovação.
+Nas palavras da Seprac:​
+“23.
+(...) Quando um agente econômico é, concomitantemente, fornecedor e concorrente de um maverick, os incentivos para conter a inovação que pode revolucionar o mercado e tornar o seu modelo de negócios ultrapassado são incontestes: os artifícios anticoncorrenciais tornam-se uma luta pela sobrevivência, ou pela preservação do status quo, em (proveito próprio e em) detrimento do consumidor.
+(...)”
+Assim, a Seprac pediu a abertura de investigação, nos termos do art. 66, § 6° da Lei nº 12.529/2011.​
+I.2 Da Representação - condutas
+O GuiaBolso é um aplicativo desenvolvido para uso em smartphones cujo desenho inicial era, por meio do acesso às informações bancárias de seus usuários, devidamente autorizado por meio de senhas, utilizar ferramenta de organização de dados para prover o usuário com um mecanismo de gestão financeira de seus recursos.
+Ao acessar as contas bancárias do usuário, o aplicativo apresenta as informações de maneira consolidada, considerando informações disponíveis nos extratos de conta corrente, lançamentos futuros, dados de cartões de crédito, dentre outros que, de maneira estruturada oferecem uma informação útil ao usuário para a gestão de suas finanças pessoais, o que nem sempre fica claro da forma com que as instituições financeiras dispõem tais informações em seus sistemas de internet banking.​
+Em um segundo momento, o GuiaBolso passou a utilizar as informações acessadas para construir um sistema de rating de seus usuários, ou seja, uma classificação de risco de acordo com a movimentação financeira de cada cliente.
+Com isso, o aplicativo passou a oferecer, por meio de uma plataforma de dois lados, serviços de crédito aos usuários, funcionando como um marketplace de serviços de empréstimo pessoal.
+Por meio do aplicativo, outras instituições financeiras podem oferecer crédito aos usuários do GuiaBolso independentemente de relacionamento prévio (conta corrente), considerando a classificação de risco elaborada e disponibilizada pelo GuiaBolso a essas instituições.
+Por meio dessa funcionalidade, o cliente Bradesco, ao utilizar o GuiaBolso, consegue comparar os custos entre diversos bancos ofertantes de maneira online, podendo contratar o crédito com outra instituição financeira com substancial redução nos custos de troca que hoje caracterizam o mercado tradicional.
+Entretanto, o Bradesco impetrou ação judicial[2] requerendo que o GuiaBolso deixasse de coletar informações dos seus clientes, alegando, em síntese: (i) risco para a segurança; (ii) elevação dos custos administrativos do sistema para o Bradesco; (iii) quebra de sigilo bancário; (iv) desrespeito ao contrato com a instituição financeira; (v) ausência de transparência do aplicativo; e (vi) concorrência desleal.​
+Em 27 de junho de 2018, a Seprac solicitou ao juízo de origem o ingresso como amicus curiae no feito, tendo apresentado Parecer com minucioso exame das alegações do Bradesco e suas conclusões.​
+Em breve síntese, a Seprac analisa a exigência feita pelo Bradesco de requisitar a inserção de, além da senha de acesso à conta corrente, de um token randômico para cada acesso feito por um cliente Bradesco por meio do aplicativo Guia Bolso, bem como a alegação de que o aplicativo estaria infringindo o sigilo bancário dos clientes Bradesco.​
+A Seprac sustenta que a imposição de uma senha de acesso adicional afetaria os clientes do Bradesco que optassem por contratar o GuiaBolso, uma vez que a senha randômica não poderia ser, conforme as demais informações, repassada antecipadamente ao GuiaBolso para acesso ao espelho das informações da conta corrente.
+Mais ainda, esses clientes teriam incremento da vulnerabilidade em relação a suas transações, uma vez que o nível de segurança exigido para autorizar o mero acesso a informações da sua conta por terceiros (caso do GuiaBolso) é o mesmo exigido para realizar operações sensíveis.
+Em resumo, uma prática que alegadamente tem o intuito de incrementar a segurança da relação bancária, sequer cumpre essa função.​
+Em sua manifestação, o GuiaBolso afirma, em resumo, que rotinas simples de tecnologia da informação poderiam afastar as preocupações de segurança alegadas pelo Bradesco e, ao mesmo tempo, não causar os danos à livre concorrência e aos clientes das duas instituições que a prática atual gera.
+Na mesma linha, a Seprac afasta os argumentos relacionados à eventual quebra de sigilo bancário pelo Guia Bolso, considerando que, nos termos da LC nº 105 de 2001, não constituiria violação do dever de sigilo a revelação de informações sigilosas com o consentimento expresso do interessado.​
+Além disso, o GuiaBolso alega que na ação judicial em comento, o Bradesco requer do Poder Judiciário decisão que, caso lhe seja favorável, resultaria na cessação de oferta de serviços, pelo GuiaBolso, a clientes do banco, que representavam, em junho de 2018, 13,2% dos clientes do GuiaBolso.
+De forma ainda mais danosa, o GuiaBolso alerta para um eventual efeito em cascata que uma decisão favorável ao Bradesco nesse caso teria no mercado de serviços bancários brasileiro, uma vez que alega que os demais bancos teriam incentivos para ajuizar ações similares.
+É o relatório.
+II - ANÁLISE
+II.1 Da instauração de Inquérito Administrativo
+Conforme artigo 66 da Lei n° 12.529/2011, “o inquérito administrativo, procedimento investigatório de natureza inquisitorial, será instaurado pela Superintendência-Geral para apuração de infrações à ordem econômica".​
+Cumpre analisar, portanto, se os fatos trazidos ao conhecimento da Superintendência-Geral constituem indícios de práticas anticoncorrenciais, nos termos da Lei nº 12.529/2011.
+Em outras palavras, há de se averiguar se os fatos suscitados nos autos, independentemente de culpa, têm por objeto ou são aptos a produzir quaisquer efeitos previstos como anticoncorrenciais, quais sejam: “ (i) limitar, falsear ou de qualquer forma prejudicar a livre concorrência ou a livre iniciativa; (ii) dominar mercado relevante de bens ou serviços; (iii) aumentar arbitrariamente os lucros e/ou (iv) exercer de forma abusiva posição dominante.
+”[3]
+Em síntese, a Seprac e o GuiaBolso alegam que o Bradesco utiliza seu poder de mercado para impor barreiras ao crescimento do GuiaBolso, cujos serviços complementares que oferece promove maior competição no mercado financeiro, expondo os clientes do Bradesco a serviços e produtos concorrentes com substancial redução nos custos de troca do que aqueles presentes no mercado tradicional.
+O Bradesco, por seu turno, alega que as barreiras impostas decorrem de aspectos relacionados à segurança da informação, respeito a contratos e sigilo bancário.​
+A seguir, procede-se à análise das alegações do Bradesco para impor um segundo token aos clientes do GuiaBolso e ingressar com ação judicial e a plausibilidade dessas atitudes em face dos elementos apresentados pelas partes e da manutenção da livre concorrência.​
+II.2 Considerações sobre as alegações do Bradesco – indícios de prática anticoncorrencial
+II.2.1 Risco para a segurança e ausência de transparência da aplicação
+Em sua manifestação[4], o Bradesco afirma que:
+“20.
+(...) não é possível identificar a utilização de qualquer tipo padrão de criptografia pelo GuiaBolso com o objetivo de preservar as informações acessadas no momento de sua transferência e no momento de utilização do aplicativo pelo usuário.
+21.
+Desse modo, a comunicação gerada a partir do uso do aplicativo GuiaBolso poderia ser interceptada, permitindo a terceiros (i.e. hackers ou possíveis fraudadores) a visualização e captura integral das informações cadastrais e financeiras dos clientes do Bradesco.
+De posse de tais informações, é possível que fraudadores tentem se passar pelos clientes do Bradesco, baseando-se nos dados capturados, com o objetivo de obter informações adicionais e até mesmo o token, (grifo nosso) para a posterior realização de transações bancárias.
+”
+Além disso, conclui que:
+11.
+(...) (ACESSO RESTRITO).
+12.
+(ACESSO RESTRITO)”
+O GuiaBolso por seu turno afirma[5] que:
+“Inicialmente, destaca-se que a segurança da informação é uma premissa para a operação do GuiaBolso, sem a qual os usuários não teriam confiança em compartilhar com o Aplicativo informações das mais protegidas, como senhas bancárias.
+É justamente a garantia fornecida pelo GuiaBolso aos seus usuários quanto à segurança da informação que tem tornado possível o sucesso da plataforma.
+(...)
+Como já mencionado no item 1 acima, para utilizar o Aplicativo o usuário deve criar uma senha contendo 8 caracteres, dois dos quais ao menos uma letra e um número.
+Esse padrão está em linha com as melhores práticas de segurança em aplicações online, sendo inclusive o mesmo nível de segurança utilizados por empresas como o Google.
+Quando armazenada nos bancos de dados do GuiaBolso, a senha utilizada pelo cliente para acessar a ferramenta é criptografada usando [Acesso Restrito], o que faz com que as informações não sejam acessadas sequer por funcionários do GuiaBolso.
+[Acesso Restrito].
+Em termos simples, quanto mais bits forem utilizados, mais segura será a criptografia, uma vez que a quantidade de combinações chaves nesse caso será extremamente elevada, deixando a informação criptografada mais segura.
+(...)
+Já os certificados de segurança utilizados pelo GuiaBolso são devidamente aprovados nos termos da infraestrutura de chaves públicas brasileira definidas pelo ICP-BRASIL.
+”
+Considerando que os mecanismos de segurança utilizados pelos maiores bancos brasileiros são similares, (ACESSO RESTRITO), a imposição de restrições adicionais ao funcionamento do GuiaBolso pelo Bradesco é ainda menos justificada.
+O GuiaBolso afirmou não ter conhecimento de questionamentos ou problemas associados ao funcionamento do GuiaBolso por clientes de outras instituições financeiras.
+O GuiaBolso prossegue, afirmando que mesmo que as preocupações do Bradesco fossem legítimas, a descontinuidade dos serviços do GuiaBolso não seria medida proporcional para endereçar o problema.
+“De fato, a medida ideal para interoperabilidade entre os sistemas GuiaBolso e Bradesco é o desenvolvimento de uma API (Application Programrning Interface) capaz de permitir a conexão direta entre ambas as plataformas.
+Esse tema, aliás, é uma importante agenda do GuiaBolso perante o Banco Central, e está em linha com o mais recente movimento regulatório nas principais jurisdições no que diz respeito à portabilidade de dados bancários.
+[Acesso Restrito]
+Entretanto, reconhecendo que o desenvolvimento de uma API não é factível no curto prazo, o GuiaBolso sustenta que bastaria ao Bradesco uma rotina simples de reconhecimento dos IPs utilizados pelo GuiaBolso para realizar os acessos de informações bancárias autorizadas por seus clientes, o que afastaria preocupações de segurança associada aos acessos do GuiaBolso.
+[Acesso Restrito]
+II.2.2 Quebra de sigilo bancário e desrespeito ao contrato com instituição financeira
+O Bradesco considera que existe uma relação jurídica estabelecida entre o banco e seu cliente, que obriga a instituição financeira a preservar a confidencialidade dos dados bancários, bem como a segurança no que diz respeito aos acessos a sua conta bancária - o que ocorre por meio dos procedimentos de acesso e segurança destacados na presente manifestação.
+No caso de acessos pelo GuiaBolso, o Bradesco argumenta que não é comunicado da autorização concedida pelo cliente, se deparando com uma situação em que um terceiro não identificado busca extrair informações bancárias de seus clientes, à semelhança de fraudadores.
+O Bradesco conclui afirmando que até que haja consentimento por parte da instituição financeira a respeito da possibilidade de divulgação das informações de seus clientes, o acesso por terceiros a estes dados sem a comunicação formal ao banco implica violação ao que dispõe a Lei n° 105/2001 e pode representar, inclusive, responsabilização pessoal dos administradores da instituição financeira.
+O GuiaBolso, por outro lado, destaca que as informações coletadas para prestação de seus serviços são do usuário e não há o que se falar em violação de sigilo bancário, uma vez que a revelação de informações sigilosas com o consentimento expresso dos interessados não constitui violação de sigilo.
+A Lei Complementar n° 105/2001 traz expressamente em seu art. 1°, § 3°, V, o seguinte:
+Art. 1° As instituições financeiras conservarão sigilo em suas operações ativas e passivas e serviços prestados.
+(...)
+§ 3o Não constitui violação do dever de sigilo:
+(...)
+V – a revelação de informações sigilosas com o consentimento expresso dos interessados;
+(...)”
+Além dos procedimentos de segurança mencionados anteriormente e dos termos e condições de submissão obrigatória dos clientes do GuiaBolso, ao conectar sua conta bancária à aplicação, o cliente deve obrigatoriamente anuir com o item “Autorizo o GuiaBolso a acessar meus dados financeiros e pessoais em modo visualização”, bem como inserir sua senha de acesso à conta bancária, ou seja, em linha com o que preceitua a Lei Complementar n° 105/2001.
+Vale ressaltar que a iniciativa do aplicativo fornecido pelo GuiaBolso é benéfica à concorrência tanto no sentido de aumentar o portfólio de clientes de fornecedores de serviços complementares aos serviços bancários como, na outra via, ao incrementar o número de agentes econômicos com capacidade de ofertar produtos para um determinado cliente, mesmo que, na situação anterior, este fosse fisicamente inatingível aos custos de transação dados anteriormente.
+Em linha com outras iniciativas em mercados correlatos, a oferta de serviços por meio de plataformas tende a ser benéfica à concorrência.
+Além de promover a competição com as instituições financeiras tradicionais, tais plataformas possuem arquitetura aberta, permitindo que diversos ofertantes possam oferecer seus produtos e serviços em um mesmo canal, reduzindo substancialmente os custos de transação para o consumidor e promovendo a concorrência também dentro da própria plataforma.
+Em sentido diametralmente oposto, a proibição dessa prática (seja no mundo analógico ou no mundo digital, como ocorre no caso em tela) pelo Bradesco poderia ser configurada como lock-in, uma vez que o banco estaria impondo a seus clientes custos adicionais para contratar de outras instituições financeiras serviços complementares ou concorrentes aos oferecidos pelo Bradesco.
+Essa conduta só é possível na medida em que o Bradesco consegue dificultar o acesso às informações de seus clientes (mesmo que contra a vontade expressa deles) e na medida em que tais informações são justamente o insumo para o livre exercício de atividade econômica de aplicações como o GuiaBolso.
+Dessa forma, a prática pode possuir caráter anticompetitivo, na medida em que limita iniciativas que tendem a promover maior competição em um mercado razoavelmente concentrado e que impõe ao consumidor Brasileiro o maior spread bancário dentre as economias desenvolvidas e em desenvolvimento.
+II.3 Sham litigation
+Pelo demonstrado anteriormente, o Bradesco utilizou seu direito de petição quanto a fatos que parecem claramente definidos, porém no sentido inverso das alegações, em lei.
+Conforme o Parecer da Seprac, o Bradesco estaria se insurgindo contra fatos claramente delineados na Lei, o que poderia configurar prática de sham litigation.
+Tendo em vista as questões levantadas nos tópicos anteriores, essa postura do Bradesco deve ser melhor analisada para avaliar se, de fato, pode-se constituir infração à ordem econômica, o que, por ora, não é possível extrair preliminarmente.
+III - CONCLUSÃO
+Pelo exposto, diante do Parecer nº 01/2018/Gabin/Seprac-MF encaminhado pela SEPRAC contendo indícios de infrações à ordem econômica e das considerações preliminares apresentadas ao longo da presente Nota Técnica, recomenda-se a instauração de Inquérito Administrativo em face do Banco Bradesco S/A, nos termos dos arts. 13, III e 66, §6º, ambos da Lei nº 12.529/11, c/c art. 181 do Regimento Interno do CADE, para proceder-se à devida apuração.​
+Estas as conclusões.
+Encaminhe-se ao Sr.
+Superintendente Geral.
+[1] Parecer SEI N° 1/2018/GABIN/SEPRAC-MF (documento SEI n° ​0495937)
+[2] Ação 1027396-67.2016.8.26.0100, na 11ª Vara Cível da Comarca de São Paulo.
+[3] Artigo 36, caput, da Lei nº 12.529/2011.
+[4] Resposta ao ofício 3203/2018/CADE (documento SEI n° 0513762 referente ao processo de apartado restrito 08700.004951/2018-18)
+[5] Resposta ao ofício 3207/2018/CADE (documento SEI n° ​0514899 referente ao processo de apartado restrito 08700.005002/2018-47

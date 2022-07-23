@@ -1,0 +1,118 @@
+SEI/CADE - 0757584 - Voto Embargos de Declaração
+Embargos de Declaração no Processo Administrativo nº 08700.005615/2016-12
+Representada: Wendliz Bernardo ME (atualmente denominada WBS Energia Eireli EPP)
+Advogados: Ricardo Noronha Inglez de Souza; Bruno Greca Consentino; Stefanie Christine Schmitt Giglio; Raisa Dvorah Rechter; Daniel Elias do Nascimento
+Relator dos Embargos: Conselheiro Sérgio Costa Ravagnani
+VOTO VOGAL – CONSELHEIRO LUIS HENRIQUE BERTOLINO BRAIDO
+VERSÃO PÚBLICA
+voto
+Acompanho o voto do Conselheiro Relator para dar provimento parcial aos embargos de declaração interposto por Wendliz Bernardo ME (atualmente denominada WBS Energia Eireli EPP), pelas seguintes razões.
+As evidências de que a Embargante participou do cartel de aquecedores solares referem-se a dois pregões, o CDHU 07/2009 com seis lotes e o CDHU 16/2010 com cinco lotes, cada lote referente a uma região geográfica (conjunto de cidades) para a qual os serviços seriam contratados.
+Foram analisados, portanto, onze processos licitatórios.
+Cabe lembrar que esses onze leilões tinham o mesmo desenho, composto de duas fases: classificatória e final.
+Inicialmente, as empresas apresentavam propostas em envelopes lacrados, classificando-se as responsáveis pelos três menores lances iniciais ou por aqueles dentro da margem de 10% superior ao valor da menor proposta.
+A seguir, as empresas classificadas disputavam um leilão presencial com lances sequenciais visando o menor valor.
+As tabelas 3 e 5 do voto do Conselheiro Relator Sergio Ravagnani no Processo Administrativo nº 08700.005615/2016-12 resumem de forma didática: (i) as regiões geográficas licitadas; (ii) os valores ofertados pelas participantes na primeira fase do procedimento licitatório; (iii) a atuação das empresas na segunda fase da licitação.
+Os lances na primeira fase da licitação foram sempre muito próximos, quando não idênticos, nos onze lotes analisados.
+Adicionalmente, em nenhum desses onze lotes houve de fato competição na segunda fase do procedimento licitatório.
+As empresas classificadas na primeira fase optaram por declinar de apresentar lances na segunda fase, deixando sempre uma delas como vencedora.
+Por duas vezes, uma das empresas classificadas (além da vencedora) apresentou um lance ou outro antes de declinar.
+Cinco empresas (Astéria, Enalter, Heliotek, Soletrol e Tuma)[i] já foram condenadas pelo CADE por prática de cartel em licitações públicas (Processo Administrativo nº 08012.001273/2010-24).
+As empresas Enalter, Soletrol e Tuma venceram um lote em cada um dos dois pregões e declinaram de apresentar propostas na segunda fase da licitação em múltiplas ocasiões, tanto em 2009, quanto em 2010.
+As empresas Heliotek e Astéria atuaram apenas em 2009, tendo vencido um lote cada e declinado rapidamente de apresentar lances na segunda fase em, respectivamente, três e dois outros lotes.
+A Embargante, por sua vez, só começou a ser investigada posteriormente e, por isso, tem seu processo ainda em discussão.
+A motivação para abertura de investigação contra a Embargante adveio da sugestão constante no voto-vista do Conselheiro João Paulo Paulo de Resende no processo originário, durante a 73ª Sessão Ordinária de Julgamento, em 16/09/2015.
+A principal evidência apontada para motivar essa sugestão à Superintendência Geral é a ocorrência de preço coincidente entre a Embargante e a empresa Soletrol na primeira fase do lote D do pregão 16/2010, no qual a primeira se sagrou vencedora.
+Acerca desse fato, a Embargante argumentou que esta improvável coincidência teria se dado porque as empresas estariam usando a mesma regra de precificação, ou seja, aplicação de margem de 10% sobre a média de preços do pregão anterior e arredondando o valor.
+A meu ver, isto apenas descreve o modo como uma eventual combinação de preços estaria sendo operacionalizada.
+De toda forma, esta é uma questão apenas acessória no meu processo de formação de convicção, conforme descrevo a seguir.
+A Embargante participou de cinco dos seis lotes do pregão 07/2009.
+Em todos eles, foi classificada na primeira fase da licitação.
+Por três vezes, declinou de apresentar lances.
+Em um lote, apresentou um lance e depois declinou e, no outro, apresentou dois lances sequenciais e depois declinou.
+Cabe aqui esclarecer que, segundo os art. 44 e 45 da Lei 123/2016, sendo a Embargante uma microempresa, ela não precisaria igualar o preço ofertado pelas concorrentes, bastando apresentar lance dentro de intervalo legalmente estabelecido em relação à proposta mais bem classificada para, então, exercer seu direito de preferência.
+Lei Complementar 123/2006
+Art. 44.
+Nas licitações será assegurada, como critério de desempate, preferência de contratação para as microempresas e empresas de pequeno porte.
+§ 1o  Entende-se por empate aquelas situações em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até 10% (dez por cento) superiores à proposta mais bem classificada.
+§ 2o  Na modalidade de pregão, o intervalo percentual estabelecido no § 1o deste artigo será de até 5% (cinco por cento) superior ao melhor preço.
+Art. 45.
+Para efeito do disposto no art. 44 desta Lei Complementar, ocorrendo o empate, proceder-se-á da seguinte forma:
+I - a microempresa ou empresa de pequeno porte mais bem classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame, situação em que será adjudicado em seu favor o objeto licitado;
+II - não ocorrendo a contratação da microempresa ou empresa de pequeno porte, na forma do inciso I do caput deste artigo, serão convocadas as remanescentes que porventura se enquadrem na hipótese dos §§ 1o e 2o do art. 44 desta Lei Complementar, na ordem classificatória, para o exercício do mesmo direito;
+III - no caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte que se encontrem nos intervalos estabelecidos nos §§ 1o e 2o do art. 44 desta Lei Complementar, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta.
+§ 1o  Na hipótese da não-contratação nos termos previstos no caput deste artigo, o objeto licitado será adjudicado em favor da proposta originalmente vencedora do certame.
+§ 2o  O disposto neste artigo somente se aplicará quando a melhor oferta inicial não tiver sido apresentada por microempresa ou empresa de pequeno porte.
+§ 3o  No caso de pregão, a microempresa ou empresa de pequeno porte mais bem classificada será convocada para apresentar nova proposta no prazo máximo de 5 (cinco) minutos após o encerramento dos lances, sob pena de preclusão.
+A Embargante não utilizou seu direito de preferência em nenhum dos lotes que disputou em 2009.
+Segundo sua defesa, ela tentou usar e foi impedida pelo pregoeiro.
+Isto será objeto de análise nas próximas páginas, mas também constitui elemento acessório na minha formação de convicção.
+Em relação ao pregão 16/2010, a Embargante participou de todos os cinco lotes.
+Não se classificou na primeira fase dos três primeiros lotes.
+Classificou-se para a segunda fase do quarto lote.
+Venceu o certame com apenas um lance após rápida desistência das concorrentes que, conscientemente, deixaram de apresentar lances ou o fizeram em situação de empate legal com a Embargante, permitindo que essa exercesse seu direito de desempate.
+Por fim, no quinto lote do pregão 16/2010, a Embargante se classificou na primeira fase e não apresentou lance na segunda fase.
+Cabe aqui destacar quais foram as demais empresas classificadas para a segunda fase do quarto lote, vencido pela Embargante.
+Trata-se de Enalter, Soletrol e Tuma!
+Empresas centrais na estrutura deste cartel, tendo vencido seis dos onze lotes analisados, todas condenadas no processo originário.
+Difícil crer que os líderes de um cartel permitiriam que uma empresa não colaborativa vencesse um certame sem apresentar qualquer dificuldade para tal.
+A meu ver, a única hipótese logicamente consistente com os fatos descritos é que a Embargante colaborou com o cartel.
+Penso que os demais indícios apresentados no processo devam ser considerados à luz deste contexto.
+Eles revelam a ocorrência de (i) propostas iniciais com valores idênticos, ocorrido no certame na qual a Embargante se sagrou vencedora, algo não usual em processos licitatórios competitivos; (ii) bloqueio de pregão presencial, através da apresentação de propostas iniciais com valores muito parecidos entre os participantes do cartel, buscando evitar que outras empresas passassem para a segunda fase da licitação; (iii) ausência de concorrência na fase de lances, com não utilização do direito de preferência previsto na Lei Complementar 123/2006 para microempresas; (iv) divisão geográfica do mercado.
+Em relação a divisão geográfica, cabe mencionar que, em sete dos onze lotes analisados, a empresa vencedora tinha sede em algum dos municípios cobertos pelo certame.
+Ademais, o lote vencido pela Embargante continha os municípios de Ribeirão Preto e São José do Rio Preto, importantes polos da região noroeste do estado de São Paulo, ambos próximos à sua sede, no município de São Carlos.
+Na 152ª Sessão Ordinária de Julgamento, proferi meu entendimento pela existência de provas (indiretas) robustas da participação da Embargante, quando analisados os onze processos licitatórios em conjunto.
+Também manifestei meu repúdio à desfaçatez com que a atuação coordenada se deu neste cartel.
+Afirmei, ainda, que a ocorrência de algo semelhante em um leilão de maior repercussão pública teria causado escândalo, gerando possivelmente o seu cancelamento.
+Eu não entendo porque tal cancelamento não foi determinado à época pelas autoridades competentes.
+Dos Embargos
+A representada apresentou embargos de declaração em que considera ter havido vícios de omissão, contradição e obscuridade na decisão deste Tribunal.
+Os embargos descrevem sete tipos de vícios, organizados no voto do Conselheiro Relator Sergio Ravagnani nos seguintes itens:
+a) Obscuridade e contradição quanto ao comportamento “não contraditório” da Superintendência-Geral;
+b) Contradição com a decisão original acerca do Pregão 07/2009 e omissão de fundamentação no atual processo;
+c) Obscuridade quanto à utilização do Pregão 36/2013 como parâmetro de comportamento em relação à WBS;
+d) Omissão: preço mais caro “sem cartel” no lote D do Pregão 36/2013 com “mais concorrência” vs. Preço mais barato “com cartel”, “sem concorrência”, no lote D do Pregão 16/2010;
+e) Omissão em relação ao exercício da preferência do MEI;
+f) Contradição e omissão em relação à divisão geográfica do mercado no que tange à WBS;
+g) Contradição com a falta de proporcionalidade da base de cálculo da multa.
+O Conselheiro Relator destes embargos apresentou voto no qual afasta de forma direta e convincente os itens (a), (b) e (f).
+Filio-me a este entendimento sem observações adicionais.
+Relativamente aos itens (c) e (d) acima listados, a Embargante alega obscuridade em relação ao pregão 36/2013, do qual ela não participou e, portanto, não poderia ter sido usado como critério de comparação quanto ao número de lances usuais em um leilão sem conluio.
+Afirma que este pregão foi eletrônico e, portanto, diferente dos pregões 07/2009 e 16/2010 que foram presenciais.
+Por fim, alega omissão em relação ao fato de que o lance vencedor, em um dos quatro lotes do pregão 36/2013, ter sido maior que o lance final do lote D do pregão 16/2010, vencido por ela.
+Penso que o fato de a Embargante não ter participado do pregão 36/2013 não invalida sua utilização como ilustração comparativa.
+Os demais pontos levantados, se não invalidam a comparação, certamente reduzem sua importância.
+Porém, cabe lembrar que tal informação, foi trazida pelo patrono da agora Embargante em manifestação durante a 152ª Sessão Ordinária de Julgamento.
+Foi, portanto, considerada por mim naquela ocasião.
+Conforme já mencionado, meu convencimento pessoal não veio dessa comparação.
+Adicionalmente, a ausência de competição observada na fase de lances foi absoluta, independendo, portanto, de comparações.
+Passo ao item (e).
+A embargante argumenta não ter sido chamada pelo pregoeiro para exercer seu direito de preferência.
+Noto, de modo análogo ao voto-relator, que a empresa poderia ter se manifestado no sentido de requerer seu direito, previsto na Lei Complementar 123/2006, artigos 44 e 45, anteriormente citados.
+A Embargante alega que "tentou argumentar e discutiu durante horas com o pregoeiro sobre o assunto.
+Infelizmente, não constou na ata" (par.
+78 dos embargos de declaração).
+A Embargante não argumenta pela inviabilidade econômica ou falta de interesse comercial em cobrir o lance vencedor.
+Ao contrário, diz que tentou exercer seu direito de preferência, mas foi impedida.
+Entretanto, afirma que não fez isso constar em ata e, posteriormente, não reclamou seu direito judicialmente.
+Ou seja, a Embargante não exerceu o seu direito de forma consciente.
+Reconheço, conforme apontado em votos divergentes, que a Embargante não estava obrigada a exercer seu direito de desempate, especialmente caso tenha sido impedida de fazê-lo durante o pregão, sem os custos e incertezas de um processo judicial.
+Isto, sem dúvida, atenua a gravidade desta conduta.
+Entretanto, o comportamento de não apresentar lance quando se encontrava em situação de empate legal foi reiterado.
+Ou seja, perdurou mesmo após tomar ciência de que o pregoeiro não permitiria o livre exercício do direito de desempate previsto em lei, algo que, novamente, sugere que ela não competiu com o efetivo objetivo de vencer os demais certames de 2009.
+Passo, por fim, ao item (g).
+A Embargante aponta uma desproporcionalidade entre as penas aplicadas aos diferentes integrantes do cartel.
+Isso se deve a dois fatos: (i) o PA que envolve a Embargante só se iniciou em 2016, cinco anos depois do início do PA originário, e (ii) a Embargante ampliou seu faturamento neste período.
+Penso ser boa a solução encontrada pelo Conselheiro Relator, que mantém a base de faturamento exatamente como determina a lei e corrige o problema de desproporcionalidade através da aplicação da alíquota de 8%, conforme permissão contida no art. 37, I, da Lei 12.529/2011.
+Entretanto, divirjo parcialmente no que diz respeito aos fundamentos apresentados para justificar a alíquota.
+É que o art. 45 da Lei 12.529/2011 estabelece os parâmetros para a dosimetria da pena, os quais devem ser aplicados de forma a evitar punições excessivas ou desproporcionais.
+No caso, a Embargante participou de cartel.
+De acordo com o inciso VI do art. 45 da Lei 12.529/2011, os efeitos econômicos negativos produzidos no mercado devem ser levados em consideração na dosimetria da pena.
+Ora, no caso concreto, na ausência de agravantes específicos, entendo que a Embargante não causou maiores danos econômicos à sociedade do que os demais participantes do cartel.
+Dessa forma, valho-me do inciso VI do art. 45 da Lei 12.529/2011 para justificar a aplicação da alíquota de 8%, de modo a manter a proporcionalidade da punição sobre a Embargante em comparação com os demais participantes do cartel.
+DISPOSITIVO
+Diante do exposto, acompanho o voto do Conselheiro Relator.
+LUIS HENRIQUE BERTOLINO BRAIDO
+Conselheiro
+(assinado eletronicamente)
+[i] Astéria Incorporações e Construções Ltda; Enalter Engenharia, Indústria e Comércio Ltda; Heliotek Máquinas e Equipamentos Ltda (denominada hoje Bosch Termotecnologia Ltda); Soletrol Tecnologia em Energias Renováveis e Obras Ltda (denominada hoje Sol Tecnologia em Energias Renováveis e Obras Ltda); e Tuma Instalações Térmicas Ltda

@@ -1,0 +1,97 @@
+:: SEI / CADE - 0346809 - Nota Técnica ::
+NOTA TÉCNICA Nº 4/2017/CGAA5/SGA1/SG/CADE
+ATO DE CONCENTRAÇÃO Nº 08700.002824/2017-95
+REQUERENTES:     MAERSK LINE A/S, MSC MEDITERRANEAN SHIPPING COMPANY S.A. E MITSUI O.S.K. LINES, LTD.
+ADVOGADOS:       MARCOS PAULO VERISSIMO, ANA CAROLINA LOPES DE CARVALHO, ANDRÉ MARQUES GILBERTO, VICTORIA MALTA CORRADINI E OUTROS.
+EMENTA: Ato de Concentração.
+Requerentes: Maersk Lline A/S, MSC Mediterranean Shipping Company S.A. e Mitsui O.S.K. Lines, Ltd.
+Contrato Associativo.
+Pedido de autorização precária.
+Art. 115 do Regimento Interno do CADE.
+Pedido apresentado intempestivamente.
+Ausência de demonstração de iminente ocorrência de prejuízos financeiros substanciais e irreversíveis (inciso III do art. 115).
+Recomendação de envio dos autos ao Tribunal Administrativo do CADE.
+Manifestação pelo indeferimento do pedido de autorização precária e liminar.
+versão pública
+I. RELATÓRIO
+Trata-se de operação de prorrogação do prazo de vigência de um contrato denominado Vessel Sharing Agreement ("VSA"), firmado entre as empresas Maersk Lline A/S ("Maersk"), MSC Mediterranean Shipping Company S.A. ("MSC") e Mitsui O.S.K. Lines, Ltd.
+("MOL").
+O objeto do referido contrato se refere ao compartilhamento de navios e operação conjunta de uma linha regular, com frequência semanal, de navios porta-contêineres para portos específicos na Ásia, Costa Leste da América do Sul e África do Sul, em ambos os sentidos (importação e exportação).
+O VSA foi celebrado em junho de 2015 e possui prazo de vigência até final de junho de 2017.
+A presente operação compreende uma nova prorrogação do VSA, por tempo indeterminado e ultrapassará o período de dois anos de vigência.
+O ato de concentração em análise foi notificado ao Conselho Administrativo de Defesa Econômica (“CADE”) em 09 de maio de 2017 (doc. Sei nº 0333761) e emendado em 23 de maio de 2017 (doc. Sei nº 0337700).
+Até o momento, não foi apresentada resposta à emenda e, consequentemente, não houve a publicação do edital.
+Em 05 de junho de 2017, as partes apresentaram pedido de autorização precária e liminar do ato de concentração em questão, nos termos do art. 115 do Regimento Interno do CADE, no qual fundamentam que, em razão do atual andamento da análise (que ainda demanda instrução), e diante do risco do VSA ser suspenso até a conclusão da análise da operação, é necessário garantir a manutenção da operação da linha regular de navio porta-contêineres nas rotas durante a análise da operação pela Superintendência.
+As requerentes defenderam que a operação notificada preenche os requisitos constantes no art. 115 do Regimento Interno do CADE, aduzindo, sucintamente, que:
+(i) não há qualquer perigo de dano irreparável para as condições de concorrência do mercado de transporte marítimo regular de contêineres;
+(ii) o VSA é um contrato pró-competitivo que permite a utilização do navio em sua capacidade máxima e gera um aumento de eficiência, que é compartilhado entre o operador do navio, as transportadoras, e os consumidores finais;
+(iii) por não envolver a aquisição de participação societária ou ativos, a operação é integralmente reversível;
+(iv) a operação apenas prorroga uma relação já existente entre as requerentes acerca da operação conjunta de linha regular na rota objeto do VSA; e
+(v) a eventual suspensão do VSA durante a análise da operação pela Superintendência provocará uma paralisação da operação conjunta de uma linha de transporte marítimo de contêineres entre portos da Ásia, Costa Leste da América do Sul e África do Sul, que resultaria em graves prejuízos de escala global para as atividades não apenas das Requerentes, mas também dos consumidores finais que contrataram e/ou costumam contratar serviços de transporte de carga na rota alvo da operação.
+Por estas razões, as partes pleitearam a concessão de autorização precária e liminar do ato de concentração ora em análise.
+II. ANÁLISE DO PEDIDO DE AUTORIZAÇÃO PRECÁRIA
+II.1.
+Considerações iniciais
+A autorização precária é uma medida excepcional por meio da qual se permite, precária e liminarmente, que as partes consumem a operação antes da decisão final desta Autarquia a respeito da referida operação, sem importar em violação ao disposto no art. 88, § 3º, da Lei nº 12.529/2011 (Lei de Defesa da Concorrência).
+A regra do atual sistema de notificação de concentração à autoridade antitruste brasileira tem como fundamento a proibição à integração prematura da operação antes do aval deste Conselho, que é o que caracteriza o regime de notificação prévia, implantado pela Lei de Defesa da Concorrência.
+Contudo, à luz dessa lei, admite-se que operações de notificação obrigatória recebam autorização precária e liminar para sua efetivação, antes da deliberação final pelo CADE, nos termos do art. 59, § 1º, da Lei nº 12.529/2011:
+Art. 59  ...
+§ 1o  O Conselheiro-Relator poderá autorizar, conforme o caso, precária e liminarmente, a realização do ato de concentração econômica, impondo as condições que visem à preservação da reversibilidade da operação, quando assim recomendarem as condições do caso concreto.
+A regulamentação da hipótese de pedido de autorização precária pelas partes foi disciplinada no Regimento Interno do CADE (Resolução nº 1/2012), prevendo o procedimento para esses casos, além de dispor sobre os requisitos para pleitear a autorização, como consta no art. 115.
+Art 115.
+O requerente de aprovação de ato de concentração econômica poderá solicitar, no momento da notificação ou após a impugnação pela Superintendência-Geral, autorização precária e liminar para a realização do ato de concentração econômica, nos casos em que, cumulativamente:
+I - não houver perigo de dano irreparável para as condições de concorrência no mercado;
+II - as medidas cuja autorização for requerida forem integralmente reversíveis; e
+III - o requerente lograr demonstrar a iminente ocorrência de prejuízos financeiros substanciais e irreversíveis para a empresa adquirida, caso a autorização precária para realização do ato de concentração não seja concedida.
+§1º Para demonstrar a iminente ocorrência de prejuízos financeiros substanciais e irreversíveis para a empresa adquirida, o requerente deverá acompanhar seu pedido com todos os documentos, demonstrações financeiras e certidões indispensáveis para fazer prova inequívoca dos fatos alegados.
+§2º O pedido será remetido ao Tribunal com manifestação da Superintendência-Geral a respeito da autorização precária para realização de ato de concentração econômica no prazo de 30 (trinta) dias contados da sua notificação.
+§3º O Tribunal apreciará o pedido de autorização precária e liminar, desde que o pedido esteja devidamente instruído, no prazo de 30 (trinta) dias contados do envio do pedido pela Superintendência-Geral, sem prejuízo da continuidade da instrução do processo administrativo para análise de ato de concentração econômica por parte da Superintendência-Geral.
+§4º Em caso de concessão da autorização prevista no caput deste artigo, deverão ser impostas condições que visem à preservação da reversibilidade da operação, quando assim recomendarem as características do caso concreto.
+§5º Da decisão do Tribunal, não caberá pedido de reconsideração.
+Assim, passa-se a análise do pedido à luz do acima exposto.
+II.2.
+Análise do caso concreto
+Importa registrar, inicialmente, que a natureza da operação compreende um contrato associativo e, mais precisamente, envolve a prorrogação de um contrato que está vigente e que, até a notificação desta operação, não tinha sido objeto de análise por este Conselho, pois não atendia o disposto na Resolução CADE nº 17/2016 (ato normativo que define os contratos associativos passíveis de submissão ao CADE).
+O contrato em questão vigerá até o final de junho de 2017 e, caso venha a ser prorrogado, como as partes pretendem, cumprirá os requisitos constantes na Resolução CADE nº 17/2016 (mais precisamente, o disposto no art. 2º desta Resolução - prazo do contrato igual ou superior a 2 anos), motivo pelo qual o mesmo foi notificado a este Conselho.
+O primeiro aspecto formal a ser avaliado diz respeito ao momento da apresentação do pedido.
+De acordo com o caput do art. 115 do Regimento Interno do CADE, as partes podem solicitar a autorização precária apenas em dois momentos: (i) no momento da notificação da operação ou (ii) após a impugnação da operação pela Superintendência-Geral.
+Observa-se, contudo, que as partes apresentaram o pedido somente após decorridos 27 dias da notificação da operação (a notificação se deu em 09/05/2017 e o pedido foi apresentado em 05/06/2017).
+Cabe esclarecer que a Superintendência emendou o caso e aguarda a apresentação das informações requeridas, não havendo posicionamento final desta SG quanto aos efeitos da operação.
+Portanto, o pedido não atende a condição temporal imposta no Regimento Interno deste Conselho (caput do art. 115).
+A despeito da intempestividade do pedido, ad argumentandum tantum, esta Superintendência irá avaliar o mérito do mesmo, conforme exposto a seguir.
+Nos termos da norma regulamentadora da autorização precária, o primeiro requisito circunstancial para concessão da autorização se refere à ausência de perigo de dano irreparável para as condições de concorrência no mercado (inciso I do art. 115).
+Nesse quesito, as partes defendem que o VSA já está em operação desde junho de 2015 e sua prorrogação não iria alterar ou prejudicar as condições de concorrência no mercado, considerando seu caráter pró-competitivo.
+A segunda condição para autorizar a concretização da operação envolve a implementação de medidas que forem integralmente reversíveis (inciso II do art. 115), isto é, caso a operação seja reprovada, todos os atos adotados pelas partes possam ser totalmente desfeitos.
+As partes entendem que a cessação do VSA seria integralmente reversível.
+Ainda que se reconheça que as duas primeiras condições para concessão da autorização foram cumpridas, o que não é possível se afirmar neste momento processual, onde o caso ainda encontra-se emendado, as partes não lograram êxito em demonstrar que haverá iminentes prejuízos financeiros substanciais e irreversíveis a elas, caso a autorização não seja concedida (inciso III do art. 115).
+Tal condição carece de fundamentação no presente caso.
+Segundo as partes, a suspensão do VSA resultará em uma paralisação com "graves prejuízos de escala global para as atividades não apenas das Requerentes, mas também dos consumidores finais que contrataram e/ou costumam contratar serviços de transporte de carga conteinerizada nas Rotas, o que pode acarretar inclusive o desabastecimento de alguns setores/indústrias", fundamentando apenas que:
+31.
+Isso porque, o trajeto compreendido pelas Rotas envolve diversas jurisdições e os clientes diretos das Requerentes, apesar de grandes empresas com elevado poder de barganha, perderão, ao menos, uma das linhas disponíveis para transportar os seus produtos de forma regular por período indeterminado, afetando diretamente o bem estar econômico de consumidores finais de diversos setores, dada a variedade de setores/indústrias envolvidos.
+Nota-se, assim, que os prejuízos alegados pelas partes foram apresentados de uma forma bastante abrangente, sem a apuração e medição dos reais impactos financeiros resultantes do indeferimento da autorização precária.
+Em discordância com o disposto no § 1º do art. 115, as partes também não apresentaram qualquer documento ou demonstração financeira para fazer prova inequívoca dos fatos alegados.
+Com efeito, os prejuízos suscitados pelas partes são comuns e esperados, pois decorrem de uma decisão consciente e deliberada das partes de notificarem tardiamente a operação.
+Do contrário, as partes estariam transferindo o ônus da mora em notificar a operação à autoridade antitruste, que, em face dos alegados prejuízos (repise-se que no presente caso não foram devidamente comprovados), não teria outra alternativa a não ser conceder autorização precária, tratando-se, assim, de conduta certa para pautar e submeter às decisões do CADE às deliberações das partes, sem comprovação precisa dos prejuízos.
+Vale ressaltar que a condição requerida no inciso III, do art. 115, do Regimento Interno tem por objetivo evitar situações extremas de perigo à empresa objeto, caso a operação não seja imediatamente implementada, razão pela qual os alegados prejuízos devem ser imediatos, substanciais e irreversíveis, o que não restou demonstrado no presente caso, mesmo se tratando de contrato para operação conjunta de linha de transporte marítimo de contêineres.
+Portanto, além de não ser possível a esta SG, neste momento em que se encontra a análise do referido processo, referendar o cumprimento das disposições contidas nos incisos I e II, do art. 115, do Regimento Interno do CADE, constata-se que o pedido formulado pelas partes claramente não cumpre o último requisito para se autorizar a realização do ato de concentração precária e liminarmente, qual seja, a disposição contida no inciso III, do mesmo diploma legal.
+O presente caso se assemelha bastante com o recente pedido de autorização precária formulado nos autos do Ato de Concentração nº 08700.002699/2017-13, que também trata de VSA para outra rota.
+As partes do referido ato apresentaram, essencialmente, as mesmas razões supracitadas para o requerimento da autorização.
+Seguindo a manifestação da Superintendência pelo indeferimento do pedido de autorização (com fundamento, principalmente, na apresentação intempestiva do pedido e na ausência clara de cumprimento da condição prevista no inciso III do art. 115 do Regimento Interno do CADE), em 07 de junho de 2017, o Tribunal Administrativo, por unanimidade, decidiu indeferir o pedido de autorização precária e liminar formulado pelas partes do Ato de Concentração nº 08700.002699/2017-13, nos termos do voto do relator (Conselheiro Paulo Burnier da Silveira).
+Portanto, a presente análise tem respaldo em recente precedente deste E.
+Conselho.
+Convém esclarecer que, com o fim do prazo de vigência do referido contrato, e caso a autorização precária não seja concedida pelo Tribunal, deverá ser instaurado por esta SG Procedimento Administrativo de Apuração de Ato de Concentração (APAC), nos termos do art. 112 do Regimento Interno do CADE c/c o art. 3º, da Resolução CADE nº 13/2015.
+Ao que parece, as partes pretendem apenas evitar a abertura de APAC com o pedido da autorização precária e liminar.
+Contudo, a autorização precária não deve ser concedida com esse intuito, sob pena de se incentivar os administrados a notificarem tardiamente a operação, beneficiando-se da própria torpeza.
+Ademais, a mera instauração de APAC não significa necessariamente que as partes incorrerão em significativos prejuízos, visto que as peculiaridades do caso em tela (tais como o momento de transição na regulamentação da notificação desse tipo de operação e a potencial boa-fé das partes) poderão ser levadas em consideração ao se aplicar as penalidades pela consumação antecipada da operação.
+Finalmente, cabe ressaltar aqui um posicionamento importante: note-se que a principal argumentação das partes ao fazer seu pedido tem a ver com prejuízos a elas e a terceiros em razão de uma suspensão de sua operação nas rotas em que operam e que são objeto do contrato.
+Contudo, indeferir o pedido das Requerentes de autorização liminar precária não significa que o Cade esteja determinando a suspensão da operação das Requerentes.
+Para tanto, seria necessário, no entender desta SG, a adoção de uma medida cautelar específica por parte do cade, determinando a imediata suspensão das operações.
+Não está, neste momento, contudo, fazendo-se tal determinação.
+Em realidade, é pouco provável que seja adotada medida cautelar visando cessar a atividade objeto do VSA, em especial pela incerteza de prejuízos que esta medida pode resultar ao ambiente concorrencial.
+Em outras palavras, o mero indeferimento do pedido de autorização liminar precária não implicará automaticamente uma determinação de cessação das atividades das Requerentes, não havendo que se falar em prejuízo imediato às partes e aos clientes.
+O indeferimento do pedido de autorização liminar implicará, tão somente, que a partir do momento em que o contrato ultrapasse dois anos de vigência, a notificação do ato de concentração se tornará intempestiva, o que ensejará possível sanção legal às partes, mas não automaticamente a cessação de suas atividades.
+De outro lado, como já dito, não cabe ao Cade autorizar liminarmente a consumação de uma operação com o fito de simplesmente livrar as partes de uma notificação intempestiva.
+Sendo assim, conclui-se pela recomendação de indeferimento do pedido de autorização liminar precária para realização do ato de concentração, haja vista que, preliminarmente, a apresentação do pedido foi intempestiva e que, no mérito, as partes não comprovaram a iminente ocorrência de prejuízos financeiros substanciais e irreversíveis, conforme disposto no inciso III, do art. 115, do Regimento Interno, aliado ao fato de que esta SG não possui, neste momento processual, todas as informações necessárias a uma correta análise do disposto nos incisos I e II do mesmo diploma legal.
+Para além disso, o indeferimento desse pedido não implica, no entender da SG, uma determinação automática de cessação das atividades das partes objeto do VSA.
+III. RECOMENDAÇÕES
+Diante do exposto, recomenda-se o envio dos presentes autos ao Tribunal Administrativo do CADE, nos termos do § 2º, do art. 115, do Regimento Interno do CADE, com a manifestação desta SG

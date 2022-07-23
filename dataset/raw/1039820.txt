@@ -1,0 +1,179 @@
+SEI/CADE - 1039820 - Parecer
+PARECER Nº 124/2022/CGAA5/SGA1/SG
+PROCESSO Nº 08700.001522/2022-67 (autos públicos: 08700.001479/2022-30)
+REQUERENTES:
+Eneva S.A. e Centrais Elétricas do Norte do Brasil S/A
+Ementa: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento Sumário.
+Requerentes: Eneva S.A. e Centrais Elétricas do Norte do Brasil S/A.
+Natureza da operação: aquisição de participação societária.
+Mercado afetado: geração de energia elétrica.
+Art. 8º, inciso VI, Resolução CADE nº 02/12.
+Aprovação sem restrições.
+VERSÃO DE ACESSO PÚBLICO
+I.                       REQUERENTES
+I.1.
+Eneva S.A. (“Eneva”)
+A Eneva é uma sociedade holding controladora do Grupo Eneva, que atua na geração de energia elétrica de forma integrada ao setor termoelétrico, ou seja, atua desde a exploração e produção de gás natural até a geração e comercialização de energia elétrica.
+A Eneva é titular de 51% do capital social da Amapari ("Amapari" ou "Empresa-objeto"), uma sociedade anônima cuja atividade principal compreendia o projeto de exploração da Central Geradora Termelétrica – UTE Serra do Navio, construída no município de Serra do Navio, no estado do Amapá, estando no momento não operacional.
+O Grupo Eneva auferiu, no ano anterior à operação, faturamento acima de R$ 750 milhões (superior aos dois patamares de notificação obrigatória fixados no art. 88 da Lei 12.529/11, posteriormente alterado pela Portaria Interministerial MF/MJ nº 994/12), no Brasil.
+I.2.
+Centrais Elétricas do Norte do Brasil S/A (“Eletronorte”)
+A Eletronorte é uma sociedade de economia mista, concessionária de serviços públicos de energia elétrica e subsidiária da Centrais Elétricas Brasileiras S.A. com atuação na região Amazônica no desenvolvimento de atividades de geração e transmissão de energia elétrica.
+A Eletronorte é titular de 49% do capital social da Amapari.
+A Eletronorte auferiu, no ano anterior à operação, faturamento acima de R$ 750 milhões (superior aos dois patamares de notificação obrigatória fixados no art. 88 da Lei 12.529/11, posteriormente alterado pela Portaria Interministerial MF/MJ nº 994/12), no Brasil.
+II. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, conforme Despacho Ordinatório SECONT
+(SEI 1029851)
+Data da notificação
+25/02/2022
+Data da publicação do edital
+O Edital nº 127, que deu publicidade à operação em análise, foi publicado no dia 03/03/2022
+(SEI 1031289)
+III. DESCRIÇÃO DA OPERAÇÃO
+A Operação envolve a aquisição, pela Eneva, de 49% das ações da Amapari, atualmente detidas pela Eletronorte, nos termos do Contrato de Compra e Venda de Ações (“Contrato”), celebrado em 07 de janeiro de 2022.
+Assim, a Eneva passará a deter a totalidade do capital social da Amapari, que atualmente é uma sociedade não operacional.
+Segue abaixo a estrutura societária da Empresa-Objeto antes e depois da Operação:
+Figura 1 – Antes da Operação
+Figura 2 - Após a Operação
+Fonte: Requerentes.
+De acordo com as Requerentes, Como contraprestação à aquisição de 49% das ações da Amapari pela Eneva, será pago à Eletronorte o preço-base de R$17.110.451,61 (dezessete milhões, cento e dez mil, quatrocentos e cinquenta e um reais e sessenta e um centavos).
+O pagamento do preço-base será realizado integralmente em dinheiro, à vista, na data de fechamento do Contrato, em moeda corrente nacional, mediante transferência de recursos imediatamente disponíveis (TED), a ser ajustado nos termos da cláusula segunda do Contrato.
+As Requerentes explicam que, do ponto de vista da Vendedora, a venda da participação na Amapari está alinhada ao objetivo estratégico de racionalização de participações conforme previsto no PDNG 2021/2025 da Centrais Elétricas Brasileiras S.A. - Eletrobras e PNG 2021/2025 da Eletronorte.
+Para a Compradora, a Operação vem ao encontro dos objetivos estratégicos de expansão da sua atuação no setor elétrico brasileiro, por meio da implementação de novos empreendimentos pela Amapari, que, com a aprovação do CADE, passará a ser detida integralmente pela Eneva.
+Além disso, a Operação gerará sinergias operacionais, financeiras e tributárias importantes para o Grupo Eneva.
+As Partes informam que a presente operação também será comunicada à Agência Nacional de Energia Elétrica (ANEEL).
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012)
+VI – Outros casos.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Sim
+Integração vertical
+Sim
+Setor em que há sobreposição horizontal
+Mercado de geração de energia elétrica (reforço)
+Setores em que há integração vertical
+Mercado de geração e mercado de comercialização de energia elétrica (potencial)
+Participações de mercado
+Médias
+VI. Considerações sobre a Operação
+VI.1.
+Considerações iniciais
+Conforme indicado acima, as Requerentes esclarecem que a Eneva já detém participação de 51% no capital social da Empresa-objeto, de maneira que sua participação passará a ser de 100% na Amapari após a Operação.
+A Eneva atua na geração e comercialização de energia elétrica, possuindo 7 (sete) usinas operacionais e 3 (três) usinas em construção, conforme indicado no quadro abaixo, além de possuir 2 (dois) projetos de plantas de energia fotovoltaica para geração distribuída[1] .
+Quadro 3 - Empreendimentos do Grupo Eneva (operacional + não operacional)
+* empreendimentos não operacionais, previsão de início da operação em 2022.
+** empreendimento não operacional, previsão de início da operação em 2025.
+Fonte: Requerentes.
+Por sua vez, quando estava em operação a principal atividade da Empresa-objeto era o projeto de exploração da Central Geradora Termelétrica – UTE Serra do Navio, construída no município de Serra do Navio, no estado do Amapá.
+Entretanto, desde 2013, segundo afirmam as Partes, a sociedade vem enfrentando dificuldade na manutenção da operação da UTE Serra do Navio e sua viabilidade econômica, motivo pelo qual realizou o pedido de revogação da Resolução Autorizativa nº 1.369/2009 à Agência ANEEL.
+A revogação foi concedida pela Resolução Autorizativa ANEEL 7.725, de 2 de abril de 2019.
+Quadro 4 - Empreendimento da Empresa-objeto (não operacional)
+Fonte: Requerentes.
+Com base nessas premissas, considerando a atuação do Grupo Eneva e da Empresa-objeto no segmento de energia elétrica,  os próximos subtópicos são dedicados à analise do reforço potencial de sobreposição horizontal no mercado de (i) geração de energia elétrica; e do reforço potencial de integração vertical entre (i) o mercado de geração de energia elétrica, por parte da Empresa-objeto e o mercado de comercialização de energia elétrica, por parte do Grupo Eneva.
+VI.2.
+Sobreposição horizontal (reforço)
+VI.2.1             Mercado de geração de energia elétrica
+Os precedentes do CADE[2] envolvendo o setor de energia elétrica geralmente indicam que a cadeia produtiva pode ser segmentada nas seguintes atividades: (i) geração de energia elétrica; (ii) distribuição de energia elétrica; (iii) transmissão de energia elétrica; e (iv) comercialização de energia elétrica.
+O segmento de geração de energia elétrica tem sido analisado por este Conselho[3] na dimensão produto, tanto (i) sob uma perspectiva mais ampla, considerando o mercado de geração de energia como um todo, quanto (ii) sob uma perspectiva mais conservadora, segmentado de acordo com a matriz energética produtora de energia (hidrelétrica, térmica, eólica ou solar).
+Referente à dimensão geográfica, pode-se analisar o cenário (i) nacional, contemplando todos os subsistemas regionais que compõem o Sistema Interligado Nacional (SIN); ou (ii) em um cenário mais restritivo e conservador, por subsistemas, segundo a classificação adotada pelo Operador Nacional do Sistema Elétrico ("ONS"): (a) Subsistema Sudeste/Centro-Oeste; (b) Subsistema Sul; (c) Subsistema Nordeste; e (d) Subsistema Norte.
+Assim, considerando a área de atuação das Partes, serão analisados os seguintes cenários: (i) SIN, todas as matrizes; (ii) Subsistema Norte, todas as matrizes; (iii) SIN, matriz termelétrica; e (iv) Subsistema Norte, matriz termelétrica.
+Por meio de dados da ANEEL, as Requerentes apresentaram suas participações de mercado, de forma conjunta, com dados referentes à potência instalada e à participação de mercado em cada cenário possível.
+Tabela 1 – Market share das Partes no mercado de geração de energia elétrica – Brasil – 2021
+[ACESSO RESTRITO ÀS REQUERENTES]
+Cenário
+Capacidade total do mercado
+(kW)
+Grupo Eneva
+Empresa-objeto
+Grupo Eneva + Empresa-objeto
+Potência Estimada (kW)
+Participação (%)
+Potência Estimada (kW)
+Participação (%)
+Potência Estimada (kW)
+Participação (%)
+Todas as matrizes em todo o sistema SIN
+238.797.031,40
+[ACESSO RESTRITO]
+0-10%
+[ACESSO RESTRITO]
+0-10%
+[ACESSO RESTRITO]
+0-10%
+Todas as matrizes no subsistema Norte
+33.624.718,58
+[ACESSO RESTRITO]
+0-10%
+[ACESSO RESTRITO]
+0-10%
+[ACESSO RESTRITO]
+0-10%
+Matriz termelétrica em todo o sistema SIN
+55.519.091,99
+[ACESSO RESTRITO]
+0-10%
+[ACESSO RESTRITO]
+0-10%
+[ACESSO RESTRITO]
+0-10%
+Matriz termelétrica no subsistema Norte
+6.624.778,35
+[ACESSO RESTRITO]
+30-40%
+[ACESSO RESTRITO]
+0-10%
+[ACESSO RESTRITO]
+30-40%
+Fonte: Elaboração da SG a partir de dados das Requerentes, Aneel e da Câmera de Comercialização de Energia (CCEE).
+Com base na Tabela 1, pode-se observar que apenas no cenário mais restrito no qual se considera as termelétricas no subsistema Norte o percentual de participação das Requerentes ultrapassaria o patamar de 20%.
+No entanto, algumas circunstâncias minimizam substancialmente o nível de concentração acima apurado no cenário de geração de energia pela matriz termelétrica no subsistema Norte.
+Primeiro, as definições de mercado relevante utilizadas pelo CADE não são consensuais, não havendo até hoje, por parte deste Conselho, um precedente que caracterize precisamente o mercado relevante geográfico e tampouco há indicação de que seria mais adequado o cenário de subsistemas em face do nacional.
+Em todos os outros cenários alternativos (termelétricas-nacional, todas as matrizes, em âmbito nacional e no subsistema Norte), as participações totalizariam menos de 10%.
+Segundo, a Empresa-objeto teve a revogação de sua autorização para atuar como produtora independente de energia concedida pela Resolução Autorizativa ANEEL 7.725, de 2 de abril de 2019, e se encontra não operacional no momento, sendo sua participação de mercado baseada em estimativas do potencial energético de produção.
+Terceiro, conforme já mencionado, o Grupo Eneva já detém 51% de participação na Empresa-objeto, ou seja, trata-se de um reforço de posição societária.
+Nesse cenário, não é adequado contabilizar a soma de participação de mercado da referida empresa como se a operação gerasse uma nova concentração entre elas, considerando que atualmente o grupo comprador já está presente na composição acionária dessa empresa.
+O reforço gerado não se afigura preocupante em face das demais justificativas supracitadas.
+Assim, esta SG considera que diante de tais circunstâncias, aliado ao fato de que se trata de em um mercado regulado (em que as entradas ocorrem por leilões públicos e está sujeito a regras contratuais definidas pela agência reguladora), o percentual de participação maior que 20% apenas no cenário mais restrito não é suficiente para levantar preocupações de ordem concorrencial, sobretudo quando não há restrições de venda da energia gerada para outras localidades e regiões pela forma que se encontra formatado o SIN.
+Desta forma, entende-se que o reforço de concentração no mercado de geração de energia elétrica decorrente da presente Operação não gera impactos negativos ao ambiente concorrencial.
+VI.3                 Integração vertical (potencial)
+VI.3.1             Mercado de comercialização de energia elétrica
+No tocante ao mercado de comercialização de energia elétrica, o CADE[4] já definiu o mercado de comercialização de energia elétrica, na dimensão produto, segmentado entre Ambiente de Contratação Regulada (ACR) e Ambiente de Contratação Livre (ACL)[5].
+Já na dimensão geográfica, ambos os ambientes foram considerados de abrangência nacional.
+Assim, consoante a definição de mercado adotada na jurisprudência deste Conselho, as Requerentes apresentaram uma estimativa de participação de mercado no Ambiente de Livre Contratação - ACL e no Ambiente de Contratação Regulada - ACR, em âmbito nacional, como se verifica na tabela abaixo.
+Tabela 2
+[ACESSO RESTRITO ÀS REQUERENTES]
+Fonte: Requerentes e CCEE.
+Tabela 3
+[ACESSO RESTRITO ÀS REQUERENTES]
+Fonte: Requerentes e CCEE.
+Conforme apresentado nas Tabelas 2 e 3 acima, a participação de mercado do Grupo Eneva no mercado de comercialização de energia elétrica é inferior a 30% (filtro a partir do qual se presume possibilidade de fechamento de mercado), de forma que, uma potencial integração vertical entre a atividade de geração de energia elétrica decorrente de uma futura operacionalização da Empresa-objeto e a atividade de comercialização de energia do Grupo Eneva não se mostra preocupante, afastando a possibilidade de fechamento de mercado ou de elevação de custos dos concorrentes nos mercados relacionados ao de geração de energia elétrica.
+Por fim, cabe destacar que, os casos precedentes do CADE corroboram o entendimento de que o mercado de comercialização de energia elétrica teria diversos agentes atuantes, o que contribuiria para afastar quaisquer preocupações da Operação nesse mercado[6] .
+VI.4.
+Considerações finais
+Diante das informações apresentadas, levando-se em conta que: (i) a Operação Proposta consiste em reforço de posição societária, uma vez que o Grupo Eneva detém 51% das ações societárias da Empresa-objeto (Amapari); e (ii) a Empresa-objeto teve sua autorização para atuar como produtora independente de energia revogada pela ANEEL a pedido, conforme Resolução Autorizativa ANEEL 7.725, de 2 de abril de 2019, e se encontra não operacional no momento.
+Portanto, esta SG compreende que a Operação não conferirá às Partes probabilidade de exercício de eventual poder de mercado ou acarretará incentivos ao fechamento de mercado, não suscitando assim preocupações concorrenciais.
+Considerando todo o exposto, esta SG conclui que a presente operação não tem o condão de causar prejuízos à concorrência nos mercados de atuação das partes no Brasil.
+Assim, o ato de concentração pode ser aprovado sob o rito sumário, enquadrando-se no art. 8º, inciso VI, da Resolução CADE nº 2/2012.
+VII. Cláusula de Não-Concorrência
+Segundo as Requerentes, a operação não contempla cláusulas restritivas à concorrência.
+VIIi. CONCLUSÃO
+Aprovação sem restrições.
+____________________________
+[1] Em relação à geração distribuída, as Partes informam que os 2 (dois) projetos contam com capacidade instalada total de 2,0MW, que corresponde a 0,02% do total de geração distribuída de energia no Brasil, conforme dados da ANEEL.
+Os projetos atenderão aos clientes no Ceará e no Maranhão, de modo a injetar os créditos gerados direto na conta de luz.
+[2] Vide, por exemplo, AC nº 08700.005947/2021-64, AC nº 08700.005333/2021-82, AC nº 08700.005090/2021-82, AC nº 08700.003877/2021-18, AC nº 08700.003775/2021-94, AC nº 08700.002194/2021-35, AC nº 08700.006439/2020-12 e AC nº 08700.003935/2020-14.
+[3] Vide, por exemplo, AC nº 08700.005947/2021-64, AC nº 08700.005090/2021-82, AC nº 08700.003383/2021-25 e AC nº 08700.004268/2020-97, AC nº 08700.007182/2018-00 e AC nº 08700.006337/2018-82.
+[4] Vide AC nº 08700.005947/2021-64, AC nº 08700.005090/2021-82, AC nº 08700.003877/2021-18 e AC nº 08700.004268/2020-97.
+[5] O mercado ACR se caracteriza por operações de compra e venda de energia elétrica entre agentes vendedores e agentes de distribuição, por meio de licitações.
+Já o mercado ACL consiste na comercialização de energia elétrica para agentes livres do mercado, tendo as partes autonomia para o estabelecimento de condições, volumes e preços.
+Na dimensão geográfica, a comercialização ocorre em âmbito nacional, na medida em que a infraestrutura do Sistema Interligado Nacional ("SIN") permite a aquisição de energia de qualquer geradora, independentemente de sua localização e matriz geradora.
+[6] Vide AC nº 08700.005090/2021-82, AC nº 08700.003877/2021-18, AC nº 08700.004268/2020-97 e AC nº 08700.000153/2017-28.
+[7] Vide Atos de Concentração nº 08700.003783/2021-31, nº 08700.005007/2018-70, 08700.003678/2017-15, 08700.007003/2016-64, 08700.002737/2017-38, 08700.010470/2014-00.
+[8] Vide, por exemplo, Atos de Concentração nº 08700.002028/2019-14 e 08700.001032/2017-01

@@ -1,0 +1,134 @@
+SEI/CADE - 0625101 - Nota Técnica
+NOTA TÉCNICA Nº 37/2019/CGAA2/SGA1/SG/CADE
+PROCESSO Nº 08700.006962/2018-24
+REPRESENTANTE:
+HORMONAL CENTRO CLÍNICO E DIAGNÓSTICO
+ADVOGADOS:
+Gustavo Pignatti e outros
+REPRESENTADA
+UNIMED RIO VERDE – COOPERATIVA DE TRABALHO MÉDICO LTDA.
+Representante legal:
+Márcio Emrich Campos
+EMENTA: Procedimento preparatório de inquérito administrativo para apuração de infrações à ordem econômica.
+Alegação de conduta unilateral de recusa de contratar, consistente em descredenciamento imotivado de prestador de serviços médicos.
+Ausência de indícios de infração à ordem econômica.
+Recomendação de arquivamento.
+VERSÃO PÚBLICA
+I. RELATÓRIO
+Trata-se de Procedimento Preparatório (PP) instaurado a partir de denúncia feita pelo Laboratório Hormonal (denominado “Representante” ou “Hormonal”) em face da Unimed Rio Verde (denominada “Representada” ou “Unimed RV”), por meio da qual a Representante alega descredenciamento imotivado, levado a cabo após processo de verticalização da Representada.
+Trazidos os fatos ao conhecimento do Conselho Administrativo de Defesa Econômica (Cade), a Superintendência-Geral (SG/Cade) instaurou o referido PP, fazendo-o por meio do Despacho SG Instauração PP nº 2, de 29 de janeiro de 2019 (SEI 0571819).
+Ato contínuo, a SG/Cade oficiou a Representada por meio do Ofício nº 357 (SEI 0571822) para que esta prestasse esclarecimentos sobre o teor da representação, cuja resposta foi apresentada e se encontra nos autos (SEI 0582315).
+Diante do teor das informações prestadas pela Unimed RV, bem como buscando atender ao princípio da eficiência, a SG/Cade oficiou alguns laboratórios na cidade de Rio Verde, ainda em sede de PP, com a finalidade de buscar mais informações.
+Nesse sentido, foram oficiados os laboratórios São Lucas (SEI 0612347), Rio Verde (SEI 0612351), Santa Terezinha (SEI 0612353), Micron (SEI 0612355), Diagnose (SEI 0612356), Labordin (SEI 0612358), Riolab (SEI 0612361), além do próprio Laboratório Hormonal (SEI 0612328).
+As informações necessárias para a decisão da SG/Cade foram prestadas e juntadas aos autos.
+É o relatório
+II. ANÁLISE
+II.1            Introdução
+A denúncia denúncia objeto deste procedimento preparatório consiste na alegação de configuração da conduta unilateral denominada “recusa de contratar”, levada adiante pela Representada em razão do descredenciamento a princípio imotivado da clínica da Representante.
+A alegação se enquadraria no artigo 36, incisos II e IV, e §§2º e 3º, incisos III e XI da Lei nº 12.529/11[1].
+De acordo com informações do Hormonal, a Unimed RV deteria posição dominante no mercado de saúde suplementar de Rio Verde, respondendo por aproximadamente 70% (setenta por cento) daquele mercado (SEI 0566959, item 1, fls. 3).
+Associada à elevada participação de mercado detida pela Representada naquele município, a Representante ainda assinalou sua dependência econômica em relação à carteira de beneficiários da Unimed RV, a qual representaria cerca de 45% (quarenta e cinco por cento) da receita gerada por exames laboratoriais.
+Assim se manifestou o Hormonal (SEI 0566959, item 4, fls. 3):
+“Dada a configuração do mercado na região de Rio Verde-GO, é essencial para qualquer prestador atender clientes da UNIMED, pois só assim pode alcançar a escala necessária.
+No caso do HORMONAL, havia nítida dependência econômica em relação à UNIMED: cerca de 45% da receita gerada com os exames laboratoriais origina- se de clientes da UNIMED.
+Desde 1997, a UNIMED mantém relação contratual com o HORMONAL para provimento de tratamento quimioterápico seus clientes.
+A HORMONAL é um laboratório de referência em exames na região e tem sido responsável pelo atendimento de grande parte dos clientes da UNIMED que demandam esses cuidados.” (grifos nossos)
+Primeiramente, no que tange à afirmação da Representante de que seu descredenciamento impactaria negativamente a oferta de tratamento quimioterápico por parte do laboratório, entende esta SG/Cade haver uma imprecisão nesta assertiva.
+A Unimed Rio Verde, ao apresentar sua resposta (SEI 0582315, fls. 22), contraditou a informação da Representante, afirmando jamais ter mantido qualquer relação contratual para tratamento quimioterápico de seus beneficiários.
+Ademais, buscando analisar a veracidade das informações apresentadas pelas partes, inclusive por meio da análise da resposta da Representante a ofício expedido (SEI 0615898) e consulta ao banco de dados do Cadastro Nacional de Estabelecimentos de Saúde (CNESNet), do Ministério da Saúde[2],  a SG/Cade não encontrou indícios de que o laboratório Hormonal faça infusão de quimioterapia[3], estando responsável apenas pela realização de exames de histopatologia[4], que são exames laboratoriais para pesquisa de câncer, o que não envolve, decerto, o tratamento quimioterápico.
+Nesse sentido, e conforme será analisado no decorrer desta Nota Técnica, há outros laboratórios naquele município que realizam exames histopatológicos e ainda continuam credenciados à Representada, o que não implicaria prejuízos em termos de substitutibilidade de agente econômico.
+Ato contínuo, destaque-se que o só fato de uma empresa possuir mais de 20% (vinte por cento) de “market share” não é condição única e suficiente para que a autoridade antitruste forme juízo negativo quanto a sua atuação em determinado mercado.
+A lei antitruste brasileira, ao estabelecer o percentual acima mencionado, cuidou de traçar um limite mínimo que leve a uma presunção de que determinado agente econômico, detendo percentual igual ou superior àquele, tenha a possibilidade de exercer seu pretenso poder, de forma anticompetitiva, no mercado em que atua.
+Trata-se, pois, de uma presunção, a qual deve ser confrontada com os demais elementos trazidos aos autos pelas partes, podendo-se perfeitamente vislumbrar, na suposta prática anticoncorrencial, por exemplo, cenários em que determinada empresa possui elevada participação de mercado, mas não impõe danos ao ambiente concorrencial, e também cenários outros nos quais uma empresa possui baixo “market share”, mas, em cotejo com os demais elementos fático-probatórios, tem o potencial de provocar severos danos ao mercado relevante no qual atua, sob a ótica concorrencial.
+Entretanto, é importante destacar que o primeiro caso é mais provável que o primeiro, reforçando, assim, a relevância do filtro criado pela lei antitruste brasileira para presunção de posição dominante.
+Nesse sentido, a participação trazida pela Representante, da ordem de 70% (setenta por cento) daquele mercado, embora de fato elevada, não tem o condão de, isoladamente, levar a autoridade antitruste a uma conclusão negativa “per se”.
+Ademais, deve-se ter presente que no controle de condutas unilaterais deve a autoridade antitruste pautar-se pela chamada “regra da razão”, por meio da qual a simples constatação de uma situação fática (v.g. existência de suposta conduta de descredenciamento) não ser condição suficiente para concluir-se que referida conduta é lesiva ao ambiente concorrencial.
+Dessa forma, de acordo com a regra da razão, somente as práticas restritivas à concorrência que sejam despidas de razoabilidade podem ser consideradas ilegais pela autoridade concorrencial, ou seja, o objetivo da lei seria coibir apenas condutas que não estejam fundadas em justificativas plausíveis.
+[5]
+É nesse sentido que a regra da razão, utilizada para análise de condutas, difere da regra per se, comumente utilizada em sede de análise de práticas colusivas, mais especificamente em casos de cartéis.
+Por meio da regra "per se", a prática é tomada em si mesma como anticompetitiva, dispensando um sopesamento entre possíveis benefícios e prejuízos para determinado setor econômico.
+[6]
+Assim, deve a autoridade antitruste buscar avaliar a racionalidade de determinada conduta, bem como se a mesma ocasionou efetivos prejuízos ao ambiente concorrencial.
+Ainda, embora a dependência econômico-financeira de agentes econômicos em relação às suas contrapartes, especialmente em mercados verticalizados, e.g., mercado de prestação de serviços médicos (“downstream”) e mercado de operadoras de planos de saúde (“upstream”), seja um fator relevante a ser levado em consideração pela autoridade antitruste, já tendo sido inclusive reconhecido pelo Cade[7], a análise deve ser feita de forma sistemática, analisando-se conjuntamente tanto o potencial do dano para a parte denunciante quanto o legítimo direito da parte denunciada de resilir contratos, contanto que não se imponha prejuízos à coletividade, sob a ótica concorrencial.
+Sendo assim, em sua resposta a Representada informou que, não obstante tenha excluído o Hormonal de seu rol de credenciados, ainda mantém boa rede de prestadores de serviços laboratoriais (SEI 0582315, item 6, fls. 11), a saber:
+“Prestam serviços para a UNIMED RIO VERDE, neste município (Rio Verde – GO), os seguintes laboratórios:
+1. Laboratório Araujo Ltda.-ME – CNPJ -06871910/0001-26;
+2. Hatsue Yokosama e Cia Ltda. - ME – CNPJ -33215054/0001-23;
+3. Laboratório de Análises Clínicas Rio Verde S/S Ltda.-ME – CNPJ –02621662/0001-04;
+4. Laboratório Santa Terezinha Ltda. – CNPJ – 15996903/0001-41;
+5. Micron Laboratório de Análises Clínicas Ltda.- ME – CNPJ -00796409/0001-66
+6. Silas Pereira Lima & Cia Ltda. – ME - CNPJ – 00271999/0001-03;
+7. Assunção e Ristow Ltda. – CNPJ – 07724240/0001-88.”
+O rol de laboratórios credenciados pela Unimed RV também pode ser consultado em seu Guia Médico[8],  de onde se pode extrair a existência de suficiente rede de prestadores de serviços laboratoriais, tanto de exames clínicos[9] quanto de exames anatomopatológico[10].
+A título de exemplo, o Guia Médico traz como prestadores credenciados os laboratórios Diagnose, o qual presta serviços de anatomia patológica, e a Hemoclínica e Riolab, prestadores de exames de análises clínicas.
+Quadro 1 – Guia Médico Unimed Rio Verde
+Fonte: Guia Médico da Unimed Rio Verde.
+Elaborado pela SG/Cade.
+Ainda, buscando esta SG/Cade atestar a veracidade das informações prestadas pela Representada, foram oficiados laboratórios apresentados pela Unimed RV como credenciados, para fins de comprovação do efetivo credenciamento e do rol de exames laboratoriais realizados.
+A resposta do laboratório Rio Verde confirma o credenciamento e a cobertura laboratorial (SEI 0613125, fls. 2):
+“Somos credenciados junto à Unimed Rio Verde desde meados de 2000.
+Segue no anexo a Tabela de Procedimentos da Unimed.
+Só para esclarecimento: executamos exames de sangue, fezes, urina, culturas.
+São realizados apenas exames de Análises Clínicas.” (grifos nossos)
+O laboratório Diagnose prestou resposta no seguinte sentido (SEI 0616079, fls. 2):
+“Laboratório médico Diagnose é credenciado junto à Unimed Rio Verde?
+Sim desde 06/02/1996 Procedimentos realizados no serviço: Serviço médico especializado em Anatomopatologia e citopatologia.
+1) Biópsias.
+2) Peças cirúrgicas.
+3) Necrópsias.
+4) Biópsias transoperatórias(biópsia por congelação durante o ato cirúrgico) 5) PAAF(Punções aspirativas por agulha fina em órgãos e estruturas superficiais guiadas por ultrassonografia) 6) Citologia de líquido e efusões.
+7) Colpocitológico (citologia onco-parasitária cérvico vaginal).” (grifos nossos)
+Logo, a comprovação de suficiente rede de prestadores de serviços laboratoriais, os quais contemplam os serviços de análise clínica e anatomopatologia, não levanta, para esta SG/Cade, preocupações iminentes de prejuízo ao ambiente concorrencial no município de Rio Verde.
+Assim, não merece respaldo a preocupação levantada pela Representante em sua representação, na qual afirmava que o descredenciamento do laboratório Hormonal levaria a uma perda de uma opção para os consumidores e, reflexamente, uma diminuição da concorrência naquele mercado.
+Assim asseverou a Representante (SEI 0566959, itens 59-61, fls. 18):
+“59.
+Com a saída da HORMONAL, os consumidores perdem essa importante opção de clínica para seu tratamento.
+60.
+E mais, sem a HORMONAL no mercado, a clínica da UNIMED enfrentará concorrência pouco efetiva no mercado de Exame Laboratoriais, tornando possível sua monopolização.
+61.
+Essa diminuição significativa na concorrência implicará em severos prejuízos aos consumidores, que, além de já estarem sujeitos ao poder da UNIMED na relação entre usuário e plano de saúde, estarão novamente - e com ainda mais intensidade - sujeitos à UNIMED também na prestação de serviços quimioterápicos.
+Como resultado, terão menos opções de escolha e, provavelmente, menor qualidade nos serviços, que passarão a custar cada vez mais caro.” (grifos nossos)
+Em um primeiro olhar os consumidores de fato podem perder a liberdade de escolha do laboratório Hormonal, mas isso não significa a perda de escolha de outros laboratórios com serviços equivalentes.
+Neste passo, não se pode, sob pretexto de manter o conforto da escolha do consumidor por estabelecimento “A” ou “B”, tolher a liberdade da Representada de bem organizar sua rede credenciada.
+Por outro lado, não se vislumbra o alegado prejuízo aos consumidores advindo de uma suposta redução da concorrência naquele mercado, justamente porque, conforme demonstrado, a rede credenciada aparenta estar bem estruturada, ainda mais para uma cidade do porte de Rio Verde.
+Dando seguimento a essa linha de raciocínio da SG/Cade, cumpre notar que a Representante, embora tenha sido descredenciada de uma operadora de plano de saúde importante naquele município, ainda mantém em sua carteira importantes operadoras, todas de grande porte, dentre as quais algumas abertas ao credenciamento de qualquer consumidor, a saber, Amil, Bradesco, Sul América, como também outras de autogestão (ditas “fechadas” ao mercado) e também significativas, tais como Correios, Conab, Ipasgo[11] e Iparv[12].
+O quadro abaixo ilustra essa situação:
+Quadro 2 – Planos de Saúde Credenciados perante o Hormonal
+Fonte: Site Laboratório Hormonal (http://www.laboratoriohormonal.com.br/index.php/convenios).
+Elaboração SG/Cade.
+Por fim, não cabe a este Cade, autarquia voltada à tutela do ambiente concorrencial, imiscuir-se em assuntos exclusivamente de índole contratual, tal como rescisão imotivada (denúncia vazia), nem de caráter regulatório acometido pelo legislador às agências reguladoras setoriais que, no caso destes autos, se trata da Agência Nacional de Saúde Suplementar (ANS).
+Ao Cade cabe analisar se a conduta trazida ao seu conhecimento, em um primeiro plano, é atribuição do Sistema Brasileiro de Defesa da Concorrência e, em segundo plano, se tal conduta provoca danos ao ambiente concorrencial que suplantem eventuais eficiências geradas.
+Ante todo o descrito e analisado, não há indícios suficientes a confirmar a existência de prática de conduta anticompetitiva por parte da Unimed Rio Verde no presente caso.
+A título de conclusão, ressalte-se que o arquivamento do presente procedimento preparatório não obsta eventual investigação futura em razão de novos indícios de prática de infração à ordem econômica capaz de ensejar a atuação desta SG/Cade.
+O arquivamento do presente procedimento constitui neste momento decisão prestigiadora dos princípios da eficiência, do interesse público e da proporcionalidade, todos enunciados no caput do art. 2º da Lei nº 97.84/99 (Lei do Processo Administrativo Federal), denotando racionalidade administrativa, a evitar o dispêndio desnecessário de recursos públicos em procedimentos administrativos advindos de denúncias sem lastro suficiente de comprovar efetiva lesão à ordem econômica.
+III. CONCLUSÃO
+Diante do quanto descrito e analisado, com base com base nos arts. 13, IV, e 66 e ss., da Lei 12.529/2011 e art. 181 e ss. do RICADE, sugere-se o arquivamento do presente inquérito administrativo em razão da ausência de indícios de infração à ordem econômica.
+Estas as conclusões.
+Encaminhe-se ao Sr. Superintendente-Geral.
+[1] Lei nº 12.529/11.
+Art. 36.
+Constituem infração da ordem econômica, independentemente de culpa, os atos sob qualquer forma manifestados, que tenham por objeto ou possam produzir os seguintes efeitos, ainda que não sejam alcançados: II - dominar mercado relevante de bens ou serviços; IV - exercer de forma abusiva posição dominante.
+§ 2º Presume-se posição dominante sempre que uma empresa ou grupo de empresas for capaz de alterar unilateral ou coordenadamente as condições de mercado ou quando controlar 20% (vinte por cento) ou mais do mercado relevante, podendo este percentual ser alterado pelo Cade para setores específicos da economia.
+§ 3º As seguintes condutas, além de outras, na medida em que configurem hipótese prevista no caput deste artigo e seus incisos, caracterizam infração da ordem econômica: III - limitar ou impedir o acesso de novas empresas ao mercado; XI - recusar a venda de bens ou a prestação de serviços, dentro das condições de pagamento normais aos usos e costumes comerciais.
+[2] Disponível em http://cnes.datasus.gov.br/pages/estabelecimentos/consulta.jsp.
+[3] A infusão quimioterápica é o procedimento por meio do qual se ministra, por via intravenosa, o medicamento no paciente, sendo feito, via de regra, em ambulatório.
+[4] A histopatologia é a análise microscópica de tecidos que são removidos de pacientes quando é realizada uma biópsia.
+[5] GABAN, Eduardo Molan; DOMINGUES, Juliana Oliveira.
+Direito antitruste.
+4 ed. São Paulo: Saraiva, 2016. p. 96.
+[6] FORGIONI, Paula A.
+Os fundamentos do antitruste.
+6 ed. São Paulo: Editora Revista dos Tribunais, 2013. p. 199.
+Nota de Rodapé nº 15.
+[7] CADE.
+Processo Administrativo nº 08700.009890/2014-43 (CADE ex officio x Unimed Missões/RS).
+Relator: Conselheiro Márcio de Oliveira Júnior.
+Data: 31/03/2016.
+Item 110.
+[8] O Guia Médico da Unimed Rio Verde encontra-se disponível em: https://www.unimed.coop.br/web/rioverde/guia-medico.
+[9] Os exames laboratoriais são uma série de exames ou testes indicados pelo médico ou em laboratórios de análises clínicas, afim (sic) de diagnosticar ou atestar uma doença.
+Disponível em: http://analises-clinicas.info/exames-laboratoriais.html
+[10] O exame anatomopatológico consiste na avaliação macro e microscópica de células e tecidos de biópsia realizada por um médico anatomopatologista.
+Disponível em: https://www.anticorpos.com.br/exames/exame-anatomopatologico
+[11] Instituto de Assistência dos Servidores Públicos do Estado de Goiás.
+[12] Instituto de Previdência e Assistência do Município de Rio Verde

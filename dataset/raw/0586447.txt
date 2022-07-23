@@ -1,0 +1,95 @@
+SEI/CADE - 0586447 - Voto
+Processo Administrativo nº 08012.001395/2011-00
+Representante: SDE ex officio
+Representadas: Philips & Lite-on Digital Solutions Corp., Royal Philips Electronics N.V, Lite-On IT Corporation, Peggy (ChaoJung) Su, Charlie (Huan Hsiung) Tseng, Y.M (Yiming) Chang, Freddie Hsieh, Jerry (Yow Tsong) Hsieh, Michael Hong Ming Chang, Frederick (Kwong Yew) Wong, Nina (Jui Ping) Wang, Michael (Ren-Wu) Gong, Chang-Der Liu, William Earl Reynolds Jr, Jenn Chiang Lim, Mike (Minghsing) Wu, Leland Key, Hitachi LG Data Storage, Toshiba Samsung Storage Technology Corporation, Sony Optiarc Inc, Teac Corporation, BenQ Corporation (atual Qisda Corporation) e Quanta Storage Inc - QSI
+Advogados: Daniel Oliveira Andreoli, Mario Glauco Pati Neto, Fabio Amaral Figueira, Mariana Villela Corrêa, Amadeu Carvalhaes Ribeiro, Frederico Carrilho Donas, Caio Mário da Silva Pereira Neto, Daniel Douek, André Marques Gilberto, Álvaro Adelino Marques Bayeux, Carlos Augusto Behrensdorf Derrak, Ana Cristina Von Gusseck Kleindienst, Paulo de Abreu Leme Filho, André Fonseca Leme, Mário Roberto Villanova Nogueira
+Relator: Conselheiro João Paulo de Resende
+Voto: Conselheiro Mauricio Oscar Bandeira Maia
+EMBARGOS DE DECLARAÇÃO
+APENAS VERSÃO PÚBLICA
+Ementa: Embargos de Declaração.
+Processo Administrativo.
+Cartel Internacional.
+Optical Disk Drives - ODD.
+Conhecimento.
+Admissibilidade.
+Contradição entre Voto e Certidão de Julgamento.
+Julgamento de Mérito.
+Acolhimento Integral.
+Omissões.
+Prazo para Pagamento de Multa.
+Acolhimento Parcial.
+Fundamentação.
+Alíquota.
+Não acolhimento.
+Palavras-Chave: Cartel Internacional.
+ODD.
+Embargos de Declaração.
+1. Relatório
+Cuidam os autos de Embargos de Declaração opostos pela QSIDA CORPORATIO (antiga BENQ CORPORATION, “QSIDA” ou “BenQ”) e pela HITACHI-LG DATA STORAGE, INC (“HLDS”), em face de decisão colegiada prolatada pelo CADE na 136ª Sessão Ordinária de Julgamento (SEI 0576451), em 30/01/2019.
+Os declaratórios foram encaminhados à minha relatoria por força do Despacho Ordinatório da Presidência de 22/02/2019 (SEI 0584741), reconhecendo a reunião da maioria das posições vencedoras no Voto que apresentei por ocasião do julgamento do feito originário.
+A BENQ suscita contradição na decisão proferida pelo Plenário, consistente no fato de o resultado constante da certidão de julgamento não refletir a posição do Conselheiro-Relator no tocante à sua situação específica.
+Argumenta que a Ata reflete que o Conselheiro-Relator teria votado pela “extinção do processo sem julgamento de mérito por ocorrência de prescrição em relação a BenQ Corporation (atual Qisda Corporation)”, quando, na realidade, o Conselheiro votou “pela extinção do processo administrativo com julgamento do mérito pela ocorrência de prescrição, em relação à BenQ Corporation (atual Qisda Corporation)”, como consta no item “c” do parágrafo 179 de seu voto (SEI 0550601).
+Já a HLDS aponta duas omissões na decisão do Conselho, quais sejam: (i) falta de fixação de prazo para o pagamento de multa imposta e (ii) ausência de fundamentação quanto à razão para se usar alíquotas diferentes para a fixação da multa imposta à HLDS e da multa esperada para o cálculo da contribuição pecuniária estabelecida no termo de compromisso de cessação de conduta (“TCC”) firmado com a representada Sony Optiarc Inc. (“Sony”).
+2. Admissibilidade
+A decisão deste Conselho foi publicada no Diário Oficinal da União de 05/02/2019, correndo a partir de então o prazo recursal.
+Os embargos de declaração foram protocolados em 11/02/2019 (BenQ) e 15/02/2018 (HLDS)[1], de modo que resta atendido o requisito da tempestividade, nos termos do artigo 259 do Regimento Interno do Cade.
+A exigência da legitimidade das partes para opor embargos de declaração também resta cumprida, ante a posição das empresas de Representadas no presente processo administrativo.
+Ainda, se encontram satisfeitos os demais requisitos cabíveis para a espécie, visto que os Embargos de Declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado, conforme dispõe o artigo 1022 do Código de Processo Civil, aplicável subsidiariamente por força do art. 115 da Lei 12.529/11, estando suscitadas questões dessa natureza na peça trazida pela Representada.
+Logo, o provimento ou rejeição de tais aspectos constitui questão meritória.
+Assim, preenchidos os pressupostos de admissibilidade, devem ser conhecidos os presentes Embargos de Declaração opostos pela BenQ e HLDS.
+3. Mérito
+3.1.BenQ
+Segundo a Embargante, sua única e exclusiva pretensão nos presentes Embargos é ver suprimida a contradição, apontada acima, entre a certidão de julgamento do presente processo administrativo e o Voto do Conselheiro-Relator.
+Nesse sentido, requer que conste na Certidão de Julgamento do processo em referência que o Conselheiro João Paulo votou pela extinção do processo administrativo com julgamento de mérito, em decorrência de prescrição em relação à BenQ e que, portanto, o Plenário do CADE, por unanimidade, determinou a extinção do processo administrativo com julgamento de mérito pela ocorrência de prescrição, em relação à referida Representada, nos termos do Voto do Conselheiro-Relator.
+A pretensão da embargante merece prosperar.
+De fato, a partir do cotejo da Certidão de Julgamento e do Voto do Conselheiro-Relator, bem como dos votos de outros Conselheiros que se pronunciaram no caso, é possível verificar uma sua convergência em prol da extinção do processo administrativo em relação à BenQ, com julgamento do mérito, pela ocorrência da prescrição, nos termos do artigo 487, II, do Código de Processo Civil.
+O principal fundamento para tanto se encontra no parágrafo 179, item c, do Voto do Conselheiro João Paulo, ponto esse no qual foi acompanhado por todos os demais Conselheiros, e cujo conteúdo é o que segue:
+“179.
+Ante todo o exposto, voto:
+(...)
+c) pela extinção do processo administrativo com julgamento do mérito, pela ocorrência de prescrição, em relação à BenQ Corporation (atual Qisda Corporation);” (grifos no original)
+Também em meu Voto esse reconhecimento da prescrição com julgamento de mérito consta expressamente do parágrafo 63, o que reforça a contradição entre a Certidão de Julgamento e o dispositivo aprovado pelo Conselho.
+Não obstante, na Certidão de Julgamento foi consignado o que segue:
+“Após o voto do Conselheiro Relator pelo arquivamento do processo em relação a Teac Corporation, diante da ausência de provas; pela extinção do processo sem julgamento de mérito por ocorrência de prescrição em relação a BenQ Corporation (atual Qisda Corporation)”
+(...)
+O Plenário, por unanimidade, (...), determinou o arquivamento do processo, pela ocorrência de prescrição, em relação a BenQ Corporation, nos termos do voto do Conselheiro Relator.”; (grifos diversos do original)
+Nota-se, portanto, uma falta de aderência entre o conteúdo decisório dos votos e o que constou da ata da Sessão.
+Ante o exposto, conheço e acolho os embargos de declaração opostos pela BenQ, no sentido de suprimir a contradição existente entre o Voto e a Certidão de Julgamento do presente Processo Administrativo, para que conste nesta certidão que o Conselheiro-Relator votou pela que o a extinção do processo com julgamento de mérito pela ocorrência de prescrição em relação à BenQ Corporation.
+3.2. HLDS
+a) Ausência de Fixação de Prazo para Pagamento da Multa
+Segundo informado pela HLDS, revisando-se a certidão de julgamento (SEI 0576451), o extrato de julgamento publicado no Diário Oficial da União (SEI 0576451), e os votos da Conselheira-Relatora (SEI 0551897 e 0574797) e do Conselheiro João Paulo Resende (SEI 0550601), verifica-se omissão do CADE ao não estabelecer o prazo para o pagamento da multa imposta à HLDS.
+A Embargante sustenta, portanto, o acolhimento dos embargos de declaração para que seja estipulado prazo para pagamento da multa importa à HLDS, tendo em vista que o prazo para pagamento da multa é informação essencial para o Representado, pois, sem ela, não se sabe quando a obrigação imposta deve ser cumprida.
+Assiste razão à Embargante.
+Com efeito, o próprio Regimento Interno do CADE estabelece, em seu artigo 130, que “... o voto que entender pela existência de infração a ordem econômica [sic] deverá conter... explicitamente, se for o caso: ii. o prazo para cumprimento das obrigações impostas;”.
+Considerando que o julgado restou silente sobre esse aspecto em sua parte dispositiva, entendo ser o caso de prover os declaratórios para suprir a omissão questionada, ressaltando-se que o prazo ordinariamente imposto pelo CADE para o recolhimento de multas é de 30 dias após o trânsito em julgado do caso, nos termos de sua reiterada jurisprudência e do entendimento da Procuradoria Federal Especializada junto ao CADE.
+Ante o exposto, conheço e acolho, nesse aspecto, os embargos de declaração opostos pela HLDS, com vistas a sanar omissão na decisão proferida pelo Plenário do CADE, determinando o prazo de 30 dias para o pagamento da multa estabelecida para a HLDS.
+Ainda, no intuito de evitar quaisquer outras alegações de omissão no presente processo, determino também o prazo de 30 dias para o pagamento da multa estabelecida para a outra representada condenada no processo (Qanta Storage Inc).
+Ressalto que essa determinação não trará nenhum prejuízo à Qanta, visto que a empresa contará com o mesmo prazo para pagamento que já contaria caso este Tribunal não se pronunciasse sobre tal aspecto, porquanto na ausência de prazo específico, a ProCade tem entendido exequível as decisões impositivas de multa depois de transcorridos 30 dias do julgado.
+b) Ausência de Fundamentação Quanto ao Uso de Alíquotas Distintas para Fixação de Multa
+A segunda omissão alegada pela HLDS diz respeito a suposta ausência de fundamentação quanto à razão da utilização de alíquota de 17% para determinação da multa imposta à HLDS.
+Segundo a embargante, haveria desproporcionalidade na alíquota estabelecida para cálculo da multa da HLDS, a qual seria 70% mais alta do que a utilizada no cálculo da contribuição pecuniária do TCC da Sony.
+A embargante argumenta que, na hipótese de se entender que haveria distinções substanciais entre as situações fáticas em que se encontram a Sony, HLDS e as outras condenadas no processo, é dever desse Tribunal esclarecer as razões que o levaram a proceder dessa forma, em observância ao princípio da motivação e proporcionalidade.
+Ante o argumentado pela Embargante, destaco, em primeiro lugar, que a fundamentação da multa imposta à Representada em processo administrativo constitui, via de regra, de questão meritória.
+Como já expus em outros votos de minha relatoria, ressalto novamente que os embargos de declaração não se prestam a rediscutir questões de mérito e ao reexame da prova, salvo quando a falha a ser suprida tenha por consequência necessária a alteração meritória e/ou reanálise probatória.
+Feita essa ressalva, de qualquer maneira entendo que os argumentos de omissão suscitados não merecem prosperar.
+A diferença entre a alíquota de 15% aplicada a algumas representadas e 17%, usada para a HLDS foi devidamente fundamentada a partir do argumento da duração da participação das empresas na conduta anticompetitiva, como bem destacado pela Conselheira Paula Azevedo em seu Voto.
+Frisa-se, novamente, que as evidências nos autos permitem verificar, por exemplo, que, enquanto a QSI participou do conluio pelo período de dois anos, a HLDS teria participado pelo dobro, ou seja, quatro anos.
+O mesmo se afirma para a diferença na alíquota utilizada para calcular a contribuição pecuniária da Sony e a multa imposta à HLDS.
+Aliás, como bem exposto pela própria Embargante, a conduta da Sony capaz de gerar efeitos no Brasil foi direcionada a apenas um cliente, o que já justificaria a alíquota reduzida.
+Nesse sentido, embora a Sony e a HLDS compartilhem o mesmo período da infração (2004 a 2008), já foi decidido por este Tribunal que as provas referentes à participação da HLDS comprovam que a conduta da Representada atingiu os dois clientes identificados como centrais para a geração de efeitos no Brasil (HP e Dell), demonstrando, portanto, participação mais robusta da empresa no conluio.
+Ainda mais relevante para justificar a diferença na alíquota determinada para cada uma das empresas é o fato de o TCC firmado pela Sony ser restrito à troca de informações concorrencialmente sensíveis com concorrentes.
+Por sua vez, a HLDS, como bem determinou a Conselheira Paula Azevedo em seu voto, foi condenada por cartel, prática mais lesiva à concorrência (art. 20, I e III c/c art. 21, I, da Lei n° 8884/94).
+Nesse sentido, mostra-se devidamente fundamentada a decisão deste Conselho acerca da alíquota aplicada à HLDS, compatível com sua participação no cartel de ODD e com os seus danosos efeitos no Brasil, sendo a sua rediscussão mera tentativa de revisitar o mérito do julgado, o que se mostra incompatível com a via eleita.
+Ante o exposto, não acolho o argumento de omissão quanto à fundamentação do uso da alíquota de 17% para multa imposta para a empresa HLDS.
+4. Dispositivo
+Nesse contexto, voto pelo conhecimento dos Embargos de Declaração da BenQ e HLDS, já que preenchidos os pressupostos de admissibilidade.
+No mérito:
+Acolho integralmente os embargos de declaração opostos pela BenQ, no sentido de suprimir contradição entre o Voto do Conselheiro João Paulo e a Certidão de Julgamento do Presente Processo Administrativo, para que conste neste último documento que o Conselheiro-Relator votou pela extinção do processo com julgamento de mérito pela ocorrência de prescrição em relação à BenQ Corporation.
+Acolho parcialmente os embargos de declaração opostos pela HLDS, a fim de sanar omissão na decisão proferida pelo Plenário do CADE, determinando prazo de 30 dias para pagamento da multa estabelecida para a HLDS e para a Qanta Storage Inc.
+Não acolho o argumento de omissão quanto à ausência de fundamentação para multa imposta à HLDS.
+Brasília, 27 de fevereiro de 2019
+[assinatura eletrônica]
+MAURICIO OSCAR BANDEIRA MAIA
+Conselheiro
+[1] O prazo de cinco dias para o protocolo dos embargos de declaração é contado em dobro quando os representados possuem diferentes procuradores, nos termos do artigo 102, alínea IV, do Regimento Interno do CADE

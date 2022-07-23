@@ -1,0 +1,133 @@
+:: SEI / CADE - 0104623 - Parecer ::
+PARECER Nº 293/2015/CGAA5/SGA1/SG
+PROCESSO Nº 08700.006529/2015-46
+PARTES:
+Banco Bradesco S.A. (“Bradesco”), Banco Citibank S.A. (“Citibank”), Itaú Unibanco S.A. (“Itaú Unibanco”), Banco Santander (Brasil) S.A. (“Santander”), Banco BTG Pactual S.A. (“BTG Pactual”), BB Banco de Investimento S.A. (“BB-BI”), Deutsche Bank S.A. - Banco Alemão (“Deutsche Bank”), HSBC Bank Brasil S.A. - Banco Múltiplo (“HSBC”), BNY Mellon Serviços Financeiros DTVM S.A. (“BNY Mellon”), Votorantim Asset Management DTVM Ltda. (“Votorantim”), Banco BNP Paribas Brasil S.A. (“BNP Paribas”), Caixa Econômica Federal (“CEF”), BM&Fbovespa S.A. - Bolsa de Valores, Mercadorias e Futuros (“BM&FBovespa”) e Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais – ANBIMA (“ANBIMA”)
+Ato de Concentração.
+Lei 12.529/2011.
+Rito sumário.
+ANBIMA e bancos associados.
+Administração de sistemas de transferência de  informações, de forma padronizada, relativas às negociações de fundos de investimento e carteiras administradas entre instituições que atuam ou prestam serviços nos mercados financeiro e de capitais.
+Art. 8º, VI da Resolução 2/2012.
+Aprovação sem restrições.
+versão pública
+I. AS REQUERENTES
+I.1.
+ANBIMA
+A ANBIMA representa as instituições que atuam no mercado de capitais brasileiro e, conforme suas palavras, reúne o maior número de protagonistas do setor visando a uma atuação coesa junto ao governo, ao próprio mercado e à sociedade.
+Segundo consta em seu site, tem como objetivo fortalecer os segmentos que representa, para apoiar a evolução de um mercado de capitais capaz de financiar o desenvolvimento econômico e social do país e influenciar o mercado global.
+Assume os compromissos com o mercado, investidores e país de eepresentar, autorregular, informar e educar.
+I.2.
+Bancos associados
+Instituições financeiras bancárias associadas à ANBIMA, listados acima.
+II. OS ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim
+Data da notificação ou emenda?
+18/08/2015
+Data da publicação do edital?
+O Edital nº 268, que deu publicidade à operação em análise, foi publicado no dia 20/08/2015.
+III. DESCRIÇÃO DA OPERAÇÃO
+A presente operação refere-se à futura constituição de uma sociedade por ações, (“NEWCO”), cujo objeto principal será administrar sistemas de transferência de informações relativas às negociações de fundos de investimento e carteiras administradas entre instituições que atuam ou prestam serviços nos mercados financeiro e de capitais, de forma padronizada, tais como o Sistema Galgo.
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012):
+VI – Outros casos.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+EFEITOS DA OPERAÇÃO
+Sobreposição horizontal
+Não
+Integração Vertical
+Não
+Setor em que há sobreposição horizontal ou integração vertical
+N/A
+Participação de mercado
+N/A
+VI. CONSIDERAÇÕES SOBRE A OPERAÇÃO
+Conforme mencionado acima, o objeto da NEWCO será a administração de informações sobre fundos de investimento e carteiras de investimento de instituições inseridas no mercado de capitais.
+Concretamente, a Newco já tem em mãos a administração do Sistema Galgo.
+Esse sistema tem como objeto "desenvolver soluções para padronizar a comunicação com o objetivo de evitar erros comuns aos processos manuais, trazer mais qualidade e controle à operacionalização dos fundos e carteiras, reduzir tempo no acesso às informações e circulação das mesmas, tendo em vista a interdependência entre os prestadores de serviço dos mercados financeiro e de capitais, bem como simplificar os processos e centralizar em um único ambiente os “atores” da indústria de fundos e carteiras para o acesso às informações disponíveis".
+As informações trabalhadas incluem (i) cadastro de fundos e carteiras, (ii) patrimônio líquido, (iii) cota, (iv) extrato consolidado de passivo, (v) posição da carteira de ativos, (vi) especificação de comitentes, (vii) operações realizadas.
+Detalhadamente, de modo a cumprir sua função, o Sistema Galgo:
+dispõe dos serviços de registro, alteração e consulta de fundos de investimento,
+envio e/ou consumo de PL/cota,
+envio e/ou consumo de posição de ativos,
+envio e/ou consumo de extrato de conciliação de cotas,
+envio e/ou consumo de informações da “despesa do fundo”,
+registro, alteração e consulta de carteiras administradas,
+gerenciamento diário de compromissos entre o provedor e os consumidores das informações, abrangendo a solicitação, a aprovação, a suspensão, a reativação e o cancelamento dos compromissos;
+gera, a partir dos compromissos formalizados, a agenda diária de controle de eventos de envio e/ou consumo de informações;
+oferece as funcionalidades de cadastro (entidades, fundos, carteiras administradas, usuários, compromissos, dentre outros), relatórios, tarifação, controle de acesso segmentado de acordo com os papéis da instituição, geração e consulta (log & trilha), além do envio de alertas para os usuários”.
+As partes defendem que o sistema, assim, vem alinhar o Brasil com práticas realizadas em países como os Estados Unidos, por exemplo, que utilizam desde 1973 um sistema de comunicação padronizado denominado Society for Worldwide Interbank Financial Telecommunication (“SWIFT”).
+Trata-se de uma rede utilizada por mais de 10.000 instituições financeiras, localizadas em 212 países, que possibilita a troca de mensagens de cunho financeiro de forma padronizada [1].
+Ainda segundo as partes, os eventos que teriam detonado a concepção do referido sistema seriam os dispositivos da Resolução do Conselho Monetário Nacional nº 2.829, de 30 de março de 2001 e a Instrução Normativa nº 30, de 06 de dezembro de 2001, da Secretaria de Previdência Complementar – SPC (atual PREVIC) (Docs.
+19 e 20), relativos às aplicações das Entidades Fechadas de Previdência Complementar (EFPC´s) e preenchimento do “Demonstrativo Analítico de Investimentos e Enquadramento das Aplicações Financeiras” (DAIEA).
+Basicamente, as normas demandavam a consolidação da carteira de investimento daquelas entidades para fins de fiscalização quanto ao enquadramento em relação à diversificação dos investimentos de acordo com as regras estabelecidas naqueles dispositivos.
+No âmbito da ANBIMA, então, representantes das instituições dos mercados financeiro e de capitais avaliaram e constataram que seria "muito difícil" conseguir reunir/consolidar as informações solicitadas pelos reguladores, dada a interdependência entre os prestadores de serviço do mercado e a inexistência de padrão de formato e de plataforma das informações a serem disponibilizadas/divulgadas.
+Com a aprovação da Diretoria da ANBIMA, em 2005, começou-se a investir em todo o aparato tecnológico necessário ao desenvolvimento de tal sistema.
+Dessa forma, a ANBIMA promoveu estudos de viabilidade econômica e tecnológica para o desenvolvimento do denominado Sistema Galgo.
+O Sistema Galgo adotou o padrão de mensageria em linha com as especificações da ISO20022[2].
+Esta adoção refere-se a um padrão internacional criado para simplificar a comunicação financeira no mundo.
+Por meio do repositório da ISO20022, as informações dos mercados financeiro e de capitais podem ser trocadas no âmbito internacional em um único padrão
+A ISO 20022 é um diagrama universal de mensagem do setor que fornece aos diversos segmentos do mercado financeiro uma mesma plataforma para o desenvolvimento de mensagens normatizadas e padronizadas.
+Essa preparação para a internacionalização dos mercados foi possibilitada pela ANBIMA, que participa dos debates como membro da Associação Brasileira de Normas Técnicas (ABNT), o órgão nacional responsável por normatização.
+A ABNT tem como braço da sua estrutura a Comissão de Estudos Especiais de Serviços Financeiros, cujo papel é desenvolver, no Brasil, os padrões a serem utilizados nos mercados financeiro e de capitais.
+Os participantes da Comissão de Estudos Especiais de Serviços Financeiros incluíram:
+ANBIMA;
+Banco Central;
+BM&FBovespa – Bolsa de Valores, Mercadorias e Futuros;
+Cetip; e
+CIP.
+Assim, em 2007, formou-se um condomínio (“Condomínio Galgo”) para reunir os investidores interessados na criação dessa plataforma, que foram: ANBIMA, BM&FBOVESPA, Citibank, HSBC, Votorantim, Caixa, BB-BI, BTG Pactual, Deutsche, Bradesco, Itaú Unibanco[3], BNY Mellon, Santander e BNP Paribas, e, a partir de 2008, o sistema começou a ser desenvolvido.
+Uma vez desenvolvido e testado o Sistema Galgo,  os condôminos, por meio da presente operação, resolveram se associar por meio da mencionada NewCo de modo a explorar economicamente o tal sistema.
+A finalidade da NewCo seria, então, regular as relações entre as Partes, notadamente no sentido de fomentar, melhor disciplinar, administrar, otimizar a implementação e exploração econômica do Sistema Galgo e eventuais novos sistemas.
+A operação não apresenta sobreposição horizontal nem integração vertical.
+Todavia, em se tratando de uma associação entre empresas concorrentes, alguns cuidados devem ser observados, à semelhança dos adotados em alguns precedentes deste CADE.
+Assim, conforme entendimento manifestado pelo CADE nos Atos de Concentração nº 08012.007477/2011-50 e nº 08700.005278/2014-00, que tratavam de associações cujo objeto eram, respectivamente, o tratamento de resíduos do setor de eletrodomésticos e a pesquisa sobre efeitos dos defensivos agrícolas na saúde do trabalhador, a conjunção de esforços entre agentes de um mesmo mercado pode representar uma vantagem diante dos demais agentes, na medida da redução de custos para realizar o objeto pretendido.
+Além disso, e também conforme os precedentes mencionados, é necessário que sejam tomadas medidas para que as associadas não se utilizem da associação como instância de coordenação de suas políticas comerciais.
+De modo a reduzir os riscos da obtenção de vantagem competitiva em relação aos rivais, devem-se tomar medidas que evitem a discriminação destes quanto ao acesso aos serviços ofertados pela NewCo.
+Quanto à redução de riscos de a referida associação constituir-se em plataforma de coordenação das atividades concorrentes, devem-se observar regras de governança nesse sentido.
+Em face dessas preocupações, foi determinada emenda à notificação inicial, visando aferir as medidas tomadas nesse sentido.
+Quanto à primeira preocupação, qual seja, a não discriminação dos rivais, o acordo entre as Partes apresenta cuidados satisfatórios.
+Com efeito, o Acordo de Investimento, em seu considerando “iii”, estipula:
+[ACESSO RESTRITO]
+[ACESSO RESTRITO]
+Além disso, o próprio objeto social da NewCo incentiva a promoção da utilização de seus serviços junto às instituições do mercado financeiro e de capitais.
+Nota-se, assim, que o Estatuto Social da NewCo tem como uma de suas preocupações a promoção da utilização de seus serviços para os potenciais clientes desse mercado, restringindo, portanto, tratamento excludente em benefício dos atuais acionistas.
+Nesse sentido:
+[ACESSO RESTRITO]
+No que tange às regras de governança no sentido de minimizar a possibilidade de coordenação entre as Partes, registre-se que este cuidado também foi observado.
+Assim, nos documentos societários da NewCo há regras de quarentena e de limitação de acesso aos membros que compõem a Diretoria da NewCo, a quem compete a gestão da NewCo, por força da Lei das Sociedades Anônimas e do seu Estatuto Social, conforme transcrito na cláusula 7.7 do Acordo de Acionistas abaixo:
+[ACESSO RESTRITO]
+As Partes observam que, em relação ao Conselho de Administração da NewCo, as matérias a serem deliberadas referem-se apenas às questões atinentes aos rumos da Companhia (como, por exemplo: (a) manifestar-se sobre as contas, o relatório da administração e as demonstrações contábeis e financeiras relativas a cada exercício social encerrado; (b) Convocar a Assembleia Geral, quando julgar conveniente; (c) Deliberar o pagamento de juros sobre capital próprio; e (d) Autorizar a abertura ou a extinção de filiais, escritórios ou dependências da Companhia, entre outras)[6], sendo que a gestão da NewCo caberá, exclusivamente, à Diretoria.
+De outra forma, o próprio artigo 5.4 do Acordo de Acionistas, transcrito acima, equipara os acionistas da NewCo aos usuários do Sistema Galgo, proibindo assim, qualquer acesso privilegiado, seja o acionista membro do Conselho de Administração ou não.
+As Requerentes esclarecem ainda que não haverá troca de informações concorrencialmente sensíveis dentro do Sistema Galgo, uma vez que a plataforma foi desenvolvida com o intuito de promover maior eficiência operacional nas trocas de informações entre os prestadores de serviços dos Fundos de Investimento, Clubes de Investimento e Carteiras Administradas (Administradores, Gestores, Custodiantes, Distribuidores e Controladores), de forma que os mesmos possam atender, exclusivamente, às obrigações estabelecidas nas Instruções Normativas da CVM e nos Códigos ANBIMA de Regulação e Melhores Práticas, conforme mencionado acima.
+Ainda, segundo a Cláusula 5.4 do Acordo de Acionistas, supramencionada, [ACESSO RESTRITO].
+Frise-se, ainda, que, conforme detalhado acima, as informações a serem trocadas no Sistema Galgo consistem apenas nas informações que já eram trocadas entre os fundos de investimento, órgão regulador (CVM) e instituição autorrreguladora (ANBIMA) de forma não padronizada, através de plataformas diversas (e-mail, fax, telefone, correspondência) e suscetível a falhas.
+Por fim, acrescente-se que, para que um usuário possa ter acesso às informações dos fundos de investimento, clube ou carteira administrada, é necessário que este usuário preencha certos requisitos, tal como ser um usuário autorizado pelo próprio fundo, clube ou carteira administrada e a existência de acordo prévio, denominado no âmbito do Sistema Galgo como “Compromisso” entre o provedor e o usuário da informação.
+Explicam as Partes que esse acordo é um registro efetuado no próprio sistema, onde a instituição que deseja receber uma informação faz uma solicitação no sistema, que será encaminhada à instituição responsável pelo envio dessa informação (o sistema identifica esta instituição no cadastro do fundo efetuado pelo administrador do mesmo), que poderá aprovar ou não a solicitação.
+Uma vez aprovada, a instituição solicitante poderá iniciar as consultas.
+Sem estes requisitos, o sistema não permite que ocorra a troca de informações, o que caminha também no sentido de minimizar as possibilidades de coordenação.
+Portanto, as restrições alcançam adequadamente a troca de informações de conteúdo comercial, de mercado ou concorrencial entre os acionistas (entre si mesmos) e destes com os membros dos órgãos diretivos.
+VII. CLÁUSULA DE NÃO-CONCORRÊNCIA
+Não.
+VIII. RECOMENDAÇÃO
+Aprovação sem restrições.
+Estas as conclusões.
+Encaminhe-se ao Sr. Superintendente-Geral.
+_____________________________________________________________________________
+[1] http://www.revistafatorbrasil.com.br/ver_noticia.php?not=157309.
+Acesso em 02/09/2015.
+[2] “ISO 20022 - Universal financial industry message scheme (which used tobe also called "UNIFI") is the international standard that defines the ISO platform for the development of financial message standards.
+Its business modelling approach allows users and developers to represent financial business processes and underlying transactions in a formal but syntax-independent notation.
+These business transaction models are the "real" business standards.
+They can be converted into physical messages in the desired syntax.
+At the time ISO 20022 was developed, XML (eXtensible Mark-up Language) was already the preferred syntax for e-communication.
+Therefore, the first edition of ISO 20022 proposes a standardized XML-based syntax for messages.
+The standard was developed within the Technical Committee TC68 - Financial Services of ISO - the International Organization for Standardization”.
+Acessível em <http://www.iso20022.org/faq.page>.
+[3] À época agindo como Itaú e Unibanco de forma segregada e independente, uma vez que em período anterior ao da fusão que gerou o Itaú Unibanco.
+[4] Em linha com o Estatuto Social da NewCo, artigo 15, parágrafo único: [ACESSO RESTRITO]
+[5] Em linha com o Estatuto Social da NewCo, artigo 25, parágrafo 5º: [ACESSO RESTRITO]
+[6] Artigos 23 e 24 do Estatuto Social da NewCo

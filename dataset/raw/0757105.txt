@@ -1,0 +1,113 @@
+SEI/CADE - 0757105 - Voto Ato de Concentração
+Ato de Concentração nº 08700.006163/2019-39
+Requerente(s): Telefônica Brasil S.A, TIM S.A.
+Advogados(as): Mauro Grinberg, Leonor Cordovil, Cristianne Saccab Zarzur, Marcos Pajolla Garrido e outros
+Terceiro(s) Interessado(s): Claro S.A.
+Advogados(as): Barbara Rosenberg, Camilla Paoletti e outros
+Relator(a): Conselheira Lenisa Rodrigues Prado
+VOTO VOGAL - CONSELHEIRO LUIZ AUGUSTO AZEVEDO DE ALMEIDA HOFFMANN
+VERSÃO PÚBLICA
+voto
+I. CONSIDERAÇÕES INICIAIS
+Primeiramente, peço vênia para adotar como relatório aquele constante do Despacho Decisório no 11/2020/GAB1/CADE (SEI 0755909), bem como rendo minhas homenagens à ilustre Conselheira Lenisa Prado, de quem divirjo neste instante.
+Em síntese, o cerne da questão no caso concreto reside em verificar a admissibilidade do recurso interposto pela Claro S.A. (“Claro”) (SEI 0752686) nos autos do Ato de Concentração em epígrafe, de acordo com o ordenamento jurídico vigente e os elementos trazidos aos autos.
+A respeito da interposição de recurso contra decisão da Superintendência Geral do CADE (“SG”) que aprova ato de concentração econômica, dispõe o art. 65 da Lei no 12.529/2011 que “caberá recurso da decisão ao Tribunal, que poderá ser interposto por terceiros interessados ou, em se tratando de mercado regulado, pela respectiva agência reguladora”, no prazo de 15 dias contado da publicação da referida decisão.
+Uma vez interposto o recurso, o supramencionado diploma legal (art. 65, §1º) afirma caber ao Conselheiro-Relator (i) conhecer do recurso, determinando sua inclusão em pauta para julgamento; (ii) conhecer do recurso e determinar a realização de instrução complementar que, ao seu critério, pode ser realizada pela SG; e (iii) não conhecer do recurso, determinando o seu arquivamento.
+No mesmo sentido estabelece o art. 121 do Regimento Interno deste Conselho que, além de acrescentar que o supramencionado recurso pode ser interposto por terceiros interessados “habilitados no processo” (art. 121, inciso I), afirma que de tal recurso “deverão constar os motivos pelos quais o ato aprovado poderá implicar eliminação da concorrência em parte substancial de mercado relevante, reforço de posição dominante ou dominação de mercado relevante de bens e serviços, e todos os documentos e pareceres indispensáveis à análise dos fatos alegados” (art. 121, §1º).
+Não obstante, em linha com precedentes[1] do CADE, há que se considerar os requisitos recursais do Processo Civil, conforme entendimento doutrinário[2], a saber, os requisitos intrínsecos de (i) cabimento; (ii) legitimidade recursal; (iii) interesse recursal; e (iv) inexistência de ato impeditivo de recurso; e os requisitos extrínsecos de (i) tempestividade; (ii) preparo; e (iii) regularidade formal.
+Passo à verificação de cada um dos requisitos supramencionados no caso concreto.
+II. JUÍZO DE ADMISSIBILIDADE DO RECURSO
+II.1.
+Prévia habilitação no processo
+A partir do exame dos autos, nota-se que a Recorrente apresentou pedido para se habilitar como terceira interessada no processo em 21.01.2020 (SEI 0710239), o qual foi acatado pela SG, nos termos do Despacho SG no 95/2020 (SEI 0712562), que acolheu a Nota Técnica SG no 1/2020 (SEI 0710399).
+A esse respeito, concluiu a supramencionada Nota Técnica que:
+[A] Claro, como concorrente direta das Requerentes no mercado de SMP, constitui terceiro dotado de legítimo interesse pelo caso ora sob análise, e, na ausência de maior clareza sobre os pontos por ela levantados, os quais põem dúvidas sobre (i) se operações de ran sharing diferem de operações single grid, e, caso sim, (ii) se os efeitos concorrenciais resultantes de operações single grid poderiam ser de alguma forma diferentes dos efeitos oriundos das operações de ran sharing já analisadas por esta autarquia, entende-se haver a possibilidade de ela ser afetada pela decisão a ser adotada pelo Cade sobre a Operação, constatação que autoriza o enquadramento do pleito na supracitada hipótese prevista no artigo 50, inciso I, da Lei 12.529/2011.
+Forçoso concluir, portanto, ter sido preenchido o requisito de prévia habilitação nos autos deste Ato de Concentração.
+II.2.
+Apresentação dos motivos para acolhimento do recurso
+Conforme mencionado acima, além da prévia habilitação no processo, o Regimento Interno do CADE requer do Recorrente a apresentação dos “motivos pelos quais o ato aprovado poderá implicar eliminação da concorrência em parte substancial de mercado relevante, reforço de posição dominante ou dominação de mercado relevante de bens e serviços, e todos os documentos e pareceres indispensáveis à análise dos fatos alegados” (art. 121, §1º).
+A Claro afirma em seu recurso que o Parecer da SG não teria afastado todas as preocupações concorrenciais decorrentes do Ato de Concentração em epígrafe, que teria o condão de gerar potenciais anticompetitivos relacionados a “(i) eliminação de diferenciais competitivos; (ii) redução de incentivos para melhoria de capacidade e qualidade de rede; (iii) assimetria de custos entre Requerentes e concorrentes; (iv) perda do efeito "dilema do prisioneiro"; (v) riscos decorrentes da necessidade de troca de informações sensíveis; e (vi) incentivos para fechamento de mercado”.
+Ademais, a Recorrente discorre a respeito de considerações feitas pela SG que não corresponderiam “à realidade”, “[e]m particular que: (i) a tecnologia 2G alcançaria um segmento de clientes em declínio (declining market), de menor importância neste mercado; (ii) eventuais restrições decorrentes do Contrato 3G e 4G estariam cobertas por previsões regulatórias de roaming estabelecidas pela Anatel para cidades com menos de 30 mil habitantes; e (iii) os preços praticados no mercado de SMP seriam necessariamente muito similares em nível nacional”.
+Dessa forma, nota-se que a Recorrente tratou de apontar os potenciais efeitos lesivos à concorrência nos mercados relevantes afetados pela operação, explanando cada uma das preocupações suscitadas caso o Ato de Concentração fosse aprovado nos termos propostos pela SG.
+Ressalto ainda que a Claro ponderou, inclusive, sobre possíveis remédios que, ao seu ver, poderiam endereçar tais preocupações concorrenciais.
+Isto posto, reputo configurado o requisito recursal quanto à exposição dos motivos para acolhimento do recurso, a teor do art. 121, §1º, do Regimento Interno do CADE.
+II.3.
+Requisitos intrínsecos
+a)Cabimento
+Em relação ao requisito intrínseco de cabimento do recurso, observa-se que o art. 121, inciso I, do Regimento Interno do CADE, é uníssono ao prever que “caberá recurso da decisão [da SG que aprovar ato de concentração econômica] ao Tribunal”.
+Portanto, na esteira do voto relator, entendo ter restado atendido o requisito no caso concreto.
+b)Legitimidade recursal
+Em linha com a jurisprudência[3] deste Conselho, entende-se que a legitimidade recursal remete à prévia habilitação do recorrente como terceiro interessado no Ato de Concentração objeto do recurso.
+Com efeito, tratando-se a Claro de terceiro interessado devidamente habilitado neste processo, nos termos da Nota Técnica SG no 1/2020 (SEI 0710399), entendo ser a Recorrente figura legítima para interpor recurso nos âmbito deste Ato de Concentração.
+c)Interesse recursal
+Neste item, a decisão da Conselheira Relatora entendeu por considerar que tal requisito não foi atendido, tendo reconhecido, contudo, que “o recurso, em seu instrumento, demonstrou seus argumentos contrários à decisão impugnada e devidamente apresenta pedidos para a solução das questões apresentadas, isso atesta a regularidade formal do recurso”.
+Em seguida, entendeu a decisão que não deveria o recurso ser reconhecido porque “todos os pontos levantados no instrumento recursal já foram devidamente abordados pela Superintendência-Geral em seu Parecer nº 8/2020.
+Tamanha a suficiência da abordagem que os fundamentos são inclusive comprovados pela decisão da ANATEL supramencionada”, além do fato de que “a apreciação do recurso se daria em cima de matérias já devidamente analisadas e decididas, sem nenhum fato novo ou alteração significativa no cenário concorrencial que justificasse tal reanálise”, uma vez que a SG já teria afastado de forma satisfatória todo potencial prejuízo ao direito difuso.
+Tendo em vista o quanto relatado, consoante entendimento doutrinário, as questões preliminares do conhecimento recursal antecedem o mérito do próprio recurso manejado, uma vez que “dizem respeito ao próprio exercício do direito de ação (condições da ação) e à existência e regularidade da relação jurídica processual (pressupostos processuais).
+As condições da ação possibilitam ou impedem o exame da questão seguinte (de mérito).
+Presentes todas, o juiz pode analisar o mérito, não sem antes verificar se também se encontram presentes os pressupostos processuais”[4].
+Assim, verifica-se que a recorrente rebateu os termos da decisão da SG, bem como apontou os motivos pelos quais deveria ser alterada a decisão, conforme detalhado anteriormente neste voto, como inclusive constatou a decisão da Conselheira Relatora, atestando, inclusive “a regularidade formal do recurso”.
+Ademais, a recorrente, em seu recurso, entendeu que alguns pontos não teriam sido abordados pela decisão da SG em sua plenitude, ao aduzir que a operação poderia gerar “(i) eliminação de diferenciais competitivos; (ii) redução de incentivos para melhoria de capacidade e qualidade de rede; (iii) assimetria de custos entre Requerentes e concorrentes; (iv) perda do efeito "dilema do prisioneiro"; (v) riscos decorrentes da necessidade de troca de informações sensíveis; e (vi) incentivos para fechamento de mercado”; solicitando a análise deste Tribunal a respeito, tendo preenchido o requisito do art. 121, §1º, do Regimento Interno do CADE, como já frisei neste voto.
+Deste modo, verifica-se que a Lei 12.529/2011 bem como o RICADE foram devidamente observados, sendo que, além do quanto exposto neste tópico, também deveriam ser atacados os fundamentos da decisão recorrida, o que restou devidamente configurado como acima apontado.
+Nesse sentido, verifica-se que a doutrina ao analisar tal princípio, no que tange ao instituto da apelação no Processo Civil, a ser aplicado de forma subsidiária aos processos que tramitam neste Conselho, em vista do art. 115 da Lei no 12.529/2011, aduz que:
+Trata-se, portanto, de elemento formal indispensável à admissibilidade do recurso, que não pode ser substituído por simples remissões às razões constantes da petição inicial, contestação ou outra peça processual.
+Sem saber exatamente por que o recorrente se inconforma com a sentença proferida, não é possível ao tribunal apreciar a correção ou justiça da decisão atacada, de sorte que o não conhecimento nesses casos é de rigor (a motivação está para o recurso como a causa petendi para a inicial ou como fundamento para a sentença).
+[5]
+-------------------------------------------------------------------------------------------------------------
+[É] preciso que seja deduzido pela petição de interposição, dirigida ao juiz da causa (a quo), acompanhada das razões do inconformismo (fundamentação) e do pedido de nova decisão, dirigidos ao juízo destinatário (ad quem), competente para conhecer e decidir o mérito do recurso, tudo isso dentro dos próprios autos principais do processo.
+Faltando um dos requisitos formais da apelação, exigidos pela norma ora comentada, não estará satisfeito o pressuposto de admissibilidade e o tribunal não poderá conhecer do recurso.
+[6]
+E a jurisprudência do Superior Tribunal de Justiça bem como de outros Tribunais não destoa, como se infere abaixo:
+O CPC (arts. 514 e 515) impõe às partes a observância da forma segundo a qual deve se revestir o recurso apelatório.
+Não é suficiente mera menção a qualquer peça anterior à sentença (petição inicial, contestação ou arrazoados), à guisa de fundamentos com os quais se almeja a reforma do decisório monocrático.
+À luz do ordenamento jurídico processual, tal atitude traduz-se em comodismo inaceitável, devendo ser afastado.
+O apelante deve atacar, especificamente, os fundamentos da sentença que deseja combater, mesmo que, no decorrer das razões, utilize-se, também, de argumentos já delineados em outras peças anteriores.
+No entanto, só os já desvendados anteriormente não são por demais suficientes, sendo necessário ataque específico à sentença.
+Procedendo dessa forma, o que o apelante submete ao julgamento do Tribunal é a própria petição inicial, desvirtuando a competência recursal originária do Tribunal.
+(STJA-1ª T., REsp 359.080, rel. Min. José Delgado, j. 11.12.01, negaram provimento, v.u., DJU 4.3.02, p. 213) (sem ênfase no original)
+-------------------------------------------------------------------------------------------------------------
+RECURSO APELAÇÃO RAZÕES SEM FUNDAMENTAÇÃO DE FATO E DE DIREITO E SEM PEDIDO DE NOVA DECISÃO NÃO CONHECIMENTO EXEGESE DO ARTIGO 514, II E III DO CÓDIGO DE PROCESSO CIVIL.
+Revela-se inepto, contrariando o disposto no artigo 514, inciso II do Código de Processo Civil, o apelo que se limita tão somente a reiterar argumentos anteriores à sentença recorrida.
+(TJSP, Ap. s/rev. 693.744-00/5 5ª Câm.
+Rel. Juiz S. Oscar Feltrin j. 26.9.2001)
+-------------------------------------------------------------------------------------------------------------
+RECURSO APELAÇÃO PETIÇÃO DE INTERPOSIÇÃO RAZÕES DE FATO E DE DIREITO AUSÊNCIA NÃO CONHECIMENTO EXEGESE DO ARTIGO 514, II DO CÓDIGO DE PROCESSO CIVIL.
+Não tendo a apelação exposto os fundamentos de fato e de direito suportadores do pedido de nova decisão, dela não se conhece.
+(Ap. s/rev. 511.948 3ª Câm.
+Rel. Juiz Ribeiro Pinto, j. 10.3.98)
+Assim, como no caso concreto a recorrente trouxe ao seu recurso as razões de seu inconformismo, apontou os motivos pelos quais a decisão deveria prevalecer, o que inclusive foi reconhecido pela Conselheira Relatora, não se aplica o precedente por ela mencionado, não se tratando de requisito para análise do conhecimento a extensão da análise da SG, mas sim a insurgência da recorrente e o devido preenchimento dos requisitos como ora desenvolvido.
+Além do mais, a intenção do legislador foi a de possibilitar ao Tribunal Administrativo desta autarquia a revisão dos atos realizados pela SG, não havendo qualquer menção em sentido contrário, bastando serem preenchidos os requisitos no caso concreto, o que restou verificado como acima apontado.
+Por tais aspectos, entendo estar preenchido o quesito do interesse recursal.
+d)Inexistência de ato impeditivo
+No que diz respeito à inexistência de ato impeditivo, tendo em vista não ter ocorrido desistência, renúncia ou aquiescência por parte da Recorrente, forçoso concluir ter sido satisfeito esse requisito, em linha com o entendimento da Conselheira Relatora.
+II.4.
+Requisitos extrínsecos
+a)Tempestividade
+Conforme observado anteriormente, tanto a Lei no 12.529/2011 (art. 65) quanto o Regimento Interno do CADE (art. 121, inciso I) dispõem ser de 15 (quinze) dias o prazo para interposição de recurso contra a decisão da SG que aprovou o ato de concentração, contado da publicação da referida decisão.
+No caso em tela, como (i) tal publicação ocorreu em 23.04.2019; e (ii) o recurso foi devidamente protocolado em 08.05.2020; reputo o recurso tempestivo, uma vez que interposto dentro do prazo quinzenal previsto para a espécie.
+b)Preparo
+Segundo a legislação aplicável, não há que se falar em preparo recursal para a interposição de recurso contra decisões de processos que tramitam neste Conselho.
+Sendo assim, não há que se falar na hipótese de não preenchimento desse requisito.
+c)Regularidade formal
+No que diz respeito à regularidade formal, em consonância com o voto relator, entendo estar preenchido o requisito, uma vez que a Recorrente apresentou os motivos e argumentos contrários às conclusões da decisão recorrida, além de arrolar os pedidos pretendidos por meio do recurso.
+IIi. conclusão
+Conforme detalhado acima, entendo que o recurso interposto pela Claro atende os requisitos de admissibilidade recursal, a teor da legislação aplicável, a saber: (i) prévia habilitação da Recorrente nos autos; (ii) exposição dos motivos para acolhimento do recurso; (iii) cabimento; (iv) legitimidade recursal; (v) interesse recursal; (vi) inexistência de ato impeditivo de recurso; (vii) tempestividade; (viii) preparo; e (ix) regularidade formal; de modo a levar ao seu conhecimento.
+Quanto à necessidade de instrução complementar (art. 129, inciso II), entendo pertinente registrar que a realização de subsequentes instruções complementares e/ou outras diligências poderá ser promovida após exame mais aprofundado das questões de mérito que permeiam este Ato de Concentração.
+Dispositivo
+Ante o exposto, voto pelo conhecimento do recurso ora sob exame, tendo em vista terem sido preenchidos os requisitos legais necessários para sua admissibilidade, com fulcro no art. 65, da Lei no 12.529/2011, e no art. 121, do Regimento Interno do CADE.
+No mais, entendo que o feito deva ser incluído na pauta para julgamento da 160ª Sessão Ordinária de Julgamento (“SOJ”) do Tribunal Administrativo de Defesa Econômica, prevista para 03.06.2020, nos termos do art. 65, §1º, inciso I, da Lei no 12.529/2011, c/c art. 129, inciso I, do Regimento Interno do CADE, sem prejuízo de serem realizadas instrução complementar e/ou diligências adicionais após exame mais aprofundado das questões relativas à análise de mérito deste Ato de Concentração.
+É o voto.
+LUIZ AUGUSTO AZEVEDO DE ALMEIDA HOFFMANN
+Conselheiro
+(assinado eletronicamente)
+Vide Despacho Decisório no 7/2019/GAB5/CADE (SEI 0679366); Despacho Decisório no 35/2019/GAB4/CADE (SEI 0665041); Despacho Decisório no 4/2019/GAB3/CADE (SEI 0628902); Despacho Decisório no 2/2018/GAB5/CADE (SEI 0456184).
+DIDIER JR, Fredie; CUNHA, Leonardo José Carneiro.
+Curso de Direito Processual Civil. Vol.3: Meios de impugnação às decisões judiciais e processo nos tribunais. 8.ed.
+Salvador: Editora Jus Podium, 2010, p.44.
+Vide Despacho Decisório no 7/2019/GAB5/CADE (SEI 0679366); Despacho Decisório no 35/2019/GAB4/CADE (SEI 0665041); Despacho Decisório no 4/2019/GAB3/CADE (SEI 0628902); Despacho Decisório no 2/2018/GAB5/CADE (SEI 0456184).
+NERY JUNIOR, Nelson e NERY, Rosa Maria de Andrade.
+Código de processo civil comentado e legislação processual civil extravagante em vigor.
+São Paulo: Revista dos Tribunais, 2002.
+Antônio Cláudio da Costa Machado, in Código de Processo Civil Interpretado, 5ª ed.
+Ed. Manole, pág. 848
+Código de Processo Civil Comentado e Legislação Processual em Vigor, 10ª ed. RT, p. 853/854, Nelson Nery Junior

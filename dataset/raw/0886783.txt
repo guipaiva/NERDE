@@ -1,0 +1,83 @@
+SEI/CADE - 0886783 - Voto Processo Administrativo
+Processo Administrativo nº 08012.005324/2012-59
+Representante: Cade ex officio
+Representados(as): AB SKF, SKF do Brasil Ltda., INA-Holding Schaeffler GmbH & Co., Schaeffler Brasil Ltda, JTEKT Automotiva Brasil Ltda., JTEKT Corporation, Koyo Rolamentos do Brasil Ltda., Nachi Brasil Ltda., Nachi Fujikoshi Corp., NSK Brasil Ltda., NSK Europe Ltd., NSK Ltd., NTN-SNR Roulements SA., SNR Rolamentos do Brasil Ltda., Timken do Brasil Comércio e Indústria Ltda., Adalberto Penachio, Alexandre Fróes, Alexandre Nascimento, Antônio Marcondes, Bruno Cabral Bertelli, Carlo Vendramini Dessimoni, Carlos Shimoda, Donizete Custódio dos Santos, Eduardo Buchaim, Eduardo Lumsden, Eduardo Mendes de Oliveira, Fernando Mello, Glauco Berretta, Haruo Furuzawa, Hirokazu Koguchi, Hiroshi Yamaguchi, Hiroshi Motoyama, Horácio Aníbal Tartara, Issei Murata, João Sakamoto, Jorge Mochizuki, Leandro de Biasi Fernandes, Mauro Luna, Oswaldo Barbosa Almeida Filho, Reginaldo Marques, Roberto Souza, Ricardo Reimer, Rubens Campos, Sergio Caprio Junior, Sérgio Claro Pimenta, Sérgio Pin, Shuichiro Sugimura, Stefan Stoianov Junior, Takahiro Okano, Tetsuo Kamo, Toshiyuki Ito, Wilson Simonetto
+Advogados(as): Adriana Franco Giannini, Adriana Mourão Nogueira, Alexandre Ditzel Faraco, Ana Paula Martinez, André Cutait de Arruda Sampaio, André Franchini Giusti, Ângela Paes de Barros Di Franco, Antônio Garbelini Junior, Barbara Rosenberg, Bolívar Moura Rocha, Bruno José Cescato Novaes, Cario Mário da Silva Pereira Neto, Carlos Roberto de Siqueira Castro, Carolina Saito da Costa, Daniel Oliveira Andreoli, Daniel Tinoco Douek, Daniela Coelho A. F. de Vasconcellos, Fabio Alessandro Malatesta dos Santos, Felipe Zolezi Pelussi, Francisco Ribeiro Todorov, Gabriela Geller, Graziella Arduini Alves de Souza Bischoff, Guilherme Morgulis, Heitor Faro de Castro, Jessica Ribeiro Ferreira, Joana Temudo Cianfarani, José Augusto Caleiro Regazzini, José Carlos da Matta Berardo, José Inácio Ferraz de Almeida Prado Filho Mauro Grinberg, Lauro Celidonio Gomes dos Reis Neto, Leonor Augusta Giovine Cordovil, Luciana Martorano, Marcio Dias Soares, Marcos Exposto, Mariana Tavares de Araújo, Onofre Carlos de Arruda Sampaio, Patrícia Avigni, Pedro S. C. Zanotta, Pedro Sérgio Costa Zanotta, Polyanna Ferreira Silva Vilanova, Renata Fonseca Zuccolo Gianella, Rodrigo Almeida Edington, Rodrigo Orlandini, Schermann Chrystie Miranda e Silva, Túlio Freitas do Egito Coelho, Valleska Guimarães de Lima Magalhães, Victor Doering Xavier da Silveira, Vivian Anne Fraga do Nascimento Arruda e outros
+Relator: Conselheiro Mauricio Oscar Bandeira Maia
+VOTO VOGAL - CONSELHEIRO Luiz Augusto Azevedo de Almeida Hoffmann
+VERSÃO ÚNICA PÚBLICA
+voto
+Gostaria de cumprimentar o Relator Maurício Oscar Bandeira Maia, bem como os Conselheiros que me antecederam, cujos votos foram importantes para aprofundar a discussão do presente caso.
+Adianto que me alinho às conclusões do Relator em relação a todos os Representados, à exceção da empresa representada SNR Rolamentos do Brasil Ltda. (atual NTN Rolamentos do Brasil Ltda.), ou simplesmente “SNR Rolamentos”, em relação a qual gostaria de tecer algumas considerações, tendo em vista as divergências suscitadas pelos Conselheiros Sérgio Ravagnani e Luis Henrique Braido.
+Conforme transcorreu no presente julgamento, na 173ª Sessão Ordinária de Julgamento, ocorrida em 10 de março de 2021, o Conselheiro Sérgio Ravagnani divergiu do Relator para condenar a SNR Rolamentos pela prática de cartel clássico.
+Já na presente Sessão, o Conselheiro Braido apresentou voto-vista com proposta de condenação pela prática de cartel difuso.
+Passo a examinar, portanto, os documentos imputados à SNR Rolamentos.
+a) E-mail enviado por João Sakamoto
+Um primeiro indício imputado à SNR Rolamentos seria um e-mail enviado por João Sakamoto (à época gerente da NTN do Brasil Ltda.) a Haruo Furuza (NSK) (Documento 41-A), que transmite lista de preços aplicada pela Schaefler, atinente à atuação no mercado industrial.
+Em petição (SEI 0884591), a defesa da SNR Rolamentos alegou que o referido documento não poderia ser utilizado como meio de prova, uma vez que João Sakamoto era funcionário de pessoa jurídica distinta, isto é, a NTN do Brasil Ltda., que embora do mesmo grupo econômico, não foi representada no presente PA.
+Esclarecendo a origem do grupo econômico, a SG apontou, na Nota Técnica nº 325 de 20141, que o Grupo NTN-SNR foi “criado por meio da aquisição parcial da SNR, uma empresa francesa, pela NTN, uma fabricante japonesa, em 2007”.
+Dessa forma, “suas marcas [do Grupo] são SNR e NTN, e a empresa no Brasil é referida como NTN ou SNR”.
+A defesa também apontou2 que a estratégia da SNR Rolamentos do Brasil “incluía concorrer com a NTN do Brasil até 2008, uma vez que ambas as empresas eram concorrentes até a NTN Corporation adquirir o controle da empresa francesa SNR Roulements S.A.”.
+Em outras palavras, a partir de 2008, as empresas brasileiras deixaram de ser concorrentes, passando a constituir o mesmo grupo econômico, controladas em última instância pela NTN Corporation, do Japão.
+Em 2018, houve a fusão de ambas as empresas brasileiras (SNR Rolamentos do Brasil e NTN do Brasil), dando origem à atual NTN Rolamentos do Brasil Ltda, representada nos autos.3
+Em síntese, portanto, quando do envio do e-mail pelo Sr. Sakamoto, em 2010, ambas as empresas já compunham o mesmo grupo econômico, ou seja, não concorriam, conforme reconhecido expressamente pela representada.
+Dessa forma, não merece prosperar a argumentação desenvolvida no sentido de que as empresas “se mantiveram independentes, pertencendo a diferentes cadeias societárias dentro do grupo econômico”.
+Isso porque, a partir do momento em que a holding francesa foi adquirida pelo grupo japonês NTN, as empresas brasileiras passaram a constituir o mesmo grupo econômico e passaram a estar submetidas ao mesmo núcleo decisório; ou seja, deixaram de ser concorrentes, para fins de análise concorrencial.
+A integração da atividade empresarial do Grupo NTN-SNR é constatada, por exemplo, (i) pelo fato de que, em julho 2010, a holding francesa alterou a denominação social de SNR Roulements SA para NTN-SNR Roulements SA, passando a incorporar o “NTN” do grupo japonês sua denominação4; (ii) à época da conduta é perceptível da documentação dos autos que os agentes econômicos se referiam à SNR Rolamentos também como NTN (por exemplo, e-mail interno da Schaeffler – Anexo 1 do TCC da Schaeffler); e (iii) atualmente, SNR Rolamentos do Brasil se apresenta como parte do Grupo NTN-SRN, conforme se percebe em seu site institucional5.
+Dessa forma, quer-se dizer que os efeitos da conduta do Sr. Sakamoto à época aproveitavam concorrencialmente à SRN Rolamentos, do mesmo grupo econômico.
+Não é por outra razão que a Lei nº 8.884/1994 (art. 17), à semelhança da Lei nº 12.529 (art. 33), estabelece a responsabilidade solidária de empresas integrantes do mesmo grupo econômico por infração à ordem econômica.
+No caso concreto, considerando que houve fusão entre a NTN do Brasil e a SNR Rolamentos do Brasil, para dar origem à atual NTN Rolamentos do Brasil, houve sucessão de direitos e obrigações, nos termos da Lei das S.A. (Lei nº 6.404/1976, art. 228), como bem apontou o Conselheiro Sérgio Ravagnani.
+Assim, no presente caso, entendo que não houve prejuízo à ampla defesa, uma vez que (i) a empresa sucessora foi representada no presente PA, e, em qualquer caso, (ii) o e-mail enviado pelo Sr. Sakamoto possui – a meu ver – natureza apenas indiciária, devendo necessariamente ser ponderado à luz de todo o conjunto probatório.
+Concluindo, considero que o referido documento não é capaz de, isoladamente, comprovar a participação da SRN Rolamentos no cartel, mas tão somente a possível troca de informações concorrencialmente sensíveis, como apontado pelo Conselheiro Luis Braido.
+Tal troca de informações pode, entretanto, ter ocorrido de modo auxiliar à conduta de cartel, conforme analisarei adiante.
+b) Cotação da Volkswagen
+No tocante à licitação promovida pelo cliente Volkswagen em 2010, segundo a SG, PFE e MPF, e-mails internos6 trocados por funcionários da NSK evidenciariam que a SNR confirmou à NSK (sua concorrente) que não competiria pelo pedido da Volkswagen – relativo ao mercado automotivo -, entendimento este também emanado pelo Conselheiro Luis Braido em seu voto-vista.
+Alega a SNR Rolamentos, contudo, que teria participado efetivamente e concorrido por tal licitação, tendo apresentado como comprovação comunicações entre a SNR e a Volkswagen que atestariam o interesse da empresa de fornecer a tal cliente, de modo que não prosperariam as conclusões da SG, PFE e do MPF de que teria entrado em acordo com concorrentes para se abster de competir em tal certame.
+A respeito, conforme se extrai de sua defesa (SEI 0111951), observa-se que a SNR de fato manteve comunicações com a Volkswagen, tendo trocado informações sobre questões técnicas, custos para a produção dos equipamentos e eventuais cotações para o produto.
+Todavia, mister ressaltar que, posteriormente, a própria SNR decidiu não dar continuidade às negociações com a Volkswagen em virtude de suposta inviabilidade financeira em fazer o serviço de forma competitiva, conforme a empresa menciona em sua defesa.
+A meu ver, a existência de comunicações prévias com o cliente não é capaz de comprovar que havia real interesse da empresa em competir com os concorrentes para atendê-lo (a empresa SNR poderia justamente estar tentando omitir o conluio), considerando que tal suposto interesse não foi materializado por iniciativa da própria SNR e ante as provas nos autos em sentido contrário.
+Isto posto, em que pese tal argumento da SNR, torna-se forçoso concluir que a empresa acabou por não atender a Volkswagen, tendo ela própria desistido de dar sequência às tratativas, fato que não afasta a tese trazida pelas provas coligidas aos autos no sentido que a SNR teria aberto mão de competir com seus concorrentes (acordo de não-competição).
+Além disso, é sempre importante salientar que, nos termos do art. 20, caput, da Lei 8.884/1994, correspondente ao art. 36 da Lei nº 12.529/2011, o ordenamento jurídico não exige a concretização dos efeitos da conduta para caracterização da infração, bastando a tentativa (ou potencialidade de causar efeitos) para configuração do ilícito.
+b.1) Troca de e-mails interna da Schaeffler
+Além das ponderações acima referidas, reputo importante também mencionar uma troca de e-mails internas da Schaeffler, datadas de agosto de 2020, trazidas no Anexo 1 do TCC.
+No e-mail interno, comenta-se que houve combinação com NTN para não realizarem cotação junto à Volkswagen.
+Como bem apontado pelo Parecer do MPF, tal indício vem a reforçar o conjunto probatório, no sentido da participação da SNR Rolamentos na conduta anticompetitiva.
+Nesse sentido, destacou o órgão parecerista:
+190.
+(...) No entanto, a prova do envolvimento da SNR no caso se aperfeiçoa, de toda forma, já que também a compromissária Schaeffler afirmou, expressamente, em TCC, a sua integração no cartel.
+[SEI 0094271, Histórico da Conduta, p.6.]
+Para corroborar a afirmação, trouxe provas em tal sentido (as quais merecem ser compreendidas, evidentemente, como fonte independente daquelas trazidas pela NSK).
+191.
+Note-se, por exemplo, o Anexo 1 do TCC.
+Trata-se de prova também bastante evidente, pois, em e-mail trocado entre Fernando Mello e Sergio Pin, o primeiro reporta que, apó s ter conversado com a NSK, recebeu a solicitação de que a sua empresa, a Schaeffler, não apresentasse cotação para item da Volkswagen (Amarok).
+Além disto, de modo a apontar para uma divisão do mercado, previamente estabelecida, é dito também que a NSK havia pedido à NTN e à SKF para que igualmente não cotassem.
+O ajuste recebe a concordância de Sergio Pin.
+Trata-se, como se percebe, de combinado relevante para o mecanismo do cartel, envolvendo pelo menos quatro empresas – a NTN/SNR inserida.
+c) Conclusões
+Ante o exposto, entendo que o conjunto probatório é composto por diferentes evidências que permitem concluir, a partir de uma análise sistemática, pela participação da SNR Rolamentos em conduta anticompetitiva, a saber: (i) relatos do (i.1) histórico da conduta do acordo de leniência e de (i.2) TCC da empresa Schaeffler; (ii) e-mail enviado pelo Sr. João Sakamoto compartilhando preços de concorrente; e (iii) e-mails internos da (iii.1) NSK e da (iii.2) Schaeffler confirmando o acordo de não-competição quanto à licitação promovida pela Volkswagen.
+Todavia, ao meu ver, as provas envolvendo a SNR não são suficientes para atestar que a empresa teria participado de um acordo colusivo de caráter permanente, institucionalizado e com contatos períodos e frequentes (cartel clássico ou hardcore, como define a OCDE7), diferentemente do que ocorre com outros Representados deste Processo Administrativo (e.g., SKF), o que deve ser considerado.
+Nesse sentido, entendo que as provas imputadas à SNR demonstram um acordo de caráter eventual e não institucionalizado, em linha com que o Tribunal do CADE já entendeu no passado como cartel difuso8, conduta anticompetitiva que enseja sanção menos severa.
+Ademais, importante ponderar que as supramencionadas evidências dizem respeito tão somente ao mercado automotivo, exceto o e-mail enviado pelo Sr. João Sakamoto, que se refere ao mercado industrial.
+Ao meu ver, contudo, conforme mencionado anteriormente, a única prova que remonta ao mercado industrial (e-mail enviado pelo Sr. João Sakamoto), ainda que contenha informações sensíveis, não é capaz, por si só, de atestar a ocorrência de conluio, e tampouco foi corroborada por outras provas que haveria ocorrido cartel no mercado industrial especificamente.
+Dessa forma, acompanho o voto do Conselheiro Luis Henrique Braido, nos termos expostos por ele, isto é, pela caracterização da participação da SNR na forma de um cartel difuso, limitado ao mercado automotivo, tendo em vista a conduta da representada não foi marcada por institucionalidade, típica de um cartel clássico.
+Entendo, ainda, que a proposta de dosimetria trazida no voto-vista do Conselheiro Braido se encontra adequada ao caso concreto, uma vez que cumpre as finalidades dissuasória e repressiva, bem como se mostra coerente com as bases de cálculo e alíquota estabelecidas para os compromissários de TCCs e demais Representados a serem condenados.
+Ante o exposto, acompanho as conclusões do voto-vista do Conselheiro Luis Brado, votando pelo(a):
+Condenação dos Representados (i.1) SKF do Brasil Ltda.; (i.2) Carlo Vendramini Dessimoni; nos termos do voto do relator;
+Condenação do Representado SNR Rolamentos do Brasil Ltda., nos termos do voto do Conselheiro Braido;
+Arquivamento, com a consequente extinção da punibilidade, para os Signatários do Acordo de Leniência;
+Suspensão do processo para os compromissários de TCCs, com o consequente arquivamento do processo em razão de cumprimento dos referidos termos; e
+Arquivamento, em razão de insuficiência de provas, para os Representados (v.1) AB SKF; (v.2) NTN-SNR Roulements S.A.; (v.3) Mauro Luna; (v.4) João Sakamoto; (v.5) Donizete Custódio dos Santos; (v.6) Eduardo Buchaim; (v.7) Eduardo Mendes de Oliveira; (v.8) Glauco Berretta; (v.9) Horácio Aníbal Tartara; (v.10) Leandro de Biasi Fernandes; (v.11) Roberto de Souza; (v.12) Eduardo Lumsden.
+É o voto.
+LUIZ AUGUSTO AZEVEDO DE ALMEIDA HOFFMANN
+Conselheiro
+(assinado eletronicamente)
+SEI 0082645 fls. 20.
+SEI 0884591.
+Conforme SEI 0884591.
+Comissão Europeia.
+CASE COMP/39922 – BEARINGS, § 67.
+Disponível em: <https://ec.europa.eu/competition/antitrust/cases/dec_docs/39922/39922_2067_2.pdf>.
+Disponível em: <https://ntn.com.br/>.
+Vide: Anexo 17-C (NSK) – SEI 0000404, fls. 2642-2650 e fls. 2674-3677.
+Vide, por exemplo: https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0452.
+Vide, por exemplo, voto do Conselheiro Luiz Carlos Delorme Prado mencionado na Nota Técnica SG no 118/2015, no âmbito do Processo Administrativo no 08012.005930/2009-79

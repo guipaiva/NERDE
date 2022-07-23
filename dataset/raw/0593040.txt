@@ -1,0 +1,137 @@
+SEI/CADE - 0593040 - Nota Técnica
+NOTA TÉCNICA Nº 22/2019/CGAA6/SGA2/SG/CADE
+Processo Administrativo nº 08700.001422/2017-73 (Apartado de Acesso Restrito nº 08700.001455/2017-13)
+Representante: Cade ex officio
+Representados: BR Plásticos Indústria Ltda., Indústria e Comércio de Plásticos Majestic Ltda., Pilaplast Indústria e Comércio de Plásticos Ltda., Bianchini Indústria de Plásticos Ltda., TWB Indústria e Comércio de Produtos Plásticos LTDA, Nasato Indústria de Plásticos Eireli, Tigre S.A. Tubos e Conexões, Aurélio de Paula, Gilberto Antonio Chies,  Waldir Dezotti, Osmair Nasato e Paulo Roberto Cardozo.
+Advogados: Arno Roberto Andreatta e Amanda Carolina Andreatta; Patrícia Saito e Marcelo Silva Massukado; Leonardo Maniglia Duarte e Rodrigo da Silva Alves dos Santos; Ricardo Leal de Moraes e Maria Elisa M. Marcolin; Larissa Moraes Bertoli Guimarães; Hélio Bobrow; Maria Eugênia Novis e Úrsula Pereira Pinto Bassoukou; Roberto Cardone;
+VERSÃO PÚBLICA
+EMENTA:
+Processo Administrativo.
+Suposta prática    de    condutas anticompetitivas no mercado nacional de fornecimento de forros, perfis e outros produtos de PVC.
+Análise de questões  preliminares suscitadas   pelos   Representados.
+Indeferimento da preliminar de prescrição e deferimento do pedido de ilegitimidade passiva.
+Análise  dos  pedidos  de produção de provas.
+Deferimento  de  provas  testemunhais  e  documentais.
+I. RELATÓRIO
+Trata-se de Processo Administrativo, iniciado em 17 de março de 2017 [ACESSO RESTRITO].
+Em 06/05/2016, foi exarada a Nota Técnica nº 42/2018/CGAA6/SGA2/SG/CADE (SEI nº 0466180) da Superintendência-Geral do Cade (SG/Cade), aprovada pelo Despacho do Superintendente-Geral n° 09 (SEI nº 0468176) que concluiu pela existência de indícios robustos de infração à ordem econômica por condutas na forma do artigo 69 e seguintes da Lei nº 12.529/2011.
+As condutas consistiram na fixação de preços de produtos entre empresas concorrentes e no mercado nacional de fornecimento de forros, perfis técnicos, divisórias, portas sanfonadas, rodapés, soleiras e outros acabamentos em policloreto de polivinila - PVC (“forros, perfis técnicos e outros produtos de PVC), passíveis de enquadramento no artigo 20, inciso I e artigo 21, incisos I e II, da Lei nº 8.884/94, correspondentes ao artigo 36, I, § 3º, inciso I, alínea "a" e inciso II da Lei nº 12.529/2011.
+Todos os Representados foram devidamente notificados da instauração do processo, de modo que a contagem do prazo de defesa começou em 05/12/2018 [1] e encerrou-se em 04/02/2019.
+A partir disso, os Representados abaixo indicados apresentaram suas defesas, conforme indica a tabela a seguir:
+Representados
+Defesas (SEI nº)
+Aurélio de Paula;
+0480816
+Bianchini Indústria de Plásticos Ltda. e
+Igon Bernardelli;
+0547059 e 0547061
+Indústria e Comércio de Plásticos Majestic Ltda.;
+0487845 e 0485817
+Nasato Indústria de Plásticos Eireli e
+Osmair Nasato;
+0575771 e 0575773
+Pilaplast Indústria e Comércio de Plásticos Ltda.;
+Pilaplast Negócios Imobiliários Ltda.;
+Estrutural Indústria de Artefatos de Plásticos Ltda.;
+Gilberto Antonio Chies;
+Ilmar Luiz Pilatti; e
+Agostinho Pilatti;
+0573957
+TWB Indústria e Comércio de Produtos Plásticos Ltda. e
+Waldir Dezotti.
+0487779
+O momento processual exige que o processo seja saneado, a fim de que não restem dúvidas acerca da legalidade e formalidade deste Processo Administrativo e, por conseguinte, para que o feito possa prosseguir regularmente.
+Com vistas a sanear o feito, esta SG/Cade serve-se da presente Nota Técnica para analisar (i) as questões preliminares suscitadas pelos Representados, e (ii) os pedidos de provas formulados em suas peças de defesa.
+É o relatório.
+II. ANÁLISE
+Inicialmente, cabe assinalar que a presente Nota Técnica tem por objetivo exclusivamente tratar das questões de natureza preliminar levantadas pelos Representados em suas defesas e avaliar os pedidos de produção de provas.
+As questões de mérito serão oportunamente tratadas no curso deste Processo Administrativo.
+Neste sentido, foram levantadas pelos Representados as seguintes questões de natureza preliminar:
+Preliminares
+Representados
+Prescrição
+Aurélio de Paula;
+Bianchini Indústria de Plásticos Ltda. e Igon Bernardelli;
+Nasato Indústria de Plásticos Eireli e Osmair Nasato;
+TWB Indústria e Comércio de Produtos Plásticos Ltda. e Waldir Dezotti.
+Ilegitimidade passiva
+Pilaplast Indústria e Comércio de Plásticos Ltda.; Pilaplast Negócios Imobiliários Ltda.; Estrutural Indústria de Artefatos de Plásticos Ltda.; Gilberto Antonio Chies; Ilmar Luiz Pilatti; e Agostinho Pilatti;
+II.1.
+Prescrição Quinquenal da Pretensão Punitiva
+II.1.1.
+Atos que podem configurar crimes em tese
+Os Representados Aurélio de Paula, Bianchini Indústria de Plásticos Ltda., Igon Bernardelli, Nasato Indústria de Plásticos Eireli e Osmair Nasato, TWB Indústria e Comércio de Produtos Plásticos Ltda. e Waldir Dezotti alegaram em suas defesas a prescrição quinquenal da pretensão punitiva da Administração Pública para as condutas investigadas no mercado de forros e perfis de PVC.
+Segundo eles, foram ultrapassados os cinco anos entre a prática do ato ilícito e a instauração do processo administrativo, prazo previsto no artigo 46, caput, da Lei nº 12.529/11.
+Para efeitos de contagem do prazo, Bianchini Indústria de Plásticos Ltda. e Igon Bernardelli afirmaram ainda que não houve continuidade delitiva.
+Em análise dos autos verifica-se a existência de documentos contra Aurélio de Paula, datados de 04 de março de 2010, 19 de março de 2010 e 05 de outubro de 2010; contra Bianchini Indústria de Plásticos Ltda., Igon Bernardelli, datados de 19 de março de 2010; contra a Nasato Indústria de Plásticos Eireli e Osmair Nasato, datados de 04 de março de 2010 e 05 de outubro de 2010; contra TWB Indústria e Comércio de Produtos Plásticos Ltda. e Waldir Dezotti, datados de 04 de março de 2010 e 05 de outubro de 2010, podendo-se concluir que a conduta ocorreu de forma contínua na maioria dos casos, pelo menos ao longo do ano de 2010, questões que serão melhor analisadas após o fim da instrução processual.
+Quanto a este ponto podemos ver que o §2º do artigo 1º da Lei nº 9.873/99 e o §4º do artigo 46 da Lei nº 12.529/11 estabelecem que quando “o fato objeto da ação punitiva da administração também constituir crime, a prescrição reger-se-á pelo prazo previsto na lei penal”.
+Como os fatos ora investigados também constituem crime - nos termos do artigo 4º, II, “a”, da Lei nº 8.137/90, que dispõe sobre os crimes contra a ordem econômica e tributária -, é certo que a contagem da prescrição da pretensão punitiva deve ser realizada conforme o  regramento  previsto  na lei  penal.
+Tendo em vista que (i) o artigo 4º da Lei nº 8.137/99 prevê pena de dois a cinco anos; e (ii) o artigo 109  do  Código  Penal  estabelece  o  prazo  prescricional  de  doze  anos  quando  o  máximo  da  pena  é superior a quatro anos e não excede oito; não há dúvidas de que a prescrição, neste caso, só ocorrerá doze anos após a cessação da prática sob investigação.
+O  racional  da  norma  é  a  criação  de  um  critério  para  separar  condutas  com  maior  potencial ofensivo  à  concorrência  e  que,  portanto,  também  são  consideradas  crimes.
+Tais  condutas  teriam  um prazo  prescricional  mais  dilatado.
+É  nesse  sentido  que  o  Tribunal  do  CADE  tem  decidido  de  forma reiterada:
+O prazo prescricional da pretensão punitiva da Administração para ilícitos anticompetitivos deve observar, antes de tudo, se é alargado pela existência de semelhante conduta na esfera penal.
+Caso não haja crime equivalente à infração   administrativa,   o   prazo   prescricional   será   de   cinco   anos, conforme caput do art. 1º da Lei 9.783/99[...] Esse dispositivo deve ser lido de forma combinada com o art. 4º, inciso II, da Lei 8.137/90(com a nova redação  dada  pela  Lei  12.529/11  [...]  Observo  a  equivalência  do  ilícito  de cartel com o crime de cartel, conforme dispositivos acima transcritos.
+Assim sendo,  há  que  se  aplicar  o  §2º  do  art.  1º  da  Lei  9.783/99,  que  aplica  à infração administrativa o mesmo prazo prescricional previsto na lei penal.
+A redação  da  lei  é“quando  o  fato  objeto  da  ação  também  constituir  crime (...)”.Assim,  infere-se  ser  suficiente  que  a  conduta  investigada  (fato)  em âmbito  administrativo  seja  a  mesma  que  aquela  tipificada  na  esfera  penal para que a contagem se dê segundo a lei penal.
+Nesse sentido, considerando que  a  pena  máxima  prevista  para  o  crime  em  questão  é  cinco  anos  de reclusão  (art.  4º  da  Lei  8.137/90),  a  prescrição  ocorrerá  em  12  anos,  nos termos  do  art.  109  do  Código  Penal  [...] não  restam  dúvidas  de  que  a Administração  Pública,  no  âmbito  de  Processo  Administrativo  instaurado para  apurar  suposta  prática  de  cartel,  tem  o  prazo  máximo  de  12  (doze) anos  para  praticar  qualquer  ato  apto  a  interromper  ou  a  suspender  a contagem  da  prescrição.
+Logo,  rejeito  a  prejudicial  de  mérito  arguida.
+(destaque incluído)
+Houve o julgamento e a condenação por cartel, conduta administrativa que é também punível na esfera criminal.
+Nesse sentido, o prazo prescricional da  pretensão  punitiva  da Administração  Pública  equivale  ao  prazo  penal, nos  termos  do  art.  1º,  §2º,  da  Lei  9.873,  de  23  de  novembro  de  1999 [...] Por  isso, o  prazo  prescricional  passou  a  seguir  a  sistemática  penal  em virtude  de  tipificação  de  cartel  como  crime  contra  a  ordem  econômica, nos  termos  do  art.  4º,  incisos  I  a  III,  da  Lei  8.137/90.
+Considerando  a pena  máxima  de  cinco  anos  de  reclusão  imputada  aos  tipos (art.  109, inciso  III,  do  Código  Penal), o  prazo  prescricional  passou  a  ser  de  doze anos a partir da cessação da prática continuada.[...]
+Sendo assim, afasto a  alegação  de  ocorrência  de  prescrição  no  presente  caso.
+(destaque incluído)
+Assim, ante os argumentos apresentados, que rechaçam a prescrição da pretensão punitiva em processos administrativos do Cade que punam infração à ordem econômica que também constituam crime, sugere-se o indeferimento da preliminar.
+II.2.
+Ilegitimidade passiva
+As partes Pilaplast Indústria e Comércio de Plásticos Ltda.  e Estrutural Indústria de Artefatos de Plásticos Ltda. e as pessoas físicas  Agostinho Pilatti e Sr. Ilmar Luiz Pilatti alegaram a ilegitimidade de suas inclusões no polo passivo, pelas razões que veremos a seguir.
+Antes, cabe esclarecer que a abertura do presente Processo Administrativo previu na Nota Técnica de instauração (Nota Técnica nº 42/2018, SEI nº 0466180) a inclusão no polo passivo das empresas: Pilaplast Indústria e Comércio de Plásticos Ltda., Pilaplast Negócios Imobiliários Ltda., Estrutural Indústria de Artefatos de Plásticos Ltda. e das pessoas físicas Agostinho Pilatti e Sr. Ilmar Luiz Pilatti,  sócios juridicamente responsáveis pela primeira empresa (que foi extinta), além de Gilberto Antônio Chies, identificado em um dos documentos que instruem os autos.
+A razão para tanto decorreu da dificuldade inicial em identificar os responsáveis pelas condutas verificadas nos autos, uma vez que essas empresas aparentavam atuar de forma indistinta, com base nas documentações a que esta SG teve acesso.
+Assim, foi solicitado que as partes trouxessem esclarecimentos sobre suas organizações societárias, conforme prevê o tópico I.4.7 da Nota Técnica nº 42/2018 (SEI nº 0466180), especialmente na última parte:
+Desta forma, consideradas as informações e os precedentes citados acima, sugere-se a instauração de Processo Administrativo para Imposição de Sanções Administrativas por Infrações à Ordem Econômica contra: os sócios da Pilaplast Indústria e Comércio de Plásticos Ltda. no momento do encerramento (Sr. Agostinho Pilatti e Sr. Ilmar Luiz Pilatti); e as empresas Pilaplast Negócios Imobiliários Ltda. e Estrutural Indústria de Artefatos de Plásticos Ltda. EPP, para que se manifestem acerca dos fatos investigados e prestem esclarecimentos acerca de sua organização societária e, também, contra o Sr. Gilberto Antonio Chies, em razão de sua responsabilidade individual, nos termos dos artigos 13, inciso V, e 69 e seguintes, da Lei nº 12.529/2011.
+Neste sentido, as partes esclareceram em suas defesas (SEI nº 0573957) que:
+A Pilaplast Indústria e Comércio de Plásticos Ltda. (CNPJ 93.000.149/0001-51), foi extinta no ano de 1993, anteriormente aos fatos investigados, não podendo ter relação com os mesmos.
+Neste sentido, seus sócios Sr. Agostinho Pilatti e Sr. Ilmar Luiz Pilatti, juridicamente responsáveis pela empresa após a sua extinção, também não poderiam ser responsabilizados;
+A Estrutural Indústria de Artefatos de Plásticos Ltda. (CNPJ 17.056.525/0001-41) foi constituída em 2012, posteriormente aos fatos investigados, também não podendo ter relação com os mesmos;
+Assim, ao tempo da conduta, restaria apenas a Pilaplast Indústria e Comércio de Plásticos Ltda. (com uma identificação diferente, porém: CNPJ 03.057.870/0001-95) e que mais tarde, em 22/02/2013, teve sua razão social alterada para Pilaplast Negócios Imobiliários Ltda. e teria passado a atuar exclusivamente no mercado imobiliário;
+Assim, tendo em vista as informações apresentadas pelas partes e por estarem de acordo com os documentos colacionados no tópico I.4.7 da Nota Técnica nº 42/2018 (SEI nº 0466180), sugere-se o acolhimento da preliminar e a exclusão do polo passivo das pessoas jurídicas Pilaplast Indústria e Comércio de Plásticos Ltda. (CNPJ 93.000.149/0001-51) e Estrutural Indústria de Artefatos de Plásticos Ltda. (CNPJ 17.056.525/0001-41) e das pessoas físicas, Sr. Agostinho Pilatti e Sr. Ilmar Luiz Pilatti.
+Todavia, devendo ser mantidos no polo passivo a Pilaplast Indústria e Comércio de Plásticos Ltda. (CNPJ 03.057.870/0001-95, atualmente denominada Pilaplast Negócios Imobiliários Ltda.) e o Sr. Gilberto Antônio Chies, para apuração de suas responsabilidades nos documentos constantes dos autos.
+III. DA ANÁLISE DOS PEDIDOS DE PROVAS
+A  notificação  de  instauração  de  Processo  Administrativo  previa  que  as  provas  de  interesse dos Representados  fossem  apresentadas  na  forma  disposta  no  artigo 70  da  Lei  nº  12.529/2011, segundo  a  qual  o  Representado  deveria  especificar  as  provas  que  pretendia  fossem  produzidas, denotando  a  qualificação  completa  de  até  três  testemunhas,  caso  houvesse  interesse  na  produção  de prova testemunhal.
+A  partir  disso,  os  Representados a  seguir  especificaram  seus  pedidos  de  prova  em  suas defesas  administrativas – Aurélio de Paula, Indústria e Comércio de Plásticos Majestic Ltda., TWB Indústria e Comércio de Produtos Plásticos Ltda. e Waldir Dezotti.
+Os demais Representados, por sua vez, não se manifestaram quanto à produção de provas.
+Primeiramente,  em  atenção  a  tais  pedidos,  deve-se  ressaltar  que,  nos  termos  do  artigo  195  do Regimento  Interno  do  Cade  (RI/Cade),  cabe  a  esta  SG/Cade  analisar  as  provas  requeridas  pelos Representados e indeferi-las quando impertinentes, desnecessárias ou protelatórias:
+Art. 195.
+Em até 30 (trinta) dias úteis após o decurso do prazo de apresentação de defesa, a Superintendência-Geral, em despacho fundamentado, determinará a produção de provas que julgar pertinentes, sendo-lhe facultado exercer os poderes de instrução previstos na Lei nº 12.529, de 2011, mantendo-se o sigilo legal, quando for o caso.
+§1º A Superintendência-Geral indeferirá, mediante despacho fundamentado, as provas propostas pelo representado, quando forem ilícitas, impertinentes, desnecessárias ou protelatórias.
+Conclui-se que cabe a esta SG/Cade analisar, mediante critérios de razoabilidade e de forma a não ofender o devido processo legal administrativo, a pertinência e a necessidade das provas solicitadas pelos Representados.
+Frise-se que o exercício dessa competência deve buscar atender o princípio da eficiência no Processo Administrativo, evitando o desperdício de tempo na produção de provas que não são necessárias e que em nada podem contribuir para formar o convencimento da autoridade de defesa da concorrência no Processo Administrativo em instrução.
+Diante disso, cumpre analisar os pedidos de provas feitos pelos Representados.
+Não obstante, é assegurado a todos os Representados o direito de apresentar novos documentos a qualquer momento, antes de encerrada a instrução processual.
+Por fim, também ressalte-se que, quanto às provas testemunhais abaixo deferidas, as testemunhas arroladas pelos Representados poderão ser ouvidas como “informantes” – nos termos do artigo 447 do NCPC – caso se verifique, no momento da realização da oitiva, quaisquer das hipóteses de suspeição ou impedimento constantes do referido diploma legal.
+III.1.
+Do Representado Aurélio de Paula
+O Representado protestou pela produção de prova testemunhal.
+Com o depoimento pessoal da testemunha indicada na peça de defesa (SEI nº 0480816).
+III.2.
+Da Representada Indústria e Comércio de Plásticos Majestic Ltda.
+A Representada protestou pela produção de prova testemunhal.
+Com o depoimento pessoal da testemunha indicada na peça de defesa (SEI nº 0485817).
+III.3.
+Dos Representados TWB Indústria e Comércio de Produtos Plásticos Ltda. e Waldir Dezotti
+Os Representados protestaram pelo depoimento pessoal do Representado pessoa física e a apresentação de documentos (Defesa, SEI nº 0487779).
+III.4.
+Provas de Interesse da SG
+Nos termos do artigo 13, inciso VI, da Lei nº 12.529/2011, esta Superintendência-Geral, no interesse da instrução desse Processo Administrativo, produzirá provas documentais e providenciará a oitiva de alguns Representados em data a ser oportunamente agendada.
+Diante das justificativas apresentadas, sugere-se o deferimento do pedido de oitiva das testemunhas e do Representado indicados por: Aurélio de Paula, Indústria e Comércio de Plásticos Majestic Ltda., TWB Indústria e Comércio de Produtos Plásticos Ltda. e Waldir Dezotti.
+Em relação aos pedidos de produção de prova documental mediante a juntada de documentos, sugere-se o seu deferimento, já que é assegurado a todos os Representados o direito de apresentar novos documentos a qualquer momento, antes de encerrada a instrução processual.
+IV. CONCLUSÃO
+Ante o exposto, sugere-se:
+(i) O indeferimento da preliminar de prescrição quinquenal da pretensão punitiva, por falta de amparo legal, nos termos do artigo 46, §4º, da Lei nº 12.529/2011;
+(ii) O deferimento da preliminar de ilegitimidade passiva das partes: Pilaplast Indústria e Comércio de Plásticos Ltda. (CNPJ 93.000.149/0001-51), Estrutural Indústria de Artefatos de Plásticos Ltda. (CNPJ 17.056.525/0001-41), Sr. Agostinho Pilatti e Sr. Ilmar Luiz Pilatti, com a sua exclusão do polo passivo do presente Processo Administrativo.
+Todavia, com a manutenção no polo passivo de Pilaplast Indústria e Comércio de Plásticos Ltda. (CNPJ 03.057.870/0001-95, atualmente denominada Pilaplast Negócios Imobiliários Ltda.) e do Sr. Gilberto Antônio Chies;
+(iii) O   deferimento  das oitivas das testemunhas e do Representado indicados por Aurélio de Paula, Indústria e Comércio de Plásticos Majestic Ltda., TWB Indústria e Comércio de Produtos Plásticos Ltda. e Waldir Dezotti, em data a ser oportunamente agendada e posteriormente informada a todos os Representados deste Processo Administrativo;
+(iv)  O  deferimento  da  produção  de  prova  documental  solicitada  pelos  Representados,  até  o  fim  da instrução deste Processo Administrativo;
+(v) Nos  termos  do  artigo  13,  inciso  VI,  da  Lei  nº  12.529/2011,  esta  Superintendência-Geral,  no interesse  da  instrução  desse  Processo  Administrativo,  produzirá  provas  documentais  e testemunhais que serão designadas oportunamente.
+[1] 30 dias após a primeira publicação da notificação por edital, que ocorreu em 05/11/2018 (SEI nº 0544859

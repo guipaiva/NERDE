@@ -1,0 +1,140 @@
+SEI/CADE - 1061247 - Parecer
+PARECER Nº 204/2022/CGAA5/SGA1/SG
+PROCESSO Nº 08700.002617/2022-06
+REQUERENTES:
+Cummins Inc. e Meritor, Inc.
+Ementa: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento Sumário.
+Requerentes: Cummins Inc. e Meritor, Inc. Natureza da operação: Aquisição de controle.
+Mercado afetado: Componentes automotivos.
+Art. 8º, inciso II, Resolução CADE nº 33/22.
+Aprovação sem restrições.
+VERSÃO DE ACESSO PÚBLICO[1]
+I.                       REQUERENTES
+I.1.
+Cummins Inc. ("Cummins" ou "Compradora")
+A Cummins é uma sociedade anônima de capital aberto incorporada sob as leis dos Estados Unidos da América, listada na Bolsa de Valores de Nova York e integra o Grupo Cummins, como Empresa-mãe.
+O Grupo Cummins atua em âmbito global com a fabricação, distribuição e prestação de serviços relacionados a motores e geradores a diesel e combustíveis alternativos, bem como com componentes e tecnologia relacionados a trem de força, incluindo filtragem, aftertreatment, turbocompressores, sistemas de combustível, sistemas de controle associados aos produtos Cummins, sistemas de tratamento de ar, sistemas automatizados transmissões, sistemas de geração de energia elétrica, baterias, sistemas de energia eletrificada, produção de hidrogênio e produtos de células de combustível.
+A Cummins vende seus produtos para os fabricantes de equipamentos originais (“OEMs”) e também para o mercado de reposição em todo o mundo.
+A empresa está sediada em Columbus (Indiana, Estados Unidos da América).
+O Grupo Cummins auferiu, no Brasil, no ano anterior à operação, faturamento acima de R$ 750 milhões (superior aos dois patamares de notificação obrigatória fixados no art. 88 da Lei 12.529/11, posteriormente alterado pela Portaria Interministerial MF/MJ nº 994/12).
+I.2.
+Meritor, Inc. ("Meritor" ou "Vendedora")
+A Meritor também é uma sociedade anônima de capital aberto incorporada sob as leis dos Estados Unidos e listada na Bolsa de Valores de Nova York.
+A Meritor é a empresa-mãe do grupo de empresas Meritor, que integram o Grupo Meritor.
+O Grupo Meritor atua no fornecimento global de eixos, freios e outros módulos e componentes para OEMs e para o mercado de reposição para veículos comerciais, setores industrial e de transporte.
+Seus principais produtos são eixos, drivelines, freios e sistemas de suspensão.
+A Meritor opera 35 fábricas de produção e distribuição nos Estados Unidos, Europa, América do Sul, Canada, México e na região Ásia – Pacífico.
+Ela é sediada em Troy (Michigan, Estado Unidos da América).
+O Grupo Meritor auferiu, no Brasil, no ano anterior à operação, faturamento acima de R$ 750 milhões (superior aos dois patamares de notificação obrigatória fixados no art. 88 da Lei 12.529/11, posteriormente alterado pela Portaria Interministerial MF/MJ nº 994/12).
+II. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, conforme Despacho Ordinatório SECONT (SEI 1053209)
+Data da notificação
+26/04/2022
+Data da publicação do edital
+O Edital nº 213, que deu publicidade à operação em análise, foi publicado no dia 29/04/2022 (SEI 1054273)
+III. DESCRIÇÃO DA OPERAÇÃO
+A Operação consiste na aquisição, pela Cummins, do controle unitário da Meritor (Empresa-Alvo), por meio da fusão da Rose NewCo Inc. (“MergerSub”), uma empresa constituída especificamente para esse efeito, com a Meritor, que ficará como subsidiária integral da Cummins (“Operação”).
+De acordo com as Requerentes, a Cummins pagará US$36,50 em dinheiro por ação da Meritor em circulação, resultando em um valor total da Operação de aproximadamente US$ 3,7 bilhões.
+Segue abaixo a estrutura societária da empresas afetadas antes e depois da Operação:
+Figura 1 – Antes da Operação
+Fonte: Requerentes.
+Figura 2 – Depois da Operação
+Fonte: Requerentes.
+Como justificativa para a realização da Operação, as Requerentes explicam que, para o Grupo Cummins, a aquisição faz parte da estratégia de crescimento e expansão que tem consistido em avaliar potenciais negócios complementares para trens de força que permitiriam à Cummins (i) utilizar as capacidades existentes; (ii) estender sua área de atividade; e (iii) posicioná-la de forma eficaz com novas ofertas de produtos para seus clientes.
+Em conformidade com essa estratégia, a Operação irá permitir à Cummins ingressar em novos mercados e oferecer produtos adicionais (tais como eixos, freios e suspensões) aos seus clientes, acelerando o crescimento dos principais negócios de eixos e freios da Meritor, valendo-se da presença global e da rede de vendas e serviços da Cummins, bem como gerar sinergias significativas em SG&A (despesas com vendas, gerais e administrativas), na operacionalização da cadeia de fornecimento e na otimização das instalações, em benefício dos clientes finais das Partes.
+Por sua vez, para o Grupo Meritor, o acréscimo dos produtos complementares ofertados pela Meritor também auxiliará a Cummins a endereçar o desafio de desenvolver soluções de carbono zero economicamente viáveis para aplicações comerciais e industriais.
+Em particular, a Cummins acredita que integrar os eixos elétricos (eAxles) da Meritor pode ser um passo chave no desenvolvimento de soluções eficientes e competitivas de trem de força elétricos.
+As Requerentes informaram que a Operação também se encontra sujeita à aprovação de outras autoridades antitruste, quais sejam: [ACESSO RESTRITO].
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 33/2022)
+II – Substituição de agente econômico.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Não
+Integração vertical
+Não
+Setor em que há sobreposição horizontal ou integração vertical
+N/A
+Participações de mercado
+N/A
+VI. Considerações sobre a Operação
+Conforme indicado pelas Requerentes, no Brasil, os principais produtos do Grupo Cummins são motores para veículos comerciais movidos a diesel, gás natural e a outros combustíveis.
+A Cummins também fornece produtos que estão diretamente associados ao funcionamento dos motores.
+No Brasil, esses produtos incluem sistemas de aftertreatment[2], turbocompressores[3], produtos de filtragem[4], sistemas eletrônicos e de combustível[5] para aplicações comerciais de diesel, gás natural e outros combustíveis.
+A Cummins também fornece localmente serviços relacionados e possui 4 fábricas no Brasil dedicadas a pesquisa, desenvolvimento e fabricação de motores, filtros, geradores, e soluções de aftertreatment, além de um centro de distribuição de peças grandes para atender o mercado de reposição.
+De outro lado, a Meritor atua como fornecedora global de eixos, freios e outros módulos e componentes para OEMs e no mercado de reposição para veículos comerciais, setores industrial e de transporte.
+Seus principais produtos são eixos, drivelines[6], freios[7] e sistemas de suspensão[8].
+Dessa forma, tem-se que no Brasil, o Grupo Meritor fabrica e vende essencialmente eixos e serviços relacionados[9].
+Em seu portfólio local há diferentes tipos de eixos, incluindo eixo redutor, eixos planetários, eixos tandem e eixos planetários tandem.
+Diante do exposto, considera-se que a Cummins e a Meritor não fabricam ou fornecem os mesmos produtos.
+A Cummins fornece motores e componentes relacionados aos motores, enquanto a Meritor fornece componentes de trens de força, os quais, no caso do Brasil, dizem respeito essencialmente a eixos.
+A ilustração abaixo fornece uma explicação esquematizada sobre os diferentes produtos das Partes:
+Figura 3 - Distinção dos produtos fornecidos pelas partes
+Fonte: Requerentes.
+Com base no entendimento deste Conselho[10], o mercado de componentes automotivos é analisado conforme a especificidade de cada peça ou de seu sistema, sendo a primeira possibilidade mais conservadora.
+No caso de motores e eixos, o CADE possui precedentes específicos nos quais delineia-se uma análise de cada um dos componentes automotivos como um mercado produto relevante em separado, em linha também com a jurisprudência estrangeira[11].
+O primeiro aspecto analisado pelo CADE nesses precedentes é a segmentação de componentes automotivos de acordo com o tipo de cliente: OEMs, que inclui fabricantes e fornecedores de equipamentos originais, e IAM - Independent Aftermarket, que envolve distribuidores e revendedores em geral[12].
+Apesar de não existir uma distinção significativa entre os produtos oferecidos para cada grupo de clientes, a segmentação é baseada nas diferenças existentes nas condições de negociação e de concorrência, o que implica em diferentes estruturas de oferta e demanda.
+O segundo aspecto levado em consideração é o tipo de veículo para qual o componente ou peça se destina: (i) veículos leves (VLs), os quais incluem carros de passeio e veículos comerciais leves; e (ii) veículos pesados (VCPs), que englobam veículos comerciais pesados, incluindo caminhões e ônibus (comercial, e off-road).
+Essa segmentação é baseada na falta de substituibilidade entre os produtos VLs e VCPs, tanto do lado da oferta quanto do lado da demanda.
+O terceiro e último aspecto considerado é a função do componente automotivo.
+Como mencionado, o CADE tem decisões nas quais analisou cada componente como um mercado relevante separado[13], como também tem decisões em que optou por analisar um cenário mais amplo envolvendo mais de um componente, formando um módulo[14].
+Quanto ao mercado geográfico, o CADE entendeu em decisões anteriores que o escopo correto para análise é do mercado de componentes automotivos é nacional.
+Portanto, visto que as Partes fornecem diferentes componentes automotivos e, seguindo o entendimento do próprio CADE, elas atuam com diferentes componentes automotivos e em diferentes mercados produto denotando ausência de sobreposições horizontais resultantes da Operação no Brasil.
+Ademais, em relação às possíveis integrações verticais, as Partes esclarecem que elas não compram e não poderiam comprar produtos uma da outra.
+[15]
+Além disso, as Partes indicaram que os concorrentes de cada uma seriam diferentes e relevantes, tanto no Brasil quanto em âmbito global.
+[16]  A extensa gama de concorrentes inclui fabricantes de componentes automotivos e OEM’s, que ao contrário das Partes, são verticalmente integrados e fabricam seus próprios componentes.
+Sendo assim, entende-se que a Operação configura uma mera substituição de agente econômico, não demandando, deste modo, uma análise mais aprofundada dos mercados envolvidos.
+Por todo o exposto, conclui-se que a Operação não acarreta prejuízos ao ambiente concorrencial, recaindo na hipótese de procedimento sumário do art. 8º, inciso II, da Resolução nº 33/22.
+VII. Cláusula de Não-Concorrência
+Segundo as Requerentes, o Acordo e Plano de Incorporação não prevê cláusula restritiva à concorrência entre a Cummins e a Meritor.
+VIIi. CONCLUSÃO
+Aprovação sem restrições.
+____________________________
+[1] Este Parecer contou com a contribuição do Estagiário Matheus Silva de Carvalho.
+[2] Dispositivos e tecnologia que buscam reduzir as emissões nocivas de gases dos motores a combustão interna para assegurar que os motores atendam às regulamentações de emissões.
+[3] Dispositivo de indução forçada acionado por turbina que aumenta a capacidade energética de um motor de combustão interna, ao forçar o ar comprimido extra na câmara de combustão.
+[4] Produtos como filtros hidráulico, de ar e de combustível, lubrificantes, refrigeradores, aditivos de combustível e ventiladores projetados para manter os motores comerciais funcionando com capacidade máxima
+[5] Os sistemas eletrônicos compreendem módulos e sensores projetados para controlar os principais componentes relacionados ao motor (em particular, controle e redução de emissões).
+Os sistemas de combustível são sistemas modulares que combinam bombas (utilizadas para transferir o líquido do tanque de combustível para o injetor) e injetores (que injetam combustível no motor de combustão interna).
+Bombas de combustível e injetores também são fornecidos individualmente.
+[6] O eixo de transmissão (também chamado de eixo de hélice) é o primeiro componente do driveline.
+Está conectado com o transmissor e inicia o processo de transferência de energia que vai para diferente(s) eixos e rodas.
+[7] Dispositivos mecânicos que limitam o movimento, absorvendo a energia do sistema de movimentação.
+As pastilhas de freio são comprimidas em direção ao rotor atrelado à roda, que então força o veículo a diminuir a velocidade devido à fricção.
+[8] Sistemas de suspensão consistem tipicamente nas extremidades da roda, mola, amortecedores e articulações.
+Contribuem para a estabilidade, amortecimento, aderência à pista e melhora da condução.
+[9] [ACESSO RESTRITO].
+[10] Ato de Concentração n°. 08700.001432.2022-76.
+Partes: Cummins Inc., Jacobs Vehicle Systems Inc. e Jacobs (Suzhou) Vehicle Systems Co. Ltd.
+Aprovado sem restrições em 15 de março de 2022; Ato de Concentração n°. 08700.006706/2021-32.
+Partes: Gotion GmbH e Robert Bosch GmbH..
+Aprovado sem restrições em 22 de dezembro de 2021; Ato de Concentração n° 08700.005104.2021-68.
+Partes: Faurecia Participations GmbH e Hella GmbH & Co.
+KGaA Aprovado sem restrições em 15 de outubro de 2021; Ato de Concentração n° 08700.001377/2021-33.
+Partes: Magna Metalforming GmbH e LG Electronics Inc.
+Aprovado sem restrições em 13 de abril de 2021; Ato de Concentração n° 08700.002191.2020-11.
+Partes: Partes: Hitachi Automotive Systems Ltd., Honda Motor Co. Ltd.
+Aprovado sem restrições em 7 de Agosto de 2020; e Ato de Concentração n° 08700.000741/2020-67.
+Partes: Fras-Le S.A. e Nakata Automotiva S.A..
+Aprovado sem restrições e, 16 de junho de 2020.
+[11] Decisão da Comissão Europeia de 03/12/2015, M.7420 – ZF/TRW, parágrafo 9; decisão de 02/06/2013, M.6714 – U-Shin / Valeo CAM, parágrafo 6. [12] Ato de Concentração n° 08012.001192/2003-03.
+Partes: Federal-Mogul Corporation e Honeywell International.
+Aprovado sem restrições em 30 de outubro de 2003.
+[13] Ato de Concentração nº 08700.004222/2019-34.
+Partes: ZF Friedrichshafen e Wabco Holdings Inc..
+Aprovado sem restrições em 25 de setembro de 2019.
+Vide também: Atos de Concentração nº 08700.004901/2018-22; 08700.004731/2016-14 e 08700.010134/2014-67.
+[14] Nesse sentido, vide os Atos de Concentração nº 08700.000591/2019-58; 08700.006723/2018-74 e 08012.006539/2012-97.
+[15] As Partes informam que investem em tecnologias e componentes para veículos híbridos e elétricos fora do Brasil – atividades que não são relevantes para a análise da Operação no Brasil.
+De qualquer maneira, suas tecnologias também não são intercambiáveis.
+[16] No que respeita à Meritor, no critério concorrencial, enquadram-se como suas principais rivais dentro do segmento a empresa Dana Incorporated, uma fornecedora global de eixos bem estabelecida, e também as concorrentes emergentes como Detroit Axle da DTNA, Allison, ZF Friedrichshafen, Hande, Fuwa e Ankai.
+Dentre os principais concorrentes, a Cummins enfrenta empesas de grande porte, como a Mercedes Benz Brasil, a FPT, a Scania, a Volvo e outras, com relação a motores de caminhão no Brasil.
+Com relação a motores menores, movidos a diesel para a categoria de veículos pesados no Brasil a Cummins enfrenta empresas como EFFA, ISUZU, Peugeot-Citroen, Sinotruck, Schacman, Foton, BYD

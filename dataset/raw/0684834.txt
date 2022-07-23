@@ -1,0 +1,117 @@
+SEI/CADE - 0684834 - Voto Consulta
+Consulta nº 08700.003762/2019-09
+Consulente: Cooperativa dos Médicos Anestesiologistas do Ceará – COOPANEST/CE
+Advogados: Eduardo de Avelar Lamy e Anna Carolina Pereira Cesarino Faraco
+Relator: Conselheiro Sérgio Costa Ravagnani
+VOTO DO RELATOR  - CONSELHEIRO SÉRGIO COSTA RAVAGNANI
+VERSÃO PÚBLICA ÚNICA
+Ementa:
+Consulta.
+LICITUDE DE ATOS, CONTRATOS, ESTRATÉGIAS EMPRESARIAIS OU CONDUTAS.
+mercado de prestação de serviços médicos (anestesiologia).
+não conhecimento E INDEFERIMENTO DE PLANO.
+AUSÊNCIA DE DOCUMENTAÇÃO NECESSÁRIA À ANÁLISE.
+TEMA ALHEIO À COMPETÊNCIA DO CADE.
+Ausência de documentação necessária à análise do objeto é causa de não conhecimento e indeferimento de plano da Consulta.
+Questão eminentemente privada sem a indicação de qualquer nexo com preocupações concorrenciais é tema alheio à competência do CADE.
+voto
+RELATÓRIO
+Trata-se de consulta apresentada pela Cooperativa dos Médicos Anestesiologistas do Ceará (“COOPANEST/CE” ou “Consulente”) acerca da legalidade concorrencial da aplicação de sanções decorrentes de disposições da Lei nº 5.764/71[1] (“Lei das Sociedades Cooperativas”) e de seu estatuto social em relação a determinados atos supostamente praticados por seus cooperados.
+A COOPANEST/CE é uma cooperativa que congrega médicos com atuação na prestação de serviços de anestesia do Estado do Ceará, e que, segundo informado pela própria Consulente, tem se dedicado ao desenvolvimento de políticas de compliance, especialmente no âmbito concorrencial.
+Além disso, a COOPANEST/CE é filiada à Federação Brasileira das Cooperativas de Anestesiologia (“FEBRACAN”).
+Em 25/07/2019 (SEI 0642908), a COOPANEST/CE protocolizou a petição de consulta perante este Tribunal desacompanhada do pagamento da taxa processual devida (SEI 0642921).
+Em 28/08/2019, a COOPANEST/CE apresentou uma nova versão da consulta (SEI 0654666 e SEI 0654667), instruída com o comprovante de pagamento da taxa processual (SEI 0654710).
+Na medida em que somente na versão da consulta apresentada em 28/08/2019 o feito encontrou-se devidamente instruído com o comprovante de pagamento da taxa de consulta, considera-se a data de protocolo inicial como sendo a do dia 28/08/2019.
+Por essa razão, os documentos apresentados em 25/07/2019 não foram considerados para fins da presente análise.
+Além do comprovante de pagamento da taxa de consulta, a Consulente apresentou: (i) petição contendo esclarecimentos preliminares e questões específicas que integram o objeto da consulta; (ii) estatuto social da COOPANEST/CE e (iii) imagem indicando comunicações envolvendo cooperados da Consulente.
+Em linhas gerais, a Consulente narra que um dos seus associados, que supostamente teria constituído uma empresa com atuação em mesmo campo econômico da Consulente, utilizou-se de grupo de WhatsApp para oferecer plantões em escalas fixas nos municípios de Fortaleza e Maracanaú a outros cooperados, bem como informou os documentos necessários para atestar qualificação profissional mínima que atendesse às exigências da oferta proposta.
+Segundo a Consulente, o referido cooperado teria acesso às informações privilegiadas no âmbito da cooperativa e as estaria utilizando em benefício de empresa própria.
+A Consulente explica que seu estatuto social prevê somente a admissão de pessoas naturais, de modo a permitir que profissionais do ramo possam oferecer seus serviços por meio de empresas próprias e competir livremente com a cooperativa.
+Além disso, a Consulente destaca que a Lei das Sociedades Cooperativas prevê em seu art. 29, § 4º, a proibição de que agentes de comércio e empresários, com atuação no mesmo campo econômico da sociedade, ingressem nos quadros de sociedades cooperativas.
+A partir deste quadro fático e diante de questionamentos suscitados pelos demais cooperados sobre esse assunto, a Consulente indaga se:
+1. Uma vez que este cooperado utiliza informações privilegiadas dos cooperados - tais como os valores de cada contrato - exatamente os contratos antes ocupados por cooperados, passando a administrá-los por empresa própria, tal conduta precisa ser tolerada internamente pela Coopanest/CE?
+2. É aceitável tal conduta de cooperados que conhecem também as estratégias internas de negociação da Cooperativa?
+3. Todo indivíduo tem a liberdade de constituir sociedades e disputar o mercado, mas faz sentido que, sendo sócio cooperado e obtendo todas as informações decorrentes desta condição de sócio, o cooperado assuma esta postura e a cooperativa não possa sancioná-lo em face da literalidade do § 4º do art. 29 da Lei 5.764/71, o qual também é reproduzido pelo próprio Estatuto da Cooperativa?
+4. Enfim, a dicção do § 4º do art. 29 da Lei 5.764/71 possibilita a adoção pela Cooperativa de medida sancionatória em face do cooperado (exclusão), considerando-se conjuntamente tanto o direito cooperativo quanto o direito concorrencial?
+Eventual sanção pela cooperativa, aplicando o § 4º do art. 29 da Lei 5.764/71 implicaria nas infrações dos incs. I, II ou IV do art. 36 da Lei 12.529/11?
+5. Destacando que a empresa do mencionado cooperado possui outros sócios que também são cooperados, é sancionável a atitude concorrencial dos cooperados sócios dessa empresa?
+6. É concorrencialmente lícito, ainda, que cooperados que também são sócios de outra pessoa jurídica que atua na mesma área da cooperativa, efetuem plantões diretamente a um hospital ou operadora que não possui contrato com a Coopanest/CE e solicitem ao financeiro da cooperativa, de forma sub-reptícia, sem aviso prévio sobre a origem das guias, receber os valores da respectiva produção por intermédio da Coopanest/CE, como se se tratasse de contrato da cooperativa?
+Em 16/10/2019, a Consulta foi distribuída à minha relatoria em sorteio realizado na 198ª Sessão Ordinária de Distribuição (SEI 0673356).
+É o relatório.
+DA ANÁLISE DE CONHECIMENTO E INDEFERIMENTO DA CONSULTA
+O instituto da consulta no CADE encontra-se previsto nos § 4º e 5º do art. 9º da Lei 12.529/11[2], sendo a regulamentação desse procedimento estabelecida na Resolução nº 12/15 (“Resolução”).
+Os requisitos de admissibilidade da consulta estão previstos nos arts. 1º e 2º, enquanto as hipóteses de conhecimento estão previstas no art. 3º e as hipóteses de indeferimento de plano no art. 4º da Resolução.
+Conforme relatado acima, a petição inicial do pedido de consulta foi protocolada em 28/08/2019 pela COOPANEST/CE, entidade que congrega médicos que prestam serviços de anestesiologia no Estado do Ceará.
+Considerando os requisitos de admissibilidade da Resolução, conclui-se que a Consulente é parte interessada, nos termos do parágrafo único do art. 1º, conforme previsões estatutárias que a qualificam como representante de seus cooperados[3].
+Além disso, o objeto da consulta enquadra-se no art. 2º, inciso III, da Resolução, por se tratar de análise de licitude de atos ainda não iniciados pela Consulente, restando, portanto, preenchidos os requisitos de admissibilidade.
+Art. 1º.
+Qualquer parte interessada poderá formular Consulta ao Tribunal Administrativo do Cade, nos termos dos arts. 9º, § 4º, bem como do art. 23, da Lei 12.529, de 2011, solicitando-lhe seu posicionamento sobre a aplicação da legislação concorrencial em relação a hipóteses de fato específicas, nos termos da presente Resolução.
+(Grifou-se).
+Parágrafo único.
+Consideram-se interessados tanto o agente diretamente envolvido, quanto entidades ou associações que nas suas finalidades institucionais representem o setor e demonstrem o interesse de mais de um associado na questão objeto da consulta.
+(Grifou-se).
+Art. 2º.
+As Consultas aqui regulamentadas poderão versar sobre:
+I – a interpretação da legislação ou da regulamentação do Cade atinentes ao controle de atos de concentração, em relação a certas operações ou situações de fato adequadamente definidas; (Grifou-se).
+II – a licitude de atos, contratos, estratégias empresariais ou condutas de qualquer tipo, já iniciadas pela parte consulente; ou
+III – a licitude de atos, contratos, estratégias empresariais ou condutas de qualquer tipo, já concebidas e planejadas, mas ainda não iniciadas pela parte consulente.
+(Grifou-se).
+Com relação aos requisitos de conhecimento do art. 3º da Resolução, é possível verificar que: (i) a parte consulente foi devidamente qualificada (art. 3º, inciso I); (ii) o objeto da consulta foi delimitado (art. 3º, inciso II); (iii) há indicação de dispositivos de lei e das questões específicas a que se pretendem ver respondidas (art. 3º, inciso IV) e (iv) há comprovação de legítimo interesse da parte, considerando que o estatuto social da Consulente possui disposição que a qualifica como representante de seus cooperados e que há pertinência entre a pretensão deduzida pela Consulente e seu objeto de atuação (art. 3º, inciso V).
+Art. 3º.
+O pedido de Consulta deverá obrigatoriamente conter:
+I – a qualificação da parte consulente e, quando necessário para a compreensão da Consulta, a identificação das demais partes envolvidas;
+II – a indicação precisa de seu objeto, incluindo uma descrição completa e exaustiva de todos os fatos reputados relevantes;
+III – toda a documentação necessária à análise;
+IV – a indicação de todos os dispositivos de lei e precedentes do Cade eventualmente relacionados ao seu objeto, bem como da questão específica que se pretende ver respondida;
+V – a comprovação do legítimo interesse da parte; e
+VI – quando se tratar da hipótese prevista no art. 2º, II, a declaração de que os fatos objeto da consulta não são objeto de nenhuma investigação ou processo administrativo pendentes ou já julgados pelo Cade.
+Entretanto, à luz dos documentos e informações apresentados pela Consulente e considerando as perguntas formuladas, conclui-se que a consulta não se encontra instruída com toda documentação necessária à análise (art. 3º, inciso III).
+Com efeito, examinando-se o único documento trazido aos autos como evidência sobre a atuação do cooperado (imagem de conversa pelo aplicativo WhatsApp, documento 4, SEI 0654667), não é possível confirmar que o referido cooperado possui empresa própria, tampouco que atua como agente de comércio e empresário no mesmo campo econômico que a Consulente.
+Vale ressaltar que as questões de nº 1, 3, 4 e 5 formuladas pela Consulente adotam a premissa de que o cooperado possui uma empresa e que atuaria como empresário ou agente comercial para questionar a este Tribunal se a aplicação de sanções baseadas no § 4º do art. 29 da Lei das Sociedades Cooperativas e em disposições de seu estatuto social violaria a legislação concorrencial.
+Trata-se, portanto, de informações essenciais a uma manifestação adequada deste Tribunal sobre as questões suscitadas pela Consulente, exigindo a consideração de fatos outros além daqueles descritos e comprovados na Consulta, nos termos do art. 4º, incisos III e V, da Resolução.
+Não poderão ingressar no quadro das cooperativas os agentes de comércio e empresários que operem no mesmo campo econômico da sociedade.
+(§ 4 do art. 29 da Lei 5.764/71).
+Da mesma forma, para responder à questão nº 2 seria necessária instrução complementar, uma vez que não é possível manifestar-se adequadamente sobre ela a partir exclusivamente das informações fornecidas, que não esclarecem, por exemplo, qual seria o conteúdo das informações confidenciais alegadas a fim de se permitir avaliar a existência ou não de sensibilidade concorrencial envolvida e emitir um juízo minimamente fundamentado sobre a questão.
+Art. 4º.
+A Consulta será indeferida de plano quando:
+I – houver sido formulada por terceiro não envolvido diretamente na transação ou conduta submetidas à análise;
+II – disser respeito a práticas que estejam em curso de investigação junto ao Cade ou que já tenham sido consideradas pelo órgão como infrações à ordem econômica;
+III – exigir, para sua análise, consideração de fatos outros além daqueles descritos e comprovados na Consulta;
+IV – envolver questão puramente hipotética;
+V – não permitir, a partir exclusivamente das informações fornecidas, uma resposta adequadamente informada por parte do Cade;
+VI – envolver tema alheio às competências do Cade; e
+VII – versar sobre hipótese já disciplinada em ato normativo ou súmula do Cade.
+É importante ressaltar que a jurisprudência deste Conselho[4] é clara ao indicar que não se admite instrução processual adicional em procedimento de consulta, estando este Conselho adstrito a se manifestar sobre os documentos apresentados no protocolo inicial.
+A esse respeito, destaco abaixo trechos de precedentes nesse sentido:
+[...] é preciso ter cautela na análise de questões submetidas que exijam para seu devido enquadramento o exame criterioso de mais circunstâncias fáticas a elas relacionadas.
+Ou seja, quando a extensão dos possíveis efeitos daquela conduta no mercado exigirem do Conselho maiores dados e análises pormenorizadas para uma resposta objetiva e clara, estaremos diante dos limites da necessidade de maiores instruções, situação explicitamente vetada em sede de Consulta, nos termos dos incisos III e V do art. 4º da Resolução 12/2015 (Grifou-se).
+(Consulta nº 08700.007296/2018-41.
+Cons.
+Rel. Polyanna Vilanova, julgado em 20/03/2019)
+A jurisprudência deste Conselho já consolidou o entendimento de que, em sede de Consulta, em vista da impossibilidade de realização de instrução adicional e do curto prazo de análise, a insuficiência de documentos necessários para a avaliação do objeto é causa de não conhecimento e indeferimento de plano da Consulta.
+[...] (Grifou-se)
+(Consulta nº 08700.004208/2018-50.
+Cons.
+Rel. Paula Farani de Azevedo Silveira, julgado em 22/08/2018).
+No caso concreto, a conduta em andamento seria a responsabilização solidária de uma entidade de classe por agregar membro supostamente infrator de conduta anticompetitiva.
+Entretanto, o Consulente não trouxe documentos comprobatórios sobre quais entidades desejariam ingressar no Sindicato, tampouco quais ou como seriam as supostas tabelas anticompetitivas por elas adotadas.
+[...] Observa-se, portanto, que o caso não está maduro para julgamento, tendo em vista que a parte não observou o requisito regimental de trazer toda a documentação necessária à análise do caso concreto juntamente com a petição inicial.
+Contudo, como a Resolução CADE 12/2015 impede a instrução processual em sede de consulta, não há como suprir a insuficiência de elementos para o exame aprofundado das perguntas propostas pelo Consulente.
+(Grifou-se)
+(Consulta nº 08700.003811/2015-71.
+Cons.
+Rel. Márcio de Oliveira Júnior, julgado em 24/06/2015)
+Com relação à pergunta nº 6, trata-se de tema alheio às competências do CADE, uma vez que diz respeito a questão de natureza eminentemente privada e que não guarda relação com preocupações concorrenciais avaliadas pelo CADE, não se prestando à análise em sede de consulta, nos termos do art. 4º, inciso VI, da Resolução.
+Feitas essas considerações, concluo pelo não conhecimento e indeferimento de plano da Consulta, nos termos do art. 3º, inciso III c/c art. 4º, incisos III, V e VI, da Resolução, considerando: (i) a não apresentação de todos os documentos necessários para sua análise e (ii) versar sobre tema alheio às competências do CADE, nos termos da fundamentação.
+Dispositivo
+Pelos motivos expostos, voto pelo não conhecimento e indeferimento de plano da presente Consulta, nos termos do art. 3º, inciso III c/c art. 4º, incisos III, V e VI, da Resolução nº 12/15 do CADE.
+É o voto.
+Brasília, 13 de novembro de 2019
+sérgio costa ravagnani
+Conselheiro-Relator
+(assinado eletronicamente)
+[1] A Lei 5.764/71 define a política nacional de cooperativismo e institui o regime jurídico das sociedades cooperativas.
+[2] Art. 9º Compete ao Plenário do Tribunal, dentre outras atribuições previstas nesta Lei: § 4º O Tribunal poderá responder consultas sobre condutas em andamento, mediante pagamento de taxa e acompanhadas dos respectivos documentos.
+§ 5º O Cade definirá, em resolução, normas complementares sobre o procedimento de consultas previsto no § 4º deste artigo.
+[3] Vide parágrafo único do art. 4º e art. 5º do estatuto social da COOPANEST/CE (doc. 3, SEI 0654667).
+[4] Vide Ato de concentração nº 08700.001930/2019-13; Ato de Concentração nº 08700.007296/2018-41; Ato de Concentração nº 08700.004208/2018-50; Ato de Concentração nº 08700.007817/2015-18 e Ato de Concentração nº 08700.003811/2015-71

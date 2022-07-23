@@ -1,0 +1,267 @@
+:: SEI / CADE - 0131279 - Parecer ::
+PARECER Nº 394/2015/CGAA5/SGA1/SG
+PROCESSO Nº 08700.010069/2015-51
+Requerentes:
+Atanor do Brasil Ltda. e Consagro Agroquímica Ltda.
+EMENTA: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento sumário.
+Requerentes: Atanor do Brasil Ltda. e Consagro Agroquímica Ltda.
+Mercados Afetados: defensivos agrícolas e fertilizantes.
+Natureza da Operação: aquisição de controle unitário.
+Art. 8º, inciso III, Resolução CADE nº 02/12.
+Aprovação sem restrições.
+VERSÃO PÚBLICA
+I. AS REQUERENTES
+I.1.
+Atanor do Brasil Ltda. ("Atanor")
+A Atanor desenvolve atividade de comercialização de defensivos agrícolas (i.e., herbicidas, inseticidas, fungicidas e acaricidas) e produtos técnicos, os quais são utilizados para a produção de defensivos agrícolas.
+É parte do Grupo Albaugh, que não tem participação em nenhuma outra companhia no Brasil que não sejam a Atanor e a sua subsidiária Atar do Brasil Defensivos Agrícolas Ltda. (cujas vendas também foram consideradas na presente análise), e nem vende produtos ao Brasil por meio de exportações.
+I.2.
+Consagro Agroquímica Ltda. ("Consagro" ou "empresa-objeto")
+A Consagro desenvolve atividades de comercialização de defensivos agrícolas (i.e., herbicidas, inseticidas, fungicidas e acaricidas) e fertilizantes.
+Pertence ao Grupo FMC.
+II. OS ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, conforme Despacho Ordinatório DCONT (0119995)
+Data da notificação ou emenda
+13/10/2015
+Data da publicação do edital
+28/10/2015 (0126188)
+III. DESCRIÇÃO DA OPERAÇÃO
+Trata-se da aquisição, pela Atanor, da totalidade das quotas da Consagro.
+Para o Grupo Albaugh, a operação oferece a oportunidade de expandir o seu portfólio de produtos registrados no Brasil.
+Para o Grupo FMC, a operação é parte da ampla estratégia da empresa de focar em seu portfólio de produtos de valor agregado, especialmente após a aquisição da linha de produtos Cheminova no Brasil.
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012)
+III – Baixa participação de mercado com sobreposição horizontal.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Sim
+Integração Vertical
+Não
+Setores em que há sobreposição horizontal ou integração vertical
+Herbicidas não seletivos para arroz, cana de açúcar, café, milho e soja
+Herbicidas seletivos de amplo espectro para milho e soja
+Fungicidas foliares para milho e café
+Inseticidas foliares para milho
+Participações de mercado
+Reduzidas
+VI. CONSIDERAÇÕES SOBRE A OPERAÇÃO
+Assim como a Atanor, a empresa-objeto produz e comercializa defensivos agrícolas (agrotóxicos) e fertilizantes.
+Defensivos agrícolas “são substâncias ou misturas de substâncias químicas utilizadas para prevenir, destruir, repelir ou inibir a ocorrência ou efeito de organismos vivos capazes de prejudicar as lavouras agrícolas”[1].
+O mercado de defensivos agrícolas já foi analisado pelo Cade[2] e é considerado como segmentado de acordo com várias características de aplicação e uso do defensivo.
+Inicialmente, os defensivos agrícolas são separados de acordo com a sua destinação - se para uso no campo ou se para tratamento de sementes.
+Mesmo que se busque combater uma mesma praga nas plantas cultivadas e nas sementes, a diferenciação quanto ao consumidor final do produto (se é produtor rural ou se é uma sementeira) e a diferença na formulação fazem com que os defensivos para tratamento de sementes sejam considerados como um mercado em separado.
+As Requerentes informaram não vender herbicidas específicos para o tratamento de sementes.
+O defensivo para o campo e para o tratamento de sementes busca o controle de pragas diversas, sendo tradicional a segmentação dos produtos entre herbicidas (controle de ervas daninhas), inseticidas (controle de insetos), fungicidas (controle de fungos), acaricidas (controle de ácaros) e outros, como bactericidas (controle de bactérias), rodenticidas (controle de ratos), etc.
+Ante a produção pelas Requerentes apenas dos primeiros quatro tipos de defensivos, esses serão os únicos analisados na presente operação.
+Alguns precedentes do Cade sobre defensivos separam os mercados de distribuição e de comercialização final de defensivos agrícolas.
+Embora essa separação não tenha sido citada no último Ato de Concentração analisado por esta Superintendência-Geral sob o rito ordinário (08700.002087/2015-69), na presente análise, ela será considerada de forma conservadora.
+O mercado de distribuição, por envolver vendas de defensivos em grandes quantidades, tem como dimensão material apenas o tipo de defensivo comercializado - se herbicida, fungicida, acaricida, inseticida, etc., sem segmentações mais aprofundadas.
+Esse mercado teria abrangência geográfica estadual.
+A Consagro informou, em resposta ao Anexo II da Resolução 2/2012 do Cade, que todos os acaricidas que ela vende são produtos fabricados por terceiros.
+Oficiadas (0126267) sobre a possibilidade de sua atuação no que seria um mercado de distribuição de defensivos agrícolas, no entanto, as Requerentes responderam que suas vendas de produtos de terceiros são pontuais.
+Em detalhes, o Grupo Albaugh, grupo econômico da Atanor, informou (i) não possuir contratos de distribuição para venda de produtos de terceiros no Brasil; (ii) ter tido em 2014 no Brasil apenas 1,3% de suas vendas totais referente a produtos de terceiros; (iii) não ter realizado vendas de produtos da Consagro em 2014 no Brasil, de modo que até mesmo uma integração vertical entre a comercialização de produtos da Consagro e a distribuição hipotética de produtos de terceiros pela Atanor teria efeitos reduzidos.
+Semelhantemente, a Consagro informou [acesso restrito à Consagro].
+Não se vislumbra, portanto, atuação das Requerentes num mercado de distribuição de defensivos agrícolas.
+De todo modo, apenas para fins de comparação, pode ser avaliado, a partir de dados das Requerentes e do Sindicato Nacional da Indústria de Produtos para Defesa Vegetal ("Sindiveg")[4], um cenário conservador que simula a participação de mercado das Requerentes num mercado de distribuição de defensivos agrícolas.
+Para tanto, podem ser comparados dados de vendas de defensivos de cada categoria em apenas um estado brasileiro com as vendas de cada categoria de defensivo tanto próprios, quanto de terceiros que as Requerentes apresentaram em todo o país[5].
+Mesmo assim, em nenhum dos cenários hipotéticos analisados, que notadamente superestimam as participações das Requerentes, as suas vendas conjuntas ultrapassariam 20% de participação de mercado, conforme as tabelas a seguir:
+Tabela 1 - Cenário simulado de participação de mercado das Requerentes com distribuição de inseticidas em Mato Grosso
+INSETICIDAS
+Valor de vendas (USD)
+Dimensão total (MT)
+Market share
+Atanor
+[acesso restrito às Requerentes]
+[acesso restrito ao Cade]
+0-10% [acesso restrito ao Cade]
+Consagro
+[acesso restrito às Requerentes]
+0-10% [acesso restrito ao Cade]
+Atanor + Consagro
+[acesso restrito às Requerentes]
+0-10% [acesso restrito ao Cade]
+Fonte: dados das Requerentes de vendas de produtos próprios e de terceiros em todo o país em 2014 e dados do Sindiveg de vendas estaduais de defensivos em 2013
+Tabela 2 - Cenário simulado de participação de mercado das Requerentes com distribuição de herbicidas em São Paulo
+HERBICIDAS
+Valor de vendas (USD)
+Dimensão total (SP)
+Market share
+Atanor
+[acesso restrito às Requerentes]
+[acesso restrito ao Cade]
+11-20% [acesso restrito ao Cade]
+Consagro
+[acesso restrito às Requerentes]
+0-10% [acesso restrito ao Cade]
+Atanor + Consagro
+[acesso restrito às Requerentes]
+11-20% [acesso restrito ao Cade]
+Fonte: dados das Requerentes de vendas de produtos próprios e de terceiros em todo o país em 2014 e dados do Sindiveg de vendas estaduais de defensivos em 2013
+Tabela 3 - Cenário simulado de participação de mercado das Requerentes com distribuição de fungicidas em Mato Grosso
+FUNGICIDAS
+Valor de vendas (USD)
+Dimensão total (MT)
+Market share
+Atanor
+[acesso restrito às Requerentes]
+[acesso restrito ao Cade]
+0-10% [acesso restrito ao Cade]
+Consagro
+[acesso restrito às Requerentes]
+0-10% [acesso restrito ao Cade]
+Atanor + Consagro
+[acesso restrito às Requerentes]
+0-10% [acesso restrito ao Cade]
+Fonte: dados das Requerentes de vendas de produtos próprios e de terceiros em todo o país em 2014 e dados do Sindiveg de vendas estaduais de defensivos em 2013
+Tabela 4 - Cenário simulado de participação de mercado das Requerentes com distribuição de acaricidas em São Paulo
+ACARICIDAS
+Valor de vendas (USD)
+Dimensão total (SP)
+Market share
+Atanor
+[acesso restrito às Requerentes]
+[acesso restrito ao Cade]
+0-10% [acesso restrito ao Cade]
+Consagro
+[acesso restrito às Requerentes]
+0-10% [acesso restrito ao Cade]
+Atanor + Consagro
+[acesso restrito às Requerentes]
+0-10% [acesso restrito ao Cade]
+Fonte: dados das Requerentes de vendas de produtos próprios e de terceiros em todo o país em 2014 e dados do Sindiveg de vendas estaduais de defensivos em 2013
+Verifica-se, de fato, portanto, apenas sobreposição horizontal entre as atividades das Requerentes de comercialização de defensivos.
+Conforme jurisprudência do Cade, esse mercado tem dimensão geográfica nacional para todas as suas várias segmentações.
+Recentemente, no Ato de Concentração 08700.009423/2014-13, esta Superintendência-Geral avaliou uma operação em que a substituibilidade entre características técnicas (de aplicação, uso, praga-alvo, etc.)
+de cada defensivo foi analisada.
+Herbicidas foram segmentados quanto a sua seletividade (quanto à abrangência de plantas atacadas pelo herbicida), quanto ao tipo de erva daninha controlada (se de folhas estreitas ou de folhas largas, sendo os herbicidas de amplo espectro úteis para os dois tipos), no caso dos herbicidas seletivos, e quanto às culturas nas quais são aplicados.
+Inseticidas foram segmentados quanto ao tipo de aplicação (se de solo ou foliar) e quanto às culturas nas quais são aplicados.
+Fungicidas e acaricidas, por sua vez, foram segmentados unicamente quanto às culturas nas quais são aplicados.
+As mesmas segmentações serão adotadas na presente análise.
+De acordo com as Requerentes, a ausência de controle sobre o uso final dos produtos (muitas vezes vendidos por meio de distribuidores) e a ausência de informações detalhadas de mercado dificultam uma colheita de dados com tal nível de profundidade (principalmente quanto à cultura de uso do defensivo).
+Sua metodologia de apresentação de dados de participação de mercado, portanto, buscou inicialmente identificar, de acordo com o conhecimento técnico de cada empresa, a probabilidade de uso dos produtos vendidos para serem identificadas possíveis sobreposições horizontais entre os defensivos.
+Em segundo lugar, as Requerentes utilizaram dados de relatórios que o Grupo FMC detinha da empresa de informação estratégica especializada no agronegócio "Kleffman".
+Esses relatórios são feitos baseados na demanda dos produtos, ou seja, a fonte da informação são os produtores rurais/fazendeiros, não os produtores de defensivos.
+É possível, portanto, que um eventual uso de um defensivo como entendido pelas Requerentes não tenha se verificado na prática, ou seja, que certo defensivo tenha sido apontado para uma certa cultura mas que não tenha sido vendido, de acordo com a Kleffman, para produtores rurais que o utilizaram nessa cultura em específico, o que poderia indicar uma substituibilidade imperfeita entre produtos que foram inicialmente entendidos pelos produtores como substitutos perfeitos.
+Ainda, a Kleffman produz relatórios por cultura e, dentro de cada cultura, por praga[6].
+Para as culturas em que as Requerentes vislumbraram sobreposição horizontal sem que o Grupo FMC tivesse o relatório em especial, foram utilizados dados de dimensão total de mercado do Sindiveg e estimativas das Requerentes do máximo possível de vendas para o referente cultivo, no que elas alegam ser um cenário superestimado.
+A necessidade dessa estimativa, como se vê a seguir, existiu apenas para dados de vendas de herbicidas não seletivos para arroz.
+As Requerentes, de acordo com suas expectativas técnicas de possibilidade de destinação dos seus produtos, consideraram sobreposição horizontal apenas entre: (i) seus herbicidas não seletivos para arroz, cana de açúcar, café, milho, soja e trigo; (ii) seus herbicidas seletivos de amplo espectro para milho e soja; (iii) seus fungicidas para milho, café e soja; (iv) seus inseticidas foliares para café, feijão, milho e soja; e entre (v) seus acaricidas para milho e soja.
+Os dados de vendas das Requerentes informados de acordo com a metodologia explicada acima, exibidos de acordo com as tabelas a seguir, não indicam que em qualquer desses mercados a participação conjunta das Requerentes seja significativa:
+Tabela 5 - Participações de mercado das Requerentes com vendas de defensivos no Brasil em 2014 [acesso restrito às Requerentes]
+Defensivos
+Culturas
+Atanor
+Consagro
+Atanor + Consagro
+Vendas
+%
+Vendas
+%
+%
+Herbicidas não seletivos
+Cana de açúcar
+[acesso restrito às Requerentes]
+0-10
+Café
+0-10
+Milho
+0-10
+Soja
+0-10
+Trigo
+[acesso restrito às Requerentes]
+-*
+-
+-
+Herbicidas seletivos de amplo espectro
+Milho
+-
+-
+-
+Soja
+[acesso restrito às Requerentes]
+0-10
+Fungicidas
+Milho
+0-10
+Café
+0-10
+Soja
+-
+-
+[acesso restrito às Requerentes]
+-
+Inseticidas foliares
+Café
+-
+-
+-
+-
+-
+Feijão
+-
+-
+[acesso restrito às Requerentes]
+-
+Milho
+[acesso restrito às Requerentes]
+0-10
+Soja
+-
+-
+-
+Acaricidas
+Milho
+-
+-
+-
+-
+-
+Soja
+-
+-
+-
+-
+-
+*Os campos marcados com um traço são aqueles para os quais, mesmo que as Requerentes tenham vislumbrado possibilidade de segmentação do
+Fonte: Kleffman
+Tabela 6 - Participações de mercado das Requerentes com vendas de herbicidas não seletivos para arroz no Brasil em 2014 [acesso restrito às Requerentes]
+Defensivo
+Cultura
+Atanor
+Consagro
+Dimensão total (USD 1000)
+Atanor + Consagro (%)
+[acesso restrito às Requerentes]
+0-10
+Herbicidas não seletivos
+Arroz
+Fonte: estimativas de vendas das Requerentes e dimensão total do mercada avaliada pelo Sindiveg
+Considerando todo o exposto, esta Superintendência-Geral conclui que a presente operação não levanta maiores preocupações em termos concorrenciais no Brasil.
+VII. CLÁUSULA DE NÃO-CONCORRÊNCIA
+Não há.
+VIII. RECOMENDAÇÃO
+Aprovação sem restrições.
+Estas as conclusões.
+Encaminhe-se ao Sr. Superintendente-Geral.
+[1] SILVA, Martim Francisco de Oliveira; COSTA, Letícia Magalhães.
+A indústria de defensivos agrícolas.
+BNDES Setorial 35, pp. 233-276.
+Disponível em: <http://www.bndes.gov.br/SiteBNDES/export/sites/default/bndes_pt/Galerias/Arquivos/conhecimento/bnset/set3507.pdf>.
+Acesso em 27/10/2015.
+[2] Vide a análise extensiva feita recentemente no Ato de Concentração 08700.009423/2014-13 e as análises feitas nos Atos de Concentração 08700.002087/2015-69, 08700.001723/2015-35, 08700.002311/2015-12, 08012.004274/2011-10.
+[3] [acesso restrito à Consagro]
+[4] Os dados do Sindiveg aqui utilizados, referentes a vendas de defensivos em cada estado brasileiro em 2013, foram retirados do Ato de Concentração 08700.001748/2015-39 (mais especificamente, de tabelas anexadas ao documento de nº SEI 0043132).
+Nesse processo, os dados foram exibidos pelas empresas Sumitomo Corporation, Sumitomo Corporation do Brasil SA e Agro Amazônia Produtos Agropecuários Ltda. de modo restrito, motivo pelo qual eles não são disponibilizados neste parecer às Requerentes.
+[5] Por existirem grandes discrepâncias entre quantidades de defensivos consumidas em cada estado, foram utilizados valores do estado em que mais houve vendas (en quantidade) do defensivo em questão em 2013.
+Tal valor já é suficiente para um cenário conservador, já que a comparação é feita com quantidade de vendas das Requerentes em todo o país.
+Ainda, de acordo com dados que a Consagro exibiu em resposta ao Ofício 6032/2015, os estados utilizados para as presentes comparações são justamente aqueles em que ela mais faturou com produtos de terceiros em 2013.
+[6] Como os mercados afetados pela presente operação não chegam a ser subdivididos, dentro da cultura protegida, pela praga atacada (o que ocorre quando a empresa produz defensivos muito especializados para determinadas pragas), uma análise mais aprofundada dos relatórios da Kleffman não se faz necessária.
+Documento assinado eletronicamente por Pedro Henrique Araújo Santiago, Assistente Técnico(a), em 10/11/2015, às 18:08, conforme horário oficial de Brasília e Resolução Cade nº 11, de 02 de dezembro de 2014.
+A autenticidade deste documento pode ser conferida no site http://sei.cade.gov.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0

@@ -1,0 +1,81 @@
+SEI/CADE - 0928426 - Voto Requerimento de TCC
+Requerimento nº 08700.001976/2021-57 (Apartado Restrito 08700.001978/2021-46) relacionado ao Processo Administrativo nº 08700.004404/2016-62
+Requerente(s): SEFAR – Indústria e Comércio e Farinha e Sebo Ltda.; Ricardo Kreuz e Gilmar Ilor Stein.
+Advogados(as): Rachel Pinheiro de Andrade Mendonça e outros.
+VOTO VOGAL - CONSELHEIRO SÉRGIO COSTA RAVAGNANI
+VERSÃO PÚBLICA
+voto
+Com as devidas vênias, entendo que a proposta de compromisso de cessação deve ser rejeitada, uma vez que os valores ofertados para a contribuição pecuniária ao Fundo de Direitos Difusos (“FDD”) pela SEFAR [ACESSO RESTRITO AO CADE E À SEFAR] não foi calculada a partir da base de cálculo prevista no inc. I do art. 37 da Lei nº 12.529, de 2011, qual seja, o faturamento no ramo de atividade empresarial nº 15 do Anexo à Resolução CADE nº 3, de 2012 (Fabricação de produtos derivados de carne, inclusive abate).
+De modo diverso, a base de cálculo adotada para se chegar ao valor da contribuição pecuniária consiste nos custos de aquisição dos resíduos animais pela empresa em 2019 no Estado do RS, o que na minha opinião não captura a extensão dos efeitos deletérios da conduta investigada na economia.
+A conduta em apuração no Processo Administrativo nº 08700.004404/2016-62, instaurado em 2.9.2020, por meio da Nota Técnica nº 83/2020/CGAA6/SGA2/SG/CADE (SEI 0797465), trata da formação de suposto cartel de compras para aquisição de resíduos animais junto a abatedouros e outros postos de coleta por empresas que atuam no segmento de graxarias e transporte de cargas.
+Segundo a Superintendência-Geral do Cade (“SG”) (SEI 0797758):
+34.
+As graxarias produzem principalmente sebos/gordura animal e farinha de carne e ossos a partir dos subprodutos e/ou resíduos, como: sangue, ossos, restos/aparas de carne e de gorduras, partes não comestíveis (como cascos e chifres), entre outros.
+35.
+Os principais mercados atendidos pelas graxarias são os de rações animais e adubos, com a farinha de carnes e ossos; e as indústrias química/farmacêutica, de sabões e sabonetes e, também, de rações animais, com o sebo/gordura animal [...]
+Em se tratando de um cartel de compras por empresas de uma indústria intermediária na cadeia produtiva de rações animais e de biocombustível, não se pode ignorar que a infração possa ter ocorrido também nesses mercados a jusante, pois as condutas em apuração supostamente praticadas pela empresa Requerente deste compromisso de cessação, que atua no mercado de graxarias, podem ser resumidas na  (i) divisão de mercados entre os concorrentes, por meio de mapeamento e definição de pontos de coleta e fornecedores; (ii) troca de informações concorrencialmente sensíveis; e (iii) criação de barreiras artificiais à entrada de novos agentes econômicos na indústria de graxarias, limitando ou impedindo o acesso de novas empresas ao mercado de graxarias e, possivelmente, também aos mercados de rações animais e de biocombustível.
+A suposta estratégia ilícita sob o prisma do direito da concorrência em apuração no PA nº 08700.004404/2016-62 não tem os seus efeitos limitados ao mercado de aquisição de resíduos animais.
+A racionalidade econômica para exclusão de rivais, limitando o acesso de novas empresas às fontes de insumo necessárias aos seus desenvolvimentos no mercado de graxarias, possivelmente envolve, também, o aumento artificial dos preços cobrados na venda dos produtos objeto do cartel de compras para os mercados a jusante, isto é, para empresas de rações animais e de biocombustível.
+As condutas em apuração foram descritas na Nota Técnica nº 4/2017/SG-TRIAGEM CONDUTAS/SG/CADE (SEI 0308384) como (i) exercício de poder de monopsônio pelas empresas que agiam coordenadamente para reduzir os custos de aquisição de resíduos animais dos abatedouros quando não havia a ameaça de nova empresa entrante no mercado de graxarias; e (ii) elevação artificial de custos de rival na presença de nova empresa entrante no mercado de graxarias, por meio da elevação dos preços de aquisição de resíduos animais dos abatedouros e melhora nas condições de pagamento (que passavam a ser adiantados).
+Senão, vejamos:
+57.
+O quadro comparativo demonstra que o mercado conta com pelo menos sete, entre os nove atributos, que facilitariam um conluio.
+58.
+Com relação à conduta dos concorrentes, segundo os depoimentos prestados, tem-se a impressão de que há uma disputa pelos pontos de fornecimento de resíduos.
+Por vezes, a disputa parece ser acirrada, mormente com relação ao preço pago pelos resíduos.
+Esses fatos, para olhos menos treinados, poderia indicar uma forte rivalidade entre as empresas, mas é justamente o contrário que provavelmente está a ocorrer.
+Explica-se: os resíduos são matérias prima para a produção das indústrias de reciclagem.
+Segundo a teoria econômica, em mercados indiferenciados – é o do caso concreto-, maduros – é o do caso concreto- e com alta rivalidade – é o que se pretende descobrir sobre o caso concreto-, não são esperadas grandes variações de preços e, se elas ocorrerem, devem ser efeito ou (i) de mudanças na precificação dos produtos finais aos quais a matéria prima serve de base, o que permitiria uma guerra de preços pela obtenção da matéria prima, com aumento do pagamento pela matéria prima, ou (ii) de mudanças nos custos logísticos para a recepção dessa matéria, como alta no preço do óleo diesel, por exemplo, com diminuição do pagamento pela matéria prima.
+59.
+No caso em tela, as variações de preços são percentualmente enormes.
+O preço do resíduo em um dado momento é de R$ 0,00 por kilograma, em outro, passa para R$ 0,20, depois são oferecidos preços de R$ 0,40, R$ 0,45 e até R$ 0,50.
+Nenhum desses movimentos de preços parece guardar correlação com mudanças de preços nos produtos finais ou nos custos logísticos.
+Eles ocorrem, aparentemente, apenas como movimentos defensivos dos estabelecimentos existentes para evitar a entrada de novos concorrentes.
+Mais ainda: o movimento é feito no único atributo do mercado que não é facilitador de cartéis: a elasticidade preço da demanda.
+Ora, não parece crível que o mercado esteja funcionando em plena competição: se a concorrência existisse, o preço jamais se modificaria em tais patamares em função da entrada de um novo concorrente.
+Se as empresas existentes estivessem concorrendo de fato, o esperado é que elas já oferecessem o preço máximo pela matéria prima que lhes permitissem obter lucros normais e, também, que houvesse disputa pelos pontos de coleta via preço.
+60.
+Em outras palavras, em concorrência plena, o preço oferecido no período pré entrada da nova concorrente, a Óleos Brasil Sul, já deveria ser de R$ 0,40, R$ 0,45 ou R$ 0,50 e o fato de isso não ter ocorrido é fortíssimo sinal econômico de conluio.
+Mais ainda, segundo consta de diversos depoimentos, houve adiantamento de recursos com compra antecipada das matérias primas, o que, aparentemente, jamais ocorrera antes.
+O adiantamento de valores é ação típica para gerar fidelização e impedir a disputa por fornecedores.
+Não é ilegal, pelo contrário, mas salta aos olhos que não existisse essa prática em momento anterior, o que também é um fortíssimo sinal de ação concertada.
+61.
+Poder-se-ia arguir, por último e diante do exposto, que o fato de os preços terem sido majorados no período pré-entrada da nova concorrente seria benéfico aos fornecedores de resíduos e um resultado da competição.
+Novamente tal conclusão pareceria a óbvia para olhos menos treinados e desconsiderando-se o contexto da presente investigação.
+Note-se que como demonstrado pela dinâmica econômica do mercado no tempo e também pelos depoimentos colhidos e interceptações telefônicas a majoração dos preços decorreu não de uma consequência natural e competitiva, mas sim da atuação coordenada dos agentes econômicos já atuantes no mercado para barrar ou dificultar a entrada de um novo concorrente, não alinhado e que se recusou a participar da coordenação.
+Sendo exitosos no seu intuito a consequência lógica disso seria a volta de preços mais baixos (e portanto prejudiciais aos fornecedores) dada a manutenção do poder de mercado das empresas que agiram em conluio.
+62.
+Justamente para investigar de forma mais profunda esse comportamento decorrente das evidências dos autos, é que se faz necessária uma maior investigação dos fatos e das afirmações que exsurgem dos depoimentos e intereceptações, utilizando-se, para tanto, até mesmo de medidas mais intrusivas, como as de busca e apreensão, por exemplo.
+Diante da dinâmica da conduta investigada exposta nas notas técnicas da SG acima mencionadas, entendo que se deve adotar o ramo de atividade empresarial nº 15 do Anexo à Resolução CADE nº 3, de 2012 (Fabricação de produtos derivados de carne, inclusive abate) como base de cálculo da multa esperada, por entender que esta base de cálculo é a que permite incorporar os efeitos da infração efetiva ou potencialmente produzidos nos mercados a jusante e a montante das graxarias, uma vez que essas são ao mesmo tempo consumidoras dos resíduos animais coletados nos abatedouros e fornecedoras de insumos para as empresas de rações animais e de biocombustível.
+Ademais, o texto do inc. I do art. 37 da Lei nº 12.529/11 dispõe que a base de cálculo será uma medida do faturamento da empresa e não uma medida do seu custo, e a inobservância desta disposição resultará em uma reprimenda estatal ao ilícito concorrencial abaixo da prevista pelo legislador.
+A utilização do valor de venda dos produtos originados dos insumos, objeto do cartel de compras, como base de cálculo para contribuição pecuniária em termos de compromisso de cessação não é novidade no Cade.
+A esse respeito, no Requerimento nº 08700.002906/2007-68, referente ao Processo Administrativo nº 08012.002493/2005-16, em que se investigou a existência de um cartel de compras para aquisição de gado bovino por empresas frigoríficas, o Conselheiro Luis Fernando Schuartz (SEI 0479815) assim se manifestou:
+6. Deve-se notar que o faturamento bruto usado como base de cálculo para fixação da contribuição da Friboi é igual ao faturamento bruto (monetariamente corrigido até 2007) registrado pela referida empresa com a venda de produtos originados do gado adquirido em condições de suposto cartel, i.e., o gado (de inferior qualidade) objeto das tabelas de desconto supostamente elaboradas de maneira concertada pelas representadas.
+(grifo nosso)
+Portanto, há precedente do Cade em que a base de cálculo da contribuição pecuniária adotada no âmbito de investigação de cartel de compras foi o faturamento bruto nos mercados à jusante.
+É necessário, portanto, considerar o valor de venda obtido no mercado à jusante para obter uma dimensão de faturamento, conforme a previsão legal, e para avaliar se o valor das contribuições propostas é proporcional e dissuasório, considerando fatores como a gravidade, a duração e vantagem auferida ou pretendida com a prática da conduta.
+Nesta esteira, como me manifestei em outras oportunidades[1], a opção pelo faturamento no mercado afetado como base de cálculo da sanção pecuniária deve ser adotada como exceção e não regra, por restringir significativamente a base de cálculo prescrita pelo legislador.
+No caso em apreciação, a base de cálculo negociada pela SG é o custo de um insumo, o que merece atenção quanto à possível inadequação do valor proposto para a contribuição ao FDD diante da gravidade e do longo período em que a conduta perdurou.
+Neste compasso, analisando as informações de faturamento juntadas aos autos pela empresa Requerente no mercado regional de graxarias (SEI 0897683), chega-se aos seguintes valores de contribuição em função das diferentes bases de cálculo:
+[ACESSO RESTRITO AO CADE E À SEFAR]
+Depreende-se da tabela acima que os valores das contribuições pecuniárias propostas são significativamente inferiores aos valores que seriam alcançados caso o faturamento no mercado à jusante fosse adotado como base de cálculo.
+Diante da discrepância verificada, a gravidade da conduta para a ordem concorrencial, a sua duração de quase uma década e, sobretudo, pelo fato de a conduta ilícita produzir efeitos concorrenciais e econômicos deletérios também no mercado à jusante, entendo que os valores das contribuições propostas não são suficientemente dissuasórios, não justificando a conveniência e oportunidade de homologar a proposta de compromisso de cessação.
+Ademais, caso a proposta seja rejeitada, entendo que a SG pode tomar a iniciativa de propor novo compromisso de cessação que atenda às exigências sinalizadas por este Tribunal Administrativo, de tal modo que as Requerentes permanecerão com a possibilidade de celebrar um TCC, em que pese não por iniciativa própria.
+Nesse sentido, recorro ao art. 13, inc. IX, da Lei 12.529/2011[2], e ao art. 190 do Regimento Interno do Cade (“RICade”), que atribuem ao Superintendente-Geral a competência para propor TCC em processo administrativo que esteja em trâmite na SG e aos arts. 190, § 4º, e 191, § 4º, do RICade[3], que indicam a ausência de preclusão para a celebração de TCC após a rejeição de proposta anterior pelo Plenário do Tribunal nos autos do mesmo processo administrativo em trâmite na SG.
+Desse modo, entendo que eventuais novas negociações da empresa Requerente com a SG nos autos deste processo administrativo, além de possíveis, podem ser benéficas ao possibilitar a negociação de termos mais adequados, convenientes e oportunos para a Administração Pública.
+DISPOSITIVO
+Ante o exposto, voto pela rejeição da proposta de compromisso de cessação.
+É o voto.
+[assinatura eletrônica]
+Sérgio Costa Ravagnani
+Conselheiro
+[1] Processo Administrativo nº 08012.005324/2012-59 e nos Requerimentos nº 08700.005718/2020-69 e 08700.004648/2019-98.
+[2] Art. 13.
+Compete à Superintendência-Geral:
+IX - propor termo de compromisso de cessação de prática por infração à ordem econômica, submetendo-o à aprovação do Tribunal, e fiscalizar o seu cumprimento;
+[3] Art. 190.
+O Superintendente-Geral poderá, nos termos do art. 13, inciso IX da Lei 12.529, de 2011, propor termo de compromisso de cessação relativo a processo administrativo, inquérito administrativo ou procedimento preparatório de inquérito administrativo que esteja em trâmite na Superintendência-Geral
+§ 4º A aceitação ou rejeição pelo Representado da negociação do termo de compromisso proposta pelo Superintendente-Geral não prejudica a apresentação de requerimento de termo de compromisso por parte do Representado, nos termos do art. 178 deste Regimento Interno.
+Art. 191.
+Após concluído o período de negociação, o Superintendente-Geral:
+§ 4º Caso a proposta final não seja homologada pelo Plenário do Tribunal, o processo administrativo, inquérito administrativo ou procedimento preparatório de inquérito administrativo continuará a tramitar na Superintendência-Geral

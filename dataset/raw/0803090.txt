@@ -1,0 +1,70 @@
+SEI/CADE - 0803090 - Voto Apuração de Ato de Concentração
+Procedimento Administrativo de Apuração de Ato de Concentração n.º 08700.000422/2020-51 (ref.
+Apartado de Acesso Restrito n.º 08700.000423/2020-04)
+Representante:
+Conselho Administrativo de Defesa Econômica - Ex officio
+Representados:
+Tintas Hidracor S/A e Nacional Arco-Íris Indústria e Comércio de Tintas Ltda​.
+Advogados:
+Rodrigo Zingales Oller do Nascimento, Gabriela Claro, Ilanna Mendonça e outros
+Relator:
+Conselheiro Mauricio Oscar Bandeira Maia
+VOTO DO RELATOR
+VERSÃO PÚBLICA
+Ementa:
+PROCEDIMENTO ADMINISTRATIVO DE APURAÇÃO DE ATO DE CONCENTRAÇÃO – APAC.
+ANÁLISE DE OPERAÇÃO NOTIFICADA E CONSUMADA ANTES DA APRECIAÇÃO PELO CADE.
+ATO DE CONCENTRAÇÃO DE NOTIFICAÇÃO OBRIGATÓRIA.
+OCORRÊNCIA DE INFRAÇÃO PREVISTA NO ARTIGO 88, § 3º DA LEI N.º 12.529/2011.
+PROPOSTA DE ACORDO EM APAC.
+Configura violação ao § 3º do artigo 88 da Lei n.º 12.529/2011 a consumação de atos de concentração econômica de notificação prévia obrigatória antes de sua apreciação pelo Cade, ainda que sob a forma de contrato verbal de cessão dos direitos de marca e de produção, seguida da consumação da compra dos ativos.
+A formalização de Acordos em APAC é atualmente regida pela Resolução Cade n.º 24/2019, sendo direito da parte buscar a solução do processo pela via negocial, desde que atendidos os pressupostos normativos.
+voto
+Ao longo da instrução processual não foram arguidas preliminares ou questões prejudiciais da análise do mérito.
+análise
+I.1.
+Da obrigatoriedade da notificação e apreciação da Operação antes de sua consumação – infração de gun-jumping
+O presente Procedimento Administrativo para Apuração de Ato de Concentração (“APAC”) foi instaurado com o objetivo de apurar, nos termos do § 3º do art. 88 da Lei n.º 12.529/2011, o ato de concentração notificado, pórem consumado antes de apreciado pelo Cade, entre a Tintas Hidracor S/A (“Hidracor”) e Nacional Arco-Íris Indústria e Comércio de Tintas Ltda​.
+(“Arco-Íris Tintas”).
+De acordo com as Representadas, em 12 de julho de 2019, por meio do contrato intitulado “Instrumento Particular de Compra e Venda de Ativos Industriais” (SEI 0729167), a empresa Hidracor adquiriu parte dos ativos (equipamentos, estoque e marcas) associados ao negócio de fabricação e comercialização de tintas relativas ao segmento imobiliário/decorativo e cal hidratada da marca Hipercor, detidos até então, pela Arco-Íris Tintas e pela Midol Mineração Dolomita Ltda. (“Midol”).
+Conforme se verifica na Nota Técnica n.º 03/2020 da SG (SEI 0721929), as Representadas esclareceram ainda que em dezembro de 2018 foi celebrado o “Contrato Preliminar de Venda de Ativos e Marca entre Nacional Arco-Íris Indústria e Comércio de Tintas Ltda. e a Tintas Hidracor S/A.”, o qual previa que a Operação deveria ser concretizada até 10 de janeiro de 2019.
+Todavia, na referida data aprazada, as Condições Suspensivas previstas no contrato preliminar não haviam sido concluídas, e, em razão de haver por parte do Grupo Edson Queiroz a intenção do de encerrar o seu negócio de tintas para aplicação imobiliária a partir de 2019, decidiram as Partes que, independentemente da conclusão ou não da Operação, fariam um acordo de cessão de direitos por meio do qual a Arco-Íris Tintas e a Midol autorizaram a Hidracor a produzir e comercializar tintas, sob a marca Hipercor, com os equipamentos já existentes em sua planta, a partir da segunda quinzena de janeiro de 2019 e até que fossem concluídas as negociações para o fechamento da Operação.
+A cessão de direitos foi firmada verbalmente, tendo sido comprovada posteriormente por declaração escrita juntadas pelas partes (SEI 0729167).
+Além da declaração, também foi juntada aos autos nota fiscal emitida pela Hidracor relativa à primeira venda de produtos da marca Hipercor, datada de 18 de janeiro de 2019, demonstrando que a cessão de direitos foi, de fato, implementada nesta data.
+Em 16 de janeiro de 2020 a Operação foi notificada ao CADE e analisada no âmbito do Ato de Concentração nº 08700.000213/2020-16, sendo aprovada sem restrições no dia 14 de fevereiro de 2020.
+Conforme consta no referido ato de concentração e na Nota técnica da SG, a Hidracor é uma empresa brasileira, integrante do Grupo J. Macêdo, que se dedica atualmente à fabricação e comercialização de uma linha completa de tintas para aplicação imobiliária/decorativa e cal hidratada.
+O faturamento bruto registrado pelo Grupo J. Macêdo, em 2018, no Brasil, foi de  [ACESSO RESTRITO].
+A Arco-Íris Tintas é uma empresa brasileira pertencente ao Grupo Edson Queiroz.
+Antes da operação, a Arco-Íris Tintas se dedicava diretamente à produção de tintas para os segmentos imobiliário/decorativo e industrial e também de cal hidratada, bem como, por meio de afiliadas, à produção de insumos minerários para a produção de tintas.
+A Midol também integra o Grupo Edson Queiroz e a sua participação na operação, como Interveniente Anuente, deve-se ao fato de ser, à época, proprietária da marca Hipercor, que integrou os ativos objeto da operação.
+O faturamento bruto registrado pelo Grupo Edson Queiroz, em 2018, no Brasil, foi de [ACESSO RESTRITO].
+À vista dessas informações, verifica-se que os faturamentos dos grupos cumpririam os requisitos dos incisos I e II do artigo 88 da Lei n.º 12.529/2011.
+Além disso, a operação se enquadra no inciso II do artigo 90 da Lei n.º 12.529/2011, visto que se trata de compra de ativos tangíveis (maquinário e estoque) e intangíveis (marca).
+Ainda, como já destacado acima e reconhecido pelas Representadas, a submissão do ato se deu após a consumação da operação.
+Ademais, no presente caso, o termo inicial da infração será 18/01/2019, data da nota fiscal emitida pela Hidracor relativa à primeira venda de produtos da marca Hipercor, demonstrando que a cessão verbal de direitos firmada pelas partes e mencionada acima, foi, de fato, implementada.
+Tal entendimento se deve ao fato de que o acordo de cessão de direitos configurou adiantamento de parte do objeto da transação, bem como configura transferência de ativos intangíveis (direitos da marca), tanto que o valor acordado a título de cessão de direitos foi previsto para ser abatido do valor da operação final, demonstrando a conexão entre ambos e o fato de o primeiro constituir mera antecipação dos efeitos do negócio principal
+Por essas razões, considero incontroversa a ocorrência da infração ao art. 88, § 3º, da Lei nº 12.529/2011, motivo pelo qual julgo ser desnecessário aprofundar a análise sobre sua ocorrência.
+Desse modo, acolho o entendimento da Superintendência-Geral e reputo configurada a consumação antecipada do Ato de Concentração notificado, sem o aval deste CADE, em violação ao art. 88, § 3º, da Lei n.º 12.529/2011, e do art. 106, § 1º, do Regimento Interno do CADE, caracterizando a prática de gun jumping.
+I.2.
+Proposta de Acordo em Apuração de Ato de Concentração
+Em 03 de setembro de 2020, as Representadas protocolaram proposta de Acordo em Apuração de Ato de Concentração (“Acordo em APAC”), nos termos do artigo 9º, inciso V, da Lei n.º 12.529/2011, combinado com os artigos 1º, inciso I, 22 e 23 da Resolução CADE nº 24/2019.
+Por meio da referida proposta, reconhecem a consumação prematura da operação, incorrendo em infração capitulada no art. 88, § 3º da Lei n.º 12.529/2011, e comprometem-se:
+A recolher ao Fundo de Defesa dos Direitos Difusos contribuição no valor de R$ 193.289,97 (cento e noventa e três mil duzentos e oitenta e nove reais e noventa e sete centavos), a ser paga ao longo de 6 (seis) meses, em 6 (seis) parcelas mensais de R$ 32.215,00 (trinta e dois mil, duzentos e quinze reais) cada, sendo a primeira parcela com vencimento em 16/10/2020, vencendo-se as 5 parcelas subsequentes nos dias 16/11/2020, 16/12/2020, 15/01/2021, 15/02/2021 e 17/03/2021, respectivamente, sendo os valores de cada parcela atualizados até a data do efetivo pagamento, conforme a variação da taxa SELIC, a contar da publicação, no Diário Oficial da União, da decisão do Tribunal do CADE que aprovar este Acordo em APAC;
+O atraso injustificado do pagamento da contribuição estabelecida acima sujeitará as Compromissárias ao pagamento de multa diária no valor de R$ 1.930 (um mil, novecentos e trinta reais), caso esse atraso ocorra entre o 1° e o 5° dias do vencimento, e no valor de R$ 20.000,00 (vinte mil reais) por dia de atraso, a partir do 6° dia até o 30° dias, além da atualização pela taxa SELIC do valor acordado até o dia de seu efetivo pagamento;
+A reconhecer a responsabilidade solidária das Representadas por todas as obrigações previstas no Acordo em APAC.
+Em relação ao cálculo da contribuição pecuniária, consoante os artigos 21 e seguintes da resolução Cade n.º 24/2019, na aplicação das penas, o Tribunal deverá adotar a seguinte metodologia para o cálculo da multa pecuniária:
+Pena base no valor de R$ 60.000,00 (sessenta mil reais);
+Aplicação de majorantes, tais como: (a) pelo decurso do prazo, no valor equivalente a 0,01% do valor da operação por dia de atraso, contados a partir da data da consumação até a notificação do ato de concentração ou da emenda, caso houver; (b) pela gravidade da conduta, de até 4% do valor da operação; e (c) pela intencionalidade, até 0,4% do faturamento médio dos grupos econômicos ou conglomerados no ano anterior à consumação da operação, de acordo com a boa-fé do infrator; e
+Aplicação de redutoras  da pena pelo momento da notificação da operação, que incidirão sobre o valor da pena base acrescida das majorantes e equivalentes a: (a) 50% no caso de notificação espontânea do ato de concentração, antes do recebimento da denúncia ou da representação, da instauração ex officio pela SG ou por determinação de quaisquer membros do Tribunal Administrativo do CADE; (b) 30% no caso de notificação após o recebimento da denúncia ou da representação e antes da instauração do APAC; e (c) 20% no caso de notificação após a instauração do APAC e antes da decisão final do Tribunal Administrativo do CADE.
+No presente caso, como já exposto sucintamente acima, o decurso de prazo entre a consumação da Operação e sua notificação ao Cade foi de 363 dias, nos termos do parecer da SG, que considerou como marco inicial da contagem o acordo de cessão de direitos firmado entre as Partes, uma vez que tal ato configurou adiantamento de parte do objeto da transação, bem como configura transferência de ativos intangíveis (direitos da marca), tanto que o valor acordado a título de cessão de direitos foi previsto para ser abatido do valor da operação final, demonstrando a conexão entre ambos e o fato de o primeiro constituir mera antecipação dos efeitos do negócio principal.
+Conforme já mencionado, a operação foi rapidamente analisada no âmbito da Superintendência-Geral, pelo rito sumário, e aprovada sem quaisquer restrições ou preocupações concorrenciais de qualquer natureza.
+Nesse contexto, dado o baixíssimo impacto concorrencial no mercado decorrente da operação, mostra-se inaplicável a majorante de gravidade na espécie dos autos.
+Quanto à intencionalidade, levando-se em conta a boa-fé das Representadas em notificar espontaneamente a Operação ao Cade assim que tomaram conhecimento da necessidade de assim o fazer, bem como a apresentação de documentação que comprova que, à época da negociação do feito, as Partes foram assessoradas por advogados que as orientaram no sentido de ser desnecessária a notificação da operação, fato esse também aliado ao baixíssimo valor da operação e à intenção da empresa Hipercor de encerrar suas atividades nesse mercado, entendo que a intencionalidade foi reduzida, não se extraindo do contexto fático um ânimo de descumprir o seu dever perante a Autoridade Concorrencial, razão pelo qual aplico a majorante em 0,001% do faturamento médio dos grupos econômicos das Representadas no ano de 2018 (ano anterior ao fechamento da operação).
+No que diz respeito à redutora referente ao momento da notificação da operação, aplico a redução de 50% pela notificação espontânea do ato de concentração.
+Ainda, em razão das Representados terem apresentado proposta de Acordo em APAC em termos convenientes e oportunos ao CADE, de acordo com a jurisprudência deste Conselho, concedo desconto de 10% sobre o valor de R$ 214.766,63 (duzentos e quatorze mil, setecentos e sessenta e seis reais e sessenta centavos) aos Representados, a teor do art. 88, § 3º, da Lei n.º 12.529/2011.
+Dessa forma, a contribuição pecuniária a ser recolhida pelos Representados totaliza o montante de R$ 193.289,97 (cento e noventa e três mil duzentos e oitenta e nove reais e noventa e sete centavos), a ser atualizada pela SELIC a partir da publicação no Diário Oficial da União da decisão de aprovação do Acordo em APAC.
+A metodologia de cálculo encontra-se indicada na tabela anexa ao presente voto.
+DisposiTIVO
+Ante o exposto, voto pela homologação do Acordo em APAC proposto, que trata da infração prevista no artigo 88, § 3.º, da Lei n.º 12.529/2011.
+É o voto.
+mauricio oscar bandeira maia

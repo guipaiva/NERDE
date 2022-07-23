@@ -1,0 +1,314 @@
+SEI/CADE - 0756827 - Voto Embargos de Declaração
+Embargos de Declaração no Processo Administrativo 08700.005615/2016-12
+Embargante: Wendliz Bernardo ME (atualmente denominada WBS Energia Eireli EPP)
+Advogados: Ricardo Noronha Inglez de Souza; Bruno Greca Consentino; Stefanie Christine Schmitt Giglio; Raisa Dvorah Rechter; Daniel Elias do Nascimento
+Conselheiro-Relator: Conselheiro Sérgio Costa Ravagnani
+VOTO VOGAL - CONSELHEIRA Paula Farani de Azevedo Silveira
+VERSÃO PÚBLICA Única
+voto
+Com a devida vênia, permito-me acompanhar a divergência aberta pela Conselheira Lenisa Prado na 155ª Sessão Ordinária de Julgamento, em 18 de março de 2020, no sentido de conhecer dos Embargos de Declaração opostos pela WBS Energia Eireli EPP (“WBS” ou “Embargante”) e, no mérito, dar-lhes provimento parcial com efeitos infringentes, de modo a determinar o arquivamento do Processo Administrativo 08700.005615/2016-12 em relação à Embargante.
+Acato a fundamentação exposta pela Conselheira Lenisa Prado quanto ao provimento parcial aos Embargos e passo a destacar os argumentos que me levam a compreender não apenas pelo provimento parcial aos Embargos, mas também pela necessidade de conceder efeitos infringentes à decisão embargada.
+Em linha com posicionamento que já expus neste Plenário[1], compreendo que é possível formar a convicção quanto à ocorrência da conduta de cartel com base unicamente em indícios, desde que tais indícios tenham sido provados e que permitam, por meio de raciocínio dedutivo, elucidar o fato direto.
+Além de serem fortes, seguros, indutivos e não contrariados por outros indícios ou por prova direta, como expõe a jurisprudência[2], a doutrina penal também indica que o indício deve cumprir três critérios para que funcione como elemento probatório apto a formar convicção: (i) gravidade, quanto à intensidade do convencimento; (ii) precisão, quanto à clareza de sua existência; e (iii) concordância com o fato a ser provado[3].
+Nessa linha, a maioria do Plenário, acatando os termos do voto-relator, concluiu pela condenação da Embargante com base nas seguintes evidências indiretas:
+“32.
+Entendo que as provas reunidas nos autos, consideradas em conjunto e dentro do contexto e das condições dos certames licitatórios em questão, permitem concluir pela participação da Representada Wendliz em acordo anticompetitivo entre diversas empresas concorrentes.
+Em síntese, os elementos que comprovam a participação da empresa no ilícito podem ser divididas em seis grandes tópicos, sendo eles: (i) a apresentação de propostas idênticas; (ii) a adoção da estratégia de bloqueio nos pregões presenciais; (iii) ausência de concorrência na fase de lances; (iv) não utilização de direito de preferência de micro e pequena empresa; (v) divisão de lotes de acordo com a conveniência geográfica; e (vi) competição de preços entre a Representada e fornecedores e mecanismos de compensação.
+Passo a analisar cada um desses tópicos de forma mais detalhada”.
+Contudo, ao dar provimento parcial aos Embargos para sanar (1) a omissão concernente ao exercício de direito de preferência às microempresas e empresas de pequeno porte e (2) a omissão concernente à divisão geográfica do mercado, compreendo que o conjunto de indícios anteriormente elencado para formação da convicção quanto à condenação da WBS torna-se enfraquecido diante dos indícios em contrário que agora se revelam.
+Em se tratando de provas indiciárias, a formação da convicção deve levar em consideração todo o conjunto probatório, não sendo possível desconsiderar os elementos que não são úteis para a condenação, posto que eles poderão servir para a formação da convicção em sentido oposto, isto é, para o arquivamento.
+Ao verificar que a WBS não exerceu seu direito de preferência no Pregão Presencial CDHU 07/2009 (“Pregão 07/2009”) por impossibilidade que não lhe pode ser atribuída, nota-se não apenas a desconstituição deste mesmo elemento como indício para a condenação, mas também se nota o comprometimento do elemento “(iii)” apontado pelo Conselheiro-Relator, qual seja, “a ausência de concorrência na fase de lances” como indício da participação da WBS no cartel.
+Isto, porque a suposta ausência de concorrência por parte da WBS, na fase de lances do Pregão 07/2009, pode ser legitimamente justificada diante do fato de que a Embargante não precisaria se valer de diversos lances para se sagrar vencedora, na medida em que poderia exercer o seu direito de preferência como microempresa para arrematar o lote.
+Inclusive, não se poderia esperar que a WBS oferecesse vários lances, pois, com isso, ela estaria reduzindo o preço em maneira desfavorável a si mesma, na medida em que bastaria estar dentro da margem de 5% de diferença da proposta melhor classificada para poder arrematar o lote.
+Como constatado na decisão ora embargada, a WBS havia atingido a margem de 5% de diferença em relação aos valores da proposta melhor classificada nos lotes 1, 2, 3, 4 e 6 do Pregão 07/2009, o que lhe garantiria a faculdade do exercício do direito de preferência[4] – mas que não pôde ser exercido diante da ausência de convocação para tanto, conforme evidenciado no voto-vista da Conselheira Lenisa Prado nos presentes Embargos (SEI 0733344).
+Dessa forma, embora a ausência ou baixo número de lances por parte da WBS em determinados lotes pudesse ser tido como elemento integrante da estratégia do cartel, é preciso ponderar que agora se desvela um motivo legítimo e economicamente racional para contrariar e desconstituir a precisão e a gravidade do indício anteriormente empregado na formação da convicção para condenação.
+Isto é, existe um outro motivo racional e legítimo para explicar a ausência de lances, que não apenas a prática concertada entre as empresas concorrentes no pregão.
+Nesse sentido, nota-se que, no Pregão Presencial CDHU 16/2010 (“Pregão 16/2010”), a WBS parece justamente ter lançado mão dessa estratégia no Lote D – qual seja, efetuar poucos lances no lote e utilizar o direito de preferência para arrematá-lo.
+Segundo consta da decisão embargada, a WBS apenas apresentou apenas um lance na fase de lances do Lote D e, ao final, sagrou-se vencedora do lote por exercer seu direito de preferência como empresa de pequeno porte.
+Vide:
+Tabela 1 – Detalhamento da fase de lances do Pregão 16/2010
+Fonte: Voto-relator, §49 (SEI 0716053)
+A respeito da dinâmica competitiva no Lote D, acima apontado, é válido indicar que a WBS parece ter disputado na fase de lances o valor necessário para que, na próxima fase do pregão, ela pudesse exercer seu direito de preferência.
+A ata do Pregão 16/2010 registra que, após a classificação das propostas para a fase de lances, Tuma e Soletrol declinaram de apresentar lances, mantendo-se na disputa apenas a Enalter e a WBS.
+Antes de apresentar o lance único, a proposta da WBS estava 5,42% superior à melhor proposta classificada, da Tuma (que declinou de apresentar lances), o que não lhe permitiria exercer o direito de preferência como empresa de pequeno porte, nos termos do Edital do Pregão[5] e da Lei Complementar 123/2006[6].
+Após a realização da primeira rodada de lances, disputada entre Enalter e WBS – tendo cada uma delas apresentado apenas um lance –, a WBS alcançou valor de proposta que se encontrava 0,23% superior à melhor proposta, então da Enalter, tendo assim alcançado o patamar necessário para exercício do direito de preferência.
+Confira-se:
+Tabela 2 – Detalhamento da Competição no Lote D do Pregão 16/2010
+Lote D – Fase de Propostas
+Empresa
+Preço Global (R$)
+Classificação
+Diferença em relação à melhor proposta
+Get
+-
+Sem proposta
+-
+Solar Minas
+3.361.098,37
+Não selecionada
+29,71%
+Tencel
+3.289.027,00
+Não selecionada
+26,93%
+Heliotek
+3.028.340,00
+Não selecionada
+16,87%
+Soletrol
+2.731.750,00
+Selecionada
+5,42%
+Tuma
+2.591.261,00
+Selecionada
+0,00%
+Wendliz
+2.731.750,00
+Selecionada
+5,42%
+Enalter
+2.716.140,00
+Selecionada
+4,82%
+Lote D – 1ª Rodada na Fase de Lances
+Empresa
+Preço Global (R$)
+Lances
+Diferença em relação à melhor proposta
+Soletrol
+2.731.750,00
+Declinou
+5,91%
+Tuma
+2.591.261,00
+Declinou
+0,47%
+Wendliz
+2.585.260,00
+1
+0,23%
+Enalter
+2.579.260,00
+1
+0,00%
+Lote D – 2ª Rodada na Fase de Lances
+Empresa
+Preço Global (R$)
+Lances
+Diferença em relação à melhor proposta
+Wendliz
+2.585.260,00
+Declinou
+0,23%
+Lote D – Fase de Direito de Preferência
+Empresa
+Preço Global (R$)
+Diferença em relação à melhor proposta
+Wendliz
+2.579.250,00
+0,00%
+Lote D – Fase de Negociação
+Empresa
+Preço Global Final (R$)
+Wendliz
+2.578.772,00
+Fonte: Elaboração do Gabinete 4[7]
+Tanto é assim que, na segunda rodada de lances, a WBS declinou de apresentar nova proposta e, na sequência, sobrevieram as fases de direito de preferência e de negociação, conforme consta da ata do Pregão 16/2010, tendo, então, a WBS se sagrado vencedora.
+Esse ocorrido denota, novamente, que o baixo número de lances por parte da WBS não pode ser prontamente tomado como elemento incontroverso da participação da Embargante no cartel, uma vez que, em vista da possibilidade do exercício do direito de preferência como microempresa ou empresa de pequeno porte, o baixo número de lances pode ser uma estratégia legítima da WBS para sagrar-se vencedora nos lotes em que concorreu.
+Tal estratégia poderia ter sido igualmente implementada no Pregão 07/2009, se a empresa não tivesse sido impossibilitada de exercer seu direito de preferência.
+Ademais, compreendo que não é razoável, tanto do ponto de vista jurídico como do ponto de vista econômico, exigir que a WBS, como microempresa à época do Pregão 07/2009, tivesse empreendido esforços e efetuado gastos para impugnar e judicializar a licitação por decorrência da ausência de convocação para exercício do direito de preferência.
+Embora se pudesse esperar que o agente econômico racional procederia à impugnação e judicialização da licitação, verifica-se que, sob a teoria da perspectiva[8], a falta de ação da WBS faz sentido, na medida em que se deve ponderar que o agente econômico real, avesso ao risco e de racionalidade limitada, age com base na informação e nos incentivos que detém no momento.
+Considerando que, à época, a WBS era uma microempresa, com histórico recente de participação em processos licitatórios, e que não estava sendo investigada por cartel, ela não possuía motivos ou incentivos para gerar provas de não-coordenação com rivais.
+Demandar que a WBS tivesse incorrido nos custos para iniciar uma contenda judicial a respeito do não exercício do direito de preferência, como forma de comprovar que não participava de um conluio, é onerar excessivamente a então microempresa, requerendo um tipo de comportamento que se encontra apenas em um nível ideal de racionalidade.
+Ainda, ao sanar a omissão concernente ao exercício de direito de preferência, também se enfraquece o elemento “(ii)”, qual seja, “a adoção da estratégia de bloqueio nos pregões presenciais”.
+A respeito dessa estratégia, a decisão embargada consignou que:
+“45.
+A principal evidência da existência dessa estratégia é a ausência de competição na fase de lances.
+Ademais, esse mecanismo não se configura gratuitamente, ou seja, em regra ocorre aliado a mecanismos de compensação, a qual poderá se dar no próprio certame ou também em licitações futuras.
+46.
+Dessa forma, entendo que a postura da empresa de apresentar lances idênticos nesse pregão, somada à ausência de concorrência por parte da Wendliz na fase de lances, bem como a não utilização de seu direito de preferência, consistem em relevantes evidências da atuação da empresa no pregão apenas para apresentação de propostas de cobertura e estruturação de bloqueio da fase de lances” (Voto-relator, SEI 0716053.
+Grifou-se).
+Ocorre que, na linha do que já foi argumentado, não se pode tomar o baixo número de lances pela WBS como evidência da sua participação no conluio, porque a então microempresa possuía razões legítimas para ofertar poucos lances, sem comprometer a sua competitividade, uma vez que o exercício do direito de preferência como microempresa ou empresa de pequeno porte poderia lhe garantir o arremate do lote desde que ela alcançasse um valor superior em até 5% da proposta melhor classificada.
+Novamente, ao trazer as evidências do Pregão 07/2009, nota-se que a WBS não precisaria ofertar mais lances do que aqueles ofertados – mesmo quando houve declínio para formulação de lance – para seguir dentro da margem de 5% da melhor proposta nos lotes 1, 2, 3, 4 e 6. Tabela 3 – Detalhamento da 1ª Rodada de Lances no Pregão 07/2009
+Lote 1 – Fase de Lances
+Empresa
+Preço Global (R$)
+Lances
+Diferença em relação à melhor proposta
+Tuma
+4.189.862,00
+1
+0,00%
+Enalter
+4.214.862,00
+Declinou
+0,60%
+Wendliz
+4.393.770,00
+Declinou
+4,87%
+Transsen
+4.535.844,00
+Declinou
+8,26%
+Heliotek
+4.601.619,00
+Declinou
+9,83%
+Lote 2 – Fase de Lances
+Empresa
+Preço Global (R$)
+Lances
+Diferença em relação à melhor proposta
+Tuma
+4.053.679,00
+Declinou
+4,60%
+Enalter
+3.900.260,00
+1
+0,65%
+Wendliz
+4.046.410,00
+Declinou
+4,42%
+Transsen
+4.266.903,00
+Declinou
+10,11%
+Heliotek
+3.875.260,00
+1
+0,0%
+Lote 3 – Fase de Lances
+Empresa
+Preço Global (R$)
+Lances
+Diferença em relação à melhor proposta
+Tuma
+3.878.070,00
+Declinou
+10,09%
+Enalter
+3.522.622,00
+1
+0,00%
+Wendliz
+3.547.622,00
+1
+0,71%
+Heliotek
+3.685.262,00
+Declinou
+4,62%
+Soletrol
+3.740.037,00
+Declinou
+6,17%
+Asteria
+3.572.622,00
+1
+1,42%
+Lote 4 – Fase de Lances
+Empresa
+Preço Global (R$)
+Lances
+Diferença em relação à melhor proposta
+Tuma
+4.015.340,00
+Declinou
+1,90%
+Enalter
+4.090.160,00
+Declinou
+3,80%
+Wendliz
+3.940.340,00
+1
+0,00%
+Transsen
+4.234.812,00
+Declinou
+7,47%
+Heliotek
+4.040.280,00
+Declinou
+2,54%
+Soletrol
+3.740.037,00
+Declinou
+6,17%
+Asteria
+3.965.340,00
+1
+0,63%
+Lote 6 – Fase de Lances
+Empresa
+Preço Global (R$)
+Lances
+Diferença em relação à melhor proposta
+Tuma
+3.960.456,00
+Declinou
+4,19%
+Enalter
+3.826.360,00
+Declinou
+0,66%
+Wendliz
+3.861.040,00
+Declinou
+1,57%
+Transsen
+3.801.360,00
+1
+0,00%
+Heliotek
+3.685.262,00
+Declinou
+4,62%
+Soletrol
+3.888.784,00
+Declinou
+2,30%
+Fonte: Elaboração do Gabinete 4[9]
+O registro do Pregão 07/2009 demonstra que a dinâmica competitiva da WBS não pode ser igualada à das demais concorrentes, pois a sua atuação não precisaria estar pautada em cobrir a proposta melhor classificada na fase de lances.
+Com isso, a suposta estratégia de bloqueio não mais se sustenta, porque o baixo número de lances pela WBS é legítimo e o não exercício do direito de preferência deu-se por impossibilidade que não pode ser atribuída à Embargante.
+Assim, o provimento parcial aos Embargos, nos pontos mencionados, é capaz de desconstituir quatro dos seis elementos indiciários utilizados para a condenação e consideravelmente prejudicar a gravidade, precisão e concordância dos elementos restantes.
+Ao tomar unicamente os elementos “(i) a apresentação de propostas idênticas” e “(vi) competição de preços entre a Representada e fornecedores e mecanismos de compensação”, indicados na decisão embargada, compreendo que não é possível formar uma narrativa suficientemente coesa e robusta  da participação da WBS no cartel.
+Portanto, compreendendo que os dois elementos restantes ficam prejudicados com a desconstituição dos indícios anteriormente exposta, permito-me não tratar deles.
+Nesse contexto, o provimento parcial aos Embargos implica a modificação do meu posicionamento pela condenação, na medida em que não mais verifico a existência de um conjunto de indícios suficientemente robusto, coeso, grave e preciso.
+Dispositivo
+Pelo exposto, acompanho a divergência aberta pela Conselheira Lenisa Prado e voto para conhecer dos Embargos e, no mérito, dar-lhes provimento parcial, com a concessão de efeitos infringentes para determinar o arquivamento do Processo Administrativo 08700.005615/2016-12 em relação à Embargante.
+É o voto.
+Brasília, 20 de maio de 2020
+PAULA farani de azevedo silveira
+Conselheira
+(assinado eletronicamente)
+__________________________________________________
+[1] PA 08012.004422/2012-79, voto-vogal da Conselheira Paula Azevedo (SEI 0510953); PA 08700.000066/2016-90, voto-relator da Conselheira Paula Azevedo.
+[2] Ação Penal nº 481, Relator: Min. Dias Toffoli, Tribunal Pleno, julgado em 08/09/2011.
+[3] PACELLI, Eugênio.
+Curso de Processo Penal.
+São Paulo: Atlas, 2018. p. 450.
+[4] “A Wendliz poderia ter exercido seu direito de preferência para ganhar os lotes 1, 2, 3, 4 e 6 do Pregão 07/2009, pois o valor de seus lances sempre estiveram dentro da margem de 5% com relação aos valores das propostas vencedores”.
+Voto do Conselheiro-Relator, §52 (SEI 0716053).
+[5] “7.7.
+A etapa de lances será considerada encerrada quando todos os participantes dessa etapa declinarem da formulação de lances.
+7.8. Encerrada a etapa de lances, serão classificadas as propostas selecionadas e as não selecionadas, na ordem crescente dos valores, considerando-se para as selecionadas o último preço ofertado.
+7.8.1. O pregoeiro convocará a microempresa ou empresa de pequeno porte, detentora da proposta de menor valor, dentre aquelas cujos valores sejam iguais ou superiores até 5% (cinco por cento) ao valor da proposta melhor classificada, para que apresente preço inferior ao da melhor classificada”.
+Edital do Pregão CDHU 16/2010, à fl. 1896 (SEI 0225039).
+[6] Lei Complementar 123/2006: “Art. 44.
+Nas licitações será assegurada, como critério de desempate, preferência de contratação para as microempresas e empresas de pequeno porte.
+§1º.
+Entende-se por empate aquelas situações em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até 10% (dez por cento) superiores à proposta mais bem classificada.
+§2º.
+Na modalidade de pregão, o intervalo percentual estabelecido no §1º deste artigo será de até 5% (cinco por cento) superior ao melhor preço”.
+[7] Informações constantes da fl. 1910 (SEI 0225039).
+[8] Ver: Kahneman, Daniel; Tversky, Amos.
+Prospect Theory: An Analysis of Decision Under Risk.
+Econometrica, Vol. 47, Issue 2, p. 263, 1979.
+Disponível em: https://ssrn.com/abstract=1505880.
+Acesso em 28 abr. 2020.
+[9] Informações constantes das fls. 1275-1278 (SEI 0225039

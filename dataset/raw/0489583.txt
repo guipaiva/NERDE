@@ -1,0 +1,100 @@
+SEI/CADE - 0489583 - Parecer
+PARECER Nº 153/2018/CGAA5/SGA1/SG
+PROCESSO Nº 08700.003265/2018-11
+Requerentes:
+OI S.A. - EM RECUPERAÇÃO JUDICIAL; TELEMAR NORTE LESTE S.A. - EM RECUPERAÇÃO JUDICIAL; OI MÓVEL S.A. - EM RECUPERAÇÃO JUDICIAL; GOLDENTREE ASSET MANAGEMENT, LP; YORK GLOBAL FINANCE FUND, LP; SOLUS OPPORTUNITIES FUND 1 L.P.
+; SOLUS OPPORTUNITIES FUND 2 L.P., SOLUS OPPORTUNITIES FUND 3 L.P.
+; SOLUS VEI L.LC.
+E SOLUS OPPORTUNITIES IDF SERIES INTERESTS OF THE SALI MULTI-SERIES FUND, L.P.
+Ementa: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento Sumário.
+Requerentes: Oi S.A. - em Recuperação Judicial; Telemar Norte Leste S.A. - em Recuperação Judicial; Oi Móvel S.A. - em Recuperação Judicial; GoldenTree Asset Management, LP; York Global Finance Fund, LP; Solus Opportunities Fund 1 L.P.
+; Solus Opportunities Fund 2 L.P.
+; Solus Opportunities Fund 3 L.P.
+; Solus VEI L.LC.
+e Solus Opportunities IDF Series Interests of the Sali Multi-Series Fund, L.P.
+Aquisição de participação societária.
+Configuração de grupo econômico envolvendo fundo de investimento.
+Art. 4º, § 2º, da Resolução CADE nº 02/2012.
+Ausência de grupo com faturamento igual ou superior a R$ 75 milhões.
+Não enquadramento nos ditames do art. 88, inciso II, da Lei nº 12.529/2011.
+Não conhecimento.
+VERSÃO DE ACESSO PÚBLICO
+I.                     REQUERENTES
+I.1.
+Oi S.A. - em Recuperação Judicial ("Oi"), Telemar Norte Leste S.A. - em Recuperação Judicial ("Telemar") e Oi Móvel S.A. - em Recuperação Judicial ("Oi Móvel", em conjunto com Oi e Telemar denominadas "Empresas Oi")
+As Empresas Oi atuam nos mercados de telefonia móvel, telefonia fixa, acesso à internet (móvel e fixa), e TV por assinatura, por meio das licenças de Serviço Telefônico Fixo Comutado ("STFC"), Serviço Móvel Pessoal ("SMP"), Serviço de Acesso Condicionado ("SeAC") e Serviço de Comunicação Multimídia ("SCM").
+O grupo econômico das Empresas Oi registrou, no Brasil, faturamento acima de R$ 750 milhões, em 2017.
+I.2.
+GoldenTree Asset Management, LP ("GoldenTree")
+O GoldenTree é uma gestora de ativos de empresas e fundos de investimento em todo o mundo, sendo que alguns dos fundos de investimentos geridos por Golden Tree possuem papeis de dívida no Brasil e, dentre eles, "bonds" emitidos por empresas do Grupo Oi.
+I.3.
+York Global Finance Fund, LP ("York")
+O York é um veículo especial, gerido pelo York Capital Management Global Advisors, LLC, criado exclusivamente para realização de investimentos na Oi, de modo que não possui empresas investidas e não comercializa produtos ou serviços no Brasil.
+I.4.
+Solus Opportunities Fund 2 L.P., Solus Opportunities Fund 3 L.P., Solus VEI LLC.
+e Solus Opportunities IDF Series Interests of the Sali Multi-Series Fund, L.P.
+(em conjunto denominados "Fundos Solus")
+Os Fundos Solus são geridos por Solus Alternative Asset Management L.P., gestora de investimentos em âmbito mundial para um grupo diversificado de investidores institucionais e family offices.
+II. DESCRIÇÃO DA OPERAÇÃO
+A presente operação decorre de pedido de recuperação judicial das Empresas Oi, em curso na 7ª Vara Empresarial do Tribunal de Justiça do Estado do Rio de Janeiro, requerido nos termos da Lei nº 11.101/05.
+O Plano de Recuperação Judicial Consolidado do Grupo Oi ("PRJ") foi aprovado pela Assembleia de Credores, ocorrida em 19/12/2017 e 20/12/2017, e homologado pelo Juízo de Recuperação em 08/01/2018, quando teve início o processo de implementação das etapas previstas no referido plano de recuperação judicial, vinculando não só as empresas recuperandas, mas também seus acionistas e credores.
+Segundo as partes, "os principais meios de recuperação propostos pelo plano envolvem uma reestruturação de parte dos créditos, alienação de ativos, alterações transitórias na governança da companhia e realização de aumento de capital por subscrição privada mediante a capitalização de parte dos créditos, entre outros".
+Atualmente, o plano de recuperação judicial está na etapa de implementação de medidas iniciais para a "Reestruturação de Bonds"("Reestruturação"), momento em que os credores Bondholders Qualificados que se registraram no prazo estabelecido no PRJ tiveram a oportunidade de optar pelo pagamento de seus créditos mediante o recebimento de "pacote" composto por novos títulos de dívidas e valores mobiliários.
+Como parte da etapa de reestruturação, está prevista a conversão de dívida detida por credores Bondholders Qualificados por um pacote de títulos composto por, de acordo com as requerentes:
+"Novas Notes": as Novas Notes serão emitidas pela Oi S.A., ou por uma subsidiária integral da Oi, e na qualidade de garantidoras e devedoras solidárias, pelas demais recuperandas, na forma do PRJ, até 31 de julho de 2018.
+Para as requerentes, a emissão das Novas Notes não implica emissão de participação na Oi ou gera qualquer alteração de controle, mas tão simplesmente o pagamento da dívida emitida, não acarretando qualquer impacto concorrencial.
+"Ações PTIF": significa as 134.819.390 ações ordinárias de emissão da Oi S.A. detidas pela Portugal Telecom International Finance B.V.
+- em recuperação judicial ("PTIF"), sob a forma de American Depositary Receipts - ADRs, negociadas na bolsa NYSE, atualmente mantidas pela Oi S.A. em tesouraria.
+"Novas Ações Ordinárias - I": são aquelas emitidas no "aumento de capital capitalização de crédito", que importa em um aumento de capital da Oi S.A., subscrito pelos Credores Quirografários Bondholders Qualificados, integralizados mediante capitalização dos créditos devidos a esses credores, na forma do art. 171, § 2º, da Lei das Sociedades por Ações e demais disposições legais aplicáveis, nas condições prevista no PRJ.
+"Bônus de Subscrição": a serem emitidos pela Oi S.A., "como vantagem adicional à emissão das Novas Ações Ordinárias - I como resultado do aumento de capital capitalização de crédito", e poderão ser exercidos a qualquer momento a partir de um ano da data da sua emissão, por um prazo de 90 dias, na proporção definida no plano de recuperação.
+Com a implementação do PRJ, e por meio da oferta dos pacotes acima referidos, ocorrerá a capitalização de parcela dos créditos concursais e o consequente aumento do capital social da Oi (a “Operação”).
+Como resultado desse aumento de capital e da emissão de novas ações, a participação acionária dos atuais acionistas da Companhia poderá ser diluída e, conforme estimativas iniciais das partes, os credores Bondholders Qualificados poderiam vir a deter, conjuntamente, até [ACESSO RESTRITO] do capital social da Oi (excluindo as ações que eventualmente já detenham).
+[1]
+Ademais, as requerentes destacaram que "apesar da diluição resultante do aumento de capital representar mais de 50% (cinquenta por cento) do capital social da Companhia, a Operação não se enquadra em uma aquisição de controle, pois nenhum acionista ou grupo de acionistas deterá, individualmente, ou por meio de acordo de voto, o controle da companhia".
+Conforme as regras de governança citadas (referentes ao Conselho de Administração Transitório - CA Transitório), nem mesmo se cogitaria a aquisição de controle compartilhado de forma individual por meio dos fundos credores.
+Acrescentam, ainda, que tais investimentos possuem características eminentemente passivas, sem qualquer poder de direção na Oi.
+As requerentes previram a seguinte estimativa de alteração na estrutura acionária da Oi, com base na lista definitiva dos Bondholders Qualificados:
+Figura 1 - Composição acionária da Oi, antes da operação (em 12/04/2018) [ACESSO RESTRITO]
+Fonte: Requerentes.
+Figura 2 - Composição acionária da Oi, após a operação [2] [ACESSO RESTRITO]
+Fonte: Requerentes.
+III. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Taxa processual foi recolhida?
+Sim, conforme Despacho Ordinatório SECONT (0415426)
+Data da notificação - Data da resposta à  emenda
+17/05/2018 -
+08/06/2018
+Data da publicação do edital
+O Edital nº 197, que deu publicidade à operação em análise, foi publicado no dia 12/06/2019 (0487710)
+III.1.
+Não Conhecimento
+As requerentes informaram que optaram por notificar a operação ad cautelam, a fim de garantir o cumprimento do plano de recuperação judicial dentro dos prazos acordados, embora entendam que a operação não cumpre os requisitos para notificação obrigatória ao CADE.
+As requerentes alegaram que, no âmbito da recuperação judicial, e dentro da relação de credores que têm direito à conversão de parte de seu crédito concursal em ações ordinárias (dentre outros títulos) de emissão da Oi, apenas três fundos requerentes poderão eventualmente deter uma participação final superior a 5% do capital social da Oi.
+No entanto, por envolver uma potencial aquisição de participação societária superior a 5%, a operação ora em análise não seria de notificação obrigatória, vez que os três fundos identificados ou seus grupos econômicos, nos termos da regulamentação do CADE, não possuem participação societária igual ou superior a 10% em empresa com atividades que sejam horizontal ou verticalmente relacionadas com as Empresas Oi, no Brasil, não cumprindo o requisito disciplinado no art. 10, inciso II, da Resolução CADE nº 02/12, segundo as partes.
+Inicialmente, cabe averiguar se as partes envolvidas na presente operação cumprem às condições previstas no art. 88 da Lei nº 12.529/11, onde consta os faturamentos mínimos para que uma operação seja submetida à apreciação do CADE, conforme transcrito abaixo.
+Art. 88.
+Serão submetidos ao Cade pelas partes envolvidas na operação os atos de concentração econômica em que, cumulativamente:
+I - pelo menos um dos grupos envolvidos na operação tenha registrado, no último balanço, faturamento bruto anual ou volume de negócios total no País, no ano anterior à operação, equivalente ou superior a R$ 400.000.000,00 (quatrocentos milhões de reais) [valor alterado para R$ 750 milhões por meio da Portaria Interministerial MJ/MF nº 994/2012]; e
+II - pelo menos um outro grupo envolvido na operação tenha registrado, no último balanço, faturamento bruto anual ou volume de negócios total no País, no ano anterior à operação, equivalente ou superior a R$ 30.000.000,00 (trinta milhões de reais) [valor alterado para R$ 75 milhões por meio da Portaria Interministerial MJ/MF nº 994/2012].
+Como ressaltado acima, o grupo econômico da Oi cumpre o critério mínimo de faturamento superior a R$ 750 milhões, no ano anterior à operação (2017).
+Resta, portanto, a dúvida quanto ao faturamento dos fundos credores e seus grupos.
+As partes informaram que os fundos que potencialmente podem adquirir participação societária acima de 5% no capital social da Oi (e, portanto, constituiriam outro grupo envolvido na operação) declararam
+(i) não controlar direta ou indiretamente quaisquer prestadoras de serviços de telecomunicações que atuem nos mesmos mercados relevantes das Empresas Oi; (ii) não deter participação acionária igual ou superior a 10% em nenhuma empresa com atividades que sejam horizontal ou verticalmente relacionadas com as Empresas Oi no Brasil; e (iii) não indicar membros para os órgãos de gestão e fiscalização de prestadoras de serviços de telecomunicações
+Além disso, em resposta ao despacho de emenda do caso, as partes destacaram que apenas dois fundos individualmente podem vir a atingir o critério de minimis disposto no art. 10, inciso II (ou seja, podem adquirir participação igual ou superior a 5% do capital social da Oi), notadamente o York e o Solus VEI LLC.
+O Goldentree, citado nas tabelas acima como um possível credor que também possa atingir o critério de minimis retromencionado, na realidade se trata de um gestor de ativos responsável pela gestão de diversos credores da Oi, cujas participações geridas encontram-se dispersas em 28 entidades.
+Dessa forma, as Requerentes destacam que os diversos fundos geridos pelo Goldentree credores da Oi não poderão, individualmente, alcançar o percentual mínimo de 5% do capital social ou votante da Oi após sua recuperação judicial.
+No que concerne ao grupo econômico para fins de cálculo dos faturamento constantes do art. 88, da Lei nº 12.529/2011, esta SG ressalta que a configuração de grupo para tal objetivo se restringe exclusivamente aos grupos dos cotistas do fundo envolvido na operação (restrito aos que detenham direta ou indiretamente participação igual ou superior a 50% de suas cotas, de forma individual ou por meio de acordo de cotistas) e empresas do portfólio do fundo envolvido na operação (com o mesmo percentual de participação previsto anteriormente, ou seja, 20%, além das controladas), nos termos da Resolução CADE nº 02/2012.
+As requerentes esclareceram, em resposta à emenda, que apenas os fundos York e o Solus VEI LLC, de fato, poderiam alcançar, individualmente, uma participação superior a 5% no capital social ou votante da Oi.
+Todavia, tais fundos e seus respectivos grupos econômicos não apresentaram faturamento no Brasil superior a R$ 75 milhões ([ACESSO RESTRITO]).
+Ademais, com base nas informações prestadas pelas requerentes, considera-se que não há qualquer outro grupo econômico envolvido na presente operação, conforme preceitua o art. 4º, da Resolução nº 02/2012 do CADE e como requerido no art. 88, inciso II, da Lei nº 12.529/2011.
+Por fim, mesmo que qualquer dos fundos tivesse alcançado o faturamento exigido em lei, o que não é o caso, a operação não seria de notificação obrigatória, visto que a mesma não preenche a condição referida no art. 10, inciso II, alínea a, da Resolução CADE nº 02/2012, em face dos esclarecimentos prestados pelas partes.
+Ante o exposto, constata-se que no polo adquirente da presente operação nenhum dos fundos credores atende ao requisito constante no 88, inciso II, da Lei nº 12.529/2011 (i.e., faturamento de R$ 75 milhões), motivo pelo qual  se conclui pelo não conhecimento desta operação.
+IV. CONCLUSÃO
+Recomenda-se o não conhecimento da presente operação, com o consequente arquivamento do processo sem análise de mérito, e a manutenção da taxa processual recolhida em virtude da movimentação da máquina estatal.
+Estas as conclusões.
+Encaminhe-se ao Sr. Superintendente-Geral.
+[1] As requerentes informaram que, conforme estimativa dos assessores financeiros da Oi S.A., as Novas Ações Ordinárias – I, as Ações PTIF reinseridas em circulação e os Bônus de Subscrição (considerando já o seu futuro exercício), representarão 69,8% do número total de ações ou de 71,0% das ações ex-tesouraria da Oi S.A. Isto é, os Bondholders Qualificados passarão a deter 69,8% do capital social da Oi S.A., excluindo as ações que eventualmente já detenham.
+[2] As requerentes, em resposta à emenda, retificaram a participação societária máxima que pode ser alcançada pelo Solus no capital social da Oi, inicialmente informada como [ACESSO RESTRITO], mas que na realidade pode atingir cerca de [ACESSO RESTRITO], considerando, ainda, que a Solus

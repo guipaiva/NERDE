@@ -1,0 +1,86 @@
+:: SEI / CADE - 0294876 - Voto ::
+Processo Administrativo 08012.010744/2008-71
+Representante:
+Departamento de Polícia Federal de Pelotas/RS
+Representados:
+Elegê Alimentos S.A. (atual BRF Brasil Foods S.A.); Cooperativa Sul-Rio Grandense de Laticínios Ltda.; Cooperativa dos Pequenos Agricultores e Produtores e Leite da Região Sul; Indústria de Laticínios Santa Silvana Ltda. – ME; Thurmer & Leitzke Ltda.; Sindicato da Indústria de Laticínios e Produtos Derivados do Estado do Rio Grande do Sul; Alex Sander Guarnieri Ramos; Michele Correa Laydner; Edemar Xavier Silveira; Osmar Krause; Everson Daniel do Amaral Nunes; Manoel Gonçalves; Jorge Luiz Almeida da Silva; Jorge Antônio Vallejos Arnez; Arno Alfredo Kopereck; Enilton Sell Wolter; Adilson Uarthe; Maura Thurmer Leitzke e Paulo César Leitzke
+Advogados:
+Carlos Alberto Mascarenhas Schild, Fabrício Cagol, Igor Borges La Rosa, Rubem Ney Leal Argiles, Eduardo Gomes Plastina, Camilla Paoletti, Fernanda Garibaldi e outros
+Relatora:
+Conselheira Cristiane Alkmin Junqueira Schmidt
+VOTO VOGAL
+Quanto à potencial infração por preço predatório
+​Em que pese o voto-relator não ter, na individualização das condutas e no dispositivo, imputado às Representadas Elegê e Cosulati a condenação com base no inciso XVIII do art. 21 da Lei 8.884/1994, com correspondente no inciso XV, § 3º, do art. 37 da Lei 12.529/2011, ou seja, pela venda de mercadorias injustificadamente abaixo do preço de custo, depreende-se do item 4.2 do voto o entendimento de que o processo não deveria ser arquivado pela prática de preço predatório, já que "as evidências apontam que as duas maiores empresas abusaram da sua posição dominante para ameaçar as empresas menores, caso não participassem do cartel.
+Os relatos e fatos (dados de preço) são, assim, irrefutáveis, há nexo causal com a conduta do cartel, e o indícios corroboram a denúncia.
+Conquanto seja um fato que as três empresas menores não quebraram, elas podiam ter quebrado, caso não participassem do cartel.
+A estratégia comercial de caráter anticompetitivo é, assim, subsidiária à principal, qual seja, a do cartel (...)".
+Concordo em parte com a Relatora, na medida em que indícios demonstram que as Representadas Elegê e Cosulati valeram-se de seus poderes de mercado para convencer as empresas menores a participarem do cartel.
+No entanto, não vejo elementos suficientes para uma condenação autônoma por preço predatório, compartilhando aqui do entendimento exposto no voto-vista do Conselheiro Gilvandro  de que "o cartel foi instrumentalizado por uma redução de preços no mercado".
+Assim, o fato de as Representadas Elegê e Cosulati terem reduzido os preços por um determinado período como forma de convencer as demais empresas a participarem do cartel não deve ser ignorado, mas o reflexo de tal ação deve ocorrer na dosimetria, imputando a essas Representadas agravantes de liderança e coordenação do cartel, conforme proponho a seguir.
+Questões gerais de dosimetria
+Já há um bom tempo, venho tentando me manter fiel à regra de dosimetria que defendo para condenações de carteis, detalhadamente expostas no meu voto vista no caso do cartel de GLP, na 96º sessão ordinária de julgamento[1].
+Na minha opinião, a multa (seja para condenação, seja para balizar as negociações de TCC) deve corresponder à aplicação de um sobrepreço predeterminado sobre o volume de vendas afetado pela conduta durante toda a sua duração, desde que tal valor não exceda os limites legais de punição atribuídos à autoridade antitruste.
+Regra essa, destaca-se, análoga às utilizadas pelas principais jurisdições antitruste do mundo, em especial para EUA, Reino Unido e União Europeia.
+Como já dito, é uma regra intermediária entre a atual jurisprudência do CADE, que consiste na aplicação de uma alíquota seca sobre uma base de cálculo que não tem relação com os potenciais danos da conduta e que varia de caso em caso, conferindo imprevisibilidade e insegurança jurídica; e, de outro, a proposta de se estimar a vantagem auferida, caso a caso, o que é um exercício impreciso e que pode criar fragilidades para o enforcement da decisão, tornando-se igualmente insegura do ponto de vista jurídico.
+É com base nessa metodologia proposta que venho avaliando os valores das penas pecuniárias aplicadas em sede de condenação em processo administrativo sancionador.
+Venho adotando essa metodologia, inclusive, para avaliar se, em cada caso concreto, a base de cálculo prevista no inciso I do art. 37 da Lei 12.529/2011, qual seja, a do faturamento da empresa no ramo de atividade no ano anterior à conduta, é manifestamente desproporcional, autorizando, assim, a sua flexibilização, nos termos do art. 2º-A da Resolução 3/2012.
+Explico.
+Rege o art. 37 da Lei 12.529/2011:
+Art. 37.
+A prática de infração da ordem econômica sujeita os responsáveis às seguintes penas:
+I - no caso de empresa, multa de 0,1% (um décimo por cento) a 20% (vinte por cento) do valor do faturamento bruto da empresa, grupo ou conglomerado obtido, no último exercício anterior à instauração do processo administrativo, no ramo de atividade empresarial em que ocorreu a infração, a qual nunca será inferior à vantagem auferida, quando for possível sua estimação;
+II - no caso das demais pessoas físicas ou jurídicas de direito público ou privado, bem como quaisquer associações de entidades ou pessoas constituídas de fato ou de direito, ainda que temporariamente, com ou sem personalidade jurídica, que não exerçam atividade empresarial, não sendo possível utilizar-se o critério do valor do faturamento bruto, a multa será entre R$ 50.000,00 (cinquenta mil reais) e R$ 2.000.000.000,00 (dois bilhões de reais);
+III - no caso de administrador, direta ou indiretamente responsável pela infração cometida, quando comprovada a sua culpa ou dolo, multa de 1% (um por cento) a 20% (vinte por cento) daquela aplicada à empresa, no caso previsto no inciso I do caput deste artigo, ou às pessoas jurídicas ou entidades, nos casos previstos no inciso II do caput deste artigo.
+§ 1o  Em caso de reincidência, as multas cominadas serão aplicadas em dobro.
+§ 2o  No cálculo do valor da multa de que trata o inciso I do caput deste artigo, o Cade poderá considerar o faturamento total da empresa ou grupo de empresas, quando não dispuser do valor do faturamento no ramo de atividade empresarial em que ocorreu a infração, definido pelo Cade, ou quando este for apresentado de forma incompleta e/ou não demonstrado de forma inequívoca e idônea.
+(sem grifos no original)
+Veja-se também o art. 2º-A da Resolução CADE 3/2012:
+Art. 2-A.
+O Cade poderá, mediante decisão fundamentada, adaptar o ramo de atividade às especificidades da conduta quando as dimensões indicadas no art. 1º forem manifestamente desproporcionais.
+(Redação dada pela Resolução nº 18, de 23 de novembro de 2016).
+(sem grifos no original)
+O CADE vem interpretando esse dispositivo, até hoje, não como limites máximos e mínimos de multas permitidos pelo legislador, mas no sentido de que a multa, para carteis, deve ser resultante da aplicação de alguma alíquota entre 12% e 20% sobre o faturamento de um ano no ramo de atividade.
+O ramo de atividade, por sua vez, é definido na Resolução 3/2012, segundo classificação semelhante ao Cadastro Nacional de Atividade Econômica - CNAE.
+No entanto, como o faturamento de um ano nos ramos de atividade previstos na Resolução podem não guardar (e em geral não guardam) qualquer relação com a gravidade e o dano da infração, a aplicação da Resolução, em conjunto com a interpretação predominante do CADE sobre dosimetria, poderia gerar multa potencialmente elevadas.
+Para contornar esse risco, foi introduzida na Resolução a possibilidade de flexibilizar o conceito de ramo de atividade, desde que aquele previsto na resolução se mostrasse manifestamente desproporcional.
+O recurso a esse dispositivo, preconizado como uma exceção, vem, no entanto, se tornando a regra.
+Mais preocupante ainda, em muitos casos, sequer há nos autos informações acerca do faturamento no ramo de atividade para que se possa verificar a sua desproporcionalidade, mas apenas um argumento nesse sentindo.
+Juízos de proporcionalidade, a meu ver, não devem ser feitos em tese; pelo contrário, demandam a análise detida do caso concreto.
+Para sabermos se uma determinada base de cálculo (faturamento no ramo de atividade, conforme lista anexa à Resolução 3/2012) é manifestamente desproporcional, precisamos comparar a multa resultante da adoção dessa base de cálculo com algum valor.
+Esse valor, como disse, deve ser tal que guarde proporcionalidade com o volume de vendas afetado pela conduta, inclusive quanto à sua duração, pois não faz sentido punir de maneira igual (ou, no mínimo, muito semelhante) carteis com duração bastante diversa, de um, cinco ou dez anos.
+A duração da infração tem relação direta com vários critérios de dosimetria previstos no art. 45 da Lei 12.529/2011, como gravidade da infração, vantagem auferida ou pretendida, grau de lesão e efeitos econômicos negativos; e não pode ser ignorada em juízos de proporcionalidade.
+Assim, tenho optado, nos juízos de proporcionalidade, adotar a regra de aplicar um percentual predeterminado sobre o volume de vendas afetado pela conduta.
+Dosimetria no caso concreto
+Por convenção, como já é sabido, o percentual predeterminado que tenho adotado em todos os casos tem sido de 10%, e não há razões para que seja diferente neste caso do cartel do leite, principalmente tendo em vista que a C. Relatora encontrou, em média, um sobrepreço de 7,7% com base em suas próprias estimativas de sobrepreço.
+Para além disso, é necessário definir o valor do volume de vendas afetado pelo cartel.
+Com base em dados trazidos no voto-relator, como consumo per capita de leite fluido, população da microrregião de Pelotas, percentual do leite tipo C sobre os demais tipos de leite comercializados e preços médios da região, foi possível estimar esse valor em torno de R$ 4,6 milhões em litros de leite contaminados pelo cartel.
+Aplicando-se o sobrepreço predeterminado e atualizando-se pela SELIC a valores atuais, uma multa proporcional, na minha opinião, para todo o cartel seria de aproximadamente R$ 2 milhões (memória de cálculo anexa).
+Esse é um valor bastante razoável para o que deveria ser o total das multas aplicadas a todas as Representadas, pois, elas representavam quase a totalidade do mercado.
+Como bem colocou a C. Relatora, empresas raramente entram em conluio sem estar em condição de, conjuntamente, dominar o mercado, uma vez que o potencial aumento de preços seria inviável na presença de concorrentes não cartelizados.
+A dificuldade, seria, portanto, distribuir esse valor entre elas, tendo em vista que não constam nos autos informações de participação de mercado de cada uma das empresa à época da conduta.
+Por outro lado, existem inúmeras provas materiais diretas nos autos de que as Representadas Elegê e Cosulati eram as maiores empresas do mercado e as líderes do cartel, inclusive ameaçando os demais produtores de retaliação com preços predatórios caso não aderissem ao conluio.
+Esses fatos estão amplamente documentados no voto-relator, que afasta qualquer dúvida quanto à conduta e quanto ao papel dessas duas Representadas.
+Assim, entendo que uma distribuição justa da multa nesse caso seria tal que a Elegê e a Cosulati respondessem por 90% da pena e as demais por 10%.
+Como a Elegê teve um papel ainda mais proativo e intimidador que a Cosulati, uma distribuição de 50% para a primeira e 40% para a segunda preservaria o caráter de justiça da punição.
+Com esses percentuais de distribuição, as multas aplicadas no voto-relator se mostraram, a meu ver, razoáveis para as Representadas Coopal, Thumer e Sta. Silvania que, juntas, deverão pagar cercad de R$ 230 mil, valor muito próximo dos R$ 200 mil referentes a 10% de R$ 2 milhões.
+Em relação à Cosulati, o valor resultante da metodologia deste voto vogal seria de R$ 772 mil, menor que o valor do voto-relator e maior que o voto-vista, mas mais próximo do voto-vista, motivo pelo qual acompanho o voto-vista.
+Por fim, para a Elegê, a metodologia aqui adotada resultaria em valor correspondente a R$ 965 mil.
+No entanto, como o mínimo legal permitido para pena pecuniária é de 0,1% do faturamento, e, segundo petição nos autos, o faturamento do Grupo no Brasil foi de R$ 3 bilhões em 2011, ano anterior à instauração do PA, que reajustado pela SELIC simples corresponde a cerca de R$ 4,6 bilhões, o valor da multa do voto-relator está bem próximo do mínimo legal, motivo pelo qual opto por também acompanhá-la.
+Frise-se que, ao contrário do que pode se depreender do voto-vista, as multas aplicadas à Thumer e Sta. Silvania no voto-relator não extrapolam o máximo legal, ou seja, 20% do faturamento bruto no ramo de atividade no ano anterior à instauração do PA, atualizado pela Taxa SELIC RFB.
+O voto-vista considerou como base de cálculo da multa o lucro bruto e não o faturamento bruto, como pode ser facilmente comprovado a partir das informações prestadas pelas próprias Representadas Thumer e Sta. Silvania nas petições SEI 026991 e 0270018, respectivamente.
+Em relação à Consulati, o voto-vista também considerou como base de cálculo o resultado operacional, que nada mais é que a diferença entre as receitas operacionais e as despesas operacionais.
+Lembre-se que o conceito de faturamento é justamente receitas decorrentes da venda de mercadorias e serviços, e não contempla a exclusão das despesas relacionadas a essas mercadorias e serviços.
+Parece-me, portanto, que, no caso concreto, para além de se flexibilizar o conceito de ramo de atividade, flexibilizou-se também o conceito de faturamento, fazendo com que a penalidade incidisse sobre o lucro ou resultado.
+Em síntese, e como é comum ocorrer aqui no Tribunal, a metodologia que opto por aplicar coincidiu com os valores trazidos pelo voto-relator, obtidos pela regra da alíquota sobre algum valor de faturamento, para quatro dos cinco representados.
+Assim, como das outras vezes, voto por acompanhar a dosimetria do voto-relator em relação a todos os Representados, com exceção da Cosulati, que adiro aos valores trazidos pelo voto-vista, e com exceção da punição de adoção de compliance.
+É o voto.
+Brasília, 18 de janeiro de 2017.
+João Paulo de Resende
+METODOLOGIA DE CÁLCULO DA MULTA
+Estimativa do dano para fins de proporcionalização da multa
+Notas Explicativas:
+1. Foi considerado o consumo per capita do leite fluido, em 2014, no Uruguai, nas medida em que (i) não há disponível tal dado do Brasil segregado por Estado e (ii) o Estado do RS possui características de desenvolvimento econômico mais próximas às do Uruguai que a média do Brasil.
+2. A utilização de dados de 2010 (população) e 2014 (consumo per capita) decorre do fato de serem as melhores informações disponíveis e de o consumo per capita em grandes regiões não variar substancialmente ao longo dos anos.
+Individualização das multas
+________________________________________________________________________________________________
+[1] Nesse sentido, veja-se o voto proferido no processo administrativo nº 08012.002568/2005-51 – SEI 0280508

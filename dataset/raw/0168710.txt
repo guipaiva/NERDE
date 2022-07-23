@@ -1,0 +1,201 @@
+:: SEI / CADE - 0168710 - Parecer ::
+PARECER Nº 62/2016/CGAA5/SGA1/SG
+PROCESSO Nº 08700.012624/2015-89
+REQUERENTES:
+Sociedade Hospital Samaritano e ESHO Empresa de Serviços Hospitalares S/A.
+EMENTA: Ato de Concentração.
+Lei nº 12.529/2011.
+Requerentes: Sociedade Hospital Samaritano e ESHO Empresa de Serviços Hospitalares S/A.
+Mercado afetado: Serviço médico-hospitalar.
+Natureza da Operação: aquisição de ativos.
+Procedimento Sumário.
+Art. 8º, incisos III e IV, Resolução Cade nº 2, de 29 de maio de 2012.
+Aprovação sem restrições.
+VERSÃO PÚBLICA
+1. REQUERENTES (INFORMAÇÕES SEGUNDO AS PARTES)
+1.1. Sociedade Hospital Samaritano ("Associação Samaritano")
+A Associação Samaritano é uma sociedade civil privada, sem fins lucrativos, que atua na prestação de serviços médico-hospitalares, por meio do Hospital Samaritano.
+A Associação Samaritano não pertence a nenhum grupo e não há empresa que integra a associação, direta ou indiretamente.
+1.2. ESHO Empresa de Serviços Hospitalares S/A.
+("ESHO")
+Faz parte da UnitedHealth Group Incorporated (UHG), pertencente ao Grupo UHG, que atua no Brasil com: operação de planos de saúde; prestação de serviços médico-hospitalares; e serviços correlatos à área de saúde, com oferta de programas de assistência à qualidade de vida no ambiente corporativo.
+Faz parte também do Grupo EB, que atua na prestação de serviços médico-hospitalares e SAD, por intermédio dos laboratórios do Grupo Dasa [1].
+2. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim.
+Taxa processual foi recolhida?
+Sim, GRU (0149982) e Certidão DCONT (0150396).
+Data da notificação ou emenda?
+10/02/2016.
+Data da publicação do edital?
+O Edital nº 014, que deu publicidade à operação em análise, foi publicado no dia 15/02/2016.
+3. DESCRIÇÃO DA OPERAÇÃO
+A ESHO irá adquirir 100% do capital social de nova sociedade limitada empresária, a ser constituída para deter o conjunto de estabelecimentos e instalações físicas destinadas à oferta de serviços de assistência médico-hospitalares do Hospital Samaritano.
+4. ENQUADRAMENTO LEGAL (ART. 8.º, RESOLUÇÃO CADE Nº 2, DE 29 DE MAIO DE 2012)
+III - Baixa participação de mercado com sobreposição horizontal;
+IV - Baixa participação de mercado com integração vertical.
+5. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Sim
+Integração vertical
+Sim
+Setor em que há sobreposição horizontal ou integração vertical
+-------
+Participação de mercado
+Reduzida
+6. CONSIDERAÇÕES SOBRE A OPERAÇÃO
+O Hospital Samaritano, da Associação Samaritano, é um hospital-geral com atuação destacada em cardiologia, gastroenterologia, neurologia, ortopedia, oncologia, urologia, ginecologia e perinatologia, trauma e transplantes, com atendimento completo e integrado a pacientes.
+O hospital também oferece serviço de emergência especializada 24h em ortopedia, cardiologia, neurologia e trauma, além de Serviço de Apoio à Medicina Diagnóstica (SAD).
+A ESHO atua na prestação de serviços médico-hospitalares por meio de hospitais-gerais, de unidades avançadas e de clínicas especializadas em oncologia.
+Também atua na prestação de Serviço de Apoio à Medicina Diagnóstica (SAD).
+Assim, como o negócio-alvo envolve a prestação de serviços médico-hospitalares, no segmento de hospitais-gerais e SAD, a operação em tela cria uma sobreposição horizontal (sob a ótica de produto) nesses mercados, no primeiro (hospitais gerais) entre o Hospital Samaritano e a ESHO e, no segundo (SAD), entre o Grupo EB e a ESHO, em conformidade com a jurisprudência do CADE[2].
+No tocante à delimitação geográfica, julgados anteriores do CADE[3] consideram a dispersão geográfica dos pacientes em torno do ponto de oferta, de modo que é possível determinar a distância e o tempo decorrido para percorrer tal distância como indicadores de área de influência, partindo de um raio de 20 km, ou em um cenário mais restrito, 10 km ou 20 minutos do hospital a ser adquirido.
+6.1 Hospitais-gerais
+Tabela 1 - Participação de Mercado das Requerentes em hospitais-gerais em um raio de 20 km a partir do Hospital Samaritano (por nº de leitos) [ACESSO RESTRITO ÀS REQUERENTES]
+Market Share
+Grupo/Hospital
+Leitos
+Participação
+UHG
+[ACESSO RESTRITO ÀS REQUERENTES]
+10-20%
+EB
+[ACESSO RESTRITO ÀS REQUERENTES]
+0-10%
+Hospital Samaritano
+[ACESSO RESTRITO ÀS REQUERENTES]
+0-10%
+Total Requerentes
+[ACESSO RESTRITO ÀS REQUERENTES]
+10-20%
+Total São Paulo
+(raio de 20 km)
+13.071
+100%
+Fonte: Cadastro Nacional de Estabelecimentos de Saúde – CNES, excluídos os leitos SUS.
+Analisando-se a concentração gerada no primeiro cenário, a partir de um raio de 20 km do Hospital Samaritano, verifica-se que as Requerentes não atingem 20% de participação de mercado.
+Tabela 2 - Participação de Mercado das Requerentes em hospitais-gerais em um raio de 10 km a partir do Hospital Samaritano (por nº de leitos) [ACESSO RESTRITO ÀS REQUERENTES]
+Sem o Hospital Vitória SP
+Com o Hospital Vitória SP
+Grupo/Hospital
+Leitos
+Participação
+Leitos
+Participação
+UHG
+[ACESSO RESTRITO ÀS REQUERENTES]
+10-20%
+[ACESSO RESTRITO ÀS REQUERENTES]
+10-20%
+EB
+[ACESSO RESTRITO ÀS REQUERENTES]
+0-10%
+[ACESSO RESTRITO ÀS REQUERENTES]
+0-10%
+Hospital Samaritano
+[ACESSO RESTRITO ÀS REQUERENTES]
+0-10%
+[ACESSO RESTRITO ÀS REQUERENTES]
+0-10%
+Total Requerentes
+[ACESSO RESTRITO ÀS REQUERENTES]
+10-20%
+[ACESSO RESTRITO ÀS REQUERENTES]
+10-20%
+Total São Paulo
+(raio de 10 km)
+10.797
+100%
+11.035
+100%
+Fonte: Cadastro Nacional de Estabelecimentos de Saúde – CNES, excluídos os leitos SUS.
+Em relação à sobreposição horizontal no cenário mais restrito, um  raio de 10 km, observa-se que, ainda que se considere o Hospital Vitória, pertencente ao Grupo UHG, e situado a 10,5 km do Hospital Samaritano, a participação de mercado das Partes não atinge 20%.
+Esta SG porém, solicitou às Requerentes, por meio do Despacho SG nº 59, informações relativas à segmentação no setor de hospitais-gerais no município de São Paulo/SP, a fim de identificar a presença de características mais complexas neste setor que fundamentassem uma maior segmentação.
+As Requerentes defenderam não ser necessária uma segmentação no setor de hospitais-gerais na cidade de São Paulo/SP, pois tal divisão foi realizada apenas no Ato de Concentração nº 08700.004150/2012-59 (Requerentes: MedGrupo e Rede D'Or) em razão das peculiaridades do mercado geográfico avaliado, qual seja, o Distrito Federal.
+Entretanto, em atenção ao pedido formulado por esta SG, as Partes trouxeram dados segregando dos hospitais-gerais apenas aqueles que atendam planos de saúde da Amil e que também incluam atendimento no Hospital Samaritano para esses beneficiários.
+Esse cenário é relevante, pois é natural que em localidades com grande demanda de serviços médico-hospitalar, como São Paulo, haja hospitais com nível de qualidade distinto.
+Assim, isso não ocorre apenas no Distrito federal, como alega as Partes.
+Afastar essa hipótese é dizer, por exemplo, que todos os demais hospitais de São Paulo possuem o mesmo nível de reconhecimento, capacidade e qualidade do Hospital Albert Einstein ou do Hospital Sírio Libanês.
+Nesse cenário mais restrito, constatou-se que não existe na área geográfica em análise (10 km) hospital do Grupo UHG que seja atendido apenas nas categorias de planos de saúde da Amil que disponibilizam acesso ao Hospital Samaritano.
+Tabela 3 - Participação de Mercado das Requerentes considerando os hospitais-gerais que atendam a plano de saúde da Amil que disponibilize também atendimento no Hospital Samaritano (por nº de leitos) [ACESSO RESTRITO ÀS REQUERENTES]
+Market Share
+Grupo/Hospital
+Leitos
+Participação
+Hospital Amil
+[ACESSO RESTRITO ÀS REQUERENTES]
+0-10%
+EB
+[ACESSO RESTRITO ÀS REQUERENTES]
+0-10%
+Hospital Samaritano
+[ACESSO RESTRITO ÀS REQUERENTES]
+0-10%
+Total Requerentes
+[ACESSO RESTRITO ÀS REQUERENTES]
+10-20%
+Total
+(raio de 10 km)
+3.416 100%
+Considerando o cenário que restringe a análise aos hospitais-gerais que atendem plano de saúde da Amil que disponibilize atendimento no Hospital Samaritano, os níveis de concentração de mercado gerados pela operação tornam-se ainda menores, se comparados aqueles sem a segmentação.
+Assim, não é provável a ocorrência de impactos negativos no mercado de serviços médico-hospitalares por meio de hospitais-gerais, em qualquer cenário analisado, em decorrência da operação em análise.
+6.3 Serviço de Apoio à Medicina Diagnóstica (SAD)
+Em casos anteriores o SAD tem sido considerado como uma ferramenta auxiliar ao diagnóstico e tratamento médico adequado ao paciente, tendo, portanto, natureza secundária e integrada aos serviços médico-hospitalares, in verbis:
+"No que se refere aos serviços de apoio à medicina diagnóstica, embora o HRF [Hospital Regional de Franca] forneça tais serviços, não é necessário analisar a sobreposição nesse mercado pelos seguintes motivos: (i) a prestação de serviços de apoio à medicina diagnóstica não é a atividade principal do HRF (...)".
+[4]
+De forma conservadora, porém, esta SG solicitou informações adicionais a respeito da representatividade dos pacientes externos no faturamento dos hospitais do Grupo UHG.
+Segundo as Requerentes, no caso específico do Grupo UHG, regra geral, os exames de análises clínicas, anatomia patológica e citopatologia são prestados por laboratórios terceirizados e exclusivamente aos pacientes cativos de seus hospitais.
+Pacientes estes internados e/ou atendidos na emergência, não estando disponíveis para pacientes que desejam apenas realizar os exames (público externo).
+Os exames de imagem, por sua vez, são disponibilizados tanto para pacientes internados, quanto para o público externo, e normalmente são prestados de forma própria pelos hospitais.
+A maioria dos exames de imagem, porém, é realizada por pacientes do hospital, sendo uma parcela reduzida feita por pacientes externos, responsáveis por 0-10% [ACESSO RESTRITO ÀS REQUERENTES] do faturamento dos hospitais do Grupo UHG com exames de imagem, confirmando ser este um serviço acessório oferecido como complemento ao diagnóstico e tratamento aos pacientes.
+Em relação ao Hospital Samaritano, as Requerentes afirmam que os exames laboratoriais e de patologia clínica são prestados por meio de uma unidade terceirizada de atendimento do Laboratório Fleury, localizada no Hospital Samaritano, sendo a parte de exames de imagem e métodos gráficos realizada pelo próprio hospital.
+As informações complementares fornecidas pelas Partes confirmaram ser o SAD um serviço acessório oferecido como complemento ao diagnóstico e tratamento aos pacientes internados também nesta operação, de forma que, não se faz necessária uma análise específica deste mercado, em linha com os precedentes do CADE.
+6.4 Planos de saúde e hospital geral
+Ainda, observa-se a ocorrência de uma integração vertical entre as atividades de prestação de serviço médico-hospitalar, no segmento de hospital-geral do Hospital Samaritano, e as operações de planos de saúde médico hospitalares do Grupo UHG, uma vez que este oferta planos de saúde no âmbito de atuação do primeiro, ou seja, na cidade de São Paulo, consoante decisões recentes do CADE[5], que, via de regra, delimitam geograficamente este mercado como municipal.
+A jurisprudência do CADE considera que para fins de uma análise de integração vertical os planos de saúde podem ser analisados sem segmentação, in verbis:
+"Como verificado nas seções anteriores, o mercado de planos de saúde deve ser separado, inicialmente, em mercado individual/familiar e coletivo.
+Todavia, como uma mesma OPS pode possuir beneficiários nesses dois mercados e como a prestação dos serviços relacionados na seção 3.12 pode ser realizada tanto para planos coletivos como para os individuais/familiares, para fins de avaliação da integração vertical, a parcela de mercado do grupo econômico das Requerentes foi calculada com base na soma dos beneficiários presentes nesses dois mercados".
+[6]
+Todavia, como será visto adiante, as participações são reduzidas, abaixo de 20%.
+Tabela 4 - Participação de mercado do Grupo UHG no município de São Paulo/SP [ACESSO RESTRITO ÀS REQUERENTES]
+Planos de saúde
+Beneficiários
+Participação de Mercado
+Individual/Familiar
+[ACESSO RESTRITO ÀS REQUERENTES]
+10-20%
+Coletivo
+[ACESSO RESTRITO ÀS REQUERENTES]
+0-10%
+Total Grupo UHG
+[ACESSO RESTRITO ÀS REQUERENTES]
+10-20%
+Total São Paulo (município)
+6.680.236 100%
+Fonte: Agência Nacional de Saúde - ANS, Dezembro/2014.
+Em relação ao mercado de São Paulo/SP, tem-se que o Grupo UHG detém 10-20% [ACESSO RESTRITO ÀS REQUERENTES] de participação de mercado.
+Isso porque, conforme dados da ANS, dos 6.680.236 beneficiários existentes no município, [ACESSO RESTRITO ÀS REQUERENTES]  são beneficiários do Grupo UHG.
+Tem-se, assim, que a presente operação é incapaz de gerar preocupações concorrenciais no mercado relevante em análise, sendo desnecessário prosseguir na análise de fechamento do mercado de planos de saúde por parte do Grupo UHG.
+Diante de todo o exposto, não se verificam efeitos anticompetitivos decorrentes do ato de concentração em tela.
+7. CLÁUSULA DE NÃO-CONCORRÊNCIA
+Sim, de acordo com a jurisprudência do CADE[7], in verbis: [ACESSO RESTRITO ÀS REQUERENTES].
+8. RECOMENDAÇÃO
+Aprovação sem restrições.
+Estas as conclusões.
+Encaminhe-se ao Sr. Superintendente-Geral.
+______________________________
+[1] Em decorrência da participação minoritária detida pelo Sr. Edson de Godoy Bueno  ("EB") e pela Sra. Dulce Pugliese de Godoy Bueno ("DB") na UHG, o CADE entendeu que o grupo de empresas controlada pelo Grupo EB também deveria compor o Grupo UHG para fins concorrenciais (ver AC 08012.010038/2010-43).
+[2] Ato de Concentração nº 08700.003676/2015-64.
+Requerentes: ESHO – Empresa de Serviços Hospitalares S.A. e COI Clínicas Oncológicas Integradas S.A.
+Ato de Concentração nº 08700.010038/2010-43, Requerentes: Diagnósticos da América S.A. e MD1 Diagnósticos S.A.
+[3] Ato de Concentração nº 08700.003978/2012-90.
+Requerentes: Unimed Franca - Sociedade Cooperativa de Serviços Médicos e Hospitalares S.A. e Hospital Regional de Franca e Ato de Concentração nº 08700.010274/2010-60.
+Requerentes: FMG Empreendimentos Hospitalares S.A. e São Luiz Operadora Hospitalar S.A.
+[4] Ato de Concentração nº 08700.003978/2012-90.
+Requerentes: Unimed Franca - Sociedade Cooperativa de Serviços Médicos e Hospitalares S.A. e Hospital Regional de Franca.
+[5] Ato de Concentração nº 08700.003676/2015-64.
+Requerentes: ESHO – Empresa de Serviços Hospitalares S.A. e COI Clínicas Oncológicas Integradas S.A.
+[6] Ato de Concentração nº 08012.010038/2010-43.
+Requerentes: Diagnósticos da América S.A. e  MD1 Diagnósticos S.A.

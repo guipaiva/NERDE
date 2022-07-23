@@ -1,0 +1,128 @@
+:: SEI / CADE - 0292310 - Voto ::
+Consulta nº 08700.008081/2016-86
+Consulentes:
+Hamburg Südamerikanische Dampschifffahrts-Gesellschaft KG (“HSDG”) e CMA CGM S.A. (“CMA CGM”)
+Advogados:
+Mauro Grinberg, Karen Caldeira Ruback, Camila Lisboa Martins, Marcela Abras Lorenzetti
+Relator:
+Conselheiro João Paulo de Resende
+Voto-vogal:
+Conselheiro Paulo Burnier da Silveira
+VOTO-VOGAL
+VERSÃO PÚBLICA
+1. Introdução.
+2. Contrato objeto da Consulta.
+3. Existência de Empreendimento Comum.
+3.1. Distinção entre o Vessel Sharing Agreement (VSA) e o Slot Charter Agreement (SCA)
+3.2. Estudos da OCDE e perspectivas comparadas sobre o Vessel Sharing Agreement (VSA)
+4. Dispositivo.
+1. Introdução
+O início da vigência da recente Resolução nº 17/2016, que alterou os requisitos para a notificação dos “contratos associativos”, suscitou algumas discussões sobre a definição das noções de “empreendimento comum”, “compartilhamento de riscos” e “compartilhamento de resultados”, presentes na nova Resolução.
+Assim sendo, e por ter sido há pouco tempo – já na vigência da nova Resolução – relator de uma Consulta a respeito do conceito de “contrato associativo” neste mesmo mercado da presente Consulta, aproveito a oportunidade para tecer alguns esclarecimentos sobre o tema.
+O objeto da presente Consulta, formulada pela Hamburg Südamerikanische Dampschifffahrts-Gesellschaft KG (“HSDG”) e CMA CGM S.A. (“CMA CGM”), é um contrato chamado Vessel Sharing Agreement (“VSA”), celebrado entre as Consulentes e a Nile Dutch Africa Line BV (“NDAL”) (conjuntamente referidas como Partes).
+Por meio desse contrato, as Partes irão compartilhar navios e operar conjuntamente uma linha regular, com frequência semanal, de navios porta-contêineres entre a Costa Leste da América do Sul e o Oeste e Sul da África (linha denominada SAMWAF).
+A questão cinge-se a determinar se o contrato apresentado se enquadra ao conceito legal de “contrato associativo” de notificação obrigatória, nos termos do art. 90, IV, da Lei 12.529/11 e da Resolução nº 17/2016 do CADE.
+As Consulentes entendem que o VSA apresentado não preenche os requisitos da referida Resolução e que, portanto, não configura “contrato associativo”.
+Como se sabe, para ser de notificação obrigatória ao CADE, o VSA deve se enquadrar no conceito de “contrato associativo”, nos termos do art. 90, IV, da Lei 12.529/11 e da Resolução 17/2016 do CADE.
+Esta dispõe que:
+Art. 2º Considera-se associativos quaisquer contratos com duração igual ou superior a 2 (dois) anos que estabeleçam empreendimento comum para exploração de atividade econômica, desde que, cumulativamente:
+I - o contrato estabeleça o compartilhamento dos riscos e resultados da atividade econômica que constitua o seu objeto; e
+II - as partes contratantes sejam concorrentes no mercado relevante objeto do contrato.
+É incontroverso que as partes do VSA são concorrentes no Mercado de Transporte Internacional Marítimo Regular de Contêineres.
+Assim resta analisar os outros dois requisitos para a caracterização de um contrato associativo, a saber, existência de empreendimento comum e compartilhamento de riscos e resultados.
+Desde já, esclarece-se que este voto vogal focará, em especial, na noção de empreendimento comum, pois o voto do Relator desenvolveu com propriedade a questão do compartilhamento dos riscos e resultados.
+Ainda assim, alguma menção a este compartilhamento será feita, na medida que sua comprovação reforça a própria existência de empreendimento comum.
+2. Contrato objeto da Consulta
+O contrato objeto da Consulta é um Vessel Sharing Agreement (“VSA”), por meio do qual as Partes irão disponibilizar navios e operar conjuntamente uma linha regular, de frequência semanal, entre a Costa Leste da América do Sul e o Oeste e Sul da África, em ambos os sentidos, denominada no Contrato como SAMWAF (a Consulente CMA CGM utiliza esta mesma denominação na comercialização de seu serviço de transporte de cargas em contêineres, enquanto a Consulente HSDG utiliza a denominação SAAF para indicar esta linha no serviço de transporte de contêineres que oferta.
+Acredita-se que a NDAL utilize a sigla ECSA7).
+Conforme disposto no VSA e informado pelas Consulentes, as Partes estabelecem conjuntamente as características da linha SAMWAF, tais como:
+Os portos atendidos, duração da viagem e eventuais alterações nesta programação.
+[Conforme cláusula 4.1 do Contrato, a linha atenderá os portos de Navegantes, Paranaguá, Santos, Rio de Janeiro, Durban, Port Elizabeth, Cidade do Cabo, Luanda, Pointe Noire, em viagem com duração de 42 dias de ida e volta].
+Os requerimentos mínimos dos navios que poderão ser utilizados por cada Parte na operação da linha.
+[A cláusula 5.1. do Contrato indica, por ex., a capacidade mínima nominal dos navios, o número de tomadas para os contêineres refrigerados, a velocidade mínima média].
+O número de navios que devem ser fornecidos por cada Parte.
+[A cláusula 5.6. do Contrato dispõe que a HSDG fornecerá 2 navios, a CMA CGM fornecerá 3 navios, e a NDAL fornecerá 1 navio].
+Regras para a retirada temporária de navios para manutenção e reparos [periodical dry-docking – vide cláusula 5.5 do Contrato].
+Critérios para avaliação da qualidade do serviço prestado (“confiabilidade da programação executada”) por cada uma das Partes (levando-se em consideração, notadamente, a pontualidade nas escalas/local de atracação – vide cláusula 8.2 do Contrato).
+Os terminais a serem utilizados em cada porto.
+Conforme estabelecido no VSA, cada Parte tem o direito de utilizar determinado espaço para alocar seus próprios contêineres em todos os navios que operam na linha SAMWAF, sendo tal espaço calculado em razão do espaço total disponibilizado por cada Parte em seus navios que operam na linha.
+Conforme exposto pelas Consulentes, o Contrato indica as alocações de espaço básicas (incluídas as tomadas para uso de contêineres refrigerados), com as respectivas divisões entre as contratantes e a remuneração por uso adicional de espaço.
+3. Existência de Empreendimento Comum
+A existência de empreendimento comum se depreende pela análise contratual do VSA, sobretudo quando comparado ao Slot Charter Agreement (SCA), bem como pelos debates desenvolvidos sobre o tema à luz da experiência comparada.
+3.1. Distinção entre o Vessel Sharing Agreement (VSA) e o Slot Charter Agreement (SCA)
+Inicialmente, cumpre distinguir o VSA do Slot Charter Agreement (SCA), haja vista que este Tribunal decidiu recentemente, na Consulta de nº 08700.006858/2016-78, pela não-obrigatoriedade de notificação dos contratos do tipo SCA.
+Entendeu-se que os contratos SCA não constituem empreendimento comum, tampouco compartilham riscos e resultados para fins de aplicação da legislação concorrencial.
+Em realidade, verifica-se que o VSA e o SCA são sensivelmente distintos, em especial no tocante à cooperação entre as partes contratantes, sobretudo em razão da presença de uma cooperação reforçada que existe entre os contratantes no caso dos VSAs.
+Enquanto o SCA é um contrato de cessão onerosa de espaço (slots) para transporte de contêineres em navios que operam em determinada linha – tal como um contrato de locação, o VSA instrumentaliza a “operação conjunta da linha”, nos termos das próprias Consulentes.
+Em outras palavras, a criação da linha, em especial a determinação da sua frequência, é resultado de uma cooperação entre as partes para a criação de um resultado final novo que não seria possível sem essa atuação conjunta das partes.
+No VSA, a linha é operada conjuntamente, enquanto no SCA há apenas a cessão onerosa de espaço em um navio, sem necessidade de cooperação para operar uma linha.
+Assim, como o resultado (criação de uma linha regular de navios com frequência semanal entre a Costa Leste da América do Sul e o Oeste e Sul da África), depende de uma cooperação, que, por sua vez, somente é possível em razão do contrato, conclui-se que este se enquadra no conceito de empreendimento comum referido na Resolução nº 17/2016 do CADE.
+Ademais, no VSA, há cláusulas relativas a custos comuns (11.
+Sharing Costs of the Service), de coordenação dos calendários (8.
+Vessel Scheduling) e de padronização de procedimentos (9.
+Vessel Operations), que inexistem no contrato SCA.
+Isso porque o contrato VSA trata justamente do compartilhamento de navios (Vessel Sharing) enquanto o contrato SCA tem por objeto o simples aluguel de espaço em navio (Slot Charter).
+É verdade que o VSA também possui previsão de aluguel de espaço em navio (6.
+Slot Alocation e Anexo IV. Slot Rates), mas estas obrigações fazem parte de um acordo mais amplo, como se um SCA estivesse contido no VSA.
+A análise do contrato VSA confirma que este possui uma complexidade jurídica maior do que o SCA, decorrente de uma relação de certa interdependência entre as partes contratantes, o que corrobora a existência de um empreendimento comum, ao contrário do que se constata no contrato SCA.
+A dinâmica de execução do contrato parece igualmente distinta.
+Por exemplo, enquanto no contrato SCA o “locatário” pode negociar mais facilmente com diferentes “locadores” (agentes que oferecem slots), no contrato VSA, pelo tamanho e atuação destes agentes, há uma certa interdependência entre eles, de modo que a cooperação, elemento natural em contratos relacionais[1], aparece de maneira reforçada.
+De modo semelhante, cenários de inexecução total ou parcial do contrato geram diferentes consequências jurídicas e práticas, quando examinadas comparativamente.
+3.2. Estudos da OCDE e perspectivas comparadas sobre o Vessel Sharing Agreement (VSA)
+Como visto, o VSA instrumentaliza a operação conjunta de uma linha regular de navios.
+Para tanto, envolve um alto nível de cooperação entre concorrentes, de forma a possibilitar a criação de uma linha supostamente mais eficiente, evitando redundância de custos, navios com grande capacidade ociosa e maior frequência da linha.
+A doutrina cita diversas eficiências que podem ser geradas pelo VSA, como destaca Antje Prisker:
+“Due to the high number of vessels required to operate a regular liner shipping service on a route, consortia allow the rationalisation of their members’ activities, economies of scale, and more efficient use of vessel capacity.
+Consortia thus help to improve the service that would be offered individually by each of the members.
+Customers receive a benefit from such cooperation, in terms of services provided (higher, more regular, frequencies, wider coverage of ports), as long as the consortium is subject to effective competition”.
+[2]
+Por esse motivo, em vários países esse tipo de acordo recebe imunidade antitruste após ser notificado.
+Nas palavras do Secretariado da OCDE:
+“Many regulatory frameworks exempting liner-shipping conferences also confer immunity to consortia and strategic alliances, under identical conditions.
+This is the case, for example, in the US, where consortia agreements roughly correspond to what is designated as “vessel sharing agreements (FMC 2012)”.
+[3]
+Não obstante as possíveis eficiências geradas, o VSA envolve alto grau de cooperação e aproximação de concorrentes.
+Nesse sentido, a OCDE reconhece igualmente a existência de diferentes graus de integração destes contratos, destacando três modalidades de cooperação e indicando o VSA como aquela com maior intensidade:
+“Slot charter” - consists merely in the lease of container slots by a partner on-board of vessels operated by consortium members.
+Probably, this is the most common agreement among those (consortium) members that prefer to minimise their involvement within the arrangement, by not operating any vessel.
+“Slot exchange” - very similar to slot chartering, but entailing reciprocal chartering.
+All the partners involved deploy a certain number of vessels but, where needed, are available to lease/lease out container slots from/to partners.
+“Vessel sharing” - the strongest form of agreement.
+Ocean carriers in this case are prone to share their ship capacity with the partners, in order to increase ship utilization rate.
+[4]
+Justamente por estas particularidades, sustenta-se que os contratos VSA representam uma forma reforçada de cooperação, tal como um consórcio ou uma aliança comercial: “A ‘consortium’ or an ‘alliance’ or ‘vessel sharing agreement’ (‘VSA’) are an operational type of cooperation, i.e. cooperation on ships or on joint services – but not on price”[5].
+Além disso, identifica-se igualmente o compartilhamento de riscos e resultados nos contratos VSA, o que é corroborado por estudos da OCDE:
+“In order to afford the size of the investment in new vessels (full container ship), consortia were formed.
+With consortia, the risk associated with the new investment was spread among the carriers involved in the agreement”.
+(…)
+“[i]n strategic alliances, cost-reducing arrangements are the same that are applied in consortia.
+In fact, within a strategic alliance, members share risk in numerous shipping services utilizing multiple slot charter, slot exchange and vessel sharing agreements (Chen et al., 2008)”.
+[6]
+Não é por outro motivo que diversos países, mesmo quando conferem imunidade antitruste, exigem a notificação de VSAs perante algum órgão estatal.
+A título ilustrativo, vale citar os Estados Unidos, o Japão, a África do Sul, a China e a Malásia.
+[7]
+Em suma, como se comprova pela experiência internacional e estudos comparados, a distinção entre VSA e SCA é vital para a escolha da forma de controle concorrencial (ex ante ou ex post) e eventual análise concorrencial dos casos concretos.
+Nos VSAs, quando comparado aos SCAs, há um risco maior de fixação de capacidade dos navios, coordenação tácita (ou explícita) entre concorrentes e fechamento de mercado.
+4. Dispositivo
+Ante o exposto, acompanho o Relator e voto pelo conhecimento da Consulta, bem como pela existência de notificação obrigatória para o contrato submetido à presente Consulta, nos termos da Resolução nº 17/2016 do CADE, haja vista o preenchimento do requisito de “empreendimento comum”, além dos demais requisitos como denota o voto do Relator.
+É o voto
+Brasília 18 de janeiro de 2017
+PAULO BURNIER DA SILVEIRA
+Conselheiro do CADE
+[1] Ian R. Macneil, The New Social Contract: An Inquiry into Modern Contractual Relations, New Haven (USA): Yale University Press, 1980.
+[2] Antje Prisker.
+“Commission adopts new block exemption regulation for liner shipping consortia”. Competition Policy Newsletter.
+Number 1 – 2010.
+Disponível em http://ec.europa.eu/competition/publications/cpn/2010_1_4.pdf.
+[3] OCDE.
+Working Party No. 2 on Competition and Regulation. COMPETITION ISSUES IN LINER SHIPPING -- Note by the Secretariat -- 19 June 2015.
+DAF/COMP/WP2(2015)3. .
+Disponível em (http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=DAF/COMP/WP2(2015)3&docLanguage=En).
+[4] OCDE (2015).
+Ibid.
+[5] OCDE (2015).
+Ibid.
+[6] OCDE (2015).
+Ibid.
+Parágrafos 15 e 119
+[7] OCDE (2015

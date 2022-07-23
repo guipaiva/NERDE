@@ -1,0 +1,90 @@
+:: SEI / CADE - 0102521 - Nota Técnica ::
+NOTA TÉCNICA Nº 16/2015/CGAA1/SGA1/SG/CADE
+Procedimento Preparatório de Inquérito Administrativo nº 08700.004012/2014-31
+Representante: Conselho Administrativo de Defesa Econômica (Cade) "Ex officio"
+Representadas: Produtos Roche Químicos e Farmacêuticos S/A e Novartis Biociências S/A
+EMENTA: Procedimento Preparatório de Inquérito Administrativo.
+Conluio no mercado de medicamentos para o tratamento de degeneração macular relacionada à idade (DMRI) entre as empresas Produtos Roche Químicos e Farmacêuticos e Novartis Biociências S.A. Avastin (bevacizumabe) e Lucentis (ranibizumabe).
+Diferenciação artificial de produtos.
+Abstenção em concorrer.
+Instauração de Inquérito Administrativo nos termos dos artigos 13, III, e 66 e seguintes, da Lei nº 12.529/11 c/c artigo 141 e seguintes do Regimento Interno do Cade.
+I. RELATÓRIO
+Trata-se de Procedimento Preparatório de Inquérito Administrativo instaurado por denúncia anônima protocolada neste Cade em 13 de maio de 2014 (Doc.0003925) a respeito de suposto cartel formado no setor farmacêutico entre as empresas Produtos Roche Químicos e Farmacêuticos Ltda. (Roche) e Novartis Biociências S/A (Novartis).
+A denúncia traz cópia da decisão do órgão italiano de defesa da concorrência e alega que os mesmos ilícitos concorrenciais que ensejaram a condenação naquele ordenamento teriam supostamente sido replicados no Brasil, no mercado de injeções intraoculares para o tratamento de degeneração macular relacionada à idade - DMRI.
+Visando instruir o presente feito, esta Superintendência-Geral, através do Ofício nº 4668/2014/SG/GAB/CADE, questionou os seguintes pontos à Agência Nacional de Vigilância Sanitária – Anvisa (p.105-106/Doc.0003925):
+se os produtos são comercializados no Brasil e, em caso afirmativo, sob quais NCM;
+em caso de (a) afirmativo, quais empresas podem importar estas substâncias;
+se o uso desses medicamentos para o tratamento de (i) maculopatias exsudativas e (ii) glaucoma neovascular é autorizado no Brasil;
+quais informações estão disponíveis sobre importações e importadores do produto no Brasil, entre 2008 e 2013.
+Em resposta, a supracitada Autarquia enviou a Nota Técnica nº 060/2014-DIMON, (p.114-119/Doc.0003925), que, em suma, informa as indicações farmacêuticas dos produtos Avastin (bevacizumabe) e Lucentis (ranibizumabe), que as empresas detentoras dos registros são a Produtos Roche Químicos e Farmacêuticos e a Novartis Biociências S.A, respectivamente.
+Ademais, informou a NCM de cada produto.
+Em 29 de dezembro de 2014, através do Ofício nº 5762/2014/SG/GAB (p.122/Doc.0003925), esta SG requisitou informações complementares a partir da resposta oferecida pela Anvisa, que, mediante a Nota Técnica 109/2015-DP-GADIP-ANVISA, (Doc.0017698) esclareceu dúvidas quantos as NCM`s dos respectivos fármacos.
+Por fim, este Cade, através dos Ofícios nº 842/2015/CADE (Doc.0021499) e nº 1182/2105/CADE (Doc.0029717), requisitou informações à Câmara de Regulação de Mercado de Medicamentos – CMED e à Anvisa, respectivamente, a respeito do registro destas medicações na Agência, faturamento e quantidade vendida dos fármacos, bem como processos relativos à regularização dos medicamentos no Brasil.
+Em reposta, a Anvisa, mediante o Ofício 368/2015-DP-GADIP/ANVISA (Doc.0050038), enviou cópia integral dos Processos nº 25351.614001/2010-16 e 252351.323500/2014-37, anexados no documento SEI nº 0050043, contendo informações sobre o trâmite do reconhecimento do uso off-label do fármaco Avastin pelo governo brasileiro.
+Ademais, a Câmara de Regulação do Mercado de Medicamentos (CMED) enviou o ofício nº 301/2015-SCMED/GADIP/ANVISA (Doc.0057029), contendo informações sobre o faturamento, quantidade vendida e propósito terapêutico dos fármacos em comento.
+É o breve relatório.
+II. ANÁLISE
+Trata-se de denúncia anônima protocolada nesta autarquia em 13 de maio de 2014, narrando a existência de um suposto conluio entre as empresas Roche e Novartis, já condenadas em sede de processo administrativo perante a autoridade antitruste italiana - AGMC[1], que também teria ocorrido no Brasil.
+Importante ressaltar que estas possíveis condutas anticompetitivas se enquadram no artigo 36 e incisos subsequentes da Lei nº 12.529 de 2011, configurando ilícito anticoncorrencial.
+A conduta investigada versa a respeito de eventual conluio formado entre as empresas Roche e Novartis, representantes dos fármacos Avastin (bevacizumabe) e Lucentis (ranibizumabe), respectivamente.
+Segundo a denúncia, em fevereiro de 2014 a AGCM multou a Novartis em 92 milhões de euros e a Roche em 90,5 milhões de euros por formação de cartel (acordo horizontal) no mercado de fármacos para tratamento de patologias da vista devidas a distúrbios vasculares oculares.
+A denúncia é fundamentada sobre a hipótese de que o conluio entre as empresas citadas também teria ocorrido no Brasil, entre os anos de 2008 e 2013.
+II.1     Da condenação perante a autoridade antitruste italiana
+Narra a decisão da AGMC que o Avastin, à base do princípio ativo bevacizumabe, foi desenvolvido pela empresa Genentech, sediada em São Francisco (EUA) (p.21-22/Doc.0003925), que manteve o seu direito exclusivo de produção e venda no país e cedeu para a Roche, mediante o pagamento de royalties, as vendas relativas ao mercado mundial, excluído os EUA em 2003.
+O Avastin foi inicialmente indicado apenas para tratamento de câncer, mas por meio de pesquisas independentes, especialistas descobriram a possibilidade de utilizá-lo de maneira também para o tratamento de patologias oftalmológicas – uso off-label.
+Com a propagação da informação e do uso off-label do medicamento de maneira relativamente rápida, a Roche passou a informar por boletins diretos aos profissionais da área, como ficou sobejamente demonstrado no caso italiano, que o uso do Avastin seria destinado a tratamentos tumorais e que para os demais existia o medicamento denominado Lucentis, da empresa Novartis.
+O Lucentis, lançado em 2007 por sua rival, a empresa Novartis, tem preço substancialmente maior que o Avastin.
+O argumento seria da especificidade do medicamento para o tratamento de patologias da vista devidas a distúrbios vasculares oculares, também conhecido como Degeneração Macular Relacionada à Idade - DMRI (p.42, 46 e 51/Doc.0003925)
+O Lucentis também era fabricado pela empresa Genentech e sua venda extra-EUA era realizada pela Novartis, sediada na Suíça, ensejando pagamentos de royalties à Genentech (p.25-26/Doc.0003925).
+Concomitantemente ao processo de difusão do uso off-label do Avastin e, portanto, de deslocamento de parte da demanda do Lucentis, a Roche já controlava a Genentech, conforme exposto no item 10 do documento SEI nº 0003925:
+a Genentech faz parte do grupo Roche enquanto inteiramente controlada pela Roche, a qual detém a maioria absoluta desde 1990 com a aquisição de uma cota equivalente a 55,9% e vem a obter todo o capital social em março de 2009, com uma oferta pública de compra relativa aos restantes 44,1%
+Diante desse cenário de disputa entre dois produtos com eficácia equivalente e preços substancialmente diferentes, foi constatado que as empresas diferenciaram artificiosamente o Avastin do Lucentis, por meio da produção de material pretensamente informativo enfatizando os riscos derivados do uso intravitral do primeiro fármaco e o correspondente apelo a uma alegada maior segurança do segundo.
+Ficou comprovado que a Roche chegou a vender inicialmente o Avastin para clínicas oftalmológicas da Itália, o que atesta a sua ciência quanto a eficiência do uso off-label medicamento (p.46, 53 e 54/Doc.0003925), ainda que posteriormente tenha mudado sua posição.
+Ocorre que estudos independentes realizados pelo setor público nos Estados Unidos, Canadá e União Europeia garantiram que o uso off-label do Avastin promove o tratamento com níveis de eficácia e segurança compatíveis com o Lucentis, a um custo bastante inferior.
+Consta nos autos projeção do consumo de tratamentos off-label com Avastin custaram 4,6 milhões de euros para a Itália, ao passo que se as mesmas injeções fossem substituídas por Lucentis, o gasto subiria para 49,4 milhões de euros (p. 62/Doc.0003925).
+II.2      Da similaridade da conduta no Brasil
+Para avaliar se a repetição de tal conduta anticompetitiva é verossímil no Brasil, é necessário abordar três tópicos: i) se de fato Avastin e Lucentis são bens substitutos para o tratamento da DMRI; ii) se houve o comportamento dissuasório por parte da Roche quanto ao uso off-label do Avastin; iii) se a diferença entre o custo dos tratamentos é substancial para que se infira que a Roche se beneficia por meio de royalties pagos a Genentech de sua abstenção em concorrer.
+Segundo informações fornecidas pela Anvisa (Doc.0063818), a proporção de prescrições já atestam a prática médica no uso off-label do Avastin no Brasil:
+Tabela 1 -  Numero de prescrições por diagnósticos dos medicamentos Avastin e Lucentis [2]
+Fonte: Anvisa
+As finalidades terapêuticas relacionadas a oftalmologia[3] (idênticas as que fundamentam a prescrição do Lucentis) representam 31% (trinta e um por cento) das prescrições no ano de 2014[4], restando evidente a substutibilidade dos dois medicamentos para a finalidade terapêutica destaca acima.
+Apesar do uso off-label de medicações e tratamentos ser lícito, conforme esclarecido no Ofício 1125/2014-DP-GADIP/ANVISA (Doc.0008988), verifica-se que também no Brasil a Roche aparentemente empreendeu esforços em diferenciar os medicamentos substitutos perante os órgãos governamentais.
+Em resposta ao Ofício nº 1182/2015/CADE (Doc.0029717), requisitou-se o processo relativo ao registro do uso do princípio ativo bevacizumabe para degeneração macular relacionada a idade – DMRI.
+A Anvisa, por meio do ofício nº 368/2015-DP-GADIP-ANVISA (Doc.0050038), enviou cópia integral do Processo nº 252351.323500/2014-37 que tramitava naquela Agência referente ao uso do Avastin (bevacizumabe) no tratamento de Degeneração Macular Relacionada à Idade.
+Verifica-se que o processo de registro não se iniciou por provocação da detentora da patente do medicamento, mas pela Comissão Nacional de Incorporação de Tecnologia no SUS (Conitec) que, em maio de 2014, solicitou à Anvisa que autorizasse o uso do Avastin para tratamento da DMRI dada a análise de custo-efetividade feita pelo Ministério da Saúde (p5-16.Doc.0050043).
+Fica nítido que a Roche não só se absteve de requerer o registro do uso de seu medicamento para tratamento do DMRI, como apresentou objeções ao registro iniciado pela CONITEC.
+Por sua vez, a Novartis acostou documentos em concordância com a Roche (p.196-219 e p. 221-539/Doc.0050043).
+Ou seja, ela tentou evitar que o Avastin fosse usado de forma off label, apesar das evidências – no Brasil e em outros países - de que ele pode ser utilizado como substituto do Lucentis para os tratamentos acima mencionados.
+Entende-se não haver racionalidade econômica para a Roche se opor ao uso off label do seu medicamento, que poderia ter suas vendas aumentadas.
+A única justificativa é o ganho por meio de um acordo com seu concorrente para a proteção do mercado do seu concorrente, no qual a empresa detinha interesse econômico.
+Isto posto, os elementos juntados aos autos apontam que a conduta perpetrada na Itália eventualmente se repete no Brasil.
+Quanto as diferenças de custo do tratamento de DMRI, segundo o Núcleo de Avaliação de Tecnologias em Saúde (NATS) da Universidade Federal de Minas Gerais (UFMG), em manifestação requisitada pelo Juiz de Direito da 2ª Vara da Comarca de Andradas do TJMG, nos autos do Procedimento em Juizado Especial Cível nº 0003604-63.2014.8.13.0026:
+Tanto o ranibizumabe quanto o bevacizumabe podem ser usados no tratamento com eficácia semelhante, sendo que o tratamento com bevacizumabe custa 3% do valor do ranibizumabe (R$246,63 e R$9058,05)”[5]
+A Agência Nacional de Vigilância Sanitária (Anvisa), em estudo publicado em 6 de abril de 2011, afirmou que a dose terapêutica para degeneração macular custaria em torno de US$ 1.800,00 com o uso do Lucentis e apenas US$ 30,00 com o Avastin.
+Citando estudos de outros pesquisadores, concluiu:
+Finalmente concluímos que embora os produtos bevacizumabe e ranibizumabe sejam diferenciados quimicamente, do ponto de vista terapêutico podem ser considerados alternativas equivalentes em eficácia, o que é atestado pelo intenso uso “off label” do bevacizumabe intra-ocular no Brasil e no mundo”[6].
+Nesse contexto, tais elementos confirmariam a tese de que a Roche, ao se abster em concorrer com a Novartis, promovendo uma diferenciação artificial dos produtos Avastin e Lucentis, poderia auferir maiores receitas recebendo royalties por meio do contrato entre Genentech e Novartis, dado o elevado custo de comercialização do Lucentis.
+Esse aumento artificial de receita estaria ocorrendo por meio de uma conduta anticompetitiva, com claro prejuízo ao consumidor, que teve que pagar mais por um tratamento com um custo extremamente maior, o mesmo ocorrendo para o setor público.
+III. CONCLUSÃO
+Por todo o exposto e tendo em visa a existência de indícios de infração à ordem econômica nos termos do artigo 36, caput e § 3º, incisos I e II, da lei n.º 12.529, de 2011, sugere-se a instauração de Inquérito Administrativo nos termos dos artigos 13, III, 66, §1º da Lei n.º 12.529/2011, e 141, caput, do Regimento Interno do Cade.
+_______________________________________________
+[1] Autorità Garante Della Concorrenza e del Mercato.
+[2] Destaque em amarelo para prescrições em caso de Degeneração Macular Relacionada à Idade – DMRI, tratada através da utilização off-label do Avastin.
+[3] Destacamos da Classificação Internacional de Doenças – CID 10: H35.3 Degeneração da mácula e do pólo posterior, E11.3 Diabetes mellitus não-insulino-dependente - com complicações oftálmicas e CID 10 - E14.3 Diabetes mellitus não especificado - com complicações oftálmicas.
+Disponível em http://www.datasus.gov.br/cid10/V2008/cid10.htm.
+Acesso em 19 de agosto de 2015.
+[4] A base de dados Índice Nacional de Terapêutica e Enfermidades (INTE) é uma publicação trimestral que traz o resultado de um estudo sistematizado e estatístico da prática médica.
+O trabalho informa sobre os perfis de diagnósticos e sobre os hábitos prescritivos de médicos de diversas especialidades.
+Desta maneira, é possível, por exemplo, relacionar o uso dos medicamentos com os diagnósticos correspondentes e as características do paciente e do médico.
+Os diagnósticos são apresentados e codificados de acordo com a Classificação Internacional de Doenças (CID) da OMS, enquanto que os medicamentos são, da mesma maneira, codificados de acordo com o sistema de Classificação Anatômica da EPhMRA.
+De acordo com a metodologia do INTE de 1999, o banco de dados é construído a partir de informações geradas por uma amostra ou painel de médicos “criteriosamente selecionados” que corresponde à projeção da população médica do país.
+A amostra é definida por sistemas de cotas estratificadas (55 estratos) por especialidades e regiões do país.
+O estudo considera dezesseis especialidades médicas, assim como cinco regiões, a saber: Nordeste, Centro-Leste, Centro-Oeste, São Paulo e Sul.
+O estudo utiliza o fator de projeção para médicos (FPM) para fazer a projeção da população médica em cada um dos 55 extratos definidos.
+Disponível em http://portal.mj.gov.br/sde/services/DocumentManagement/FileDownload.EZTSvc.asp?DocumentID={0D805865-3160-43C0-8A3B-731B8BD4C441}&ServiceInstUID={2E2554E0-F695-4B62-A40E-4B56390F180A} .
+Acesso em 20/08/2015.
+[5]  Disponível no site do CNJ: http://www.cnj.jus.br/files/conteudo/destaques/arquivo/2015/04/84ee55b99abdbb0cf5632d6722d6468b.pdf.
+Consulta em 12/08/2015.
+[6] Disponível no site da ANVISA.
+http://portal.anvisa.gov.br/wps/content/Anvisa+Portal/Anvisa/Inicio/Medicamentos/Assunto+de+Interesse/Informes/20110406.
+Acesso em 12/082015

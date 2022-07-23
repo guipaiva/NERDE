@@ -1,0 +1,88 @@
+SEI/CADE - 0716002 - Voto Embargos de Declaração
+Embargos de Declaração no Recurso Voluntário em Medida Preventiva nº 08700.005308/2019-84
+Partes: Itaú Unibanco S.A., Redecard S.A.
+Advogados(as): José Carlos da Matta Berardo, Marília Cruz Ávila
+Relator(a): Conselheiro Mauricio Oscar Bandeira Maia
+VOTO DO RELATOR  - CONSELHEIRO Mauricio Oscar Bandeira Maia
+VERSÃO PÚBLICA única
+EMBARGOS DE DECLARAÇÃO.
+RECURSO VOLUNTÁRIO.
+OMISSÃO/erro material.TEMPESTIVIDADE.
+CONHECIMENTO.
+NÃO PROVIMENTO.
+A ausência de omissão ou outro vício característico dos Embargos de Declaração enseja o não provimento recursal.
+Não há erro material na utilização de dados extraídos de relatório produzido pelo Banco Central do Brasil com base em informações prestadas pelas próprias Embargantes ao órgão regulador e corroborados por outras métricas de análise de participação de mercado já validadas por este Tribunal em atos de concentração.
+voto
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos em sede de Recurso Voluntário interposto em Medida Preventiva em face do Despacho n° 24/2019 proferido pela Superintendência-Geral do CADE, que acolheu a Nota Técnica n° 79/2019/CGAA2/SGA1/SG/CADE, e pelo qual se instaurou o Processo Administrativo n° 08700.002066/2019-77 e se adotou medida preventiva contra as Embargantes.
+A decisão colegiada foi disponibilizada no Diário Oficial da União - DOU - de 04 de dezembro de 2019 (SEI 0692454).
+Os Embargos de Declaração opostos por Itaú Unibanco S.A. e Redecard S.A. foram protocolizados em 09 de dezembro de 2019 (SEI 0695316).
+De seu turno, os autos foram encaminhados à minha relatoria por meio de Despacho ordinatório tornado público em 10 de dezembro de 2019 (SEI 0695328).
+O processo foi incluído em pauta para apreciação na 152ª Sessão Ordinária de Julgamento.
+É o breve relatório.
+DA ADMISSIBILIDADE DO RECURSO
+No tocante à admissibilidade recursal, observo que os presentes embargos foram protocolados dentro do prazo regimental previsto para a espécie, por parte legítima e tendo sido veiculadas alegações de vícios que ensejam a modalidade eleita, razão pela qual considero preenchidos os requisitos intrínsecos e extrínsecos, devendo-se conhecer destes declaratórios.
+DO MÉRITO
+Em síntese, as Embargantes alegam que a decisão proferida pelo Tribunal do CADE teria incorrido em omissão e em erro grave, ao considerar a situação de posição dominante do ltaú no segmento de depósitos à vista, com base nos dados utilizados pela Nota Técnica n° 79/2019/CGAA2/SGA1/SG/CADE.
+As embargantes afirmam ter o Tribunal assentido com o posicionamento da SG de se valer de dados supostamente incorretos visando a aumentar a participação de mercado do grupo econômico e de incluir no cálculo de participação de mercado os “depósitos no exterior”, ignorando a dimensão geográfica estabelecida pelo próprio CADE.
+Aduzem que os dados utilizados pela referida nota técnica envolveriam informações de todo o grupo econômico, inclusive de depósitos no exterior, e que o patamar de 30% de participação de mercado estaria superestimado, de modo que a participação do ltaú no mercado de depósitos à vista em junho de 2019 seria inferior a 12%, não se podendo inferir daquela instituição bancária posição dominante no mercado de depósitos à vista e, consequentemente, condições de praticar a conduta abusiva que lhe fora imputada.
+Para embasar essa compreensão, as Embargantes tomam como exemplo o Ato de Concentração n° 08700.001642/2017-05 (ltaú e Citibank), no qual se verificou uma participação do ltaú no mercado de depósitos à vista no Brasil da ordem de 11% no ano de 2018, para então deduzirem que a participação do ltaú no mercado de depósitos à vista em junho de 2019 (período da conduta) seria inferior a 12%.
+Em que pesem os argumentos apresentados, entendo que a decisão não merece reforma, uma vez que não há qualquer omissão ou erro material no entendimento exposto por este Tribunal.
+Inicialmente, deve-se ter em conta que nem a Superintendência Geral do CADE nem este Tribunal estão vinculados a uma determinada metodologia de cálculo de market share.
+É possível citar, por exemplo, a discussão sobre definição de mercado relevante sob a ótica do produto, a ser analisado de forma individual ou por clusters, bem como a definição de cada produto ou serviço bancário como um mercado relevante distinto.
+Ademais, observo que a própria lei de defesa da concorrência deixou ao juízo do CADE estabelecer qual patamar de concentração pode ser considerado nocivo para o mercado, a depender das próprias peculiaridades existentes em cada setor.
+Sobre a análise de participação de mercado, extrai-se do Guia para Análise de Atos de Concentração Horizontal a definição do Mercado Relevante, etapa em que o mercado é dimensionado sob a ótica produto e geográfica, sendo tal providência o passo anterior à métrica sobre participação de mercado, quando se trata de um ato de concentração.
+No caso em tela, de controle de condutas, a mesma definição é também aplicável.
+Nesse contexto, é possível afirmar que o voto condutor neste Tribunal assumiu a análise sobre mercados relevantes que fora proposta pela Superintendência Geral do CADE, a qual tratou dos “mercados de credenciamento e captura de transações” e do “mercado de serviços bancários”, ambos sob a dimensão geográfica nacional[1].
+No que diz respeito à análise sobre poder de mercado das Embargantes no setor de credenciamento e captura de transações, este ponto não foi trazido especificamente em sede de embargos de declaração, visto que as próprias Embargantes reconhecem  participação de mercado próxima de 30% do mercado de credenciamento e captura de transações (SEI n° 0649832), motivo pelo qual é desnecessário enfrentar tal aspecto neste voto.
+Não obstante, em relação ao mercado de “serviços bancários”, nota-se que a Superintendência Geral do CADE se utilizou dos dados do Relatório “Passivo dos conglomerados prudenciais e instituições independentes, data-base 06/2019”[2] , especialmente do que trata dos números sobre depósitos à vista, para afirmar que as Embargantes possuem posição dominante presumida no “mercado de serviços bancários”.
+Sobre este ponto, as Embargantes alegam existir omissão e erro grave, na medida em que o voto condutor incorporou um entendimento da Superintendência Geral do CADE sobre as informações de depósitos à vista das instituições financeiras que supostamente seriam incorretas.
+Observo que a jurisprudência deste Tribunal vem decidindo que “cada produto e/ou serviço bancário constitui um mercado produto distinto, devendo ser analisado individualmente.”[3]
+Neste mesmo sentido, essa definição permitiria que fossem “identificados com mais clareza os mercados em que há potencial problema concorrencial”[4] e está em consonância com o entendimento deste Conselho em Atos de Concentração recentes[5].
+Tendo em vista a jurisprudência apresentada, possível definir, sob a ótica do produto, os mercados relevantes de produtos e/ou serviços bancários como distintos entre si, ou seja, segmentando-os a partir de suas características.
+Conforme jurisprudência deste Tribunal[6] poderiam ser tratados como mercados relevantes, dentro do universo de “serviços bancários”, por exemplo:
+Depósitos à vista;
+Depósitos a prazo e poupanças;
+Arranjos de pagamentos;
+Emissão de cartões de crédito;
+Programas de fidelização;
+Créditos de livre utilização – pessoas físicas;
+Empréstimos consignados – pessoas físicas;
+Financiamentos habitacionais – pessoas físicas;
+Financiamentos para aquisição de veículos – pessoas físicas;
+Administração fiduciária e gestão de recursos de terceiros;
+Distribuição de fundos/ativos de terceiros;
+Previdência privada;
+Distribuição de planos de previdência privada;
+Títulos de capitalização;
+Distribuição de Títulos de capitalização;
+Seguros;
+Corretagem de seguros; e
+Corretagem de títulos e valores mobiliários.
+Diante do exposto, é possível observar que boa parte dos produtos apontados acima demandam a existência de domicílio bancário no banco prestador do serviço e os dados de análise não necessariamente devem ser analisados da forma que as Embargantes estão propondo.
+Ademais, noto que as Embargantes apresentam um recorte de informações envolvendo exclusivamente o mercado de depósitos à vista, e avaliam apenas a métrica de volume financeiro, sem tratar de outras possíveis métricas como, por exemplo, a quantidade de contas-correntes ativas ou de domicílios bancários, elementos aptos a também ensejar a percepção de poder de mercado.
+Outrossim, para tratar dos presentes embargos de declaração, é necessário questionar também o motivo do recorte oferecido pelas Embargantes, o qual considera apenas os depósitos à vista, e não leva em consideração também, por exemplo, as métricas dos depósitos a prazo e poupanças ou os demais produtos e serviços bancários, que podem ser acessados na medida em que o consumidor – empresa ou indivíduo – estabelece domicílio bancário em determinado banco, como ocorre a partir da conduta preventivamente afastada pelo CADE.
+Os depósitos à vista são uma espécie de produto destinado a pessoas físicas e jurídicas que consiste na captação de recursos não remunerados.
+Eles podem permanecer no banco por tempo indeterminado e são um dos principais produtos das instituições financeiras, podendo ser utilizados pelos clientes como forma de guarda e custódia de seus recursos.
+Os depósitos à vista também podem ser considerados uma das várias proxies de análise para a conta corrente, a qual, normalmente, é a porta de entrada de determinado cidadão no setor bancário.
+Consideram-se, portanto, como depósitos à vista, aqueles recursos disponíveis em conta corrente dos titulares dessas contas.
+Objetivamente quanto à análise da participação de mercado realizada pela SG-CADE, não vislumbro qualquer erro material que possa ensejar o provimento dos embargos de declaração, uma vez que as informações ali constantes tratam do valor circulante em depósitos à vista no conglomerado da Instituição Financeira e os dados apresentados constam de relatório prudencial produzido pelo Banco Central do Brasil com base em informações prestadas pelas próprias Embargantes ao órgão regulador e podem ser corroborados por outras métricas de análise de participação de mercado que foram utilizadas por este tribunal em atos de concentração envolvendo as Embargantes[7] .
+De se salientar ainda que a discussão ora colocada - sobre existência ou não de alta participação de mercado das Embargantes - deve exigir também uma análise mais apurada sobre as diversas possibilidades de exercício de poder de mercado e sobre os efeitos de aprisionamento nos diversos mercados de serviços bancários (acima exemplificados), matéria de fundo que será explorada no processo administrativo instaurado para apurar a conduta anticompetitiva, e não nos autos do Recurso Voluntário que discute a medida preventiva concedida, cujo escopo é limitado à constatação de fundado receio de dano e perigo de lesão irreparável ou de difícil reparação ao mercado, no que diz respeito à imposição de manutenção de domicílio bancário no Itaú como condicionante para que estabelecimentos comerciais clientes da Rede tenham direito à condição de liquidação em D+2 das transações realizadas com cartão de crédito.
+Ademais, ainda que por exercício argumentativo, se considerasse exclusivamente a informação de participação de mercado apresentada pelas Embargantes, observo que não haveria maiores impactos perante a medida preventiva imposta, uma vez que a SG-CADE identificou problemas justamente nos potenciais anticompetitivos das práticas de preço predatório, margin squeeze e venda casada, condutas não diretamente relacionadas exclusivamente ao mercado de depósitos à vista.
+Como restou evidenciado e inconteste que as Embargantes mantêm alta participação no setor de credenciamento e captura de transações (SEI n° 0649832) e como se trata de uma análise precária de potencial conduta anticompetitiva advinda do entrelaçamento do mercado de pagamentos ao mercado de serviços bancários como um todo, ao nosso ver, bastaria a observância de relevante participação de mercado em um único dos mercados analisados para restar evidenciada a possibilidade de prejuízo à dinâmica concorrencial, justificando a imposição da medida preventiva.
+Desta forma, não vislumbro qualquer erro material ou omissão na decisão proferida.
+Dispositivo
+Com base em todo o exposto, voto pelo:
+CONHECIMENTO e NÃO ACOLHIMENTO dos embargos de declaração opostos por Itaú Unibanco S.A., Redecard S.A., nos termos da fundamentação apresentada;
+Mauricio Oscar Bandeira Maia
+Conselheiro-Relator
+(assinado eletronicamente)
+Conforme parágrafo 75 da Nota Técnica Nº 79/2019/CGAA2/SGA1/SG/CADE (SEI 0676860)
+Relatório “Passivo dos conglomerados prudenciais e instituições independentes, data-base 06/2019”, acessado em 22 de janeiro de 2020.
+Fl. 15, Voto do Conselheiro Relator João Paulo de Resende no Ato de Concentração nº 08700.010790/2015-41 (Requerentes: Banco Bradesco S.A.; HSBC Bank Brasil S.A. – Banco Múltiplo; e HSBC Serviços e Participações Ltda.) (doc. Sei nº 0211912).
+Fl. 15, Voto do Conselheiro Relator João Paulo de Resende no Ato de Concentração nº 08700.010790/2015-41 (Requerentes: Banco Bradesco S.A.; HSBC Bank Brasil S.A. – Banco Múltiplo; e HSBC Serviços e Participações Ltda.) (doc. Sei nº 0211912).
+Ato de Concentração nº 08012.011303/2008-96 (Requerentes: Banco Itaú S.A. e Unibanco S.A.) e Ato de Concentração nº 08700.010790/2015-41 (Requerentes: Banco Bradesco S.A.; HSBC Bank Brasil S.A. – Banco Múltiplo; e HSBC Serviços e Participações Ltda.)
+Ato de Concentração nº 08700.001642/2017-05.
+(Requerentes: Itaú Unibanco S.A. e Banco Citibank S.A)
+Ato de Concentração nº 08012.011303/2008-96 (Requerentes: Banco Itaú S.A. e Unibanco S.A.) e Ato de Concentração nº 08700.001642/2017-05.
+(Requerentes: Itaú Unibanco S.A. e Banco Citibank S.A

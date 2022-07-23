@@ -1,0 +1,118 @@
+SEI/CADE - 0647264 - Parecer
+PARECER Nº 241/2019/CGAA5/SGA1/SG
+PROCESSO Nº 08700.003545/2019-19
+REQUERENTES:
+Sequoia Logística e Transportes Ltda. e Nowlog Logística Inteligente Ltda.
+Ementa: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento Sumário.
+Requerentes: Sequoia Logística e Transporte S.A. e Nowlog Logística Inteligente Ltda. Natureza da operação: aquisição de controle unitário.
+Mercado afetado: serviços de logística operacional e transporte rodoviário de cargas.
+Art. 8º, incisos III e IV, Resolução CADE nº 02/12.
+Aprovação sem restrições.
+VERSÃO DE ACESSO PÚBLICO
+I.                       REQUERENTES
+I.1.
+Sequoia Logística e Transportes S.A. (“Sequoia”)
+A Sequoia é uma empresa, detida pela WP XI C FIP Multiestratégia (“WP FIP Multiestratégia”) e acionistas minoritários, que presta atividades de logística integrada, fornecendo serviços de armazenagem, execução e transportes por meio das seguintes divisões especializadas: (i) divisão educacional, (ii) divisão e-commerce, (iii) divisão moda e varejo, e (iv) divisão de meios de pagamento.
+I.2.
+Nowlog Logística Inteligente Ltda. (“Nowlog”)
+A Nowlog é detida por pessoas físicas e, portanto, pertence ao seu próprio grupo econômico.
+Atua na prestação de serviços de logística operacional e transporte rodoviário de cargas, incluindo cosméticos, insumos farmacêuticos, medicamentos e produtos de higiene, exceto produtos perigosos, mudanças municipais, intermunicipais, interestaduais, internacionais, serviços de entrega rápida e malote.
+A Nowlog realiza entregas de pequenas encomendas, com estruturas e sistemas desenvolvidos especialmente para atender lojas virtuais, televendas, vendas por catalogo e pequenas encomendas, em mais de 400 cidades em todo o território nacional.
+II. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, conforme Despacho Ordinatório SECONT (SEI nº 0637859)
+Data da notificação
+18/07/2019
+Data da publicação do edital
+O Edital nº 267, que deu publicidade à operação em análise, foi publicado no dia 18/07/2019 (SEI nº 0640066)
+III. DESCRIÇÃO DA OPERAÇÃO
+Nos termos do Contrato de Compra e Venda de Quotas e Outras Avenças (“Contrato”), a presente notificação trata de operação por meio da qual a Sequoia pretende adquirir a totalidade das quotas representativas de 100% do capital social da Nowlog (a “Operação”).
+Segundo as partes, para a Sequoia, a realização da Operação possibilitará a ampliação da sua área de atuação, de modo a complementar os serviços por ela oferecidos nos ramos da logística fracionada de carga leve e entregas urgentes, presentes em varejo em geral, bem como o acesso, pelos seus clientes, à malha de distribuição de logística integrada da Nowlog.
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012)
+III – Baixa participação de mercado com sobreposição horizontal.
+IV – Baixa participação de mercado com integração vertical.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Sim
+Integração vertical
+Sim
+Setor em que há sobreposição horizontal ou integração vertical
+Sobreposição horizontal: mercado
+de logística e transporte em geral no Brasil
+Integração vertical: atividades de
+transporte rodoviário prestadas pela Nowlog e as atividades de armazenagem de cargas
+prestadas pela Sequoia
+Participações de mercado
+Reduzidas
+VI. Considerações sobre a Operação
+As requerentes reportam que todas as suas atividades estão compreendidas no mercado de logística e transporte em geral no Brasil, ensejando a Operação, portanto, sobreposição horizontal nesse mercado.
+Além desse mercado, apontam que seria possível identificar sobreposição horizontal entre as atividades de transporte rodoviário de cargas prestadas pelas partes e uma relação vertical potencial entre as atividades de transporte rodoviário prestadas pela Nowlog e as atividades de armazenagem de cargas prestadas pela Sequoia, a depender da maneira como os mercados são definidos, diante das possibilidades presentes na jurisprudência do CADE.
+As partes relatam que tanto a Sequoia como a Nowlog atuam no setor de transporte e logística em todo o território brasileiro.
+Especificamente com relação à armazenagem de cargas, os serviços prestados pela Sequoia se concentram em Embu das Artes (SP), Extrema (MG), Navegantes (SC) e Jaboatão dos Guararapes (PE).
+A Nowlog, por sua vez, não atua em armazenagem.
+De acordo com precedentes que analisaram o mercado como o de transporte e logística em geral[1], tais serviços compreenderiam atividades de controle de estoque, armazenagem e gestão de transportes, compreendendo “a parte do processo da cadeia de abastecimento que planeja, implementa e controla a eficiência e eficácia do fluxo de armazenagem de produtos, serviços e informações correlatas do ponto de origem ao ponto de consumo, com objetivo de atender à necessidade dos clientes”.
+Ainda, sob essa definição, consideram-se como atividades de um mesmo mercado aquelas prestadas com relação a diferentes cargas, como granéis sólidos (tais como commodities agrícolas e minerais), granéis líquidos (como combustíveis e soda cáustica), contêineres, carga perecível, etc.
+Com relação ao escopo geográfico desse mercado, este seria o território nacional, tendo em vista que esse conjunto de serviços pode ser prestado em todo o país[2].
+Foi levantado pelas partes, tendo como base o tamanho total do mercado nacional de logística e transporte em geral indicado pelo Instituto de Logística e Supply Chain (“Ilos”) em operação envolvendo a Sequoia submetida ao CADE em 2016 (Ato de Concentração nº 08700.006166/2016-20), que ele teria representado, à época, um faturamento estimado de R$ 600 bilhões no PIB (Produto Interno Bruto[3]) brasileiro.
+As partes apresentaram no quadro abaixo suas atividades nesse mercado nacional de logística e transporte em geral, em 2018:
+Tabela 1 - Atividades nesse mercado nacional de logística e transporte em geral - 2018
+[ACESSO RESTRITO]
+Fonte: requerentes.
+Diante de um faturamento, como visto acima, de R$ [ACESSO RESTRITO À SEQUOIA] da Sequoia (correspondente a [ACESSO RESTRITO À SEQUOIA] (0% - 10%) de share) e de R$ [ACESSO RESTRITO À NOWLOG] da Nowlog (correspondente a  [ACESSO RESTRITO À NOWLOG] (0% - 10%) de share), tem-se que a participação conjunta das partes seria de [ACESSO RESTRITO ÀS REQUERENTES] (0% - 10%) no segmento de logística e transporte em geral.
+Assim, ainda que o valor do mercado total possa ter aumentado, esta SG entende que o dado de 2016 ainda pode ser utilizado como referência para demonstrar como seriam reduzidas as participações de mercado das partes.
+A título de completude, as requerentes esclarecem que as atividades de transporte e armazenagem da Sequoia  [ACESSO RESTRITO À SEQUOIA], ao passo que as da Nowlog, por sua vez [ACESSO RESTRITO À NOWLOG]​.
+Em alguns outros precedentes, contudo, o CADE analisou serviços de transporte rodoviário e armazenagem como mercados relevantes distintos, tendo em vista as especificidades de cada uma dessas atividades e o alcance potencialmente limitado de alguns serviços a apenas certas regiões[4].
+Em tais ocasiões, considerou-se geralmente, como visto acima, que as atividades de transporte rodoviário e armazenagem são verticalmente relacionadas[5].
+Conforme alguns precedentes, serviços de armazenagem, por sua vez, também podem ser analisados com base em segmentação por tipo de carga operada (sólida, sólida de origem vegetal, líquida, produtos florestais, carga geral ou containers etc.
+), tendo em vista que há diferenças sensíveis em termos de manuseio, movimentação e armazenagem dos diversos tipos de cargas[6].
+Em relação ao escopo geográfico, o CADE tradicionalmente entende que se trata de mercado estadual[7].
+Quanto ao mercado de armazenagem de cargas, as requerentes apresentaram dados de relatórios de mercado referentes aos estoques disponíveis para ocupação (utilizados em pelo menos um precedente do CADE[8]) elaborados pela empresa imobiliária de origem norte-americana Cushman & Wakefield para o primeiro trimestre de 2019 (o mais atual no melhor conhecimento delas)[9].
+Assim, montaram estimativas da participação de mercado da Sequoia para os estados onde possui atuação, quais sejam, São Paulo, Minas Gerais, Santa Catarina e Pernambuco, nos quais indica-se ter participação de mercado menor que 10%:
+Tabela 2 - Participação de mercado da Sequoia nos mercados estaduais de armazenagem de cargas - 1º trimestre de 2019
+[ACESSO RESTRITO À SEQUOIA]
+Fonte: elaboração SG com base em tabelas fornecidas pelas requerentes.
+Já com relação ao mercado de transporte rodoviário de cargas gerais, de dimensão nacional, as requerentes trazem a informação de que, de acordo com o site da Agência Nacional de Transportes Terrestres - ANTT,  há 1.938.172 veículos compondo a frota nacional de veículos transportadores de cargas no Brasil, com base no Registro Nacional de Transportadores Rodoviários de Cargas (“RNTRC”)[10].
+Em termos de valor, as partes observaram que diversos precedentes recentes envolvendo o setor de logística utilizaram como proxy do faturamento total do mercado de transporte rodoviário no Brasil um ranking elaborado pela publicação Maiores & Melhores do Transporte da Editora OTM, segundo o qual as 63 maiores empresas de modal rodoviário do setor de transporte auferiram receita líquida de cerca de R$ 16,9 bilhões em 2016[11].
+As requerentes informam que a Sequoia possui uma frota de aproximadamente [ACESSO RESTRITO À SEQUOIA] veículos, sendo [ACESSO RESTRITO À SEQUOIA] deles terceirizados/subcontratados.
+Já o faturamento da Sequoia especificamente com transporte rodoviário de cargas em 2018 foi de R$ [ACESSO RESTRITO À SEQUOIA].
+A Nowlog, por sua vez, possui uma frota de aproximadamente [ACESSO RESTRITO À NOWLOG] caminhões, sendo [ACESSO RESTRITO À NOWLOG] deles terceirizados/subcontratados.
+O faturamento da Nowlog com transporte rodoviário de cargas em 2018 foi de R$ [ACESSO RESTRITO À NOWLOG].
+Assim, é possível calcular o market share da Sequoia em [ACESSO RESTRITO À SEQUOIA] (0% - 10%) e  [ACESSO RESTRITO À SEQUOIA] (0% - 10%), em termos de número de veículos e de faturamento, respectivamente.
+Já o da Nowlog, em [ACESSO RESTRITO À NOWLOG] (0% - 10%) e  [ACESSO RESTRITO À NOWLOG] (0% - 10%), respectivamente, em termos de número de veículos e de faturamento.
+E, o combinado das partes, em  [ACESSO RESTRITO ÀS REQUERENTES] (0% - 10%) e  [ACESSO RESTRITO ÀS REQUERENTES] (0% - 10%), sendo uma baixa concentração de mercado.
+De acordo com as informações prestadas pelas requerentes, não se vislumbra sobreposição horizontal envolvendo entrega de pequenas encomendas e transporte de produtos regulados, de modo que, para fins da presente análise, tais atividades foram consideradas no contexto dos mercados acima tratados, onde as partes possuem atuação preponderante.
+Conclui-se, diante dos dados apresentados, contemplativos às diferentes definições de mercado presentes na jurisprudência, que as participações de mercado das requerentes não ultrapassam 10% em nenhuma hipótese, não sendo possível, portanto, para além de quaisquer outras ponderações, a Operação conferir à Sequoia posição dominante, e, consequentemente, possibilidade de exercício de poder de mercado.
+Por todo o exposto, conclui-se que a presente operação não acarreta prejuízos ao ambiente concorrencial.
+VII. Cláusula de Não-Concorrência
+Sim, abaixo transposta:
+[ACESSO RESTRITO ÀS REQUERENTES]
+A disposição está de acordo com a jurisprudência do CADE, pois [ACESSO RESTRITO ÀS REQUERENTES].
+VIIi. conclusão
+Aprovação sem restrições.
+__________________________________
+[1] - Vide, por exemplo, Atos de Concentração nº 08700.006719/2018-14 (Sequoia Log S.A. e Lotus Logística Integrada Ltda.), 08700.006166/2016-20 (Sequoia Logística e Transportes Ltda., Intec TI Logística S.A. e Intec Tecnologia da Informação S.A.), 08700.008532/2013-32 (Fundo de Investimentos do Fundo de Garantia do Tempo de Serviço - FI-FGTS e VLI S.A), 08012.007351/2007-07 (Tegma, Gestão Logística Ltda. e Bonifácio Logística e Transportes Ltda.) e 08012.008830/2005-71 (Deutsche Post AG e Excel Plc).
+[2] - Vide, por exemplo, Ato de Concentração nº 08700.006166/2016-20 (Sequoia Logística e Transportes Ltda., Intec TI Logística S.A. e Intec Tecnologia da Informação S.A.).
+[3] - Segundo o Instituto Brasileiro de Geografia e Estatística - IBGE , o PIB é a soma de todos os bens e serviços finais produzidos por um país, estado ou cidade, geralmente em um ano (https://www.ibge.gov.br/explica/pib.php).
+[4] - Vide, por exemplo, Atos de Concentração nº 08700.000439/2018-94 (BBM Logística S/A, Transeich Armazéns Gerais S.A. e Transeich Assessoria e Transportes S/A.)
+e 08700.008532/2013-32 (Fundo de Investimentos do Fundo de Garantia do Tempo de Serviço - FI-FGTS e VLI S.A).
+[5] - Vide, por exemplo, Ato de Concentração nº 08700.004705/2015-13 (Novo Oriente Participações Ltda. e Ritmo Logística SA.
+).
+[6] - Vide, por exemplo, Atos de Concentração nº 08700.000742/2018-97 (São Leopoldo Empreendimentos e Locação de Bens Ltda. e Deicmar Armazenagem e Distribuição Ltda.), 08700.000439/2018-94 (BBM Logística S/A, Transeich Armazéns Gerais S.A. e Transeich Assessoria e Transportes S/A.)
+e 08700.009172/2015-58 (Ferrari Zagatto e Cia. Ltda. e Noble Brasil S/A).
+[7] - Vide, por exemplo, Atos de Concentração nº 08700.000439/2018-94 (BBM Logística S/A, Transeich Armazéns Gerais S.A. e Transeich Assessoria e Transportes S/A.
+), 08700.009172/2015-58 (Ferrari Zagatto e Cia. Ltda. e Noble Brasil S/A), 08700.010597/2014-29 (Mitsui & Co., Ltd. e Penske Truck Leasing Co., L.P.
+).
+[8] - Ato de Concentração nº 08700.006166/2016-20 (Sequoia Logística e Transportes Ltda., Intec TI Logística S.A. e Intec Tecnologia da Informação S.A.).
+[9] - Disponível em: http://www.cushmanwakefield.com.br/en/research-and-insight/brazil/brazil-industrialsnapshot/.
+Acesso pelas partes em 03 de julho de 2019.
+[10] - Vide: http://portal.antt.gov.br/index.php/content/view/20270/Transportadores___Frota_de_Veiculos.html.
+Acesso pelas partes em 03 de julho de 2019.
+[11] - Vide Atos de Concentração nº 08700.000742/2018-97 (São Leopoldo Empreendimentos e Locação de Bens Ltda. e Deicmar Armazenagem e Distribuição Ltda.), 08700.000016/2018-74 (Glencore Sugar Serviços Ltda. e Ricolog – Transbordo e Multimodal S.A.), 08700.000439/2018-94 (BBM Logística S/A, Transeich Armazéns Gerais S.A. e Transeich Assessoria e Transportes S/A) e 08700.011726/2015-87 (JSL S.A., Quick Armazéns Gerais EIRELI – ME e Quick Logística Ltda.).
+Disponível em: http://www.guiadotrc.com.br/noticias/noticiaid.asp?id=32401.
+Acesso em 02 de julho de 2019

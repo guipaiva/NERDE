@@ -1,0 +1,118 @@
+SEI/CADE - 0920289 - Voto Ato de Concentração
+Ato de Concentração nº 08700.003969/2020-17
+Requerentes: STNE Participações S.A. e Linx S.A.
+Advogados: Ana Paula Martinez, Mariana Tavares de Araujo, Marcos Drummond Malvar, Cristianne Saccab Zarzur e outros.
+Terceiros Interessados: Adyen do Brasil Ltda., Banco Safra S.A., Cielo S.A., Totvs S.A.
+Advogados: Leonor Cordovil, Daniel Athias, Camilla Paoletti, Maria Sampaio, Caio Mário da Silva Pereira Neto, Ricardo Ferreira Pastore, Barbara Rosenberg, Marcos Exposto e outros.
+Relator: Conselheiro Sérgio Costa Ravagnani
+VOTO-VOGAL – CONSELHEIRA PAULA FARANI DE AZEVEDO SILVEIRA
+VERSÃO PÚBLICA
+voto
+De início, cumprimento o Conselheiro-Relator pelo cuidado e empenho na análise deste Ato de Concentração, que é reconhecidamente denso e contou com uma instrução robusta, repleta de informações e documentos fornecidos pelas Requerentes, pelos agentes oficiados no teste de mercado e pelos Terceiros Interessados.
+Acompanho seu posicionamento pela decisão de aprovação sem restrições, o que não significa que o presente Ato de Concentração não seja complexo e que tal decisão não tenha sido fruto de reflexões e análises intensas e profundas.
+Faço esta manifestação em Plenário, portanto, para destacar alguns pontos que reputo essenciais para a análise concorrencial deste caso.
+A presente operação suscita preocupações que envolvem temáticas cada vez mais recorrentes para autoridades da concorrência ao redor do mundo, relacionadas aos efeitos de concentrações conglomeradas e de acúmulo de dados concorrencialmente relevantes, sobretudo na análise de operações e condutas em mercados digitais ou financeiros.
+Essas temáticas muitas vezes desafiam a metodologia tradicional de análise antitruste e impõem a necessidade de desenvolver novos conceitos e teorias para apreender as novas formas de exercício de poder de mercado e seu eventual abuso.
+Esse empenho é imprescindível para que o Direito da Concorrência mantenha sua relevância como instrumento de efetivação dos princípios da ordem econômica constitucional e não se torne obsoleto diante das transformações que afetam o ambiente econômico e concorrencial.
+Nesse sentido, Ariel Ezrachi e Jay Modrall destacam que o debate atual não está mais em observar se o direito da concorrência tem um papel diante dos desenvolvimentos da economia digital, mas, sim, em determinar qual será o nível apropriado de intervenção e com quais instrumentos:
+“Esse debate tem muitas faces.
+Ele exige que consideremos o escopo do direito da concorrência e sua relevância para a economia digital.
+Ele exige uma avaliação da relação entre regulação e concorrência e o papel do enforcement ex-ante.
+Isso coloca ênfase na necessidade de avançar nossa análise econômica para refletir as realidades do mercado e o comportamento humano, nas limitações das abordagens centradas no preço e no possível aumento do poder de mercado abaixo dos níveis tradicionais.
+A evolução recente dos mercados aponta para a necessidade de se engajar em uma avaliação mais refinada da inovação e efeitos futuros.
+Isso também exige um exame dos limiares de intervenção, tanto em fusões e aquisições quanto em abusos de poder de mercado.
+Além disso, requer-se um exame dos órgãos de enforcement, sua capacidade de se engajar efetivamente e a possível necessidade de órgãos adicionais”[1].
+Neste caso concreto, as temáticas citadas estão no centro das alegações sobre as teorias de dano que poderiam decorrer da operação sob análise.
+As preocupações concorrenciais derivam das relações complementares geradas, com incremento de poder conglomerado pelas Requerentes e com o acesso informacional proporcionado pela integração de portfólio.
+Conforme já expus em outras oportunidades[2], concentrações de natureza conglomerada não geram, a princípio, receios substantivos do ponto de vista concorrencial, mas, em casos específicos, podem gerar efeitos prejudiciais tanto ao mercado quanto aos consumidores em razão do potencial de fechamento de mercado.
+Contudo, diante da emergência e do desenvolvimento de mercado digitais, nos quais se verifica como tendência crescente a criação de ecossistemas como estratégia competitiva, a atenção com concentrações e efeitos conglomerados tem sido redobrada, na medida em que elas podem reverter efeitos concorrenciais tão relevantes quanto as concentrações horizontais ou verticais.
+Nesse contexto, observa-se a realização recente, pela Organização pela Cooperação e Desenvolvimento Econômico (OCDE), de uma mesa redonda sobre concentrações conglomeradas.
+O documento que baseou a discussão pontuou que as teorias de dano relacionadas a essas concentrações ganharam proeminência na medida em que grandes empresas digitais estão expandindo para novos mercados e, com isso, gerando preocupações específicas sobre o envolvimento de plataformas digitais e a criação de ecossistemas de produtos[3].
+Relacionado a isso, a OCDE também tem fomentado o debate sobre a competição de ecossistemas digitais.
+Em evento realizado em dezembro de 2020[4], a contribuição realizada pelos professores Nicolas Petit e David J. Teece[5] destacou que os ecossistemas se tornaram a forma de negócios dominantes na economia digital e que tem sido importante notar como o controle de grandes bases de dado tem sido uma habilidade essencial para a competição nos e entre ecossistemas.
+No caso concreto, o ecossistema formatado pela operação pode ser representado na seguinte figura:
+Figura 1 – Ecossistema envolvendo os mercados de sistemas de pagamento, software de gestão no varejo e crédito
+Fonte: Parecer nº 4/2021/CGAA2/SGA1/SG (SEI 0880464), Anexo nº 1 (SEI 0881240)
+Em linhas gerais, argumenta-se que as relações complementares geradas pela operação poderiam causar prejuízos à concorrência, na medida em que viabilizariam a alavancagem da posição da Stone no mercado de adquirência por meio do poder de mercado obtido pela Linx no mercado de software de gestão empresarial de varejo.
+A segunda teoria de dano alegada envolve a possibilidade de acesso, pela Stone, de dados dos seus concorrentes no mercado de adquirência, que são obtidos pela Linx em razão dos serviços ofertados no mercado de software de gestão empresarial de varejo[6].
+No que concerne à alegação de alavancagem, a doutrina especializada destaca que essas práticas são concorrencialmente preocupantes quando impedem a competição no mérito por meio do domínio que um agente adquiriu sobre uma interface, plataforma, infraestrutura essencial ou informações essenciais[7].
+Segundo já argumentei neste Plenário[8], a alavancagem é problemática, portanto, quando resulta de uma prática que atenua a concorrência – isto é, quando o poder de mercado é alavancado no mercado correlato por uma medida que não consiste em concorrência no mérito (“competition on the merits”).
+Desse modo, o abuso da posição dominante é configurado, uma vez que o crescimento no mercado correlato se deu por meio de uma conduta que reduziu a pressão competitiva sem mérito.
+No que tange à alegação sobre o acesso informacional, compreendo que o padrão de competição pelo mérito deve igualmente regrar o comportamento dos agentes de mercado que obtenham acesso aos dados de concorrentes.
+Recentemente, no julgamento do Ato de Concentração nº 08700.000059/2021-55, ressaltei a relevância que os dados têm adquirido no processo competitivo e a importância de compreender suas implicações tanto sobre o controle de condutas quanto sobre o controle de concentrações[9].
+Considerando que a obtenção de dados e informações sensíveis dos concorrentes pode configurar uma importante vantagem competitiva no desenvolvimento de estratégias comerciais e competitivas, é preciso examinar a natureza das informações compartilhadas, a dinâmica do mercado, os meios utilizados para a obtenção das informações e, a partir disso, avaliar a potencialidade de que o acesso e o uso dos dados venham a gerar comportamentos e efeitos anticompetitivos.
+Naquele caso, contudo, a sensibilidade das informações diferia substancialmente da relevância dos dados neste caso, que consistem em informações contínuas, regulares e granulares sobre as condições contratuais, inclusive a taxa de MDR, os serviços adicionais contratados pelo varejista e as contratações de crédito.
+Assim, há que se reconhecer que as preocupações aqui levantadas possuem maior consistência e gravidade.
+Não obstante, o exame empreendido pela Superintendência-Geral (SG/CADE) e corroborado pelo Conselheiro-Relator evidencia que, ainda que se tomem por certas as premissas de existência de incentivos e capacidade de fechamento de mercado por meio das teorias de dano alegadas, os efeitos sobre o mercado e a concorrência são ínfimos, não podendo se contatar a probabilidade do fechamento de mercado.
+Ao se comparar o tamanho e os volumes transacionados nos mercados relacionados, observa-se que a magnitude do mercado de adquirência é bastante superior à do mercado de software de gestão empresarial de varejo, de modo que a alavancagem do poder de mercado da Linx para a Stone teria baixa significância no mercado de adquirência, confirmando a irrelevância dos efeitos da operação sobre a concorrência.
+Como exposto pela SG/CADE:
+“286.
+Do ponto de vista de ordens de grandeza, de acordo com as Requerentes, banco digital e adquirência são mercados cujo faturamento das empresas atuantes encontra-se na faixa de (ACESSO RESTRITO AO CADE E ÀS REQUERENTES) respectivamente.
+O mercado de software de gestão no varejo apresenta faturamento total de (ACESSO RESTRITO AO CADE E ÀS REQUERENTES).
+Digital Commerce e PDV apresentam faturamento da ordem de (ACESSO RESTRITO AO CADE E ÀS REQUERENTES) aproximadamente; e gateway e TEF representam (ACESSO RESTRITO AO CADE E ÀS REQUERENTES) de faturamento das empresas ofertantes.
+(...)
+290.
+Retirando-se os mercados do ecossistema em que não há sobreposição horizontal entre as Requerentes, tem-se a seguinte relação de grandeza a partir dos faturamentos nos quatro mercados considerados:
+Gráfico - Dimensão dos Mercados Relevantes – 2019 – Faturamento
+(ACESSO RESTRITO AO CADE E ÀS REQUERENTES)
+Fonte: Respostas à terceira rodada de ofícios.
+Elaboração: SG"
+Além disso, constata-se que Stone e Linx, não compartilham de uma base de clientes relevante nos mercados de adquirência, software de gestão, TEF e Gateway, o que igualmente mitiga os riscos relacionados ao fechamento de mercado:
+“295.
+Conforme apresentado pelas Requerentes, Stone e Linx não possuem uma base comum relevante de clientes.
+De acordo com o Guia da Comissão Europeia, a base comum seria necessária para dotar a nova empresa de capacidade de fechamento de mercado, o que não se verifica na presente Operação.
+Sobreposição entre os clientes da Linx e da Stone
+(ACESSO RESTRITO AO CADE E ÀS REQUERENTES)
+Fonte: Parecer Técnico no âmbito do Ato de Concentração nº 08700.003969/2020-17 (SEI nº 0848419, Anexo I, p. 4)"
+Em razão desses pontos, especialmente, compreendo que o fechamento de mercado é improvável.
+Não se constata, portanto, que haja eliminação da concorrência em parte substancial de mercado relevante, que se possa criar ou reforçar uma posição dominante ou que possa resultar na dominação de mercado relevante de bens ou serviços, conforme dita o artigo 88º, §5º da Lei 12.529/2011.
+Novamente, seguindo posicionamento que já adotei em casos anteriores[10], destaco que o padrão legal de análise em sede de controle de condutas se pauta na observância de que os efeitos negativos não se sobreponham aos efeitos positivos derivados da operação.
+Esse padrão se coaduna com a noção fundamental do controle preventivo de estruturas.
+Disso decorre que os atos de concentração, para serem aprovados, não estão submetidos ao requisito de aumentar e aprimorar as condições de concorrência no mercado, mas tão somente de não impedir ou prejudicar a competição existente sem que a isso se associem os requisitos previstos no parágrafo 6º do artigo 88.
+Assim, em atenção ao vetor preventivo do direito da concorrência e aos requisitos legais definidos, deve-se adotar, como padrão de análise para aprovação de atos de concentração, a produção de efeitos líquidos não negativos sobre o bem-estar do consumidor e sobre a concorrência.
+Em face dos baixos riscos concorrenciais e dos elementos pró-competitivos realçados pela operação, compreendo que o presente Ato de Concentração se compatibiliza com o padrão legal de análise ora estabelecido pela Lei 12.529/2011 e pela jurisprudência do CADE.
+Isso não significa, contudo, rechaçar ou desconsiderar as inquietações apresentadas pelos Terceiros Interessados, que devem, certamente, promover uma reflexão pertinente e premente sobre o parâmetro antitruste para a análise do uso de dados por agentes não dominantes, a fim de compreender e determinar como esses casos deverão ser abordados pela autoridade da concorrência.
+É o voto.
+Brasília, 16 de junho de 2021
+PAULA FARANI DE AZEVEDO SILVEIRA
+Conselheira
+____________________________
+[1] EZRACHI, A.; MODRALL, J. Rising to the challenge - competition law and the digital economy.
+Competition Law International, v. 15, n. 2, p. 117–125, 2019.
+Tradução livre de: “That debate has many prongs.
+It requires us to consider the scope of competition law and its relevance to the digital economy.
+It calls for assessment of the relationship between regulation and competition and the role of ex-ante enforcement.
+It places emphasis on the need to advance our economic analysis to reflect market realities and human behaviour, on the limitations of price-centric approaches, and possible rise of market power below traditional levels.
+Recent evolution of markets point to the need to engage in more refined assessment of innovation and future effects.
+It also calls for an examination of intervention thresholds, in mergers and acquisitions as well as in abuses of market power.
+Furthermore, it necessitates an examination of the enforcing agencies, their capacity to engage effectively, and the possible need for additional enforcement bodies”.
+[2]  Voto-Relator (SEI 0893999) no Ato de Concentração nº 08700.000059/2021-55 e Voto-Relator (SEI 0687246) no Ato de Concentração nº 08700.001908/2019-73.
+[3] Em: OCDE.
+Roundtable on Conglomerate Effects of Mergers - Background Note.
+2020.
+“These theories of harm have gained new prominence as large digital firms increasingly expand into new markets, leading to specific concerns about digital platform envelopment and the creation of product ecosystems”.
+Disponível em: https://www.oecd.org/daf/competition/conglomerate-effects-of-mergers.htm.
+[4] Vide informações em:  https://www.oecd.org/daf/competition/competition-economics-of-digital-ecosystems.htm.
+[5] OCDE.
+Taking Ecosystems Competition Seriously in the Digital Economy– Note by Nicolas Petit and David J. Teece.
+2020.
+“2.
+In the intervening decades, new opportunities arising from digital technologies led innovative entrepreneurs to design ecosystems to make market entry, drive value creation and capture, and support new product and process development.
+Ecosystems became the organizational method of choice to do business.
+Today, it seems almost too trite to mention that ecosystems are ubiquitous in digital industries (Teece, 2018).
+Microsoft, Apple, Google, Netflix, Amazon, and Facebook are household ecosystems names.
+(…) 26.
+With all this, it is becoming increasingly attractive to consider that a key asset for value creation and capture in the digital industry (especially those that face the consumer) comes from controlling key datasets about user behaviors and preferences (and the relevant environmental factors that drive those choices) and developing the relevant capabilities to learn from, and exploit, these data across multiple domains.
+At the same time, however, datasets like data lakes, data warehouses and data meshes are very diverse and complex, integrating multiple different sources and types of structured, semi structured and raw tabular data, for different use cases”.
+Disponível em: https://one.oecd.org/document/DAF/COMP/WD(2020)90/en/pdf.
+[6] A SG/CADE sintetizou as alegações nos seguintes termos: “Portanto, a teoria do dano apresentada pelos terceiros pode ser resumida conforme segue: ao dotar a Nova Stone de poder de mercado em sistemas de gestão empresarial, a Operação poderia prejudicar a concorrência no mercado de soluções de pagamento, tanto pela imposição de dificuldades de integração quanto por permitir que a Stone acesse, após a Operação, informações alegadamente sensíveis de concorrentes no mercado de soluções de pagamento oriundas do relacionamento destes com os clientes de software de gestão empresarial da Linx”.
+[7] “Leveraging is worrying when it hinders competition on the merits because one party has gained control over an essential facility, input, interface or platform, or over essential information.
+The complaints made about Google in relation to manipulating search results and imposing exclusivity obligations on advertising partners at the expense of competing services may fall under this category (see Box 6)”.
+VAN GORP, Nicolai; BATURA, Olga.
+Challenges for Competition Policy in Digitalised Economy, p.32.
+Disponível em:  https://www.europarl.europa.eu/RegData/etudes/STUD/2015/542235/IPOL_STU%282015%29542235_EN.pdf.
+Acesso em 15 jun.
+2021.
+[8] Voto-Vogal (SEI 0644436) no Processo Administrativo nº 08012.010483/2011-94.
+[9] Voto-Relator (SEI 0893999) no Ato de Concentração nº 08700.000059/2021-55.
+[10] Ato de Concentração nº 08700.001692/2019-46 e Ato de Concentração nº 08700.005705/2018-75

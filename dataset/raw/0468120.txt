@@ -1,0 +1,102 @@
+SEI/CADE - 0468120 - Parecer
+PARECER Nº 103/2018/CGAA5/SGA1/SG
+PROCESSO Nº 08700.002276/2018-84
+INTERESSADO:
+Tim Celular S.A. e Oi Móvel S/A.
+Ementa: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento Sumário.
+Requerentes: Tim Celular S.A. e Oi Móvel S/A.. Natureza da operação: cessão recíproca onerosa de meios de rede para a implantação e prestação de serviços de telefonia e banda larga com uso da tecnologia 4G.
+Setor econômico envolvido: telefonia móvel celular e construção de estações e redes de telecomunicações.
+Não conhecimento.
+Não enquadramento na Resolução 17.
+VERSÃO DE ACESSO PÚBLICO
+I.                   REQUERENTES
+I.1.
+Tim Celular S.A. ("TIM")
+A TIM é uma sociedade por ações pertencente ao Grupo Telecom Italia, que atua no setor brasileiro de serviços de telecomunicação, com destaque para os mercados de telefonia móvel, telefonia fixa e acesso à internet (móvel e fixa), por meio das autorizações de Serviço Móvel Pessoal (SMP), Serviço Telefônico Fixo Comutado (STFC) e Serviço de Comunicação Multimídia (SCM).
+I.2.
+Oi Móvel S/A.
+("Oi")
+A Oi[1] é uma sociedade por ações que oferta STFC, SMP, SeAC, SCM, Serviços de Valor Adicionado (SVA), serviços de data center e correlatos, serviços de produção de conteúdo, serviços de meios de pagamento, sem intermediação financeira e serviços de atendimento (call center).
+II. ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Não.
+Taxa processual foi recolhida?
+Sim, conforme Despacho Ordinatório SECONT (0463085)
+Data da notificação
+06/04/2018
+Data da publicação do edital
+O Edital nº 128, que deu publicidade à operação em análise, foi publicado no dia 12/04/2018 (0464746)
+III. DESCRIÇÃO DA OPERAÇÃO
+A presente operação se refere ao Termo Aditivo ao Contrato de Cessão Onerosa Recíproca de Meios de Rede (“Aditamento”), celebrado entre a TIM e a Oi.
+Em 29.04.2013, a TIM e a Oi celebraram Contrato de Cessão Onerosa Recíproca de Meios de Rede (“Contrato”), cujo objeto era construção e cessão recíproca onerosa de infraestrutura de rede para a implantação e prestação eficiente de serviços de telefonia e banda larga sob a tecnologia 4G por cada uma das Requerentes aos seus clientes finais, em operação aprovada sem restrições pelo CADE em novembro de 2013, por meio do Ato de Concentração nº 08700.09535/2013-93.
+As Requerentes informam que a presente operação é um mero desdobramento e evolução natural do negócio já aprovado pelo CADE, contemplando, em síntese, todos os elementos já acordados entre as Requerentes no Contrato, além de: (i) migração dos sites 4G LTE já existentes e ativos, bem como os planejados, com a frequência 2.600 MHz, da atual tecnologia MORAN – Multi-Operator RAN para MOCN – Multi Operator Core Network, com frequências compartilhadas V1 + V2 (20+20 MHz); (ii) obrigação de estabelecer compromissos entre as Requerentes para iniciar a atuação com lotes de sites 4G LTE em frequência de 1.800 MHz sob configuração de MOCN; e (iii) [ACESSO RESTRITO].
+IV. Considerações sobre a Operação
+As Requerentes avaliam que a Operação não deveria ser conhecida pelo CADE.
+Esta SG identificou que as duas operações anteriores[2] a esta envolvendo o compartilhamento de rede entre TIM e Oi foram conhecidas (e aprovadas sem restrição, pois se concluiu em ambos os casos que elas não ofereciam nenhum tipo de dano à concorrência) antes da vigência da Resolução nº 17/2016 (“Resolução 17”, que atualmente disciplina as hipóteses de notificação de contratos associativos de que trata o inciso IV do artigo 90 da Lei nº 12.529, de 30 de novembro de 2011), ou seja, antes da exigência de empreendimento comum para que um contrato possa ser caracterizado como associativo.
+Antes de se passar à análise de conhecimento da Operação, é importante reforçar que ela é apenas um aditivo de operação anterior, como visto na Seção III, que instituiu o compartilhamento de rede entre a TIM a Oi.
+Por isso, serão apresentados alguns trechos das análises feitas por esta SG nos casos anteriores com o intuito de demonstrar que já naquelas operações o CADE identificou características que afastam a hipótese de empreendimento comum para este tipo de contrato envolvendo o compartilhamento de infraestrutura de rede.
+Do Ato de Concentração nº 08700.000548/2013-05, referente à primeira operação, que cuidou da análise do memorando de entendimentos por meio do qual TIM e Oi viriam a se comprometer a estudar a viabilidade à época futura de compartilhamento de infraestrutura de rede para implantação e prestação de serviços de telefonia móvel e banda larga com o uso da tecnologia 4G, esta SG destaca os seguintes trechos do seu parecer, que evidenciam os fatos (i) de que este tipo de contrato de compartilhamento possui como objetivo primordial a redução de custos e otimização de recursos e (ii) de que a operação não acarretava nenhum tipo de sobreposição horizontal ou integração vertical:
+Do Ato de Concentração nº 08700.009535/2013-93, referente à segunda operação, que instituiu termo de cessão estipulando as condições para a implantação dos termos previstos no memorando de entendimentos do AC anterior, destacam-se os seguintes trechos de seu parecer de aprovação, que manteve a integralidade da decisão do primeiro AC, a qual não identificou qualquer tipo de sobreposição horizontal ou vertical:
+Apresentados brevemente os aspectos destacados acima das operações precedentes à Operação, importantes para subsidiar a análise conclusiva deste caso, é importante recordar neste momento as condições básicas que tornam um contrato associativo de notificação obrigatória a este conselho à luz da legislação atual, ou seja, sob a vigência da Resolução 17.
+Deste modo, seguem abaixo os excertos normativos relativos às características do presente caso que trarão um melhor entendimento sobre essa questão:
+Artigo 90 da Lei 12.529/2011
+"Art. 90 Para os efeitos do art. 88 desta Lei, realiza-se um ato de concentração quando:
+I - 2 (duas) ou mais empresas anteriormente independentes se fundem;
+II - 1 (uma) ou mais empresas adquirem, direta ou indiretamente, por compra ou permuta de ações, quotas, títulos ou valores mobiliários conversíveis em ações, ou ativos, tangíveis ou intangíveis, por via contratual ou por qualquer outro meio ou forma, o controle ou partes de uma ou outras empresas;
+III - 1 (uma) ou mais empresas incorporam outra ou outras empresas; ou
+IV - 2 (duas) ou mais empresas celebram contrato associativo, consórcio ou joint venture.
+Parágrafo único.
+Não serão considerados atos de concentração, para os efeitos do disposto no art. 88 desta Lei, os descritos no inciso IV do caput, quando destinados às licitações promovidas pela administração pública direta e indireta e aos contratos delas decorrentes."
+(grifos nossos)
+Artigo 2º da Resolução 17
+"Art. 2º Considera-se associativos quaisquer contratos com duração igual ou superior a 2 (dois) anos que estabeleçam empreendimento comum para exploração de atividade econômica, desde que, cumulativamente:
+I - o contrato estabeleça o compartilhamento dos riscos e resultados da atividade econômica que constitua o seu objeto; e
+II - as partes contratantes sejam concorrentes no mercado relevante objeto do contrato.
+§1º Para os efeitos desta Resolução, considera-se atividade econômica a aquisição ou a oferta de bens ou serviços no mercado, ainda que sem propósito lucrativo, desde que, nessa hipótese, a atividade possa, ao menos em tese, ser explorada por empresa privada com o propósito de lucro."
+(grifos nossos)
+Artigo 88 da Lei 12.529/ 2011
+"Art. 88 Serão submetidos ao Cade pelas partes envolvidas na operação os atos de concentração econômica em que, cumulativamente:
+I - pelo menos um dos grupos envolvidos na operação tenha registrado, no último balanço, faturamento bruto anual ou volume de negócios total no País, no ano anterior à operação, equivalente ou superior a R$ 400.000.000,00 (quatrocentos milhões de reais); e
+II - pelo menos um outro grupo envolvido na operação tenha registrado, no último balanço, faturamento bruto anual ou volume de negócios total no País, no ano anterior à operação, equivalente ou superior a R$ 30.000.000,00 (trinta milhões de reais)" (grifos nossos)
+Diante das normas acima apresentadas, é necessário compreender que a notificação de uma operação entre duas ou mais empresas a esta autarquia, sobre cujo contrato avente-se a possibilidade de classificação como associativo para efeitos da legislação antitruste nacional, só será obrigatória se preenchidos cumulativamente os seguintes requisitos:
+ser enquadrada a operação como um ato de concentração na hipótese prevista pelo inciso IV do artigo 90 da Lei 12.529/2011, ou seja, o contrato da operação tem de ser classificado como "associativo";
+para que um determinado contrato seja classificado como contrato associativo, é necessário que ele preencha cumulativamente todos os requisitos da Resolução 17, tanto os do caput como os dos incisos I e II;
+se, e apenas se, preenchidos cumulativamente todos os requisitos da Resolução 17, classificando-se o contrato da operação como associativo, a operação irá se subsumir ao inciso IV do artigo 90 da Lei 12.529/2011, de forma a enquadrá-la, deste modo, como um ato de concentração;
+uma vez devidamente enquadrada a operação como ato de concentração, o CADE necessita, de forma vinculada, averiguar se as partes envolvidas na operação preenchem os critérios de faturamento dos incisos I e II do artigo 88 da Lei 12.529/2011;
+e, finalmente, caso as partes preencham os critérios de faturamento do artigo 88, a operação se tornará de notificação obrigatória ao crivo deste órgão.
+Voltando ao caso em questão, esta SG deve checar, inicialmente, se o primeiro requisito exposto acima, qual seja, ser a Operação enquadrável como ato de concentração, encontra-se presente.
+Caso este requisito não esteja presente, os demais, obviamente, não devem, por ausência de necessidade prática, ser averiguados.
+Assim, para que esta SG possa chegar a alguma conclusão sobre se a Operação constitui um ato de concentração para os efeitos do artigo 88 da Lei 12.529/2001, ela deve necessariamente avaliar se o Contrato caracteriza-se como um contrato associativo à luz da Resolução 17.
+Dito isso, dentre as condições para que um contrato seja considerado associativo pela Resolução 17, a exigência de prazo igual ou superior a dois anos é preenchida, conforme cláusula de vigência temporal presente no contrato.
+Todavia, não se verifica aqui o estabelecimento de empreendimento comum entre as partes para exploração conjunta de atividade econômica, ou seja, não haverá nenhum empreendimento comum às Requerentes que adquirirá ou ofertará bens ou serviços no mercado, o que, por si só, já dispensa a necessidade de se aprofundar a análise em direção aos incisos I e II do artigo, uma vez que estes incisos, que versam sobre compartilhamento de riscos e resultados derivados desta exploração de atividade econômica por parte de empreendimento comum e sobre a necessidade de as partes contratantes serem concorrentes no mercado relevante objeto do contrato, respectivamente, só devem ser analisados se as duas condições do caput estiverem preenchidas, quais sejam, a necessidade de duração superior a dois anos de vigência para o contrato e o próprio estabelecimento de empreendimento comum para exploração de atividade econômica.
+No Ato de Concentração nº 08700.006533/2017-76, que analisou uma operação de aditamento de contrato entre Boa Vista Serviços S.A. e Serasa S.A. cujo objeto versava sobre prorrogação de prazo para a aquisição e compartilhamento entre ambas (i) de registros públicos de inadimplência mantidos por cartórios de protestos de títulos e (ii) de registros empresariais mantidos por juntas comerciais, a operação não foi conhecida exatamente porque a SG entendeu (como se infere da leitura do parágrafo 12 do seu respectivo parecer, abaixo transcrito) que o referido contrato não se subsumia aos termos da Resolução 17, de tal forma que ele não se caracterizava como um ato de concentração, uma vez que que não seria possível defini-lo como um "contrato associativo" à luz do inciso IV do artigo 90 da Lei nº 12.529/11:
+Parecer nº 342/2017/CGAA5/SGA1/SG - parágrafo 12
+"A despeito do interesse e legitimidade da GIC para figurar como terceiro interessado em relação à presente operação, a análise do referido pedido de habilitação resta prejudicado, uma vez que a operação em tela não se enquadra na hipótese de contrato associativo, à luz da atual regulamentação acerca dos critérios de notificação de atos de concentração.
+Em outras palavras, como esta SG entende que o presente contrato não se enquadra nos termos dispostos na Resolução nº 17/16, que definem o que seria um "contrato associativo" à luz do art. 90 da Lei nº 12.529/11, consequentemente, o contrato ora em análise não se caracteriza como um ato de concentração.
+Sendo assim, o pedido de intervenção de terceiro interessado perde o seu objeto, por o presente feito não se tratar de ato de concentração, conforme fundamentado a seguir."
+(grifos nossos)
+No presente caso, como já dito anteriormente, as Requerentes não estão montando um empreendimento comum, tratando o Aditivo tão somente de uma mera ampliação do escopo de atribuições técnicas relativas ao compartilhamento de infraestrutura de rede (como visto no parágrafo 4) voltadas para a redução de custos e a otimização dos recursos de ambas as empresas.
+Diante da leitura do Contrato, é possível concluir que não haverá exploração conjunta de atividade econômica, mas apenas, como informam as partes, uma ampliação de cessão vertical recíproca já em andamento entre as redes (o chamado "ran sharing") das Requerentes, que permanecerão explorando suas próprias atividades econômicas de forma independente, tal como ficou assente nas análises por esta SG dos ACs anteriores.
+As Requerentes recordam, pertinentemente, recente decisão proferida por esta SG no âmbito do Ato de Concentração nº 08700.002529/2017-39 que definiu como associativos os contratos que "permitam seus signatários se organizarem para, conjuntamente, explorar uma atividade econômica.
+Trata-se, como escrito na norma, de um empreendimento comum, semelhante ao exercício conjunto de uma “empresa” (na correta conceituação do direito societário, em que “empresa” é a atividade e não a pessoa física ou jurídica que a exerce, que é o “empresário”), só que por uma via contratual e não por laços societários".
+Não é o que se observa na Operação.
+Em consonância com o AC citado no parágrafo anterior, em consulta[3] respondida pelo Tribunal do CADE após a vigência da Resolução nº 17/2017, o Conselheiro Relator Paulo Burnier da Silveira manifestou entendimento no sentido de que a nova resolução aproximou a figura dos novos contratos associativos às joint ventures contratuais, conforme se depreende da leitura do parágrafo 30 do seu voto, in verbis:
+"30.
+Por fim, cabe observar que, com a exigência de empreendimento comum, a Resolução nº 17/2016 aproximou a figura dos contratos associativos às joint-ventures contratuais, para fins de notificação obrigatória e controle ex ante pelo direito concorrencial, ainda que aqueles configurem uma categoria mais ampla que os últimos".
+Sobre o objeto do Aditivo em si, as Requerentes esclarecem que a solução de ran sharing consiste em uma forma de otimizar o uso de infraestrutura e acelerar o desenvolvimento das tecnologias de transmissão de dados via rede, de forma que cada Requerente será exclusivamente identificada pelos seus usuários na rede móvel, como se eles estivessem acessando a rede de sua própria operadora.
+Esse compartilhamento de infraestrutura não interferirá na independência entre as Requerentes na gestão dos serviços e dos usuários por cada uma delas, não impactando nas estratégias comerciais de cada empresa.
+Ademais, as Requerentes asseveram que não haverá qualquer compartilhamento de informações comerciais relevantes entre as TIM e Oi, não tendo esta SG verificado a existência cláusula contratual nesse sentido.
+As Requerentes apontam ainda que o Contrato a ser celebrado não possui caráter de exclusividade, podendo outras operadoras nele ingressá-lo de forma isonômica desde que configurada viabilidade técnica e econômica da solução, conforme determina a regulamentação da ANATEL.
+Estas características, naturalmente associadas ao que se espera de um empreendimento comum entre duas empresas voltado à exploração conjunta de determinada atividade econômica, ausentes na operação em tela, reforçam o fato de que a mesma não se subsume à Resolução 17.
+Por todo o exposto, considerando que o contrato da presente operação não cria empreendimento comum para exploração conjunta de atividade econômica, consistindo a Operação em uma mera continuação com ampliação de escopo de cessão vertical recíproca de meios de rede voltada para a redução de custos e otimização dos recursos das partes, conclui-se que ela não preenche os requisitos previstos pela Resolução 17 que definem um contrato como associativo, fazendo com que não seja possível enquadrá-la como ato de concentração nos termos do artigo 90, inviabilizando, consequentemente, sua sujeição aos critérios de notificação obrigatória do artigo 88 da Lei 12.529/2011.
+V. Recomendação
+Recomenda-se o não conhecimento da presente operação, com o consequente arquivamento do processo sem análise de mérito, e a manutenção da taxa processual recolhida em virtude da movimentação da máquina estatal.
+Encaminhe-se ao Sr. Superintendente-Geral.
+_________________________________________
+[1] - TELEMAR NORTE LESTE S.A., em Recuperação Judicial; BRASIL TELECOM CELULAR S.A. (antiga denominação da OI S.A., em Recuperação Judicial) e TNL PCS S.A. (antiga denominação da OI MÓVEL S.A) são em conjunto definidas como Oi.
+[2] - Atos de Concentração nº 08700.000548/2013-05 (TIM Celular S.A., Oi Móvel S.A. e TNL PCS S.A., aprovado sem restrições em 27.03.2013) e 08700.009535/2013-93 (TIM Celular S.A., Oi Móvel S.A. e TNL PCS S.A., aprovado sem restrições em 18.11.2013)
+[3] - Consulta nº 08700.006858/2016-78, formulada por Hamburg Südamerikanische Dampfschifffahrts Gesellschaft KG (“HSDG”), na qual se endereçou ao CADE um slot charter agrément com a Hapag-Lloyd (“HL”), Voto Gabinete 5 (DOC Sei nº 0270453).
+[4] - Parecer nº 17/2017/CGAA5/SGA1/SG (DOC Sei nº 0290442

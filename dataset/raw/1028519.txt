@@ -1,0 +1,140 @@
+SEI/CADE - 1028519 - Parecer
+PARECER Nº 88/2022/CGAA5/SGA1/SG
+PROCESSO Nº 08700.000833/2022-17
+Requerentes:
+Microsoft Corporation e Xandr Inc.
+EMENTA: Ato de Concentração.
+Lei nº 12.529/2011.
+Procedimento sumário.
+Requerentes: Microsoft Corporation e Xandr Inc. Natureza da operação: aquisição de controle.
+Setor econômico envolvido: publicidade digital.
+Art. 8º, incisos III e IV, Resolução CADE nº 02/12.
+Aprovação sem restrições.
+VERSÃO DE ACESSO público
+I. AS REQUERENTES
+I.1.
+Microsoft Corporation ("Microsoft")
+A Microsoft é uma empresa global de tecnologia que oferece uma ampla variedade de plataformas e ferramentas para indivíduos e empresas.
+A Microsoft auferiu, no ano anterior à operação, faturamento, no Brasil, acima de R$ 750 milhões (superior aos patamares fixados no art. 88 da Lei 12.529/11, posteriormente alterado pela Portaria Interministerial MF/MJ nº 994/12).
+I.2.
+Xandr Inc. ("Xandr" ou "Empresa-alvo")
+A Xandr atua principalmente como intermediadora de publicidade online para publicidade em display aberto (open display advertising), fornecendo várias ferramentas e serviços para editores e anunciantes que facilitam a compra e venda de inventário de publicidade online de maneira automatizada.
+A Xandr é a divisão de tecnologia de publicidade da AT&T lançada em 2018.
+O Grupo AT&T auferiu, no ano anterior à operação, faturamento, no Brasil, acima de R$ 750 milhões (superior aos patamares fixados no art. 88 da Lei 12.529/11, posteriormente alterado pela Portaria Interministerial MF/MJ nº 994/12).
+II. OS ASPECTOS FORMAIS DA OPERAÇÃO
+Quadro 1 - Aspectos formais da operação
+Ato de Concentração de notificação obrigatória?
+Sim
+Taxa processual foi recolhida?
+Sim, GRU juntado aos autos, conforme Despacho Ordinatório SECONT (1019028)
+Data da notificação ou emenda
+01/02/2022
+Data da publicação do edital
+O Edital nº 78, que deu publicidade à operação em análise, foi publicado no dia 17/02/2022 (1024446)
+III. DESCRIÇÃO DA OPERAÇÃO
+A Operação trata da aquisição, pela Microsoft, de 100% da Xandr (a "Operação"[1]).
+O valor da Operação é de [ACESSO RESTRITO ÀS REQUERENTES].
+A Operação [ACESSO RESTRITO ÀS REQUERENTES].
+Do ponto de vista estratégico, as Requerentes ressaltaram que a "aquisição da Xandr permitirá à Microsoft criar uma oferta de publicidade digital diferenciada, que combina seu negócio de publicidade digital com as ofertas de tecnologia de publicidade da Xandr, permitindo que a empresa resultante forneça produtos e serviços aprimorados a seus clientes".
+IV. ENQUADRAMENTO LEGAL (ART. 8º, RES. CADE Nº 2/2012)
+III - Baixa participação de mercado com sobreposição horizontal;
+IV - Baixa participação de mercado com integração vertical.
+V. PRINCIPAIS INFORMAÇÕES SOBRE A OPERAÇÃO
+Quadro 2 - Efeitos da operação
+Sobreposição horizontal
+Sim
+Integração Vertical
+Sim (potencial)
+Setor em que há sobreposição horizontal
+Mercado de publicidade online
+Setores em que há integração vertical (potencial)
+Mercado de edição de publicidade online e mercado de intermediação de publicidade online
+Participações de mercado
+Reduzidas
+VI. CONSIDERAÇÕES SOBRE A OPERAÇÃO
+A Operação envolve o mercado de publicidade online e ocasionará sobreposição horizontal apenas no caso de o mercado de publicidade online ser definido de forma ampla, sem segmentações, e uma possível integração vertical entre o mercado de edição de publicidade online e o mercado de intermediação de publicidade online, relações estas detalhadas adiante.
+As Requerentes entendem que a Microsoft e a Xandr oferecem produtos/serviços complementares e diferenciados – com o foco da Microsoft como editora de publicidade em busca e publicidade em display, de um lado, e a Xandr operando principalmente como intermediador de publicidade online para publicidade em display aberto (open display advertising), de outro.
+As Partes apresentaram uma introdução do mercado de publicidade online conforme resumido a seguir:
+Segundo as Partes, há três tipos de publicidade online: i) publicidade em busca, ii) publicidade de display aberto (não relacionada a busca) e iii) publicidade classificada/especializada.
+O primeiro tipo se refere ao texto publicitário disposto acima, abaixo ou perto do resultado de uma busca feita por usuários em ferramentas de busca da internet.
+A publicidade de display aberto (não relacionada à busca) é composta de anúncios visuais (por exemplo, textos, imagens, vídeos) que os anunciantes inserem no website de um editor.
+Um exemplo de publicidade em display é a imagem no topo do website de um blog promovendo uma nova fragrância ou um vídeo mostrando o trailer de um filme blockbuster.
+A publicidade classificada ou especializada refere-se a anunciantes que pagam empresas online para inserirem produtos ou serviços específicos em um website especializado que atende a um mercado vertical específico.
+Ainda segundo as Partes, os editores teriam à sua disposição duas formas de vender seu espaço de publicidade: tanto diretamente/por meio de um canal owned & operated (“O&O”) quanto indiretamente/de forma aberta (“Open Display”).
+Um canal O&O é composto principalmente por grandes plataformas de rede social (ex.
+Facebook), as quais vendem seu próprio inventário de publicidade diretamente para anunciantes ou agências de mídia por meio de interfaces de autoatendimento.
+No canal Open Display, uma ampla variedade de editores (por exemplo, portais de notícias) vendem seu inventário a um grande número de anunciantes, por meio de uma complexa cadeia de intermediadores que realizam leilões em nome dos editores e anunciantes.
+Os intermediadores fornecem vários serviços e ferramentas que facilitam a intermediação entre os dois lados da cadeia, isto é, entre os editores e os anunciantes, e facilitam também o processo de compra do espaço de publicidade e de entrega de publicidade ao usuário.
+Do lado dos anunciantes, os principais participantes desse mercado seriam:
+Agências de Mídia/Publicidade: normalmente utilizadas por grandes anunciantes para planejar e lançar uma campanha publicitária ou fornecer a expertise técnica para executar a compra de mídia programática.
+Demand Side Platforms (“DSP”): plataformas que permitem aos anunciantes e às agências de mídia comprarem espaços de publicidade de diferentes fontes.
+Ad server para anunciantes: utilizados por anunciantes e agências de mídia para armazenar os anúncios, enviá-los aos editores, acompanhar essa atividade e avaliar o impacto de suas campanhas monitorando as conversões.
+Do lado dos editores, os principais participantes seriam:
+Supply Side Platforms (“SSP”): tecnologias para automatizar a venda de espaços de publicidade por meio de leilões em tempo real para múltiplos DSPs.
+Ad Exchanges: são marketplaces online para espaços de publicidade, nos quais os editores e os anunciantes se conectam.
+Ad server para editores: gerenciam o inventário de espaços de publicidade do editores.
+Header bidding solutions: permitem que os editores enviem solicitações de anúncios e recebam lances de SSPs simultaneamente.
+Segundo as Partes, a Xandr é uma empresa que presta serviços como intermediária na cadeia de valor de publicidade online, de modo que tem como clientes tanto anunciantes como editores (publishers) - ou seja, empresas que atuam com publicidade online.
+Os principais produtos/serviços oferecidos pela Xandr incluem:
+Xandr Invest: é um serviço para anunciantes da Xandr.
+É uma plataforma de serviços automatizada e “programática” voltada para anunciantes, fornecendo a eles total controle sobre decisões de lances para aquisição de  publicidade online e que também inclui funcionalidades básicas de ad server para anunciantes.
+Xandr Monetize, é a oferta da Xandr para editores, que contempla uma plataforma voltada para editores e ad exchanges, bem como um ad server add-on para editores.
+A Xandr também oferece aos editores o “Prebid Server Premium”, um software livre de header bidding solution, como meio de atender à demanda do anunciante em acessar múltiplas plataformas para editores simultaneamente.
+[2]
+Segundo as Partes, a Microsoft não atua em qualquer serviço de intermediação equivalente ao da Empresa-alvo, apesar de já ter atuado como intermediária de publicidade online na open web, mas se retirou do segmento em 2013.
+Nesse contexto, a Microsoft seria essencialmente uma editora de publicidade online, permitindo que anunciantes insiram anúncios em suas propriedades na web, enquanto a Xandr atuaria como intermediador de tecnologia de publicidade.
+As Partes citaram três serviços pelos quais a Microsoft oferta anúncios em seus produtos:
+Microsoft Search Network (“MSSN”) para inserir anúncios em buscas patrocinadas no seu serviço de busca Bing e seus parceiros;
+Microsoft Audience Network (“MSAN”) que possibilita inserir anúncios por todas as propriedades da Microsoft fora de publicidade em busca, incluindo o MSN, o Outlook, o Edge e, em pequena medida, o Xbox;
+LinkedIn Marketing Solutions (“LMS”), permite veicular anúncios no Linkedin.
+O CADE já analisou o mercado de publicidade online como um mercado único[3]; e, em alguns outros casos, foram abordadas segmentações específicas a partir de funcionalidades relacionadas às empresas envolvidas como, por exemplo, serviços de classificados, serviços de comparação de preços, ad server, publicidade em buscas dentre outros[4].
+Com relação à dimensão geográfica, os mercados envolvendo publicidade online foram definidos predominantemente como nacionais.
+Em relação a cada um dos serviços envolvidos na publicidade online, as Requerentes informaram que:
+Diferentemente da Xandr, a Microsoft não opera uma DSP (Demand Side Platforms).
+Na verdade, a aquisição da DSP da Xandr seria um dos elementos chave do racional da Operação;
+apesar de as ofertas da MSAN da Microsoft de forma geral serem uma plataforma para atender aos anunciantes, sua principal função é fornecer o inventário O&O da Microsoft, serviço distinguível do serviço de display aberto programático de um DSP como a Xandr Invest;
+a Microsoft não fornece uma plataforma SaaS para editores independentes (third-party) presentes no mercado de publicidade display comparável ao que Xandr oferece por meio de seus produtos monetizados;
+a Microsoft não possui qualquer oferta comparável aos serviços de ad exchange da Xandr[5];
+não haveria sobreposições também em relação ao header bidding solution open-source da Xandr, o “Prebid Server Premium”;
+a Microsoft também não opera serviços de ad server para editores, portanto não haveria sobreposição nesse segmento.
+A Xandr possui ad server para editores, como parte de seu serviço Xandr Monetize para display aberto, o qual apenas oferece ad server para editores como um add-on aos clientes que utilizam o seu serviço de SSP, o que reflete na sua pequena atividade nesse espaço.
+Nesse contexto, poder-se-ia cogitar uma sobreposição horizontal, apenas no caso de o mercado de publicidade online ser definido de forma ampla, sem segmentações.
+No entanto, tal sobreposição não seria preocupante já que as participações das Partes são reduzidas, como se verá a seguir.
+Segundo as Partes, no relatório do Relatório Digital Ad Spend (2020-2021), o Advertising Bureau Brasil (IAB Brasil) estima que os gastos com publicidade em 2020 totalizaram R$ 23,7 bilhões, distribuídos dentre os três principais formatos: busca, vídeo e banner, na seguinte proporção: Busca - 37%; Banner - 26% e Vídeo - 37%.
+Dessa forma, a participação das Partes seria conforme a tabela abaixo nos cenários incluindo/excluindo a publicidade em sistemas de buscas:
+Tabela 1 - Participação estimada pelas Partes no setor brasileiro de publicidade online – 2020
+[ACESSO RESTRITO ÀS REQUERENTES]
+Fonte: Requerentes com base em IAB Brasil, Relatório Digital Ad Spend (2020-2021)
+Como se observa na Tabela 1, a participação combinada das Requerentes é reduzida quando comparada ao total de mercado de publicidade online em qualquer dos cenários, incluindo ou não a publicidade em sites de Busca, não ultrapassando [0-10]% [ACESSO RESTRITO ÀS REQUERENTES].
+Poder-se-ia, ainda, cogitar sobre uma possível relação vertical entre as Partes, visto que, conforme informaram as Partes, a Microsoft e a Xandr [ACESSO RESTRITO À MICROSOFT].
+A Xandr informou seus principais clientes no Brasil em 2021:  [ACESSO RESTRITO À XANDR].
+Portanto,  [ACESSO RESTRITO ÀS REQUERENTES].
+Além disso, pontuam as Partes que a atuação da Xandr, no Brasil, é bastante limitada.
+Em 2020, o faturamento da empresa no Brasil foi de apenas, [ACESSO RESTRITO ÀS REQUERENTES].
+Nos anos anteriores, o faturamento também foi reduzido no Brasil: cerca de  [ACESSO RESTRITO ÀS REQUERENTES], em 2018, e [ACESSO RESTRITO ÀS REQUERENTES],  em 2019.
+Ademais, as Partes informaram que a participação da Microsoft no total despendido no Brasil com contratação de provedores de tecnologia de anúncios digitais corresponderia a cerca de [0-10]% [ACESSO RESTRITO À MICROSOFT].
+[6]
+Dessa forma, a atuação limitada das Partes, no Brasil, não forneceria à Microsoft capacidade ou incentivos para fechar o mercado em qualquer segmento do espaço de tecnologia de publicidade online no país.
+[7]
+Considerando todo o exposto, esta SG conclui que a presente operação não levanta maiores preocupações em termos concorrenciais no Brasil, em função das baixas participações de mercado detidas pelas Requerentes nos mercados horizontal e verticalmente relacionados no país.
+Assim, o ato de concentração pode ser aprovado sob o rito sumário, enquadrando-se no art. 8º, incisos III e IV, da Resolução 2/2012 do CADE (baixas participações de mercado com sobreposição horizontal e integração vertical).
+VII. CLÁUSULA DE NÃO-CONCORRÊNCIA
+A Cláusula [ACESSO RESTRITO ÀS REQUERENTES]:
+[ACESSO RESTRITO ÀS REQUERENTES]
+A cláusula está em consonância com a jurisprudência do CADE.
+VIII. CONCLUSÃO
+Aprovação sem restrições.
+____________________________
+[1] A Operação [ACESSO RESTRITO ÀS REQUERENTES]
+[2] A Xandr também potencializa e otimiza seu principal serviço de tecnologia de publicidade ao permitir que seus clientes operem em conjunto com outros provedores de tecnologia de publicidade de sua escolha, incluindo fornecedores de dados, plataformas de gerenciamento de dados e provedores de ad measurement.
+A Xandr não possui uma plataforma de gerenciamento de dados stand-alone, mas oferta serviços de gerenciamento de dados inclusos em seus outros serviços.
+Por exemplo, a capacidade de criar segmentação por público baseado em ad delivery e clicks.
+[3] Ver AC nº 08700.003703/2020-66( Magazine Luíza/In Loco); nº 08700.006084/2016-85 Microsoft / LinkedIn); nº 08700.003373/2013-80 (Google/Vevo).
+[4] Ver Cadernos do CADE - Plataformas Digitais (https://cdn.cade.gov.br/Portal/centrais-de-conteudo/publicacoes/estudos-economicos/cadernos-do-cade/plataformas-digitais.pdf); AC nº 08700.002710/2019-15 (Buscapé /Mosaico); Ato de Concentração n° 08700.002864/2016-56 (Webmotors /RBS – Zero Hora); nº 08012.005304/2007-11 (Google/Click Holding); nº 08012.006419/2009-94 (Microsoft /Yahoo!
+).
+[5] Segundo as Partes, a Microsoft já operou serviço de Ad exchange anteriormente com seu AdECN Exchange, mas saiu do negócio.
+[6] As Requerentes estimaram que o total de dispêndios com tecnologias de anúncios no Brasil corresponderia a R$ 8,3 bilhões, já que de acordo com o Relatório da Competition and Markets Authority do Reino Unido ("CMA") denominado Online platforms and online advertising, estima-se que, em média, os editores de publicidade recebem por volta de 65% dos valores de publicidade pagos pelos anunciantes e os restantes 35% -- no mínimo -- corresponderiam à remuneração dos provedores de tecnologia de anúncios.
+Assim, o dispêndio da Microsoft como contratante de serviços para publicidade online [ACESSO RESTRITO À MICROSOFT] corresponderia a [ACESSO RESTRITO À MICROSOFT].
+[7] As Requerentes consideram que as atividades das Partes no espaço de publicidade digital não se sobrepõem e a Operação é altamente complementar.
+Além disso, argumentam que a Operação não fornece à Microsoft capacidade de – ou incentivos para – fechar o mercado em qualquer segmento do espaço de tecnologia de publicidade devido à limitada presença da Microsoft de maneira geral e notadamente a ausência de poder de mercado em publicidade em busca – segmento no qual o Google é, o maior agente – e considerando-se a presença bastante limitada da Xandr nos serviços de intermediação de publicidade – segmento onde também o Google é o maior intermediário em cada elo da cadeia de valor.
+Nesse sentido, segundo as Requerentes, "a aquisição da Xandr permitirá à Microsoft combinar seu negócio de publicidade digital com as ofertas de tecnologia de publicidade da Xandr

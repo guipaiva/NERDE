@@ -1,0 +1,104 @@
+:: SEI / CADE - 0239246 - Parecer Jurídico ::
+PARECER Nº 44/2016/CGEP/PFE-CADE-CADE/PGF/AGU
+PROCESSO Nº 08700.005560/2016-41
+INTERESSADO:
+AZUL LINHAS AÉREAS BRASILEIRAS S/A
+ASSUNTO:
+Impugnação a auto de infração.
+EMENTA.
+AUTO DE INFRAÇÃO.
+INFORMAÇÕES ENGANOSAS.
+ATO DE CONCENTRAÇÃO.
+AUTONOMIA.
+PRECEDENTES.
+APLICAÇÃO DA LEI VIGENTE NA DATA DA PRÁTICA DA INFRAÇÃO.
+APLICAÇÃO DA LEI Nº 12.529/2011.
+DOSIMETRIA.
+JUÍZO DE DISCRICIONARIEDADE DO TRIBUNAL ADMINISTRATIVO, COM BASE NOS CRITÉRIOS ESTIPULADOS NO ARTIGO 45 DO REFERIDO DIPLOMA LEGISLATIVO.
+PARECER PELA MANUTENÇÃO DO AUTO DE INFRAÇÃO E PELA PARCIAL PROCEDÊNCIA DA IMPUGNAÇÃO PARA AFASTAR A REINCIDÊNCIA E A MÁ-FÉ NA DOSIMETRIA DA PENA PECUNIÁRIA.
+VERSÃO PÚBLICA
+Senhor Procurador-Geral,
+I. Relatório
+Trata-se de análise de instauração de procedimento administrativo para imposição de sanção processual incidental, originado do procedimento preparatório instaurado em 22/07/2015, a partir da denúncia apresentada pela Associação Brasileira das Operadoras de Turismo – BRAZTOA, de suposto abuso de posição dominante no mercado de transporte aéreo de passageiros, com impactos negativos no mercado de pacotes de turismo, o qual foi arquivado, diante da não configuração das condutas.
+Entretanto, apurou-se que a Azul, no AC nº 08700.004155/2012-81, teria omitido o fato de desenvolver atividades de agência de viagens e turismo, configurando a enganosidade prevista no art. 43 da Lei nº 12.529/2011, tendo sido lavrado auto de infração e imposta a multa.
+A Azul opôs impugnação, que ora será objeto de análise.
+Conforme consta da notificação do Ato de Concentração nº 08700.004155/2012-81, referente à fusão com a TRIP, a Azul realmente omitiu as atividades de agência de viagens e turismo.
+Notificada da instauração do auto de infração, a representada apresentou impugnação, aduzindo, em síntese:
+- Irrelevância da Azul Viagens à época do AC TRIP;
+- Aplicação incorreta da dosimetria da multa;
+- Aplicação incorreta da Lei nº 12.529/2011 e impossibilidade de uso da condenação no âmbito do AI nº 08700.010047/2012-48 como base de cálculo;
+- Não caracterização da reincidência; e
+- Ausência de má-fé.
+É o breve relatório.
+Segue a análise jurídica relativa às questões apresentadas.
+II. Fundamentação.
+II.1 – Da tempestividade da impugnação
+A impugnação deve ser conhecida pelo Tribunal Administrativo, por se afigurar tempestiva.
+A requerente foi notificada da instauração do auto de infração em 25 de julho de 2016, e a impugnação foi oposta em 1º de agosto de 2016.
+II.2– A alegada irrelevância das atividades da Azul Viagens.
+A requerente alega que as atividades de agenciamento de viagens, ao tempo da notificação do AC, eram virtualmente desprezíveis, tendo representado no ano de 2011 faturamento líquido de apenas (ACESSO RESTRITO), equivalente a (ACESSO RESTRITO) do faturamento total da Azul.
+Acrescenta que a Azul Viagens havia sido recém-constituída, e o foi como filial da Azul Linhas Aéreas S.A., e não como uma empresa, não havendo obrigação de reportar no formulário de notificação as filiais, e suas atividades não eram sequer vistas como separadas do core business da Azul.
+Ainda, que inexistia qualquer espécie de integração vertical entre a Azul Viagens e a Trip, pois a Trip atuava preponderantemente em rotas comerciais regionais e voltadas para o agronegócio, diferente da atuação da Azul Viagens, com foco em pacotes turísticos.
+Não obstante a demonstração de inexpressiva participação de mercado, o que poderia ser aventado para a alegação de não alteração do resultado de análise do ato de concentração, a lei não condiciona para a configuração da conduta a obtenção de vantagens, ou mesmo se ela tem potencial de induzir a autoridade a erro.
+Precedente que expôs com clareza a questão foi assentado no AI nº 08700.005450/2013-36, em que o Conselheiro Eduardo Pontual Ribeiro ressaltou o entendimento do Parecer nº 142/2013/PFE-CADE/PGF/AGU: “importa registrar que a repressão à prestação de informações falsas ou enganosas encontra respaldo nos deveres de lealdade e de verdade que devem marcar a atuação do interessado tanto no processo administrativo (art. 4º, incisos I, II e IV da Lei nº 9.784/1999) quanto no processo judicial (art. 14, incisos I e II do CPC).
+(fls. 171 dos autos públicos).”
+Observa-se com clareza que o art. 43 da Lei nº 12.529/2011 impõe sanção por enganosidade ou falsidade de informações, de documentos ou de declarações prestadas por qualquer pessoa ao CADE, independentemente da intenção e do possível resultado advindo da omissão ou falsidade.
+Ademais, o fato de a Azul Viagens ter sido constituída inicialmente como filial não afasta a obrigação de prestar as informações quanto à atuação da representada no setor de agência de viagens e turismo, pois a obrigação era não somente de informar a respeito da existência de empresas do grupo, como todas as atividades desenvolvidas.
+Essas questões – intencionalidade e irrelevância – podem ser consideradas quando da fixação da dosimetria da pena.
+II. 3 – Da legislação aplicável à espécie
+Não merece prosperar a alegação de que a aplicação de multa em decorrência da prática da infração ora examinada encontraria fundamento no artigo 26 da Lei nº 8.884/94, e não no artigo 43 da Lei nº 12.529/2011.
+A questão apresenta inegável relevância na medida em que, na vigência da Lei nº 8.884/94, a conduta típica da enganosidade apenas se materializava caso a informação tivesse sido requisitada pela entidade competente, não havendo subsunção ao tipo do artigo 26 a apresentação espontânea da informação.
+Cumpre esclarecer que, embora a operação envolvendo a requerente tenha ocorrido em 25 de maio de 2012, quando ainda estava em vigor a Lei nº 8.884/1994, a notificação do CADE ocorreu já na vigência da Lei nº 12.529/2011, no dia 18/06/2012, considerando a data 29.05.2012 de entrada em vigor da nova lei por força da vacatio legis (art. 128), ou seja, a conduta imputada à Azul foi praticada na vigência da nova lei da concorrência.
+De mais a mais, o critério de incidência adotado por ambas as leis é o da notificação do ato ao CADE e não o da prática da respectiva operação.
+A análise do mérito do ato de concentração foi realizada à luz da Lei nº 8.884/1994, pois incidente à presente hipótese o disposto no artigo 228, “caput”, e §3º do Regimento Interno do CADE, que assim dispõe:
+Art. 228.
+Os atos de concentração submetidos à apreciação do CADE durante a vigência da Lei nº 8.884, de 1994, serão analisados conforme os procedimentos previstos naquela Lei.
+(...)
+§ 3º - Serão considerados como realizados durante a vigência da Lei nº 8.884, de 1994, os atos notificados até 19 de junho de 2012.
+A regra insculpida no parágrafo terceiro está inserida no artigo do Regimento Interno do CADE que dispõe que a análise do ato de concentração submetido durante a vigência da Lei n° 8.884/1994 seria realizada conforme os procedimentos previstos nesta lei, incluindo nessa regra aqueles notificados até 19 de junho de 2012.
+O referido parágrafo está tratando de um aspecto específico contido no próprio “caput”, qual seja, das regras de procedimento de análise, já que a nova lei inovou na forma de aprovação dos atos de concentração e assim determinou-se que os critérios da lei anterior fossem aplicados até aquela data.
+A Lei n° 8.884/1994 determinava que os atos de concentração deveriam ser apresentados para exame, previamente ou no prazo máximo de quinze dias úteis de sua realização (art. 54, § 4º), motivo pelo qual o Regimento Interno fixou a data limite de 19 de junho de 2012 para a análise pelos critérios da lei anterior, tendo em vista que a vigência da nova lei iniciou-se em 29.05.2012.
+Assim, para afastar a tipicidade da conduta praticada pela representada, não há como prosperar o entendimento de que o ato de concentração foi notificado na vigência da Lei nº 8.884/94, porquanto a sua aplicação deu-se apenas para análise do ato, praticado quando já estava em vigor a nova lei antitruste.
+Não obstante a operação que desencadeou o ato de concentração submetido ao CADE ter sido realizado sob a égide da Lei nº 8.884/94, é certo que a prática da infração, consistente na prestação de informação enganosa pela requerente, ocorreu em 18 de junho de 2012, ocasião na qual já se encontrava em vigor a Lei nº 12.529/2011.
+Nesse sentido, pode-se concluir que a infração foi praticada quando já se encontrava em vigor a Lei nº 12.529/2011, circunstância hábil a atrair a aplicação dessa nova lei para regular a situação jurídica em questão.
+É preciso ter em mente, quanto ao tema, que a infração por enganosidade é ato que independe do ato de concentração em si, guardando autonomia em relação ao rito de análise substancial de atos de concentração previsto pelo Regimento Interno.
+Com efeito, a infração por enganosidade é caracterizada pela prestação de informação falsa no âmbito de qualquer espécie de processo conduzida pelo CADE nas suas atribuições legais, e, por tal razão, não poderia ser vinculada unicamente aos procedimentos de análise substancial (análise que verifica os requisitos fundamentais) dos atos de concentração.
+Esta Procuradoria Federal, por ocasião do Parecer nº 384/2010, lavrado nos autos do Processo Administrativo nº 08012.004989/2003-54 (AI nº 08700.004137/2010-38), manifestou-se no sentido de que a infração por enganosidade guarda independência em relação aos demais atos instruídos pelo CADE.
+Vale destacar, quanto ao ponto, o seguinte trecho do referido parecer:
+(...)
+Não é procedente o argumento da Representada de que, por conta do fim do processo administrativo principal e da sua absolvição naqueles autos, teria havido preclusão para a multa por enganosidade.
+Enquanto o processo administrativo visava a apurar uma conduta anticompetitiva, o presente auto de infração visa a investigar e, eventualmente a punir, conduta processual de má-fé, consubstanciada na prestação de informação enganosa, nos termos do art. 26 da Lei do CADE.
+Trata-se, pois, por óbvio, de tipos legais distintos.
+Portanto, o arquivamento do primeiro, por inexistência de conduta anticompetitiva, por exemplo, não implica, necessariamente, a impossibilidade de punição por informação falsa prestada.
+Comprovada, assim, a autonomia da prática da infração em relação ao conteúdo do ato de concentração, é patente a aplicação do princípio tempus regit actum, segundo o qual deve ser aplicada a norma legal vigente na data da prática do ato a que se refere.
+Em conclusão, considerando que a infração foi praticada em 18 de junho de 2012, posteriormente à data da entrada em vigor da Lei nº 12.529/2011, há de se aplicar ao presente caso o disposto no artigo 43 do referido diploma legal.
+Afasta-se, assim, a exigência de solicitação das informações pela autoridade antitruste, de modo que a prática da infração consuma-se mesmo quando as informações enganosas são apresentadas espontaneamente.
+II. 3 – Da reincidência.
+A representada argui que a aplicação da reincidência pela Superintendência-Geral não observou os requisitos legais aplicáveis, posto que a infração em análise teria sido cometida anteriormente à condenação pelo CADE no âmbito do AC Trip, bem como que essa condenação encontra-se judicializada, não podendo ser considerada, pois não há trânsito em julgado.
+Também, que eventual condenação no âmbito do presente auto de infração acarretaria dupla valoração negativa do mesmo fato (bis in idem).
+De início, necessário observar que o princípio da vedação da dupla punição e do duplo processo – non bis in idem – significa que ninguém pode ser processado, ou apenado, duas vezes pelo mesmo fato.
+Portanto, o que se veda é a dupla condenação pelo mesmo fato, inexistindo, no presente caso, a dupla imputação por uma mesma conduta.
+A tipificação da enganosidade foi praticada pela representada por duas vezes no mesmo processo de controle de concentração, uma pela qual já foi condenada, e outra agora que se processa justamente em decorrência de ter emergido com a denúncia ofertada pela Braztoa.
+O fato de a representada estar questionando judicialmente a condenação anterior, não tendo havido eventualmente trânsito em julgado – o que poderia afastar a aplicação das regras da reincidência no processo judicial, não implica que a administração pública não possa considerar a conduta anterior, para a qual houve condenação administrativa definitiva, posto que são instâncias independentes.
+Entretanto, parece-nos que é o caso de afastar a agravante da sanção pela reincidência, pois o Código Penal, em seu artigo 63, define o que é reincidência, nos seguintes termos: “Verifica-se a reincidência quando o agente comete novo crime, depois de transitar em julgado a sentença que, no País ou no estrangeiro, o tenha condenado por crime anterior”.
+A representada praticou as condutas de enganosidade das informações prestadas ao CADE no mesmo momento em que submeteu o ato de concentração referente à associação entre a Azul Holding e as empresas do Grupo Trip, não se tratando, portanto, de conduta praticada após a decisão definitiva de condenação pela administração, mas de duas infrações cometidas no âmbito do mesmo processo administrativo, embora uma delas esteja sendo objeto de processamento apenas nesse momento.
+Quando da primeira, para a qual já houve condenação, a Azul prestou informações inverídicas na notificação de um ato de concentração, que se mostraram contraditórias com os esclarecimentos solicitados pelo CADE.
+Agora, verificou-se que a empresa também omitiu outra informação de que deveria haver constado da notificação.
+Portanto, fica afastada a reincidência que, para sua caracterização, é necessário que a infração tenha sido cometida em momento posterior ao da decisão administrativa irrecorrível em processo anterior, de acordo com o regime atual da reincidência disposto no Código Penal.
+II. 4 – Da dosimetria.
+Os argumentos de defesa no que diz respeito à impossibilidade de uso da condenação imposta no âmbito da AI nº 08700.010-47/2012-48 como base de cálculo na presente sanção e a ausência de má-fé serão aqui tratados.
+O dispositivo aplicável ao presente caso é o art. 43 da Lei nº 12.529/2011, que prevê a multa pecuniária no valor de R$ 5.000,00 a R$ 5.000.000,00, de acordo com a gravidade dos fatos e a situação econômica do infrator, não tendo sido adotado pela Superintendência-Geral a base de cálculo da condenação anterior, fazendo apenas referência a essa para demonstrar a proporcionalidade da pena pecuniária aplicada ao ato praticado em análise.
+Quanto ao elemento subjetivo da infração, parece-nos que o fato de a informação ter chegado ao conhecimento do CADE após decorridos quase quatro anos da notificação do ato de concentração não é capaz de demonstrar a má-fé da empresa, militando a seu favor o fato de que assumiu o equívoco e não ter havido, ao que tudo parece, ato conscientemente praticado para enganar o órgão concorrencial para a obtenção de uma vantagem.
+A despeito da vantajosidade ser prescindível para a caracterização da conduta típica da enganosidade, pode-se levar em consideração tal fato para averiguar os reais desígnios do infrator, e no presente caso, como inclusive verificado pela Superintendência-Geral, não ficou demonstrado que houve a prática de uma omissão deliberada para obter um resultado, sobressaindo a presunção de inexistência de má-fé.
+A proporcionalidade do valor da multa aplicada compreende um juízo de discricionariedade atribuído ao Tribunal Administrativo, orientado pelo disposto no art. 45 da Lei nº 12.529/2011, de modo que eventual redução do valor de multa aplicada deve estar fundamentada no que ali estiver disposto.
+A Nota Técnica nº 24/2016/CGAA4/SGA/CADE analisou os parâmetros legais para a aplicação das penas, avaliando, entre outras circunstâncias, que houve má-fé e reincidência.
+Entretanto, verificou-se não estar demonstrada a má-fé do infrator e que a reincidência não está caracterizada, circunstâncias que devem se adequar à dosimetria da pena a ser aplicada, cabendo ao Tribunal Administrativo manter ou reduzir a multa aplicada pela Superintendência-Geral segundo seu juízo discricionário, fundamentando no art. 45 da Lei nº 12.529/2011.
+III - Conclusão
+Ante todo o exposto, manifesta-se pela legalidade do auto de infração aplicado pela Superintendência-Geral, sugerindo, no entanto, que se considere a não ocorrência de reincidência e de má-fé na dosimetria da pena, e, por conseguinte, seja julgada parcialmente procedente a impugnação oposta pela empresa Azul.
+À apreciação superior.
+ANTONIO MARCOS GUERREIRO SALMEIRÃO
+Procurador Federal
+De acordo.
+Aprovo o Parecer n° 44/2016/CGEP/PFE-CADE/PFG/AGU da lavra do i. Procurador Federal Antonio Marcos Guerreiro Salmeirão e adoto-o nos autos do presente processo.
+VICTOR SANTOS RUFINO
+Procurador-Chefe do CADE

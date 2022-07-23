@@ -1,0 +1,98 @@
+SEI/CADE - 0842324 - Voto Processo Administrativo
+Processo Administrativo nº 08012.009732/2008-01
+Representante:  Procuradoria da República no Município de Resende - Estado do Rio de Janeiro
+Representados(as): Santa Maria Comércio e Representação Ltda., Leal Máquinas Ltda., Klass Comércio e Representação Ltda., Francisco Canindé da Silva ME, VedovelComércio e Representação Ltda., Planam Comércio e Representação Ltda., Esteves e Anjos Ltda. Me, Frontal Ind. e Com de Móveis Hospitalares Ltda., Luiz AntônioTrevisan Vedoin, Darci José Vedoin, Helen Paula Duarte Cirineu e Alessandra Trevisan Vedoin
+Advogados(as):  André Luiz Machado Santos, Marco André Esteve dos Anjos e outros.
+Relatora: Conselheira Paula Farani de Azevedo Silveira
+Voto-Vista: Conselheiro Mauricio Oscar Bandeira Maia
+VOTO VISTA - CONSELHEIRO mauricio oscar bandeira maia
+VERSÃO PÚBLICA única
+voto
+Trata o presente Processo Administrativo de apuração de suposto cartel em licitações públicas municipais ocorridas em todo o país entre os idos de 1999 a 2005, destinadas à aquisição de UMS (Unidades Móveis de Saúde) e equipamentos médico-odontológicos.
+As condutas analisadas se enquadram nos artigos 20, incisos I, II e IV, e 21, incisos I, III, e VIII, da Lei nº 8.884/94, vigente à época dos fatos, equivalente ao art. 36, incisos I, II e IV, c/c seu § 3º, inciso I, alíneas “a”, “c” e “d” da Lei nº 12.529/2011.
+Pedi vistas do presente processo para refletir mais atentamente sobre a dosimetria da multa proposta pela Relatora, especialmente diante da justificativa apresentada em seu voto, de que estaria se valendo de um cálculo de vantagem auferida para esse mister, questão essa bastante controvertida na jurisprudência desse Conselho.
+Portanto, considerando o foco de minhas vistas e a robustez do conjunto probatório destes autos, adianto que adiro à análise de mérito trazida pela Conselheira-Relatora.
+Com efeito, as provas coligidas são contundentes em demonstrar a ocorrência de acordo entre os Representados na participação de licitações públicas municipais ocorridas em todo o país destinadas à aquisição de UMS e equipamentos médicos-odontológicos, no período compreendido ao menos entre os anos de 2002 e 2005.
+Desnecessário repisar esse ponto, já tão bem enfrentado pela Relatora.
+Passo então às minhas considerações sobre a multa.
+Dosimetria
+A Conselheira-Relatora afirma que, diante da inexistência de qualquer dado capaz de informar ou estimar o faturamento das empresas participantes do cartel no caso concreto, não haveria outra alternativa senão a estimação da vantagem auferida como critério de aferição da multa a ser aplicada.
+Desse modo, utilizou os valores obtidos nas licitações afetadas pelo acordo anticompetitivo, realizadas nos anos de 2002-2005, como parâmetro para cálculo da multa com base no valor dos respectivos convênios em que os Representados se sagraram vencedores, nos termos sugeridos pela SG na NT nº 78/2018/CGAA7/SGA2/SG/CADE (SEI 0546458).
+E a essa metodologia de cálculo deu o nome de vantagem auferida.
+Com as devidas vênias, embora essa abordagem de se valer dos valores obtidos nas licitações seja uma interessante proxy para alcançar uma base de cálculo adequada e que permita o estabelecimento de uma multa dissuasória por parte da autoridade antitruste, não vejo como nominar esse exercício de cálculo de vantagem auferida.
+Aliás, trata-se de um exercício de cálculo já realizado na jurisprudência do Cade em diversos outros momentos, sem que o Tribunal cogitasse de chamá-lo de vantagem auferida.
+De fato, ao se deparar com inúmeras situações de inadequação da base de cálculo ou mesmo de absoluta ausência de elementos para a sua exata aferição,  a jurisprudência do Cade veio evoluindo para admitir determinadas flexibilizações da base de cálculo, sendo a própria previsão do art. 2-A da Resolução n. 3/2012 deste Conselho um exemplo de reconhecimento dessa possibilidade.
+Diz o referido dispositivo que o Cade poderá adaptar o ramo de atividade às especificidade da conduta quando as dimensões indicadas no art. 1º foram manifestamente desproporcionais.
+A flexibilização da base de cálculo não é, portanto, novidade para este Tribunal, seja para restringi-la ao ramo de atividade afetado, seja para se valer de proxys para a sua estimação.
+E dentre as possibilidades que se abrem ao analisarmos situações de absoluta falta de informações sobre faturamento das empresas ou de seus grupos empresariais, surge a utilização da receita obtida pela empresa com o produto afetado pelo cartel.
+É o que foi feito, por exemplo, no Requerimento de TCC n° 08700.00843/2016-04, referente ao PA n° 08700.001094/2016-24 (cartel os mercados de internacional de transporte marítimo realizado por navios do tipo Roll On Roll Off).
+Nesse sentido (SEI 0259383):
+35.
+Nesse sentido, e para emprestar contornos de proporcionalidade e razoabilidade ao TCC firmado, a experiência do Cade tem considerado alguns aspectos para legitimar a composição, tais como:
+I - faturamento referente ao produto ou serviço afetado pelo cartel, o que não se confunde com a definição de mercado relevante (ex.
+cartel envolvendo um produto ou serviço muito específico de um ramo de atividades bastante amplo - Casos de Carga Aérea (Req. nº 08700.010220/2012-16), Medidores (Req. nº 08700.009323/2014-97), Cabos (Req. nº 08700.002074/2013-28), e Embreagens (Req. nº 08700.001445/2015-16), por exemplo.
+II - faturamento referente ao escopo geográfico da conduta, o que não se confunde com a definição de mercado relevante (ex.
+: cartel estadual, municipal ou local praticado por empresa com atuação e faturamento nacional no ramo de atividades);
+III- faturamento obtido com a receita que efetivamente é mantida pela empresa com o negócio em questão (ex.
+: casos em que é computado no faturamento da empresa a totalidade de um bem/serviço, mas apenas uma parcela desse valor é efetivamente retida por ela, a título, por exemplo, de comissão, sendo o restante repassado a outro agente - Caso de Frete Aéreo (Reqs. nº 08700.010662 2012-54, 08700.010314.2013-68, 08700.011226.2013-83 e 08700.001455/2015-51), por exemplo.)
+36.
+Na presente negociação, considerando que o ramo de atividade nº 102 previsto no anexo da Resolução CADE 03/2012 – “Transporte aquaviário” –  é desproporcionalmente amplo em relação ao objeto da suposta conduta, seguiu-se a praxe em casos recentes envolvendo o serviço de transporte marítimo para cargas rolantes, adotando-se, assim, como base de cálculo, o faturamento obtido pela Requerente com o comércio diretamente afetado pela conduta, isto é, com o transporte de veículos nas rotas que passam pelo Brasil, de e para o território nacional.
+O mesmo ocorreu no Requerimento de TCC n° 08700.008159/2016-62 (PAC Favelas):
+Nesse sentido, considerando a desproporcionalidade na aplicação dos Ramos de Atividade, entendeu-se que o mais adequado seria, em cada caso, a construção de um “sub-ramo” de atividade que melhor refletisse o faturamento com os produtos ou serviços que correspondem ao mercado objeto da conduta.
+(SEI 0548700)
+Dentre outros, é possível também citar como precedentes os Requerimentos n° 08700.007077/2016-09 (“Copa do Mundo”); 08700.008066/2016-38 (“Favelas”).
+No caso em concreto, em minha visão, a utilização dos valores obtidos nas licitações vencidas não passa de uma “nova versão” desse tipo de flexibilização, diga-se de passagem, já utilizada pelo Cade, sem que se desse o nome de vantagem auferida.
+E assim é porque vantagem auferida não é um guarda-chuvas que permita assim se chamar qualquer metodologia que simplesmente transcenda o cálculo tradicional da multa com base no faturamento bruto da empresa obtido no ano anterior ao da instauração do processo administrativo.
+Há, sim, diversas fórmulas de cálculo da vantagem auferida, como a do but-for-price, das séries temporais, das diferenças em diferenças, de modelos estruturais, todas eles calcadas em metodologia científica e com cálculos econométricos complexos, específicos do mercado afetado, que em nada se assemelham à proxy utilizada no presente processo e a que se denominou vantagem auferida.
+A propósito, trago aqui trecho do Parecer do Dr. Guilherme Mendes Resende, respeitado Economista-Chefe do Cade, ao se manifestar na NOTA TÉCNICA Nº 34/2016/DEE/CADE acerca do tema em tela:
+“Como bem colocado por Davis e Garcés (2010), a quantificação de danos deve, também, ser apoiada por uma análise qualitativa aprofundada da indústria em questão, o que deverá contribuir para justificar a metodologia e a especificação escolhida.
+Para o resultado se sustentar, qualquer estimativa econométrica deve ser plausível em relação aos fatos conhecidos sobre a indústria”.
+Note-se que a metodologia proposta pela Relatora a título de vantagem auferida não contempla o aspecto acima mencionado, da análise qualitativa da indústria em questão, limitando-se a escolher uma proxy para estimar um faturamento obtido pela empresa, a partir do faturamento das licitações afetadas pelo cartel, chamando-a de vantagem auferida, demonstrando a falta de justificativa para a metodologia e especificação escolhida, como bem lembrado pelo Economista-Chefe do Cade.
+Respeitosamente, intitular essa estimativa de vantagem auferida não é suficiente para caracterizá-la como tal, pois nenhum estudo mais concreto sobre essa vantagem há nos autos ou mesmo no voto, além do que essa metodologia não se coaduna ou se ampara em nenhuma daquelas acadêmica ou doutrinariamente compreendidas como vantagem auferida.
+Não basta nominar de vantagem auferida, quando em sua essência não se trata mais do que uma proxy para estimar o faturamento das empresas envolvidas no ilícito.
+Em outras palavras, diante da inexistência de dados que informem quanto a empresa faturou no ano anterior à instauração do Processo Administrativo, decidiu-se utilizar a título de base de cálculo para a imposição de multa a quantia correspondente ao montante que “entrou no caixa” da empresa com os convênios vencidos na licitação, ou seja, o valor que cada sociedade empresária arrecadou nos convênios/certames licitatórios nos quais se sagrou vencedora (SEI 0546458).
+A própria SG, na Nota Técnica do caso, informa que essa base de cálculo faz referência ao produto afetado pelo cartel, e não propriamente à vantagem auferida pela empresa, registre-se, acerca da qual não há qualquer cálculo neste processo.
+Nesse sentido:
+Desse modo, para emprestar contornos de proporcionalidade e razoabilidade à eventual sanção e observando seu caráter dissuasório, sugere-se aqui adoção de base de cálculo referente ao produto afetado pelo cartel, isto é, que o faturamento sobre o qual se aplicará a alíquota discutida a seguir seja a soma, para cada empresa implicada, do valor auferido entre 1999 e 2005 nas licitações municipais de unidades móveis de saúde (UMS) supra enumeradas.
+Demais disso, cabe rememorar que a vantagem auferida foi debatida em diversos julgados deste Conselho e com absoluta profundidade.
+Embora nunca tenha sido a corrente vencedora, as discussões anteriores, apresentadas, por exemplo, pelo Conselheiro João Paulo de Resende, se pautavam em uma metodologia bastante específica e replicável a todos os casos, que não considerava em concreto os ganhos auferidos, valendo-se de um valor fixo para todos os casos.
+Outros, como a Conselheira Cristiane Alkmin, defendiam metodologias diversas, ora com esteio em análise contrafactual, ora em outros cálculos econométricos, o que dificultava a sua adoção de maneira consistente pelo Cade, haja vista a inexistência de critérios objetivos para se decidir quanto uma ou outra metodologias seriam aplicáveis.
+Sobre isso, cabe rememorar a existência do pronunciamento do DEE (NT n° 34/2016/DEE/CADE – SEI 0260624) acerca das escolhas metodológicas e econométricas de cálculo da vantagem auferida no Processo Administrativo de n° 08012.002568/2005-51 (Representados: Liquigás Distribuidora S/A, Supergasbras e Paragás Distribuidora Ltda, de relatoria da Conselheira Cristiane).
+Em suma, naquelas discussões, a maioria do Tribunal sempre entendeu que a impossibilidade de se replicar uma metodologia para as diversas situações com as quais o Cade lida em casos de cartel seria um fator enfraquecedor da sua defesa perante o Poder Judiciário, o que poderia levar à revisão de nossas decisões naquela seara.
+Nesse sentido, a despeito de as diversas vertentes da tese de vantagem auferida já terem sido refutadas em composições anteriores, inclusive com voto nessa linha de minha lavra (vide Voto no Processo Administrativo n° 08012.006130/2006-22), entendo que se trata de reflexão que pode, sim, ser mais bem ponderada, caso venha a ser utilizada, até porque esse cálculo pode envolver elementos como o custo de implementação da conduta ou outros aumentos de custo produtivos para se operar no patamar do cartel, sobre os quais não há consenso se devem ou não ser computados no cálculo da vantagem auferida.
+Ante o exposto, pedindo vênias por não entender a metodologia adotada pela ilustre Conselheira Relatora como vantagem auferida, adoto com proxy para a base de cálculo da multa o valor que cada sociedade empresária arrecadou nos convênios/certames licitatórios discriminados pela SG, por entender que essa base representa, in concreto, um parâmetro adequado para a imposição de sanção em face do ilícito cometido pelas Representadas, conquanto não se consubstancie, volto a frisar, vantagem auferida, e determino uma alíquota de 19,5% para as pessoas jurídicas do Grupo Planam, Grupo Frontal e Leal Máquinas, por entender que este patamar reflete adequadamente os parâmetros de gravidade e proporcionalidade necessários na aplicação da multa.
+No tocante às pessoas físicas, também sugiro a utilização de uma alíquota de 19,5% sobre a multa aplicada às pessoas jurídicas em que eram sócios ao tempo das infrações praticadas, para fins de proporcionalidade e efeitos dissuasórios.
+Ressalto que essa alíquota mais elevada se justifica em face das fraudes perpetradas por tais pessoas, as quais utilizavam as pessoas jurídicas como mero instrumento para seu benefício próprio e enriquecimento ilícito.
+As tabelas abaixo expressam os cálculos:
+Tabela 1 – Pessoas Jurídicas Grupo Planam
+*Soma das multas aplicadas à Klass, Planam e Santa Maria
+**Soma das multas aplicadas à Planam
+Tabela 2 – Pessoas Físicas Grupo Planam
+Tabela 3 – Pessoas Jurídicas Grupo Frontal
+Tabela 4 – Legal Máquinas
+Dispositivo
+Por tudo quanto exposto, voto:
+Pela condenação dos seguintes Representados pela prática das condutas tipificadas artigos 20, incisos I, II e IV, e 21, incisos III e VIII, da Lei nº 8.884/94, vigente àépoca dos fatos, equivalente ao art. 36, incisos I, II e IV, c/c seu § 3º, inciso I, alíneas “c” e “d” da Lei nº 12.529/2011, com aplicação das respectivas multas, a serem pagas no prazo de 30 dias, contados da decisão proferida pelo Tribunal Administrativo do CADE:
+Planam Comércio e Representação Ltda. – R$ 11.674.597,57 (onze milhões, seiscentos e setenta e quatro mil, quinhentos e noventa e sete reais e cinquenta a sete centavos);
+Santa Maria Comércio e Representação Ltda. – R$ 13.833.016,27 (treze milhões, oitocentos e trinta e três mil, dezesseis reais e vinte e sete centavos);
+Klass Comércio e Representação Ltda. – R$ 11.593.561,68 (onze milhões, quinhentos e noventa e três mil, quinhentos e sessenta e mil reais e sessenta e oito centavos)
+Vedovel Comércio e Representação Ltda. – R$ 47.474,70 (quarenta e sete mil, quatrocentos e setenta e quatro reais e setenta centavos);
+Frontal Ind. e Com de Móveis Hospitalares Ltda. – R$ 4.879.778,36 (quatro milhões, oitocentos e setenta e nove mil, setecentos e setenta e oito reais e trinta e seis centavos);
+Francisco Canindé da Silva ME – R$ 712.932,38 (setecentos e doze mil, novecentos e trinta e dois reais e trinta e oito centavos)
+Leal Máquinas Ltda. – R$ 1.411.401,42 (um milhões, quatrocentos e onze mil, quatrocentos e um reais e quarenta e dois centavos);
+Darci José Vedoin – R$ 2.276.546,53 (dois milhões, duzentos e setenta e seis mil, quinhentos e quarenta e seis reais e cinquenta e três centavos);
+Luiz Antônio Trevisan Vedoin – R$ 7.234.729,23 (sete milhões, duzentos e trinta e quatro mil, setecentos e vinte e nove reais e vinte e três centavos);
+Pelo arquivamento do processo em relação aos seguintes Representados por insuficiência de provas:
+Helen Paula Duarte Cirineu
+Alessandra Trevisan Vedoin; e
+Esteves e Anjos Ltda. Me.
+Em linha com a Conselheira-Relatora, acato as sugestões proferidas pelo MPF, pela:
+Ampla divulgação da decisão, com sua remessa a potenciais interessados e às Prefeituras e/ou Organizações Sociais afetadas pela conduta anticompetitiva, para que, querendo, exerçam o direito de reparação a que, eventualmente, tenham direito
+Expedição de ofício com cópia da decisão desse Tribunal Administrativo ao Ministério Público Federal em Resende, Rio de Janeiro (MPF-RJ), para ciência e eventual propositura de ação para ressarcimento de danos à coletividade (art. 1º, inciso V, da Lei nº 7.347/1985 – LACP); e
+Pelo desentranhamento dos documentos residuais derivados da quebra do sigilo telefônico e bancário (isto é, os documentos acostados às fls. 246a 353, do item 04, da Mídia Fl 405 Parte 2 e fls. 246 a 353, do item 04, da Mídia Fl 409).
+Por fim, ainda em consonância com o voto da Relatora, voto pela:
+Proibição de contratarem com instituições financeiras oficiais e participarem de licitação tendo por objeto aquisições, alienações, realização de obras e serviços, concessão de serviços públicos, na administração pública federal, estadual, municipal e do Distrito Federal, bem como entidades da administração indireta, por prazo de 5 (cinco) anos; e
+Proibição de exercerem o comércio em nome próprio ou como representante de pessoa jurídica, pelo prazo de 5 (cinco) anos.
+É o voto.
+Brasília, 09 de dezembro de 2020.
+MAURICIO OSCAR BANDEIRA MAIA
